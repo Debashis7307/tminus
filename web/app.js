@@ -11,7 +11,7 @@ const CFG = {
   start:  { y: 2026, mo: 9,  d: 21, h: 0, mi: 0, s: 0 },
   // set this once your GitHub Action is publishing, e.g.
   // "https://tminus-brief.pages.dev/data/latest.json"
-  newsUrl: null,
+  newsUrl: "https://debashis7307.github.io/tminus/data/latest.json",
 };
 
 /* ══════════════════════════════════════════════════════════════════════════

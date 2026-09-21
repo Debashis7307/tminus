@@ -15,7 +15,7 @@ use std::sync::atomic::{AtomicBool, Ordering};
 use tauri::{
     menu::{Menu, MenuItem},
     tray::TrayIconBuilder,
-    AppHandle, LogicalSize, Manager, WebviewWindow,
+    AppHandle, Emitter, LogicalSize, Manager, WebviewWindow,
 };
 use tauri_plugin_global_shortcut::{Code, Modifiers, Shortcut, ShortcutState};
 

@@ -1,0 +1,206 @@
+/* ══════════════════════════════════════════════════════════════════════════
+   T-minus — stylesheet
+   Self-hosted fonts, no CDN, works fully offline inside Tauri.
+   ══════════════════════════════════════════════════════════════════════════ */
+
+@font-face{font-family:Chakra;src:url(./fonts/chakra-500.woff2)format("woff2");font-weight:500;font-display:block}
+@font-face{font-family:Chakra;src:url(./fonts/chakra-600.woff2)format("woff2");font-weight:600;font-display:block}
+@font-face{font-family:Chakra;src:url(./fonts/chakra-700.woff2)format("woff2");font-weight:700;font-display:block}
+@font-face{font-family:Tight;src:url(./fonts/inter-400.woff2)format("woff2");font-weight:400;font-display:swap}
+@font-face{font-family:Tight;src:url(./fonts/inter-500.woff2)format("woff2");font-weight:500;font-display:swap}
+@font-face{font-family:Tight;src:url(./fonts/inter-600.woff2)format("woff2");font-weight:600;font-display:swap}
+
+:root{
+  /* cold slate ink, one warm point of light */
+  --ink:      #0e1319;
+  --ink-lift: #161d26;
+  --hair:     rgba(176,196,218,.14);
+  --hair-2:   rgba(176,196,218,.065);
+  --text:     #e4ecf4;
+  --mute:     #8093a6;
+  --dim:      #4e5d6e;
+  --faint:    #37434f;
+  --amber:    #ffb347;
+  --amber-lo: rgba(255,179,71,.14);
+
+  --display: Chakra, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  --ui:      Tight, "Inter Tight", system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  --w: 452px;
+  --r: 16px;
+}
+
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%}
+
+body{
+  background:transparent;                 /* transparent for the Tauri shell */
+  font-family:var(--ui);
+  color:var(--text);
+  -webkit-font-smoothing:antialiased;
+  display:flex;align-items:flex-start;justify-content:center;
+  padding:env(safe-area-inset-top,0) 0 0;
+  overflow:hidden;
+}
+/* only when opened as an ordinary web page, so it isn't invisible on white */
+body.page{
+  background:
+    radial-gradient(1200px 680px at 15% -10%, #1c2836 0%, transparent 60%),
+    radial-gradient(900px 560px at 92% 4%,  #1a232f 0%, transparent 55%),
+    #070a0e;
+  align-items:center;padding:30px 14px;overflow:auto;
+}
+
+/* ── shell ──────────────────────────────────────────────────────────────── */
+.shell{
+  width:min(var(--w),100%);
+  position:relative;
+  background:linear-gradient(176deg,
+      color-mix(in srgb,var(--ink-lift) 88%,transparent) 0%,
+      color-mix(in srgb,var(--ink) 92%,transparent) 55%);
+  backdrop-filter:blur(26px) saturate(150%);
+  -webkit-backdrop-filter:blur(26px) saturate(150%);
+  border:1px solid var(--hair);
+  border-radius:var(--r);
+  box-shadow:
+    inset 0 1px 0 rgba(255,255,255,.055),
+    inset 0 -1px 0 rgba(0,0,0,.35),
+    0 24px 60px -22px rgba(0,0,0,.85);
+  overflow:hidden;
+}
+/* hairline of light along the very top edge */
+.shell::before{
+  content:"";position:absolute;top:0;left:14%;right:14%;height:1px;
+  background:linear-gradient(90deg,transparent,rgba(255,179,71,.5),transparent);
+  opacity:.65;pointer-events:none;
+}
+
+/* ── title bar ──────────────────────────────────────────────────────────── */
+.bar{display:flex;align-items:center;gap:8px;padding:11px 10px 0 16px;user-select:none;-webkit-user-select:none}
+.target{
+  font-family:var(--display);font-size:10.5px;font-weight:500;
+  letter-spacing:.08em;color:var(--dim);white-space:nowrap;
+}
+.target i{font-style:normal;color:var(--faint);margin:0 5px}
+.grip{flex:1;height:22px}
+
+.actions{display:flex;gap:1px}
+.btn{
+  width:29px;height:29px;display:grid;place-items:center;
+  background:none;border:1px solid transparent;border-radius:8px;
+  color:var(--dim);cursor:pointer;
+  transition:color .15s,background .15s,border-color .15s;
+}
+.btn:hover{color:var(--text);background:rgba(255,255,255,.055);border-color:var(--hair-2)}
+.btn:focus-visible{outline:2px solid var(--amber);outline-offset:1px}
+.btn[aria-expanded=true]{color:var(--amber);background:var(--amber-lo);border-color:rgba(255,179,71,.26)}
+.btn.danger:hover{color:#ff7a6b;background:rgba(255,122,107,.1);border-color:rgba(255,122,107,.24)}
+.btn svg{width:15px;height:15px;stroke:currentColor;fill:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}
+
+/* ── readout ────────────────────────────────────────────────────────────── */
+.readout{
+  display:flex;align-items:flex-end;justify-content:space-between;
+  padding:12px 16px 16px;user-select:none;-webkit-user-select:none;
+}
+.unit{display:flex;flex-direction:column;align-items:center;position:relative;padding:0 2px}
+.unit + .unit{margin-left:7px;padding-left:9px}
+.unit + .unit::before{
+  content:"";position:absolute;left:0;top:14%;bottom:30%;width:1px;
+  background:linear-gradient(180deg,transparent,var(--hair-2) 35%,var(--hair-2) 65%,transparent);
+}
+
+.slots{display:flex;font-family:var(--display);line-height:.85;letter-spacing:0}
+.slot{display:block;text-align:center;overflow:hidden}
+.k{
+  font-family:var(--ui);font-size:8.5px;font-weight:500;
+  letter-spacing:.06em;color:var(--faint);margin-top:9px;
+}
+
+/* significance weighting: years and days lead, seconds are ambient proof of life */
+.u-y  .slot{font-size:36px;width:.62em;font-weight:700;color:#f2f7fc}
+.u-d  .slot{font-size:36px;width:.62em;font-weight:700;color:#f2f7fc}
+.u-mo .slot{font-size:27px;width:.62em;font-weight:600;color:#c2cfdc}
+.u-h  .slot,
+.u-mi .slot{font-size:21px;width:.62em;font-weight:600;color:#9aabbc}
+.u-s  .slot{
+  font-size:18px;width:.62em;font-weight:600;color:var(--amber);
+  text-shadow:0 0 14px rgba(255,179,71,.42);
+}
+.u-y .k,.u-d .k{color:var(--dim)}
+.u-s .k{color:rgba(255,179,71,.55)}
+
+/* digits drop into place; only the ones that actually changed animate */
+@keyframes drop{
+  from{transform:translateY(-62%);opacity:0;filter:blur(2.5px)}
+  to  {transform:none;opacity:1;filter:none}
+}
+.slot.roll{animation:drop .34s cubic-bezier(.22,1,.36,1)}
+
+/* ── elapsed hairline ───────────────────────────────────────────────────── */
+.track{position:relative;height:22px;border-top:1px solid var(--hair-2);display:flex;align-items:center;padding:0 16px}
+.track i{
+  position:absolute;left:0;top:-1px;height:1px;width:0;
+  background:linear-gradient(90deg,rgba(255,179,71,0),var(--amber));
+  box-shadow:0 0 8px rgba(255,179,71,.6);
+}
+.track b{
+  font-family:var(--display);font-size:9px;font-weight:500;
+  letter-spacing:.07em;color:var(--faint);margin-left:auto;
+}
+
+/* ── brief panel ────────────────────────────────────────────────────────── */
+.panel{display:grid;grid-template-rows:0fr;transition:grid-template-rows .3s cubic-bezier(.32,.72,0,1)}
+.panel.open{grid-template-rows:1fr}
+.panel-in{overflow:hidden;border-top:1px solid var(--hair-2)}
+
+.phead{display:flex;align-items:center;gap:8px;padding:12px 10px 10px 16px}
+.phead h2{font-size:11.5px;font-weight:600;letter-spacing:.005em}
+.phead time{font-family:var(--display);font-size:9.5px;color:var(--faint);margin-left:auto;letter-spacing:.06em}
+.tag{
+  font-family:var(--display);font-size:8.5px;letter-spacing:.09em;color:var(--amber);
+  border:1px solid rgba(255,179,71,.3);border-radius:4px;padding:2px 5px 1px;
+}
+.refresh{
+  width:24px;height:24px;display:grid;place-items:center;border:0;border-radius:6px;
+  background:none;color:var(--faint);cursor:pointer;transition:color .15s,transform .4s;
+}
+.refresh:hover{color:var(--text)}
+.refresh.spin{animation:sp .7s linear infinite}
+@keyframes sp{to{transform:rotate(360deg)}}
+.refresh svg{width:13px;height:13px;stroke:currentColor;fill:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+
+.list{max-height:376px;overflow-y:auto;overscroll-behavior:contain;scrollbar-width:thin;scrollbar-color:var(--hair) transparent}
+.list::-webkit-scrollbar{width:9px}
+.list::-webkit-scrollbar-thumb{background:var(--hair);border-radius:5px;border:3px solid transparent;background-clip:padding-box}
+
+.item{
+  display:grid;grid-template-columns:20px 1fr;gap:11px;
+  padding:11px 16px 12px;border-top:1px solid var(--hair-2);
+  text-decoration:none;color:inherit;transition:background .13s;
+}
+.item:hover,.item:focus-visible{background:rgba(255,255,255,.04);outline:0}
+.item:focus-visible{box-shadow:inset 2px 0 0 var(--amber)}
+.rank{font-family:var(--display);font-size:10px;font-weight:600;color:var(--faint);padding-top:1px}
+.item:hover .rank{color:var(--amber)}
+.hl{display:block;font-size:12.5px;line-height:1.42;font-weight:500;color:var(--text)}
+.sum{display:block;font-size:11.5px;line-height:1.52;color:var(--mute);margin-top:4px}
+.meta{display:flex;align-items:center;gap:7px;margin-top:6px;font-size:9.5px;color:var(--faint)}
+.cat{font-family:var(--display);letter-spacing:.07em;color:var(--mute)}
+.dot{width:2px;height:2px;border-radius:50%;background:var(--faint)}
+
+.empty{padding:20px 16px 22px;font-size:11.5px;line-height:1.75;color:var(--mute)}
+.empty code{font-family:var(--display);font-size:11px;color:var(--amber)}
+.empty strong{color:var(--text);font-weight:600;display:block;margin-bottom:5px}
+
+/* ── page-mode only ─────────────────────────────────────────────────────── */
+.hint{
+  width:min(var(--w),100%);margin-top:16px;
+  font-size:11px;line-height:1.75;color:#5a6b7d;text-align:center;
+}
+body:not(.page) .hint{display:none}
+
+/* Tauri: no page chrome, widget flush to the window edge */
+body.tauri{padding:0}
+body.tauri .shell{border-radius:var(--r);width:100%}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}

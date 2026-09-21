@@ -1,0 +1,46 @@
+name: Daily brief
+
+on:
+  schedule:
+    # 19:15 UTC = 00:45 IST. Runs just after the IST day rolls over, so the
+    # file it writes is the calendar day that just ended.
+    # GitHub cron is best-effort and can run 10-30 min late, or skip entirely
+    # at peak. That's fine: the widget always reads latest.json, never a
+    # date it assumed would exist.
+    - cron: '15 19 * * *'
+  workflow_dispatch:        # lets you trigger a run by hand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: brief
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Build the brief
+        env:
+          # Optional. Without these the script ranks by corroboration only,
+          # which still works. Add them in Settings > Secrets > Actions to
+          # turn on free Cloudflare Workers AI summaries.
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_API_TOKEN:  ${{ secrets.CF_API_TOKEN }}
+        run: node backend/build-brief.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "brief-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --staged --quiet && echo "no change" && exit 0
+          git commit -m "brief: $(date -u -d '5 hours 30 minutes' +%F)"
+          git push

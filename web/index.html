@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>T-minus</title>
+<link rel="stylesheet" href="./style.css">
+</head>
+<body class="page">
+
+<div class="shell" id="shell">
+
+  <header class="bar" data-tauri-drag-region>
+    <span class="target" data-tauri-drag-region>06.12.2028<i>/</i>00:00<i>/</i>IST</span>
+    <span class="grip" data-tauri-drag-region></span>
+    <div class="actions">
+      <button class="btn" id="btn-news" aria-expanded="false" aria-controls="panel" title="Daily brief">
+        <svg viewBox="0 0 24 24"><path d="M4 5.5h10.5a1 1 0 0 1 1 1v11a1 1 0 0 0 1 1H6.5a2.5 2.5 0 0 1-2.5-2.5V5.5Z"/><path d="M15.5 9.5H19a1 1 0 0 1 1 1v6a2 2 0 0 1-2 2"/><path d="M7 9h6M7 12h6M7 15h4"/></svg>
+      </button>
+      <button class="btn" id="btn-pip" title="Float above other windows">
+        <svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2.5"/><rect x="11.5" y="11" width="7.5" height="6" rx="1.5"/></svg>
+      </button>
+      <button class="btn danger" id="btn-close" title="Close" hidden>
+        <svg viewBox="0 0 24 24"><path d="M6.5 6.5l11 11M17.5 6.5l-11 11"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <div class="readout" id="readout" data-tauri-drag-region>
+    <div class="unit u-y"  data-key="y"><div class="slots" id="s-y"></div><span class="k">years</span></div>
+    <div class="unit u-mo" data-key="mo"><div class="slots" id="s-mo"></div><span class="k">months</span></div>
+    <div class="unit u-d"  data-key="d"><div class="slots" id="s-d"></div><span class="k">days</span></div>
+    <div class="unit u-h"  data-key="h"><div class="slots" id="s-h"></div><span class="k">hrs</span></div>
+    <div class="unit u-mi" data-key="mi"><div class="slots" id="s-mi"></div><span class="k">min</span></div>
+    <div class="unit u-s"  data-key="s"><div class="slots" id="s-s"></div><span class="k">sec</span></div>
+  </div>
+
+  <div class="track">
+    <i id="elapsed"></i>
+    <b id="pct">0.00%</b>
+  </div>
+
+  <section class="panel" id="panel">
+    <div class="panel-in">
+      <div class="phead">
+        <h2>Daily brief</h2>
+        <span class="tag" id="tag" hidden></span>
+        <time id="brief-date"></time>
+        <button class="refresh" id="btn-refresh" title="Refresh">
+          <svg viewBox="0 0 24 24"><path d="M20 12a8 8 0 1 1-2.6-5.9"/><path d="M20 4v4.5h-4.5"/></svg>
+        </button>
+      </div>
+      <div class="list" id="list"></div>
+    </div>
+  </section>
+</div>
+
+<p class="hint">
+  Press the window icon to pop out an always-on-top floating window.
+  Needs Chrome, Edge or Firefox on desktop. For a frameless transparent widget, build the Tauri app.
+</p>
+
+<script src="./app.js"></script>
+</body>
+</html>

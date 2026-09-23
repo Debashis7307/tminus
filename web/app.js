@@ -11,6 +11,13 @@ window.addEventListener('error', e => {
   document.body.appendChild(d);
 });
 
+window.addEventListener('securitypolicyviolation', e => {
+  const d = document.createElement('pre');
+  d.style.cssText = 'position:fixed;top:4px;left:4px;right:4px;font:11px monospace;background:#3a0606;color:#ff9080;padding:6px;border-radius:6px;z-index:999;white-space:pre-wrap';
+  d.textContent = 'CSP BLOCKED: ' + e.blockedURI + ' | directive: ' + e.violatedDirective + ' | sample: ' + e.sample;
+  document.body.appendChild(d);
+});
+
 const CFG = {
   // 6 December 2028, 00:00 IST
   target: { y: 2028, mo: 12, d: 6, h: 0, mi: 0, s: 0 },
@@ -306,9 +313,17 @@ function mount() {
 if (isTauri()) {
   document.body.classList.remove('page');
   document.body.classList.add('tauri');
-  const p = document.querySelector('.hint');
+  const p = document.querySelector('.page-cta');
   if (p) p.remove();
 }
 
-mount();
+try {
+  mount();
+} catch (err) {
+  const d = document.createElement('pre');
+  d.style.cssText = 'position:fixed;top:4px;left:4px;right:4px;font:11px monospace;background:#3a0606;color:#ff9080;padding:6px;border-radius:6px;z-index:999;white-space:pre-wrap';
+  d.textContent = 'mount() FAILED: ' + (err && err.stack || err);
+  document.body.appendChild(d);
+}
+
 loadBrief();

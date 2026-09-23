@@ -1,31 +1,26 @@
-/* ══════════════════════════════════════════════════════════════════════════
+﻿/* ══════════════════════════════════════════════════════════════════════════
    T-minus
    One file drives three shells: an ordinary web page, a Document
    Picture-in-Picture window, and the Tauri desktop widget.
    ══════════════════════════════════════════════════════════════════════════ */
+
+window.addEventListener('error', e => {
+  const d = document.createElement('pre');
+  d.style.cssText = 'position:fixed;bottom:4px;left:4px;right:4px;font:11px monospace;background:#1a0606;color:#ff9080;padding:6px;border-radius:6px;z-index:999;white-space:pre-wrap';
+  d.textContent = 'JS ERROR: ' + (e.message || '?') + (e.filename ? ' @ ' + e.filename.split('/').pop() + ':' + e.lineno : '');
+  document.body.appendChild(d);
+});
 
 const CFG = {
   // 6 December 2028, 00:00 IST
   target: { y: 2028, mo: 12, d: 6, h: 0, mi: 0, s: 0 },
   // anchor for the elapsed hairline
   start:  { y: 2026, mo: 9,  d: 21, h: 0, mi: 0, s: 0 },
-  // set this once your GitHub Action is publishing, e.g.
-  // "https://tminus-brief.pages.dev/data/latest.json"
   newsUrl: "https://debashis7307.github.io/tminus/data/latest.json",
 };
 
 /* ══════════════════════════════════════════════════════════════════════════
    CALENDAR MATH
-
-   India is UTC+05:30 all year with no DST, ever. That removes the worst class
-   of bug here, so shifting the epoch by +5:30 and reading the UTC fields
-   gives you IST wall-clock directly.
-
-   Y:M:D cannot come from a millisecond delta, because months aren't a fixed
-   length. Find the largest whole month count M where now + M months <= target,
-   then measure the flat remainder. Anchoring at `now` rather than counting
-   back from the target is a deliberate convention; the two disagree at month
-   ends. Under this one, 31 Jan to 28 Feb reads as exactly 1 month.
    ══════════════════════════════════════════════════════════════════════════ */
 const IST = 330 * 60000;
 
@@ -53,7 +48,7 @@ function breakdown(nowMs, targetMs) {
   while (m > 0 && addMonths(nowMs, m) > targetMs) m--;
   while (addMonths(nowMs, m + 1) <= targetMs) m++;
 
-  let r = targetMs - addMonths(nowMs, m);   // exact: IST has no DST
+  let r = targetMs - addMonths(nowMs, m);
   const d  = Math.floor(r / 86400000); r -= d  * 86400000;
   const h  = Math.floor(r /  3600000); r -= h  *  3600000;
   const mi = Math.floor(r /    60000); r -= mi *    60000;
@@ -68,9 +63,6 @@ const START_MS  = fromIst(S.y, S.mo, S.d, S.h, S.mi, S.s);
 
 /* ══════════════════════════════════════════════════════════════════════════
    DIGIT SLOTS
-   One element per digit at a fixed width, so nothing shifts as values change
-   regardless of whether the typeface has tabular figures. Only the digits
-   that actually changed get re-animated.
    ══════════════════════════════════════════════════════════════════════════ */
 const WIDTHS = { y:3, mo:2, d:2, h:2, mi:2, s:2 };
 let root = document;
@@ -104,18 +96,13 @@ function paint(key, value) {
     const el = row[i].el;
     el.textContent = ch;
     el.classList.remove('roll');
-    void el.offsetWidth;              // restart the animation
+    void el.offsetWidth;
     el.classList.add('roll');
   }
 }
 
 /* ══════════════════════════════════════════════════════════════════════════
    TICK
-
-   Never setInterval(1000) with a decrementing counter. It drifts, background
-   tabs get throttled to roughly once a minute, and laptop sleep destroys it.
-   Recompute from Date.now() every time and realign the next tick to the wall
-   second so error can't accumulate.
    ══════════════════════════════════════════════════════════════════════════ */
 let timer = null;
 
@@ -143,8 +130,6 @@ function loop() {
 
 /* ══════════════════════════════════════════════════════════════════════════
    DAILY BRIEF
-   Stale-while-revalidate. Paint the cache instantly, refresh behind it, so
-   opening the panel never shows a spinner. Prefetched on load, not on click.
    ══════════════════════════════════════════════════════════════════════════ */
 const CACHE_KEY = 'tminus.brief.v1';
 let brief = null;
@@ -167,7 +152,7 @@ async function loadBrief(force) {
     const data = await res.json();
     if (data && Array.isArray(data.items)) { brief = data; writeCache(data); paintBrief(); }
   } catch {
-    /* keep whatever the cache had; an offline widget should still show yesterday */
+    /* keep cache; offline widget still shows yesterday */
   } finally {
     if (btn) btn.classList.remove('spin');
   }
@@ -208,9 +193,6 @@ function paintBrief() {
 
 /* ══════════════════════════════════════════════════════════════════════════
    TAURI BRIDGE
-   The window is sized to the collapsed pill. Grow it before expanding the
-   panel and shrink it after collapsing, so content is never clipped mid
-   transition.
    ══════════════════════════════════════════════════════════════════════════ */
 const isTauri = () => typeof window.__TAURI__ !== 'undefined';
 const COLLAPSED = 132;
@@ -237,8 +219,6 @@ async function setOpen(open) {
 
 /* ══════════════════════════════════════════════════════════════════════════
    DOCUMENT PICTURE-IN-PICTURE
-   A genuine OS-level always-on-top window built from arbitrary HTML.
-   Chrome and Edge 130+, Firefox has shipped it. Not available on Android.
    ══════════════════════════════════════════════════════════════════════════ */
 async function openPip() {
   if (!('documentPictureInPicture' in window)) {

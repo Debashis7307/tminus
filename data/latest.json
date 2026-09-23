@@ -1,7 +1,7 @@
 {
   "date": "2026-09-23",
   "label": "ranked",
-  "generatedAt": "2026-09-23T19:13:53.302Z",
+  "generatedAt": "2026-09-23T22:16:36.483Z",
   "window": {
     "from": "2026-09-22T18:30:00.000Z",
     "to": "2026-09-23T18:30:00.000Z"
@@ -14,6 +14,22 @@
       "corroboration": 5,
       "category": "india",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2E5clY4MzZhSVpBMl9aeEowYWRXdVd4SUJXWFdmSW5PZENCeEVNNy1fM0hRbHFPSFJ3M2YybE9sSjlXLXFYVkg0cFRIT2F6Z0RXTGswbGlPMlhibS1CTFJYTkhiaHVJbVJRVnJpZG9md1FvZEY0V1pVOXEzUVlWSC1qT0FTYjg?oc=5"
+    },
+    {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "summary": null,
+      "source": "Anthropic, Hacker News",
+      "corroboration": 2,
+      "category": "science",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JT0FwTVctZXNkYnJXeW44aHhoZmJfbDYwN3B4a2tMTThJZm9XRklxMkEzdFlxb2Z6VGM2UnpDTGlaQ09PODJUMkJFWWl1UVZOTDJ0WU1UQ1pZMDlrbS0tM3FTS0RGWmNSeGt5QlJjZktQWkl4N0E?oc=5"
+    },
+    {
+      "title": "Rupee has a fair case to appreciate: RBI DG Poonam Gupta",
+      "summary": null,
+      "source": "Business Standard, Livemint",
+      "corroboration": 3,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaWpfZW5nSXBoZGY0djBWRzFoU3FsTUpwWG02b2lKcHgwVHRxZC11MVdyTDJfa2JjZmdBZ3c2d3YtT2M1eHFoQmRwS09RS2RveW1TbVBqTVNaMVl5QWpGMkFiRHJkdXM4Z1R4U2xvYXZ4R0xROXNVdi1uT2JGbVBOc3BoTTQ0N2hOazczMkthMWVkX0hhRndjZXNwVnpRVWRacXBFaWtTOVhzQU1s0gGyAUFVX3lxTE81Rzk0cl81QmFNRGZjVmpnQjhkMEZxNmluM3RTMjlsYzRGTjNCTzFjenNweFlqa2tIc2ZTY3NCUlJYblMwYW9RRGZReTNwd3VEODYxeHV0TF9lbWxWVlNnak5SeTBWVnFYeXNWTGhWcGFaZDRYeDA5SUhFbFZna01LWmhGa3ZXTDU1T2JMZjlKZlFPTUtmcDRldXRiMnpPTmY2SWVNSzdPSWR6N3B3MlJrdmc?oc=5"
     },
     {
       "title": "Before the UN, Trump renames artificial intelligence",
@@ -32,12 +48,12 @@
       "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567"
     },
     {
-      "title": "Woman Arrested, Dragged Away After Speaking About Flock at City Council Meeting",
+      "title": "28% of job postings on company career sites have been open over 90 days",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "tech",
-      "url": "https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/"
+      "url": "https://unlisted.careers/ghost-jobs/report/2026-09"
     },
     {
       "title": "Gemini 3.8 text-to-speech",
@@ -56,20 +72,12 @@
       "url": "https://drivingbench.com/"
     },
     {
-      "title": "International System Broken, Can't Address Conflicts Like India-Pakistan: US",
+      "title": "India condemns attack on commercial vessel MV Cape Dao off Oman coast",
       "summary": null,
-      "source": "NDTV, India Today",
+      "source": "Deccan Herald, ThePrint",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX1JHNWZ5aHRCa1VObFA5YTM3bmVLYmpqR3pnMlNNM0hhenBpQS1JX0hwRlBnM18tZjdsa09EUDdhTDZvekZPZHZXX0pJZmF6akY2YjhFOGNuRmhabW9zcGZFWnJpMmItZi1tSll6aHFPd2Fzb2x6ZGJhOUxmNW1ieDdSd1FHU3N3NVVUSGl0RDJ0Nm0tcjBvNHY3U2lIaEMtMGR4MHpzQlNKY1dPOF9HaHdhXzk?oc=5"
-    },
-    {
-      "title": "Asian Games 2026: India's full schedule on September 24; medal events, and timings",
-      "summary": null,
-      "source": "The Times of India, ESPN India",
-      "corroboration": 2,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcEMwZk9tUmRadGlGQ0w3WWtoR3FpdUFrcGJTQWp3aXFlOW1VWTd5WkxwTjJ2SEFxb0pXbG52NmlkQV9QeE15ZmpXVVZhVlhrN3VXRVlROXVINEh3eVRCTEVTRlBsbUVJdTk1VmJuNXRGYjZybVRmWm93ODBPdWJ4QUxCYVBuM1ZwbW5GbXhFUHZFZ3BNSEE0U2JoM0hhZ0FrZnZOaEVjZXVtWXo5SjdiczNLTmJ1NG9ZREJBMTlvOG41dVJGd3FGcl95NGFlQXh1ZFpnaVVOOWI3alZTNllJUXFuUDRCS0xsQmlCREhQNUpsa3RDdHlN0gH8AUFVX3lxTE9OTERlRmRkM2lrTXZWNVVkVUJuako1clFYdkUtUnAtVFNIS0pSbXNQWmpEQ293Z3hDWTdWT3Q4X1dkcHN0QlFPcFpVd3A5OW4wQXRZcHlfdzg2S0VuMzM3ejc1WEh1VnVyZXR1YVJGU0RTMVlYUThkaW9Ndm9LVndMR3NPZlc1eGh1MjI1aFk4Vzg2bTBUU2JXV1FBdE1sc0dxUUkyUklpUEwya0tia0hVVEg0OVNxS2hLd3RhbUx2QVBlSExyajVlUDVFbFpjc1ZKZGQxQlhoX09fX2IyTG9hdmg4TWhLYldGX3JOdmFJdG1va0dpQ0pjR3hiQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPalBKbTVTUEdUYnRWblBNaHk0ZWdINVVieHRicUU0X2NRX2FWVGNQeTFDNmc0SDFnNGNBQ0NSM1RESjNoQTBfN0YtVGhhZW02dzNHa05Qb1V2RUQwaVNWWkZDd0lhM3JHWGVjNzdHUGV4RlR5cjJ4NElvMnBrNU41TXN4QUNsdXRVb0ZydFJUVXl2ZGxCbzJNTW9GbnluYjNFb1dJZzI4NNIBrAFBVV95cUxOUkxZUkh5WG9NaTh4NnZoT1dCQndjMU02cUR2X0VFU2VyaC1DRF9JbU45UkpPblRvSExUNlhSQW5PZGpuMkhaaDNOM2hvaF9NU0RhTmxqc1hCRklSVkRBYXp4UjJ1VlBwQ1VKM1doTURKTVI4b1FlclNvX29yd3NlMDJTcGVqYTNqSDFzUDk0VkltYTlBVUN4b05udDE4OFdQcmVwbXJCSWVqbHZu?oc=5"
     },
     {
       "title": "US Invites Putin To G20 Summit In Miami, Rubio Says",
@@ -78,14 +86,6 @@
       "corroboration": 2,
       "category": "world",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPelJhcEh5eXgzWVVlRDI4dVVybW9ocno3eDNUZUZEZGM0SGxLM3ItQTRzN3hyU2dub2VHNFVtMDdTaEZZODV0M0xFVi1uQ1N2VERzWjd3Mm0yU3llS2w4SEhIdWg2WEtnWkx3c2NGQVNIaks4TlJ2a0hfNGE4QjBBSzNOcVc2X2ZBQUxLN1NTRnhMQdIBlAFBVV95cUxPeER2Tndfa1ZVMF8xMWlMdzd5ZXEyQ1ZkMm5KREFGZnNITHpZUHpKSnhFdENWSmVISlZpZVQwRURiM1lHTmJ1dU9IZEFqUWpDLVB5MFpyN2haWGJCd01VTGR6d093cUY1a3RpZjI1b0tlLXVRT0tSUFdwbWtiWUtEZ0NPRFFjeWpRLWgzUGNUN29DNG1F?oc=5"
-    },
-    {
-      "title": "Salk Institute moves deeper-rooted crop research from lab discovery to field testing",
-      "summary": null,
-      "source": "salk.edu, Farms.com",
-      "corroboration": 2,
-      "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM1NSN0NxcHdoc01VWlIyRktvS3F5R0p0V2kyeXJHUVUtSER6TGc2TlB4TVRlTlhXZXBmcnNGT1FTVHNWdUZhU2s3NzhRNWU3Ylc1WUNidDIwYU81NlNDNXd5cTNlYlhKQy1sR2FDVE80a1hXa3FKc2RMd1lIR2I4Rm1vc29xdktKS1dvLXM2S1Y2RVc5dmFkUS0zb3BwUmlqeGFtX1huX21sNDNkU050TXhDWjJUNTJOQk9n?oc=5"
     }
   ]
 }

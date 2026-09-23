@@ -195,8 +195,8 @@ function paintBrief() {
    TAURI BRIDGE
    ══════════════════════════════════════════════════════════════════════════ */
 const isTauri = () => typeof window.__TAURI__ !== 'undefined';
-const COLLAPSED = 132;
-const EXPANDED  = 556;
+const COLLAPSED = 58;
+const EXPANDED  = 460;
 
 async function tauriResize(h) {
   if (!isTauri()) return;
@@ -231,7 +231,7 @@ async function openPip() {
     return;
   }
 
-  const pip = await documentPictureInPicture.requestWindow({ width: 470, height: 176 });
+  const pip = await documentPictureInPicture.requestWindow({ width: 420, height: 58 });
 
   for (const node of document.head.querySelectorAll('style,link[rel="stylesheet"]')) {
     pip.document.head.appendChild(node.cloneNode(true));
@@ -274,6 +274,9 @@ function mount() {
     close.hidden = !isTauri();
     close.onclick = () => window.__TAURI__.core.invoke('hide_widget');
   }
+
+  const pageBtn = root.getElementById('page-float-btn');
+  if (pageBtn) pageBtn.onclick = openPip;
 
   paintBrief();
   loop();

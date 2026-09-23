@@ -1,4 +1,4 @@
-/* ══════════════════════════════════════════════════════════════════════════
+﻿/* ══════════════════════════════════════════════════════════════════════════
    T-minus — stylesheet
    Self-hosted fonts, no CDN, works fully offline inside Tauri.
    ══════════════════════════════════════════════════════════════════════════ */
@@ -11,7 +11,6 @@
 @font-face{font-family:Tight;src:url(./fonts/inter-600.woff2)format("woff2");font-weight:600;font-display:swap}
 
 :root{
-  /* cold slate ink, one warm point of light */
   --ink:      #0e1319;
   --ink-lift: #161d26;
   --hair:     rgba(176,196,218,.14);
@@ -26,7 +25,7 @@
   --display: Chakra, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
   --ui:      Tight, "Inter Tight", system-ui, -apple-system, "Segoe UI", sans-serif;
 
-  --w: 452px;
+  --w: 420px;
   --r: 16px;
 }
 
@@ -34,7 +33,7 @@
 html,body{height:100%}
 
 body{
-  background:transparent;                 /* transparent for the Tauri shell */
+  background:transparent;
   font-family:var(--ui);
   color:var(--text);
   -webkit-font-smoothing:antialiased;
@@ -42,13 +41,13 @@ body{
   padding:env(safe-area-inset-top,0) 0 0;
   overflow:hidden;
 }
-/* only when opened as an ordinary web page, so it isn't invisible on white */
+
 body.page{
   background:
     radial-gradient(1200px 680px at 15% -10%, #1c2836 0%, transparent 60%),
     radial-gradient(900px 560px at 92% 4%,  #1a232f 0%, transparent 55%),
     #070a0e;
-  align-items:center;padding:30px 14px;overflow:auto;
+  align-items:center; flex-direction: column; padding:30px 14px;overflow:auto; justify-content: center;
 }
 
 /* ── shell ──────────────────────────────────────────────────────────────── */
@@ -68,63 +67,49 @@ body.page{
     0 24px 60px -22px rgba(0,0,0,.85);
   overflow:hidden;
 }
-/* hairline of light along the very top edge */
 .shell::before{
   content:"";position:absolute;top:0;left:14%;right:14%;height:1px;
   background:linear-gradient(90deg,transparent,rgba(255,179,71,.5),transparent);
   opacity:.65;pointer-events:none;
 }
 
-/* ── title bar ──────────────────────────────────────────────────────────── */
-.bar{display:flex;align-items:center;gap:8px;padding:11px 10px 0 16px;user-select:none;-webkit-user-select:none}
-.grip{flex:1;height:22px}
+/* ── pill layout ────────────────────────────────────────────────────────── */
+.pill{
+  display:flex;align-items:center;justify-content:space-between;
+  height:56px;padding:0 12px;
+  user-select:none;-webkit-user-select:none;
+}
 
-.actions{display:flex;gap:1px}
+.actions{display:flex;gap:4px}
 .btn{
-  width:29px;height:29px;display:grid;place-items:center;
-  background:none;border:1px solid transparent;border-radius:8px;
-  color:var(--dim);cursor:pointer;
+  width:32px;height:32px;display:grid;place-items:center;
+  background:rgba(255,255,255,.03);border:1px solid transparent;border-radius:10px;
+  color:var(--mute);cursor:pointer;
   transition:color .15s,background .15s,border-color .15s;
 }
-.btn:hover{color:var(--text);background:rgba(255,255,255,.055);border-color:var(--hair-2)}
+.btn:hover{color:var(--text);background:rgba(255,255,255,.08);border-color:var(--hair-2)}
 .btn:focus-visible{outline:2px solid var(--amber);outline-offset:1px}
 .btn[aria-expanded=true]{color:var(--amber);background:var(--amber-lo);border-color:rgba(255,179,71,.26)}
 .btn.danger:hover{color:#ff7a6b;background:rgba(255,122,107,.1);border-color:rgba(255,122,107,.24)}
-.btn svg{width:15px;height:15px;stroke:currentColor;fill:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}
+.btn svg{width:16px;height:16px;stroke:currentColor;fill:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}
 
 /* ── readout ────────────────────────────────────────────────────────────── */
-.readout{
-  display:flex;align-items:flex-end;justify-content:space-between;
-  padding:12px 16px 16px;user-select:none;-webkit-user-select:none;
-}
-.unit{display:flex;flex-direction:column;align-items:center;position:relative;padding:0 2px}
-.unit + .unit{margin-left:7px;padding-left:9px}
-.unit + .unit::before{
-  content:"";position:absolute;left:0;top:14%;bottom:30%;width:1px;
-  background:linear-gradient(180deg,transparent,var(--hair-2) 35%,var(--hair-2) 65%,transparent);
-}
-
-.slots{display:flex;font-family:var(--display);line-height:.85;letter-spacing:0}
+.readout{display:flex;align-items:baseline;justify-content:center;flex:1;}
+.unit{display:flex;align-items:baseline;position:relative;padding:0 2px}
+.slots{display:flex;font-family:var(--display);line-height:1;letter-spacing:0}
 .slot{display:block;text-align:center;overflow:hidden}
-.k{
-  font-family:var(--ui);font-size:8.5px;font-weight:500;
-  letter-spacing:.06em;color:var(--faint);margin-top:9px;
-}
+.k{font-family:var(--ui);font-size:12px;font-weight:500;color:var(--faint);margin-left:2px;}
+.vbar{width:1px;height:18px;background:var(--hair-2);margin:0 10px;align-self:center;}
 
-/* significance weighting: years and days lead, seconds are ambient proof of life */
-.u-y  .slot{font-size:36px;width:.62em;font-weight:700;color:#f2f7fc}
-.u-d  .slot{font-size:36px;width:.62em;font-weight:700;color:#f2f7fc}
-.u-mo .slot{font-size:27px;width:.62em;font-weight:600;color:#c2cfdc}
-.u-h  .slot,
-.u-mi .slot{font-size:21px;width:.62em;font-weight:600;color:#9aabbc}
-.u-s  .slot{
-  font-size:18px;width:.62em;font-weight:600;color:var(--amber);
-  text-shadow:0 0 14px rgba(255,179,71,.42);
+.u-y .slot, .u-d .slot{font-size:22px;width:.62em;font-weight:600;color:#f2f7fc}
+.u-mo .slot{font-size:22px;width:.62em;font-weight:500;color:#c2cfdc}
+.u-h .slot, .u-mi .slot{font-size:17px;width:.62em;font-weight:500;color:#9aabbc}
+.u-s .slot{
+  font-size:17px;width:.62em;font-weight:600;color:var(--amber);
+  text-shadow:0 0 12px rgba(255,179,71,.42);
 }
-.u-y .k,.u-d .k{color:var(--dim)}
 .u-s .k{color:rgba(255,179,71,.55)}
 
-/* digits drop into place; only the ones that actually changed animate */
 @keyframes drop{
   from{transform:translateY(-62%);opacity:0;filter:blur(2.5px)}
   to  {transform:none;opacity:1;filter:none}
@@ -132,21 +117,17 @@ body.page{
 .slot.roll{animation:drop .34s cubic-bezier(.22,1,.36,1)}
 
 /* ── elapsed hairline ───────────────────────────────────────────────────── */
-.track{position:relative;height:22px;border-top:1px solid var(--hair-2);display:flex;align-items:center;padding:0 16px}
+.track{position:relative;height:2px;width:100%;background:rgba(0,0,0,.3);display:flex;align-items:center;}
 .track i{
-  position:absolute;left:0;top:-1px;height:1px;width:0;
+  position:absolute;left:0;top:0;bottom:0;width:0;
   background:linear-gradient(90deg,rgba(255,179,71,0),var(--amber));
   box-shadow:0 0 8px rgba(255,179,71,.6);
-}
-.track b{
-  font-family:var(--display);font-size:9px;font-weight:500;
-  letter-spacing:.07em;color:var(--faint);margin-left:auto;
 }
 
 /* ── brief panel ────────────────────────────────────────────────────────── */
 .panel{display:grid;grid-template-rows:0fr;transition:grid-template-rows .3s cubic-bezier(.32,.72,0,1)}
 .panel.open{grid-template-rows:1fr}
-.panel-in{overflow:hidden;border-top:1px solid var(--hair-2)}
+.panel-in{overflow:hidden;}
 
 .phead{display:flex;align-items:center;gap:8px;padding:12px 10px 10px 16px}
 .phead h2{font-size:11.5px;font-weight:600;letter-spacing:.005em}
@@ -187,15 +168,23 @@ body.page{
 .empty code{font-family:var(--display);font-size:11px;color:var(--amber)}
 .empty strong{color:var(--text);font-weight:600;display:block;margin-bottom:5px}
 
-/* ── page-mode only ─────────────────────────────────────────────────────── */
-.hint{
-  width:min(var(--w),100%);margin-top:16px;
-  font-size:11px;line-height:1.75;color:#5a6b7d;text-align:center;
+/* ── page CTA ───────────────────────────────────────────────────────────── */
+.page-cta { margin-top: 24px; text-align: center; }
+#page-float-btn {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 10px 20px; border-radius: 20px;
+  background: rgba(255,179,71,.08); color: var(--amber);
+  border: 1px solid rgba(255,179,71,.2); cursor: pointer;
+  font-family: var(--ui); font-weight: 500; font-size: 13px;
+  transition: background .2s, border-color .2s;
 }
-body:not(.page) .hint{display:none}
+#page-float-btn:hover { background: rgba(255,179,71,.15); border-color: rgba(255,179,71,.3); }
+#page-float-btn svg { width: 16px; height: 16px; stroke: currentColor; fill: none; stroke-width: 1.5; }
+.page-cta p { font-size: 12px; color: var(--mute); margin-top: 14px; }
+body:not(.page) .page-cta { display: none; }
 
-/* Tauri: no page chrome, widget flush to the window edge */
-body.tauri{padding:0}
-body.tauri .shell{border-radius:var(--r);width:100%}
+/* ── tauri-specific ─────────────────────────────────────────────────────── */
+body.tauri { padding: 0; }
+body.tauri .shell { border-radius: var(--r); width: 100%; border: none; }
 
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}

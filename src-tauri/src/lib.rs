@@ -105,11 +105,11 @@ pub fn run() {
             let handle = app.handle().clone();
 
             // Register the shortcuts now that the plugin is up.
-            {
+            let shortcuts_ok = {
                 use tauri_plugin_global_shortcut::GlobalShortcutExt;
-                let _ = handle.global_shortcut().register(sc_show);
-                let _ = handle.global_shortcut().register(sc_ghost);
-            }
+                handle.global_shortcut().register(sc_show).is_ok()
+                    && handle.global_shortcut().register(sc_ghost).is_ok()
+            };
 
             // Windows: keep it above normal windows without stealing focus.
             if let Some(w) = main_window(&handle) {
@@ -124,9 +124,11 @@ pub fn run() {
             let quit = MenuItem::with_id(app, "quit", "Quit", true, None::<&str>)?;
             let menu = Menu::with_items(app, &[&show, &ghost, &boot, &quit])?;
 
+            let tip: &str = if shortcuts_ok { "T-minus" } else { "T-minus (shortcut failed)" };
+
             TrayIconBuilder::new()
                 .icon(app.default_window_icon().unwrap().clone())
-                .tooltip("T-minus")
+                .tooltip(tip)
                 .menu(&menu)
                 .show_menu_on_left_click(false)
                 .on_menu_event(|app, event| match event.id.as_ref() {

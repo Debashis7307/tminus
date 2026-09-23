@@ -194,13 +194,26 @@ function paintBrief() {
 /* ══════════════════════════════════════════════════════════════════════════
    TAURI BRIDGE
    ══════════════════════════════════════════════════════════════════════════ */
-const isTauri = () => typeof window.__TAURI__ !== 'undefined';
+const isTauri = () => window.isTauri === true
+  || typeof window.__TAURI_INTERNALS__ !== 'undefined'
+  || typeof window.__TAURI__ !== 'undefined';
+
+const invoke = (cmd, args) => {
+  if (window.__TAURI__ && window.__TAURI__.core && window.__TAURI__.core.invoke) {
+    return window.__TAURI__.core.invoke(cmd, args);
+  }
+  if (window.__TAURI_INTERNALS__ && window.__TAURI_INTERNALS__.invoke) {
+    return window.__TAURI_INTERNALS__.invoke(cmd, args);
+  }
+  return Promise.reject(new Error('no Tauri IPC'));
+};
+
 const COLLAPSED = 58;
 const EXPANDED  = 460;
 
 async function tauriResize(h) {
   if (!isTauri()) return;
-  try { await window.__TAURI__.core.invoke('resize_height', { h }); } catch {}
+  try { await invoke('resize_height', { h }); } catch {}
 }
 
 async function setOpen(open) {
@@ -234,12 +247,17 @@ async function openPip() {
   const pip = await documentPictureInPicture.requestWindow({ width: 420, height: 58 });
 
   for (const node of document.head.querySelectorAll('style,link[rel="stylesheet"]')) {
-    pip.document.head.appendChild(node.cloneNode(true));
+    const clone = node.cloneNode(true);
+    if (clone.tagName === 'LINK' && clone.getAttribute('href')) {
+      clone.setAttribute('href', new URL(clone.getAttribute('href'), location.href).href);
+    }
+    pip.document.head.appendChild(clone);
   }
   pip.document.title = 'T-minus';
   pip.document.body.className = '';
 
   const shell  = document.getElementById('shell');
+  if (!shell) return;
   const anchor = document.createComment('tminus');
   shell.replaceWith(anchor);
   pip.document.body.appendChild(shell);
@@ -264,7 +282,10 @@ function mount() {
   if (news) news.onclick = () => setOpen(!root.getElementById('panel').classList.contains('open'));
 
   const pip = root.getElementById('btn-pip');
-  if (pip) pip.onclick = openPip;
+  if (pip) {
+    pip.onclick = openPip;
+    pip.hidden = isTauri();
+  }
 
   const ref = root.getElementById('btn-refresh');
   if (ref) ref.onclick = () => loadBrief(true);
@@ -272,7 +293,7 @@ function mount() {
   const close = root.getElementById('btn-close');
   if (close) {
     close.hidden = !isTauri();
-    close.onclick = () => window.__TAURI__.core.invoke('hide_widget');
+    close.onclick = () => invoke('hide_widget');
   }
 
   const pageBtn = root.getElementById('page-float-btn');

@@ -15,15 +15,15 @@
         "url": "index.html",
         "width": 452,
         "height": 132,
-        "x": 48,
-        "y": 48,
+        "x": null,
+        "y": null,
         "resizable": false,
         "decorations": false,
         "transparent": true,
         "shadow": false,
         "alwaysOnTop": true,
         "skipTaskbar": true,
-        "center": false,
+        "center": true,
         "focus": false,
         "visible": true
       }

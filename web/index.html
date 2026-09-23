@@ -5,6 +5,15 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>T-minus</title>
 <link rel="stylesheet" href="./style.css">
+<script>
+  // Detect Tauri before first paint — runs in <head>, before <body> exists.
+  // Tauri 2 always injects window.isTauri = true via an init script.
+  if (window.isTauri === true
+      || typeof window.__TAURI_INTERNALS__ !== 'undefined'
+      || typeof window.__TAURI__ !== 'undefined') {
+    document.documentElement.classList.add('tauri');
+  }
+</script>
 </head>
 <body class="page">
 

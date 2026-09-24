@@ -253,7 +253,7 @@ function paintBrief() {
 }
 
 /* ── Tauri bridge ───────────────────────────────────────────────────────── */
-const isTauri = () => window.isTauri === true
+const _isTauri = () => window.isTauri === true
   || typeof window.__TAURI_INTERNALS__ !== 'undefined'
   || typeof window.__TAURI__ !== 'undefined';
 
@@ -271,7 +271,7 @@ const COLLAPSED = 58;
 const EXPANDED  = 460;
 
 async function tauriResize(h) {
-  if (!isTauri()) return;
+  if (!_isTauri()) return;
   try { await invoke('resize_height', { h }); } catch {}
 }
 
@@ -339,7 +339,7 @@ function mount() {
   const pip = root.getElementById('btn-pip');
   if (pip) {
     pip.onclick = openPip;
-    pip.hidden = isTauri();
+    pip.hidden = _isTauri();
   }
 
   const ref = root.getElementById('btn-refresh');
@@ -347,7 +347,7 @@ function mount() {
 
   const close = root.getElementById('btn-close');
   if (close) {
-    close.hidden = !isTauri();
+    close.hidden = !_isTauri();
     close.onclick = () => invoke('hide_widget');
   }
 
@@ -359,7 +359,7 @@ function mount() {
 }
 
 /* ── boot ───────────────────────────────────────────────────────────────── */
-if (isTauri()) {
+if (_isTauri()) {
   document.body.classList.remove('page');
   document.body.classList.add('tauri');
   const p = document.querySelector('.page-cta');

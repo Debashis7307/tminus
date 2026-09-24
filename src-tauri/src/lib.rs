@@ -31,7 +31,7 @@ fn main_window(app: &AppHandle) -> Option<WebviewWindow> {
 #[tauri::command]
 fn resize_height(window: WebviewWindow, h: f64) -> Result<(), String> {
     window
-        .set_size(LogicalSize::new(WIDTH, h.clamp(80.0, 900.0)))
+        .set_size(LogicalSize::new(WIDTH, h.clamp(50.0, 900.0)))
         .map_err(|e| e.to_string())
 }
 

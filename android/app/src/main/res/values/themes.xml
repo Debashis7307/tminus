@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.Tminus" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#ffb347</item>
+        <item name="colorPrimaryDark">#161d26</item>
+    </style>
+    <style name="Theme.Tminus.NoActionBar" parent="Theme.Tminus">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+</resources>

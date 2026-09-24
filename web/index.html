@@ -37,9 +37,6 @@
     </div>
 
     <div class="actions">
-      <button class="btn" id="btn-pip" title="Float above all windows">
-        <svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2.5"/><rect x="11.5" y="11" width="7.5" height="6" rx="1.5"/></svg>
-      </button>
       <button class="btn danger" id="btn-close" title="Close" hidden>
         <svg viewBox="0 0 24 24"><path d="M6.5 6.5l11 11M17.5 6.5l-11 11"/></svg>
       </button>
@@ -65,15 +62,6 @@
     </div>
   </section>
 
-</div>
-
-<!-- page-mode only: float CTA -->
-<div class="page-cta">
-  <button id="page-float-btn">
-    <svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2.5"/><rect x="11.5" y="11" width="7.5" height="6" rx="1.5"/></svg>
-    Float above everything
-  </button>
-  <p>Chrome / Edge / Firefox on desktop &mdash; or build the Tauri app for a native transparent widget</p>
 </div>
 
 <script>
@@ -289,58 +277,12 @@ async function setOpen(open) {
   if (btn) btn.setAttribute('aria-expanded', String(open));
 }
 
-/* ── Document Picture-in-Picture ────────────────────────────────────────── */
-async function openPip() {
-  if (!('documentPictureInPicture' in window)) {
-    const list = root.getElementById('list');
-    if (list) list.innerHTML =
-      '<div class="empty"><strong>Floating window unavailable here.</strong>' +
-      'This browser has no Document Picture-in-Picture support. Use Chrome, Edge or ' +
-      'Firefox on desktop, or build the Tauri app for a frameless transparent widget.</div>';
-    setOpen(true);
-    return;
-  }
-
-  const pip = await documentPictureInPicture.requestWindow({ width: 420, height: 58 });
-
-  for (const node of document.head.querySelectorAll('style,link[rel="stylesheet"]')) {
-    const clone = node.cloneNode(true);
-    if (clone.tagName === 'LINK' && clone.getAttribute('href')) {
-      clone.setAttribute('href', new URL(clone.getAttribute('href'), location.href).href);
-    }
-    pip.document.head.appendChild(clone);
-  }
-  pip.document.title = 'T-minus';
-  pip.document.body.className = '';
-
-  const shell  = document.getElementById('shell');
-  if (!shell) return;
-  const anchor = document.createComment('tminus');
-  shell.replaceWith(anchor);
-  pip.document.body.appendChild(shell);
-
-  root = pip.document;
-  mount();
-
-  pip.addEventListener('pagehide', () => {
-    anchor.replaceWith(shell);
-    root = document;
-    mount();
-  });
-}
-
 /* ── mount ──────────────────────────────────────────────────────────────── */
 function mount() {
   buildSlots();
 
   const news = root.getElementById('btn-news');
   if (news) news.onclick = () => setOpen(!root.getElementById('panel').classList.contains('open'));
-
-  const pip = root.getElementById('btn-pip');
-  if (pip) {
-    pip.onclick = openPip;
-    pip.hidden = _isTauri();
-  }
 
   const ref = root.getElementById('btn-refresh');
   if (ref) ref.onclick = () => loadBrief(true);
@@ -350,9 +292,6 @@ function mount() {
     close.hidden = !_isTauri();
     close.onclick = () => invoke('hide_widget');
   }
-
-  const pageBtn = root.getElementById('page-float-btn');
-  if (pageBtn) pageBtn.onclick = openPip;
 
   paintBrief();
   loop();

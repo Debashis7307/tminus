@@ -91,6 +91,7 @@ body.page{
 .btn:focus-visible{outline:2px solid var(--amber);outline-offset:1px}
 .btn[aria-expanded=true]{color:var(--amber);background:var(--amber-lo);border-color:rgba(255,179,71,.26)}
 .btn.danger:hover{color:#ff7a6b;background:rgba(255,122,107,.1);border-color:rgba(255,122,107,.24)}
+[hidden]{display:none!important}
 .btn svg{width:16px;height:16px;stroke:currentColor;fill:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}
 
 /* ── readout ────────────────────────────────────────────────────────────── */
@@ -168,23 +169,7 @@ body.page{
 .empty code{font-family:var(--display);font-size:11px;color:var(--amber)}
 .empty strong{color:var(--text);font-weight:600;display:block;margin-bottom:5px}
 
-/* ── page CTA ───────────────────────────────────────────────────────────── */
-.page-cta { margin-top: 24px; text-align: center; }
-#page-float-btn {
-  display: inline-flex; align-items: center; gap: 8px;
-  padding: 10px 20px; border-radius: 20px;
-  background: rgba(255,179,71,.08); color: var(--amber);
-  border: 1px solid rgba(255,179,71,.2); cursor: pointer;
-  font-family: var(--ui); font-weight: 500; font-size: 13px;
-  transition: background .2s, border-color .2s;
-}
-#page-float-btn:hover { background: rgba(255,179,71,.15); border-color: rgba(255,179,71,.3); }
-#page-float-btn svg { width: 16px; height: 16px; stroke: currentColor; fill: none; stroke-width: 1.5; }
-.page-cta p { font-size: 12px; color: var(--mute); margin-top: 14px; }
-body:not(.page) .page-cta { display: none; }
-
 /* ── tauri-specific (inline <head> detection sets html.tauri before paint) ── */
-html.tauri .page-cta { display: none !important; }
 html.tauri body.page {
   background: transparent !important;
   padding: 0 !important;

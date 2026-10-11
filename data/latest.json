@@ -1,91 +1,91 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "label": "ranked",
-  "generatedAt": "2026-10-10T22:29:33.751Z",
+  "generatedAt": "2026-10-11T22:52:50.614Z",
   "window": {
-    "from": "2026-10-09T18:30:00.000Z",
-    "to": "2026-10-10T18:30:00.000Z"
+    "from": "2026-10-10T18:30:00.000Z",
+    "to": "2026-10-11T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "A timeline of developments in AI safety since the attack on Hugging Face",
+      "title": "Trump Announces Russia-Ukraine Energy Ceasefire, Zelensky Says \"News For Me\"",
       "summary": null,
-      "source": "ABC News - Breaking News, Latest News and Videos, Bozeman Daily Chronicle",
-      "corroboration": 3,
+      "source": "NDTV, Hindustan Times",
+      "corroboration": 4,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMTduZ0dKenV6eFFMS3V0TFIwc3FwZklpQmpxRnloRGoxblY3LTI1NUdLVnlHcFNsSzFTTkVpSFBKS2RRT21qazNzSFk5TEx4dGlGd2NURUR0R21LRTB0MnpDZy1yNFRVT3RhaTM4M3ZiLVRHYi1MZ0tUZWRXWW81YnFwX1dMMnkyVFlhNnYwS3lOWExNWF9pa3VDX2FZa25xZGNuZ3dSQXBsMHpGSmVJ0gG3AUFVX3lxTE9GM0tYY01LdENXLWl0NjR2ZzRENkVWMlVDN0tWNGtqVjJBM0djdmtjWUotU0dpU3l6MFJ5OF9MdEgyaG9pSmdzanhRaFZKV1RvT3g4R2xnLVJyX1JuaVZBdFlyd3hObDNvUzJ3QU0tYlU1SGp1b2R2Wllja3BpdnVBMVU2YVkzdmg3dVFuTktHVHk3alB2b3J3SHJHQjBBYURrTXJHaHdhVnRYaHdXVWs2d3JabFhyNA?oc=5"
+    },
+    {
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "summary": null,
+      "source": "Business Standard, Hacker News",
+      "corroboration": 2,
       "category": "ai",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRGRPODVqTzJWN283ejIySFZ2eFdGR1c4eDdnQVp2dWhwN1NoOWdfdmhVdXJZMjl2YTVTalBycm9aaUlmMXE0bzRabVFsR0c4QWZ5ODlSd2htSUJrdkU4bHVqdXFibG84T1lyR2pRdXlGd3hpRjVRazNHVXI1WkR1d1NFYVBPMVBqcmhzNUZ6VFVWQ3c1d3dMQzJLSmp3Tkp3YndZUWgyb0FIemdueC1mTWpWanJibmhXTWI2ODhBRVZGZ0dKSFJjaEE2OTUwb0d3VkszbVNKT21jUmlCNjJwQlFQMm56QXRPZDc1ZG5QUmJvbHNZM2MwWVVfVDc1SG01Yk9EOQ?oc=5"
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
     },
     {
-      "title": "India-US Trade Pact To Be Finalised Keeping Changed Circumstances In Mind: Piyush Goyal",
+      "title": "12 Killed, Over 300 Injured In Missile Attack On Saudi's Riyadh Airport",
       "summary": null,
-      "source": "The Hindu, The Times of India",
-      "corroboration": 3,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRUh0ZkVnTzMtZ1laRzNodUxLUlllMVd2dl9NUlg1ZEttWEYtb3lWcWFHLWZmbzdkcTJYYjZNb2FaSkZYbzYzMzByUzRLbVJMb0dfSFJMc2hNRjlmNnp0bWF5d1dfcFlaUUEzTy1DSVh6eThDOWxTa19mMTJZZ29MZVJQdUJkM28wZUFMUzJ6NTdyMUNmQmsyb2MtdDFqVUNFMEhkOEVNSUplTnQ1NTN6bnlIR3c0NC1ScUo1djNCNGJBTXRpZm5lX1lR0gHSAUFVX3lxTE5vdE9sQ3c0RWZ6MTg3XzNSY0ZLY0JwTUtPRG00bElDeTZpOHgyTFhCanhsUlBuMTRoQkYySnFmRUItYWM5d3A2R3dSM1RhZXlSTnIxZEhhY0pHZ0lQdFpWSjh3c3VaVnB4bjVFV0UwRGhQSXlUUXZEd05MTm03NlpUQmkyRGpBOWp6WnZkemZ6a0lNMkFKbDBHQnF4SGpBcl9kVU9RNy1zZHRjbUl3eXFBTTFLVjg3SXdIc2gzd1RRWTlSXzEtalRLQlhKSnRGZENMUQ?oc=5"
-    },
-    {
-      "title": "Missile strikes passenger terminal at Riyadh airport, many wounded",
-      "summary": null,
-      "source": "NDTV, Business Standard",
+      "source": "PTC News, NDTV",
       "corroboration": 3,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZk84ZG5HQWIyTWxCUTcxSTREM2N3SGRVVWw1WGhzQTFUNUhfdXhYY2otcnBoMmw2RzRKY2sxT0hnNVVuMVFGeG52SGxRQXB0UkxEbkVEZjFieFFleGFMZ3NlazNVREsxZUNPQVdHZUZfMG1KdE9GT3NKZ3ZsenF5YndOU1VVM2FGNzlvUW0yZFkwazRRYjdJdUx4MGxMS3MwbVdwN3ZuZWFFTjJvUW9OT1JwTzhnTWtaTXRnWkdpNkNGTjRlMGU2c0dnWdIB0AFBVV95cUxQOXBkSFFIdkN5X0lsVEFCa0pEeWdJS3d5WjN1bG9wT1F6UmVBdV9vcVBrZ3VqUHhFY3VMLXo4eXVpYVAzYktUaVFocS1JVzJQLWZKOVl0am5kQzltRlFEcnd2N28waWs0eC1oeUJ0ZDBUWkcxMUxodkNNMFh0elQwV1QtQktzOG55RkMtZWZGVEcxMTFUZThmSTJJUWxvRXNVeEI1Mmw0cEJUNXRULW9GTVZIRXROU0pyclVrT3Y1VzVMWjVsWGhORFJDandyMGhZ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVnpTdnlPcVlqd25JVVFlOVlXdm82N0lCdnZLU0I3a21IY1Y4aFJ1QTZVcmc0MTJmWWUtS2xxRFRfY1FMYVg2U3ZNSUVHdzlIZEx5UVpOR0Q4N1FGNnZnNmd4MFpXdjBqTWdiM0pub2lUem81cVdrS0V1dTBReS0wM1k3Vi1uUEdTVUp6dXJZZFJPQlBXSmN3U3pFcTVVNGMwaEJtS05MVVp3cnpzYUlNZURMcDBDbE43R1VPbklQcS1oMDhybDViWGZXSDh2cXZDV3fSAdoBQVVfeXFMUG5GLTRRdlo3WkVNbTRNZmNtQUhBNHZZdmdQb2c5QldCandrQ1h2cTlyMFJaUlhBLV9aWUhZa201UmtvV2xuXzdhRzc5VnRraFJvempuZXpYWFM2NmVKTEhqbUhlT2p2Y3Fvb2Y5VWc0Q0tIbWhWcGR2X0RVbXczcW56bkpaWHluYlJjbm5NbU1UMWltcFBXc3MzZVZsd2V2TXljM240Zy0zUWRnUmVRcHNCYjZtMGNzWU5YR0RmTDZxXzVHNjhPc29lWWl5Y3lOcFkxd2hjaW9wYmc?oc=5"
     },
     {
-      "title": "India a democracy, not colony: Kamal Haasan hits back at Elon Musk on satellite internet policy",
+      "title": "India’s Draft Steel Policy Targets 3X Capacity by 2047",
       "summary": null,
-      "source": "ThePrint, Deccan Herald",
+      "source": "Business Today, Dalal Street Investment Journal",
       "corroboration": 3,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc2VtTkJsY3FJdHA2MjVOWElha0FybmtIaURoT0lBUElWSVFiTlhkUW81NUtIczh3anR2Z3hfNXVKZ2tjRlExdVpkYUJ4ODJ5dDI2Wnk3MWdHM2xQTVBWcmhSZlhELVA2UWxLS1BuSm5ILTQxNEt5QXRMV3d4cnV5bzVoMnp5X1JSUm1QY0FKSTVwTmxGa0VHS0l6T1NjcmdLSmhhTDlnZjJiMUUtd01ibG9jd2hfY05NOUJwNHFuOGpPRGlzOVlj0gHMAUFVX3lxTE5iakxPYi1MRDRFeDh2V1ZTdzdGQUlVOUZiX0Zxb2w2T3NZRFpsRXl5VGhadWFiZjVJRWJSMDN5Y2l4NHNaeFpwdjN4Q1d0d1ZmNkp3a19pMzdjRjFiX014bDJpc0UxR0JOQWIyVjY2RjRVWm00dHBSRGdyQzgtZDVTWjFobGhnd1EyWk9Kb0QxY29KRnEwbTVONDBsa081TXBEaTVOajhVM0FpclBTUXI1MWgxV3p4Z2NDTHBLRjdsZFNXVnYwTW50Q1JJZQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMTg0N2pPNFVBWE9PM0NNXzQtbkhPTDl3a2g3ZjhqZGE5YTd0UGUwRWpKS1M4MUNwVEFRaUkzalJ1YWZ4eGY1UzA2cVVGQzlYeGNWMkRzWkdBY0NKVl81ZGtsWWdJZW1temdHMWdva0plMDRhWUhvY21KVmwwRmJvYXZaZzI5NHhPc2NSMEpTckE0YVpEMGE3bVUybUdvMmNTdXl0bnB4Y1RUUDVB?oc=5"
     },
     {
-      "title": "IIT Ropar Awards First Defence Technology MTech Degrees to Army Officers",
+      "title": "“India Won’t Compromise Security for Starlink”: Nishikant Dubey Hits Back at Elon Musk",
       "summary": null,
-      "source": "Swarajya, Bureaucrats India",
+      "source": "Open Magazine, ANI News",
       "corroboration": 3,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90dW1kT19iRVUwbUNfa3F5N1ZoUmp2UjAtUFNJLXI0c2FqN041dkFkVWVZajdXMUgxaDJyNGZmdm5pUVUtUkhKd3RkYnpfejJZZHFtM1BlNzRwOElBMlRDOEUxSnlVZmF6QU94SUI0bXdPX0N0MElUWUVPTV9qZ3M?oc=5"
+    },
+    {
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
       "category": "tech",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVjJTQjN3WFFaX085b1AzSDFaYk5xNmRRNmRPUEl6cDJ4ZHlza210b3VUTVFReGFZUDdjRVR4UE4xZktBaHppZHFJYmpvNS02NF9nZnViQ3hTS0ZvTHZsTy1UdnV5X3ZkNmZRcXNtNDE5cS0tTE1nelN4VFNyYkZWUFNzeTFQRVdRbl8wVmU3V3VnZ041SWZEUjJ2ZnA?oc=5"
+      "url": "https://nanolathe.gg"
     },
     {
-      "title": "London to host annual AlBaraka Islamic finance summit",
+      "title": "NYC's \"Click to Cancel\" rule is now in effect",
       "summary": null,
-      "source": "Anadolu Ajansı, Yeni Şafak English",
-      "corroboration": 3,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Hamhwak1RdTRwc0ZfTWRQNHZLX2IzaXNucmI1bnV2MmFxbldITTlSYVRJdjlOeEVkOEhfRURlNEVPUTRBOEVpelFqN2haSlhJeEdEeWp2YWNJYWd6MVVZZUswWURRek9OUFFKbnZfSlJVWk9YUXoxRzUxMS1ybkE?oc=5"
-    },
-    {
-      "title": "EXCLUSIVE-Sequoia-backed chip startup Nuvacore raising funds at about a $2.5 billion valuation, sources say",
-      "summary": null,
-      "source": "Reuters, Devdiscourse",
-      "corroboration": 3,
+      "source": "Hacker News",
+      "corroboration": 1,
       "category": "tech",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVFVYQ2ZtQWx5V1BaZ0cxQTlwQTZObm1TM3ZsVF94dy1KM2c0dFM2R1JoZkt3ekwyRnEwSHlGblZ5TEloMjVnbXlwQUVEa3pYenBYcmJSajlnanAyX01HYmZJd0VJd0xhblp2dG1yLUsyQjVpQ1BJWnBZc2F6UmY0bGJFaFRIa0U1cDVyMUozRjBVZVlqb0pfeG9IcUZ5YlRmT1BMWjRuZUR5ZW5LVkQyQ3YxUjQyVDZYRjFHZGZ1WjNxZ0dRWklhWm1WUXk3bllWM1J4SF9EYWtLajlkUVJkSGc2NzcwRThCVnFucnROVmR3VUt3Ql9mS0lRZ9IB-wFBVV95cUxNVFVYQ2ZtQWx5V1BaZ0cxQTlwQTZObm1TM3ZsVF94dy1KM2c0dFM2R1JoZkt3ekwyRnEwSHlGblZ5TEloMjVnbXlwQUVEa3pYenBYcmJSajlnanAyX01HYmZJd0VJd0xhblp2dG1yLUsyQjVpQ1BJWnBZc2F6UmY0bGJFaFRIa0U1cDVyMUozRjBVZVlqb0pfeG9IcUZ5YlRmT1BMWjRuZUR5ZW5LVkQyQ3YxUjQyVDZYRjFHZGZ1WjNxZ0dRWklhWm1WUXk3bllWM1J4SF9EYWtLajlkUVJkSGc2NzcwRThCVnFucnROVmR3VUt3Ql9mS0lRZw?oc=5"
+      "url": "https://www.nyc.gov/main/click-to-cancel"
     },
     {
-      "title": "Bitwarden Dual License Model",
+      "title": "Build your own decision model",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750"
+      "url": "https://nishtahir.com/build-your-own-decision-model/"
     },
     {
-      "title": "From 'cockroach' post to protest leader: India's Dipke tests Modi government",
+      "title": "India sees new protests after ‘Cockroach’ leaders are released",
       "summary": null,
-      "source": "Reuters, Devdiscourse",
+      "source": "The New York Times, NBC News",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUlJCSFh6OG5QTEg4RDQ3aHA5clp6XzF0RkUyQ3J0TnVtVzZ6Qy15N3BGNDJodkxDOUZYc21ob1d0bEVHQlNaeUhsUTNTZGxLX29oalQyRGdvREhyQzJNblN0cWU3aVUyTFhkMUtQeXBBcU1EVmdHd05MUDByZHNEemRHNE1vQTg5Q1dyOXp3a3RTYk9KX0lYbDhCYWV0QXVMb3g4VnBJaDJlUGFMMTk2Rk8yQTBsV28ySDY0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmhPUFhTWTQwbFdzYTgtTXFmRVF5aS12UTBmdkxIVVJLM0ZJVFNmR2VDMzBPTE1xa3ZIdXlLbk5nRDFQQW1lRFllSmdhWThSNm1sc3p2cElsYnNMcDQ4WldOdmt2YkJDYmh5VWU5TjFpMllKcVlkamVtR0tEYy1ka1dWZ2lJeXhieXhTYlJuX2xjODlqUkE4UW9PU1B0X3JOVDRNdA?oc=5"
     },
     {
-      "title": "25 Shoolini University Researchers Recognised Among World’s Top 2% Scientists",
+      "title": "Susanna Fletcher Greer: The V Foundation Scientists Driving New Discoveries in Cancer Research",
       "summary": null,
-      "source": "Cityairnews",
+      "source": "Oncodaily",
       "corroboration": 1,
       "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM19RRUR5aUh3cGNTSVpzLWFnUC03RDdmSVFDclQxWkVvZjlFYno4am0xMEdFeHRqUER6bi16MXRYVWY0eTEwSkxKYjI0U2JEblBZUFBDZVEzdUZwSFFwQW1mREtuUzMza1I3cGdmRHBwcE53VW1PUW1FY0ZacEVJWm1ub05jVFJEZ053YkJpMVhHdUtUSDhKSHJheDQyQ3RaNlY4eXBzMS1yQWNMU1RKOQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SdEtLQnFUN25Rdm5yMGtHZzJJenBkRlJydnRmd0FzS0FDQ294UC1aN2NPQUxkOFBMS29IZEVHYU8tQ18tbjlBX1RURzRfNGtTelVFcHYwS2JHdVExeHV1VkZhbFF5Q3NSUUE?oc=5"
     }
   ]
 }

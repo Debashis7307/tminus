@@ -1,91 +1,91 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "label": "ranked",
-  "generatedAt": "2026-10-11T22:52:50.614Z",
+  "generatedAt": "2026-10-13T01:19:24.539Z",
   "window": {
-    "from": "2026-10-10T18:30:00.000Z",
-    "to": "2026-10-11T18:30:00.000Z"
+    "from": "2026-10-11T18:30:00.000Z",
+    "to": "2026-10-12T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "Trump Announces Russia-Ukraine Energy Ceasefire, Zelensky Says \"News For Me\"",
-      "summary": null,
-      "source": "NDTV, Hindustan Times",
-      "corroboration": 4,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMTduZ0dKenV6eFFMS3V0TFIwc3FwZklpQmpxRnloRGoxblY3LTI1NUdLVnlHcFNsSzFTTkVpSFBKS2RRT21qazNzSFk5TEx4dGlGd2NURUR0R21LRTB0MnpDZy1yNFRVT3RhaTM4M3ZiLVRHYi1MZ0tUZWRXWW81YnFwX1dMMnkyVFlhNnYwS3lOWExNWF9pa3VDX2FZa25xZGNuZ3dSQXBsMHpGSmVJ0gG3AUFVX3lxTE9GM0tYY01LdENXLWl0NjR2ZzRENkVWMlVDN0tWNGtqVjJBM0djdmtjWUotU0dpU3l6MFJ5OF9MdEgyaG9pSmdzanhRaFZKV1RvT3g4R2xnLVJyX1JuaVZBdFlyd3hObDNvUzJ3QU0tYlU1SGp1b2R2Wllja3BpdnVBMVU2YVkzdmg3dVFuTktHVHk3alB2b3J3SHJHQjBBYURrTXJHaHdhVnRYaHdXVWs2d3JabFhyNA?oc=5"
-    },
-    {
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "summary": null,
-      "source": "Business Standard, Hacker News",
-      "corroboration": 2,
-      "category": "ai",
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
-    },
-    {
-      "title": "12 Killed, Over 300 Injured In Missile Attack On Saudi's Riyadh Airport",
-      "summary": null,
-      "source": "PTC News, NDTV",
-      "corroboration": 3,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVnpTdnlPcVlqd25JVVFlOVlXdm82N0lCdnZLU0I3a21IY1Y4aFJ1QTZVcmc0MTJmWWUtS2xxRFRfY1FMYVg2U3ZNSUVHdzlIZEx5UVpOR0Q4N1FGNnZnNmd4MFpXdjBqTWdiM0pub2lUem81cVdrS0V1dTBReS0wM1k3Vi1uUEdTVUp6dXJZZFJPQlBXSmN3U3pFcTVVNGMwaEJtS05MVVp3cnpzYUlNZURMcDBDbE43R1VPbklQcS1oMDhybDViWGZXSDh2cXZDV3fSAdoBQVVfeXFMUG5GLTRRdlo3WkVNbTRNZmNtQUhBNHZZdmdQb2c5QldCandrQ1h2cTlyMFJaUlhBLV9aWUhZa201UmtvV2xuXzdhRzc5VnRraFJvempuZXpYWFM2NmVKTEhqbUhlT2p2Y3Fvb2Y5VWc0Q0tIbWhWcGR2X0RVbXczcW56bkpaWHluYlJjbm5NbU1UMWltcFBXc3MzZVZsd2V2TXljM240Zy0zUWRnUmVRcHNCYjZtMGNzWU5YR0RmTDZxXzVHNjhPc29lWWl5Y3lOcFkxd2hjaW9wYmc?oc=5"
-    },
-    {
-      "title": "India’s Draft Steel Policy Targets 3X Capacity by 2047",
-      "summary": null,
-      "source": "Business Today, Dalal Street Investment Journal",
-      "corroboration": 3,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMTg0N2pPNFVBWE9PM0NNXzQtbkhPTDl3a2g3ZjhqZGE5YTd0UGUwRWpKS1M4MUNwVEFRaUkzalJ1YWZ4eGY1UzA2cVVGQzlYeGNWMkRzWkdBY0NKVl81ZGtsWWdJZW1temdHMWdva0plMDRhWUhvY21KVmwwRmJvYXZaZzI5NHhPc2NSMEpTckE0YVpEMGE3bVUybUdvMmNTdXl0bnB4Y1RUUDVB?oc=5"
-    },
-    {
-      "title": "“India Won’t Compromise Security for Starlink”: Nishikant Dubey Hits Back at Elon Musk",
-      "summary": null,
-      "source": "Open Magazine, ANI News",
-      "corroboration": 3,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90dW1kT19iRVUwbUNfa3F5N1ZoUmp2UjAtUFNJLXI0c2FqN041dkFkVWVZajdXMUgxaDJyNGZmdm5pUVUtUkhKd3RkYnpfejJZZHFtM1BlNzRwOElBMlRDOEUxSnlVZmF6QU94SUI0bXdPX0N0MElUWUVPTV9qZ3M?oc=5"
-    },
-    {
-      "title": "Total Annihilation, rebuilt for modern computers",
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "tech",
-      "url": "https://nanolathe.gg"
+      "url": "https://github.com/openai/codex/issues/48195"
     },
     {
-      "title": "NYC's \"Click to Cancel\" rule is now in effect",
-      "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "tech",
-      "url": "https://www.nyc.gov/main/click-to-cancel"
-    },
-    {
-      "title": "Build your own decision model",
+      "title": "'AI' Is Not a Tool by Rich Hickey",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://nishtahir.com/build-your-own-decision-model/"
+      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e"
     },
     {
-      "title": "India sees new protests after ‘Cockroach’ leaders are released",
+      "title": "Just say no to OpenAI and Anthropic",
       "summary": null,
-      "source": "The New York Times, NBC News",
-      "corroboration": 2,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmhPUFhTWTQwbFdzYTgtTXFmRVF5aS12UTBmdkxIVVJLM0ZJVFNmR2VDMzBPTE1xa3ZIdXlLbk5nRDFQQW1lRFllSmdhWThSNm1sc3p2cElsYnNMcDQ4WldOdmt2YkJDYmh5VWU5TjFpMllKcVlkamVtR0tEYy1ka1dWZ2lJeXhieXhTYlJuX2xjODlqUkE4UW9PU1B0X3JOVDRNdA?oc=5"
-    },
-    {
-      "title": "Susanna Fletcher Greer: The V Foundation Scientists Driving New Discoveries in Cancer Research",
-      "summary": null,
-      "source": "Oncodaily",
+      "source": "Hacker News",
       "corroboration": 1,
-      "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SdEtLQnFUN25Rdm5yMGtHZzJJenBkRlJydnRmd0FzS0FDQ294UC1aN2NPQUxkOFBMS29IZEVHYU8tQ18tbjlBX1RURzRfNGtTelVFcHYwS2JHdVExeHV1VkZhbFF5Q3NSUUE?oc=5"
+      "category": "ai",
+      "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/"
+    },
+    {
+      "title": "AI coding agents generate more code, but not more software",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
+    },
+    {
+      "title": "Thinking will become a hobby",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://www.spinellis.gr/blog/20261008/?li261008"
+    },
+    {
+      "title": "Muse Wonder",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://research.meta.ai/blog/muse-wonder"
+    },
+    {
+      "title": "A Modern Web App in C",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c"
+    },
+    {
+      "title": "GLM-Legal",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://z.ai/blog/glm-legal"
+    },
+    {
+      "title": "Feds got warrants to use fake cell towers to hunt down Don Lemon's producer",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/"
+    },
+    {
+      "title": "French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html"
     }
   ]
 }

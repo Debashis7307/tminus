@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-12",
+  "label": "ranked",
+  "generatedAt": "2026-10-13T01:19:24.539Z",
+  "window": {
+    "from": "2026-10-11T18:30:00.000Z",
+    "to": "2026-10-12T18:30:00.000Z"
+  },
+  "items": [
+    {
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://github.com/openai/codex/issues/48195"
+    },
+    {
+      "title": "'AI' Is Not a Tool by Rich Hickey",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e"
+    },
+    {
+      "title": "Just say no to OpenAI and Anthropic",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/"
+    },
+    {
+      "title": "AI coding agents generate more code, but not more software",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
+    },
+    {
+      "title": "Thinking will become a hobby",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://www.spinellis.gr/blog/20261008/?li261008"
+    },
+    {
+      "title": "Muse Wonder",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://research.meta.ai/blog/muse-wonder"
+    },
+    {
+      "title": "A Modern Web App in C",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c"
+    },
+    {
+      "title": "GLM-Legal",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://z.ai/blog/glm-legal"
+    },
+    {
+      "title": "Feds got warrants to use fake cell towers to hunt down Don Lemon's producer",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/"
+    },
+    {
+      "title": "French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html"
+    }
+  ]
+}

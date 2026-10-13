@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-13",
+  "label": "ranked",
+  "generatedAt": "2026-10-13T23:16:13.510Z",
+  "window": {
+    "from": "2026-10-12T18:30:00.000Z",
+    "to": "2026-10-13T18:30:00.000Z"
+  },
+  "items": [
+    {
+      "title": "India grows with the world, not at anyone's cost, says PM Narendra Modi",
+      "summary": null,
+      "source": "Business Standard, The Hindu",
+      "corroboration": 4,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMGpuS2JhaUFfcVJIX2lVS1hfRU8zWGF5bVFXRWNYRjhTX3VLaFBYQjNVXzZTcDhNMXdWU182TFdPVGx4T1pVaUJqZ2RHQk9NN05fTi1xZ2FyNDJZVllTOHdCcDA5X0d4ajVmMmVtbF81NWhXWnNIaHNrYlFybk1IcExUTExFV3pKZnB0cWRHZHZtdUVtWHE2QkdsMnh4ZTZOekNtVFphYzFZZHdHeTdDb0hQemVxMzZMUVBEWDNMWkFlWWVFZW5jSE5GVXQwNW0yS2fSAdcBQVVfeXFMUHVMazJBVVh3elF4TVVMbDA5ZW40T0IyS19hX2lQTVdnVHpqc1JJZGEzVVB3azVrUEthcWhFVE1kcnpKSHJPenVObElrZjJBZDlaQmU3MDdMRk53di1BSkh4MWZLbHJ0ZGpsbUhDTzMycFNBcGRTNGJSMHhaN3BnTGIwalliZXJnaTVXdEQzV21XSHEzUDBYdVpmQXZ0OUlTMTE5amNrR1hfaFI2YVlWaHZTejIxa2dVNERhWjI4bkZvdVctZjN1R0MxNzUya3Eydlg5Si12THM?oc=5"
+    },
+    {
+      "title": "The Surprising Way Artificial Intelligence (AI) Chatbots Are Giving Walmart's Business a Boost",
+      "summary": null,
+      "source": "Yahoo Finance, The Motley Fool",
+      "corroboration": 3,
+      "category": "ai",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX0psUEFLQU5HLUx5UFRmZHNqak0zdmxpRFJQVnRDVFcyUzFoVzJDT2MxSFNlUVBPWGM3YXhOejBwRGdIZmZhakhSaHZ4N0RaR3hkeDZfN3J3SnkxV0Q4LURyb2VVS2FST3pGMGkzcE1ZcDB6bW9qMTIxNUZ3bVdweFRIcDkyYV93MDAyZno0SXVJODhiMjB6YWlLWmJtZmJwSDk0ZXpwMWg?oc=5"
+    },
+    {
+      "title": "IMF Raises India’s Growth Forecast to 7%",
+      "summary": null,
+      "source": "India Business Trade, The Pamphlet",
+      "corroboration": 3,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UdFlQN3dUSWhudm9RUXIzTmhucFIyd25Wckh6RmUyM0ZNUTg3bmJFQUkzU2pJbHJLcWZDTmFibi1aV2NoeXZLX2VEQ3NFOGV3VVg1QUw2eWZsZ2o4Q2V6ZXdndWJIaGNiR3pGV1htSGV5VnZDVTU1RTNwa3M?oc=5"
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://deepmind.google/models/gemini/"
+    },
+    {
+      "title": "The United Kingdom generates less electricity per person than in the 1970s",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak"
+    },
+    {
+      "title": "Thunderbird for iOS",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/"
+    },
+    {
+      "title": "Hyundai Motor to Invest $15.5 Billion in India Through 2032",
+      "summary": null,
+      "source": "The Hindu, Bloomberg.com",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMy1DSTk2Skltb29aQ0ZTd0FyZ1puUi0zM3JGUVF5YlNDYnk0dkRLMVJRd1hCR0g4Sk4tZDMxNk9xZVVMMlNxU1JCbGUwRlZWbnNnYVBWY3ZtdmY1WEZXbHVKSVJ2TE9sUjVGZ1Q0RUFtRTZPM0FKRmQ4UjZyeDFPQW9fU3dhX05QaGVGMml6X0FTZkhRbkN6M3RXQnN1SWZ0a1BSU2FNS1dvLUQtYkE?oc=5"
+    },
+    {
+      "title": "Citi allows Saudi-based employees to work remotely amid conflict",
+      "summary": null,
+      "source": "Banking Dive, Yahoo Finance",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcUhQSEpzN3MyZmk1OTlFdnJpUmlxSzV6U2FjN2JQbzlocWFTZVdFS0h5dENOanBzWkRtNjV6Yy1Fb3pZQlctLV83UnI5Q1RENGlfaFpDMm9jTmNHbDFJcVg0a0l1Z1lDWlAwZy1qTzEyakxUTDZUR1NadXlfTTdNYUZRLXB2VGNDaHhmX04tSFF0SlFTNmtiSmJYYnZPTUFuMzlzZA?oc=5"
+    },
+    {
+      "title": "Lunit and Discovery Life Sciences Collaborate to Expand AI-Powered Tissue Analysis for Biopharma Research",
+      "summary": null,
+      "source": "PR Newswire, BioSpectrum Asia",
+      "corroboration": 2,
+      "category": "science",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOTU3RU9aRFNndUJGUTNkYmliSG5hUFRNS09fS1FnM2hkc0IwUE1vWGFDS1ZHVkc3VjZEWDk1ZWZCeHhaV2Vncy1vVUFwVlB3NDkxb2JLSEc1bi01LWVMaVBmdmJ6ZlIxWnRwa0Y0ZmxSb0t5V3pBTlVkeWU5X3k5SjRLVWpxN3BjNllHQnBfNmIyT3d6QUVtbjhPZXE1ekpYZGQ5clJIV2J5SHc4Wmlrd1AtWG9VVFZTdXlHUWRfT3hMSXlhQW9veWw0TjlFNnZaMVNaSnNuSzN6RnBWWkh6b3ItYWhiNUZ0Mkg3NHF2bWdLaTA?oc=5"
+    },
+    {
+      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+      "summary": null,
+      "source": "BBC",
+      "corroboration": 1,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZZElSX2gzUXlxUHoyNTNSZkRvaW9SaFo4eDlnNGI2R2pKR2k5OGg4YzFpS0V5ZVFpWVR3SlFmSGVmMWNuWUczeUxodmhiazA0NmthcHhHNEVKNjQ?oc=5"
+    }
+  ]
+}

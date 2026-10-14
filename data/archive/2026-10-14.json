@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-14",
+  "label": "ranked",
+  "generatedAt": "2026-10-14T22:17:20.910Z",
+  "window": {
+    "from": "2026-10-13T18:30:00.000Z",
+    "to": "2026-10-14T18:30:00.000Z"
+  },
+  "items": [
+    {
+      "title": "India Plans Data Centre Policy as Power and Water Concerns Grow",
+      "summary": null,
+      "source": "Reuters, The420.in",
+      "corroboration": 4,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zX04ySzd2TGVYY1JWdE5Hei1sSGQ5Tmg1QzNZck5DbXQ2MGlmSmdTdHItTGxPSDlmUzJhaTlBS1plR3lNNGQ3Wk1hWUpVcnJ2MFFrXzdBaEVvbXpqMmRIR0w3LXdRMEFKR2hIU0p1Wno4TW1kbFhGd3VDelpCQQ?oc=5"
+    },
+    {
+      "title": "See the world in vertical: Top photos by AP photojournalists",
+      "summary": null,
+      "source": "AP News, thecanadianpressnews.ca",
+      "corroboration": 3,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcXYyem52elluMkFFbzZPeHhqY0Z2NjFvV0stSXVrUjYwVkdaeWtRSXVkRzN1SS1JMGV2NjBZd0huQXZ1eUNfclREcnBuRF9zbVdZenBmeGZhVVNHU0J2TU1oQ0tYZWg2S0ZteWVfRGJyWDFWVTVvQnJtbUFTMU5rN2ZndEtNNzBPa3Y3MWF4bVl2ejB2UWw1cmhvTkFUZ1k1RU1WTTQ2Yy1fWTRTY0pFeTJCbEhOZw?oc=5"
+    },
+    {
+      "title": "Sheikh Hasina slams Bangladesh PM Tarique Rahman for skipping BRICS Summit, calls move ‘immature’",
+      "summary": null,
+      "source": "The Hindu, ThePrint",
+      "corroboration": 3,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd2RWV3VjOGNIUWVfb3RjWnVLWWYxdzdwbEt5cTFNTVNGWHBMdTNQbDJuX3FsX0NXXzZGV3JZUUpvNWlpY3FvQUtXT0ZvRjZ4Rnhra0hvMVE1VW42eDlGQ0VQWmNiYVpWejc3TzNTb21PQzVKN2dmdEg4VEl5Nm04MFZHTFczcFFFS0V5LU1BdVpzRmctQVAzRDBfd2ZRQTJDcFJwZzhGUHd4dUhPQ2RScVFwNlZ4SXZycXNkdHNPTlRLeVM2cnRPS9IBzgFBVV95cUxQMlVhUDhUWVNtYkNqcEk0VmVEV1p6bUtFTkxuT1J6M3lMWEZxVGgzbFltVnBzVzZZZFdoQ2tTYUtXRFN5RkRtdllCOXlFODNseVMzMzd2b3JtQjJQWmFBdmxTbW51ZUdDeUtVTlMwV29zVDlyMlZPclplQ19xVGVhY2I0eDZrbS1wX1d0Y1p0cWVodGQzS3pibnJrdlRyYjR2ZlcwLWktMHJYS3paaUJtSjdDaWlZR3pXN3N0R2F1Nm9DX2JyZXBQVUhWRDRRUQ?oc=5"
+    },
+    {
+      "title": "Revrag AI Raises $2.5 Mn In Seed Funding Led By Accion Ventures",
+      "summary": null,
+      "source": "ET Entrepreneur, BW Disrupt",
+      "corroboration": 3,
+      "category": "tech",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNlByWDk3enlGdEhlUUpaT1h5LVBOdVZmUzhiUjRZYldNTVBFQ3c2amYzdnJJOElDamNmU0QxTllZN1MwQWYwejZsUTZFaTZKdWF6WkVjZHUxMmZoc1NGYklGbzBISFFSNllVb1dsWEVzX0s1WHVjTmFnR1kwOEx0VzlVSmxyUWtzZTdONDdVY3F3b2xEMDhtNGFweG5yR3lmUFVWR2lwdw?oc=5"
+    },
+    {
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
+    },
+    {
+      "title": "Better HTTP/1 connection reuse in Go 1.27",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://go.dev/blog/http-connection-reuse"
+    },
+    {
+      "title": "Why do LLM pelicans look like this?",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/"
+    },
+    {
+      "title": "India's ultra-short-term borrowing costs spike; premium over policy rate hits 4-year high",
+      "summary": null,
+      "source": "Reuters, TradingView",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSFFWMFhibGsyRjktUjVkeEZjX1RRUExhOV9xdXhES0dKZXF0dGFveWZVYjJubGcxSndrb1kxblB3d0FVSnBBVjlkWXhDRU9mUFMwYk9Cd0Z5cVR3VktESEFIc3FLYWhaX0owTjVNUW9SNzlXRkt6eVo2VXdGVGpTWWRmczc0NUNMOTMtdzRHQWVESUtpSDctWHg2NHdscG9hamsxODV1eExxUkZLXzY2aUh3bTdXdGRUMUtXaDNQQ1JCT1E?oc=5"
+    },
+    {
+      "title": "Sheikh Hasina calls Tarique Rahman's decision to skip BRICS Summit in India ‘immature’",
+      "summary": null,
+      "source": "Telegraph India, CNBC TV18",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa05KVUJMTXIyOE4tc0xkM2tYQUowR3E1UzVtYjlKcWd5M3ljbU03T1ZhTE5WLS1ReUpHcU9IWEUxMlh0YUI5aDBFek5VZ1hoMVFFdUMta09LcVVmR0tLNU5lRElxUk0xQUpjSVpfVWhqU1hlYUtTcU1vYWJ4V2QzU2g4ZW5NM0xVdlFycGE4YzgyWV9VcjhkQXZ0R24xMzc1Y0FiVEJXT3huajE5SWhJYUUwbkFxek5zYkVUQjhXVkhjYzRSNlHSAcsBQVVfeXFMTm54V2M1UWttY3RMUVBVRGUxc1B0RmpXLU1OSUdMZXQtUVJfS0JkSGx3WDEwLUp5aGRlNEZjT1JLLW1QeHR2bjFPQkZfSVRYUC15bU9hUHAzdXhZY3dXTjNkR1ZIWDF3SnNad0w5Wk14eGFHdXBUdWZvTWF5RnJsdHJObjZwblp4ck12UTlhaVVHZXoxSTdUWnNtb0dRT1huUFhlZnV2S05fRmNHR2JrSjdzb01BZV9OQmZvbGNPSjZqdVRQeUZFZlFGazg?oc=5"
+    },
+    {
+      "title": "USU Teams Up With Utah Startup Company to Advance Retinal Disease Research",
+      "summary": null,
+      "source": "Utah State University",
+      "corroboration": 1,
+      "category": "science",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcENNMWpjTktUSXFENTltOURsSVA4clBmd2syZGotTUc1SndWV2pnOXZybFhqclBaeGtZbFM4RkpfWmZJU09pNjctbDZYYXlZV0xSQkJGcWd5TGstTFNVaXU1aVROcTVFOEFUeHJWMEFvWEIxYkVybVdVYWdXdktxbXlSb0xyeHNaY0NadjBZMmREejlzal9CYmFCNTlFcGowT3FSOEl3NmNKUQ?oc=5"
+    }
+  ]
+}

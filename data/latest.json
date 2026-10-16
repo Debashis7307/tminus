@@ -1,91 +1,91 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "label": "ranked",
-  "generatedAt": "2026-10-15T22:14:40.509Z",
+  "generatedAt": "2026-10-16T22:05:01.996Z",
   "window": {
-    "from": "2026-10-14T18:30:00.000Z",
-    "to": "2026-10-15T18:30:00.000Z"
+    "from": "2026-10-15T18:30:00.000Z",
+    "to": "2026-10-16T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "EU and Gulf states postpone summit due in Saudi Arabia",
-      "summary": null,
-      "source": "Reuters, アラブニュース",
-      "corroboration": 5,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOck10ZlptWXBhUE9nbDNFb1dWa0xGMXRRaC1wR29SZjVIbnVlMmJBZmI4ZzE3OG9RbjhCR0VjYUNVX0xyU0p0WkZFbEtfcjg3aFRyXzFSWjczRWU4WUx1NW9TWW1yZmNpUGQwLUdaNmlTSXdqMll5RVRzb3lZOWdPanhNNmN1QzFUNWMtUVktRzdFS0VQaGZSSW9CY18wSk9YVlNV?oc=5"
-    },
-    {
-      "title": "India’s exports jump 23 pc in Sep; trade deficit narrows to USD 30.21 bn",
-      "summary": null,
-      "source": "The Hindu, ET Government",
-      "corroboration": 4,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWjFuNUdMblhaSlM2UTBkX3lhNHVuZXJWRDFTbHFzUjdoMk54RmpyeXlZYjQzTmhaU2lISVNJV0xiVEV1MnR0eDRMeXFHaW4yb3V1YWh1WVpSU3dGU0hHc3R0QV9BRlRWbUZrejhFbFFDNjVqdzR5cC13eDNod2trT3E5VmNPNTNic3YtQ2FaRm9GNi1JcEpLZnZLOGlISEdicTlZYk1hX3M0MGvSAbABQVVfeXFMUHY1Wk1JYklhREl0UTQ0Nlk4dmtPeVhuWXhTYmFxdWcybjByWmJwM1Bqdm5mTUlvYm9YOThpclVST3lhT0ZWa3RTbjFrZVEtSGMzMUROQ2Q1OW9JVTVSb3JwYXVHaEpoODNnbzVSVlBzMDJjVFZ3NWY4MFdmTHREUnNTc1pvY05hcFdKemN6RVhsWkszRXZNZU9SLUVwYVVzTXkwMU4yMWVMWUY5Rkp0Tkg?oc=5"
-    },
-    {
-      "title": "Cosmochute Raises $1.5 Million in Pre-Seed Funding",
-      "summary": null,
-      "source": "Indian Startup Times, Indian Startup News",
-      "corroboration": 4,
-      "category": "tech",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWmg1Nm53WGx6M3ZQand4aF9TbHA4Ti1mcEpsekxEa3BybDNOeDJydURBMGJGU0lOQjhDTzRvVW5hU2FCWUNxYzVHUG1PN0oxc1VUNzR0XzEtV20zRGRFbUtXUnhncVBSM2RNcmJ0d0J2bXY2eS1RckpRRGkyR3owb1NCdTlOSnpzRDhMU1kyb1l2aEdDUmNqdE1hUFNVczRSWDFSaUQwTmNFSmc3VUVvQm83QlRvZVE?oc=5"
-    },
-    {
-      "title": "Shamrock AI Raises $5 Million in Seed Funding Led by Endiya Partners",
-      "summary": null,
-      "source": "Indian Startup News, Indian Startup Times",
-      "corroboration": 4,
-      "category": "tech",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdXVmcjY3VGZwRTJDX1pYSGxuOEFoWHg5dmpFSlVURG5CVGVOQ2JxdDlTejJ1YURVMXk2NGpPVXhvZnNlMVdpc0ZKZ2FLdXBDZ0J4MzA1dUhVVWJHYllnMHZBMHY2N0ltMmQ2TlMyajFIQjBnOU0yMmVaUm1EWGV5YmNTd2poU01xVXZvVWFsTHRXZkpnRHRjSVZJWDNHeWZPX3FHR3E1ZlRoWnhwekFWV0oyZGQtTDE5cHl6MS1xcjRiVVJSWjAwNHBPZ3M1NU1kelE?oc=5"
-    },
-    {
-      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-      "summary": null,
-      "source": "EurekAlert!, Hacker News",
-      "corroboration": 2,
-      "category": "ai",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qWVlUMHJlRDVnd0Jydk5KR1BqNEhRd2EwSHhoQVFXRm1HejhGRmFkTklYZVctMmRTTDYxWFk3QUR1bGtHaFhGTEhacG55eXhIcXZCaE9hNTNUU2tH?oc=5"
-    },
-    {
-      "title": "Jio eyes big share of India's digital economy: Akash Ambani ahead of IPO",
-      "summary": null,
-      "source": "TradingView, Business Standard",
-      "corroboration": 3,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd04wMFdmYm9iOWQwRkZVNGlfS1pNblF1MncwaXl1V0FnWll6cURyRHVKc0xDSEE4WWZ5RlR3SVFjaERjUGJBMzlOWmhEa0k0ODNTY3htMjVrazdXYTFuVWhQTjYyZU5zYl9MUWhOWVIxYnoyQzBiZW1zSXFtSUh3R1RMblB5cTRtSFFPLUVRZ21wVTlpNU95NzBJWkdNQ0lXYkw4RGVFMmkzcGQwX3c4MFRPbHNmOXg1V28tbDBQa0VCazBRSkpDblFIUjBmUdIB0wFBVV95cUxOY1ItSFZiZEZtOXRpUnAzeW53Ukd3Z0N5SlFkUVRMVGtLVzBhejF6Q0NuVFNFZzQwR0tzeFBzTF9YY1N3MldfX1o3SDV4N29wUjJZU3lVc0xPT3gzcEdPcWJRZzg0RjlFaDlySXhLcm1uNmtHY0hfQXlucjhMYnRXc0FNY2RHNzNmQUxWd0xYZnNwdy1IUU54ZW5SYmNHY3o3M094SFpvS3JHVzNxYkdlb1hUVWxwWEgzajlsV2VDS2pwTVZOOGJMYmItYXJiVXZYRU8w?oc=5"
-    },
-    {
-      "title": "India expected to overtake Japan as 4th largest economy in 2027: IMF",
-      "summary": null,
-      "source": "The New Indian Express, TradingView",
-      "corroboration": 3,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb3ZlYnVhajFra2JiSVYyeDVCUlk2YVVWcTVlUGhiMkdWMmIzWUU0R2llN1R1ZWQxdVdpS0xNREN2TzJ4UlJ4RjNoR2FnZTIxcXd3djc1N09BQTd2Qk1xUlVBVENRd1I0LWRYX2E3MjNoSkpMdmtHOUZOVkZGczdyQnZlSkJKTEpGRldBaXdDRzh4OUc1Q09YUm1RcWRocHQtalRpSl9xVG9XM1QwdnhzOHdJeFVJc0XSAbwBQVVfeXFMT2ZNWWI4S0FTb3RXazhWZzU1OFUzXzIwMXhocFY3TXd3Si1wSmt1ckJ0azMxeTgwQUYwOWNFRGIxUGEtZHdqNl8zTzdlblNOUVV1TlZyOTV1cGFSTENUZ0JqOWYxS3F0N0tlRzVVS3p6UXJtT0dwcnpPbV9xOFUwZHpJR2JKZzdmQmtISWRDTWtsdFZUMWJGSEtTU2o0T2pyaDVrU04tVE1IUlp4aURqREMxR3hNd3R6N2RkRkI?oc=5"
-    },
-    {
-      "title": "More on Anthropic's Scion ripping off Mononoke",
+      "title": "Anthropic assigned highest junk credit rating in June",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://sunshowers.io/posts/anthropic-mononoke-2/"
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d"
     },
     {
-      "title": "34 children, teacher killed as school roof collapses in Pakistan",
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "summary": null,
-      "source": "NDTV, Hindustan Times",
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/"
+    },
+    {
+      "title": "Desire to Move Permanently to U.S. at New Low",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx"
+    },
+    {
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/"
+    },
+    {
+      "title": "Non-tariff barriers biggest hurdle in India-China trade: Sitharaman",
+      "summary": null,
+      "source": "The New Indian Express, ThePrint",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd1RwZUdKdWZGcTUzdTJvWkV1Z2pFeVlIdmdhUUJKaHQwZlZlcmN2MTM5blVVU2tDcV9lVUlOX0EyQ1NwaDlEeEFlZVpLTHExc0hPemZ5THpxQzJUVnR3X2ZabWNoMHF1elpQb0hGSWRZNFRiRTREcHAyc2Qwb3BwNkVEX1Q2My1ZYnlMR1VoS1BRa1hrajV5RDdKd1BxOUdhamtjNjloVGtoQmtVRmxpdU4wQ1BZQjllNGlWZtIBygFBVV95cUxNSjF3SjJRTnhyYTlXVnlwMENTSEUtWngxalpKcEZ6RDRzLUItYXphY2g5SVY4anBrZi0tTF81QWhMdGpVdVdXMDlpNmk2YWxyT18wd1haZkdhNlBGYVlBQU85WVQxejdkVnJzWGNxcWZWWVBOLXd0eUFXd0RrTU8xdDZlNGl4cHBSSkZGTm5OdUFzZlBOa1V4Y2xDVks3Uk8zS25uRzVQUlFadUprUHZCdkVBeXJzZlRveE1MV0VjeExFVVBiNFZqUjdR?oc=5"
+    },
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "summary": null,
+      "source": "TechCrunch, unknown",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRGlBOUVmSHdlby05aHhjczE1TjJVREdhMzJvazFUMTVWX3hoNHpJbklpSm9hcjkwc3cwSktlejVqX3dVNG5LdTZMdXJWc2VxSE1rLTUzeFZITjF3YnlZTFl3LXdjanl6RF9rT04xWGtzMHFtQkRUMjhxZXJMdXRUc2Q2dGdtRE9tVFlGWXRWSUJjMXF0YnZpMFRFZFdDQ0I5clFB?oc=5"
+    },
+    {
+      "title": "Deepti Sharma, debutant Niki Prasad rescue India after top-order collapse against Zimbabwe",
+      "summary": null,
+      "source": "Olympics, The Times of India",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPY1BQVzlEOGhRb2dDSUJCVVp4Z3p6WndFRGs5ZWg3YVBmYU1TcEs0X0ozSldiSFNnUkhzenBJSmliUG5iR2R3VmJ4WE9QZHJ4eWtEUk5meFdESFctazBXRGtPQTNUWFV6WkZYcEo2M0gyNWlyT1RYV194T0M2ZDdsMkpGMnpNdTVWRzZET0ozOGVMcG9tZU1CNE1XTmgxczc5Q1NMSHU5TlFaUzA0QzBCMkJ4RXViSWJma2RKZFNZTkl2UUs5QVVRNXdlNTRhV09WWjEtRWI4RFktMlpMS0hRTEg0eXVjRnVjeXJ3ZVNfVnFSWjVhMWJQUm1SLWIzTjJ10gGGAkFVX3lxTE5WLVlYVHNSM201bXAzY0dFWUZZR3VlTGt3U0xtcE0yOXdkUXF0TFhic204dFhmdjI5SzZKUnFOcm54STE0R0R5dnpuVjFSY1ZKcjh1VnFlcDZlTWZEV09STmxrWGQ0dVdScVEyREFrZ1hOT1NhNVpVeDd5YlZYd3VCTWRLbS1fXzVnRkdZbFR2cWhzcjJMeTdvbG1JM1FkQzh2dVUyZzdraDJhUlpVcFY4SGkwNV8yUFBqTG81RHhfdXpxX0pZY3BrVjRlaHk1bDhEZUtGc2lvRGt5Q0NRelZjX3dHRE9kdklkbjljNjRyTld6cFFfQjdmMFRVRGxOd2RDZlh3REE?oc=5"
+    },
+    {
+      "title": "Iran president says conflict in Middle East amounts to ‘ecocide’",
+      "summary": null,
+      "source": "アラブニュース, Arab News",
       "corroboration": 2,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbW1ZX01MMy1uWGNNc0RoTllURndsZ0F2OFdQeHNFWHgyUVdIS0dubnpUNEo2ZjkyS0RuUjRQXzhkeXlkVmtiek83X1BYVWl6dnhqdl9YTE5PMlBkOTVsdlhuWUFoWEtCT3NhSnU0WTIwbXJHMHRBWTNTYzkxVE9yLXVVeG9JLUllOTBMYjczZEpha3JBampYUmZ2TENMZGxuYlJFS0ZvVExIZUJlYjFFbV9rRmVRU0N4VVlTYVZrbG1fQzV30gHKAUFVX3lxTE9jR04wYW5NWkg5UEVEUl9DcndHVW53S1BXYTJ2S2R0SVV1UnJmY1FaM3A1b3JfblBza2hmbDdUQUVkc3FUbE5OS2gtRVBKYXJUN3RNUFhWV2lwTlppNVhaMGxnSXdPRnM4OXBWMzZJcGpZRS0ya3BlSVVQdVJjV2tuaElncklLMkNVbWxYSjZtMUJwS2FRVGdYWm5VZ3RtQ2Y4UjVhd3VLbk9RQUgtZ19tN2JmOFFvSnRsMmFEZTZDN1JHS1Z4ZnU0ZVE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWlN1V3k2ZUNtQkVvbFB0VWF5UkNodVBNTWx5S3I5N0s3dFQ1X0cyaTlQel9uY2dDTl9LQjJJR3Q2RnRTcllDT0tmOVZxSWFBS0hscUlaYUZjMldSZkRVMjNHRGtZcFhUUzNHX2FwZlJ2b1M2WnVZc3Y4SEFwbVU0RXBMb2pGVDRjQzZGSDB4TmJJamkxem9neW9qajk3SVdxMHB1dThLOE1FX2lHSkE?oc=5"
     },
     {
-      "title": "AU undergraduate research team selected for national advocacy program",
+      "title": "Indian authorities crack down on 'cockroach' movement",
       "summary": null,
-      "source": "Augusta University",
+      "source": "Sky News",
+      "corroboration": 1,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbzRhQkFEeXIzdUJxT3lSN0dsUmJCcHF1M3VHcTdJN3pYU2F4bGpJM092aE1ZSmprLTFWbFBnWTROcW5Nd19LUG9OYy14RTdtcnZpODFMdzE0a1pmMmhPcl9BX1hOcUozMk1ZYndYck0ySzFZN0xGbmoxdGlVdTI3MnZ0Y0ZITFdCXzVxT2g4VXM?oc=5"
+    },
+    {
+      "title": "In an era of smooth-talking chatbots, how do researchers find trustworthy answers?",
+      "summary": null,
+      "source": "American Physical Society",
       "corroboration": 1,
       "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOHhOMHV6aGlyZ2Zpa1JGVnI2bGRNaElISENrbFpkb29JT01WTXJIZXcxYlI0dkpZSlpPMld5V0ZCZTRndWROS2F4QmlCOWFvVm90dlJLM1M3UEozbXVYRFpfUS1jaUp4a2lYYW1fdGVxcFo2WlZmTVNabllvQzBxd2tCVTl5ZkVxX291cUNPejg0YkFMMlRzaG1jTHlxcTA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOEtxcjVCTXFkQ0RPVFNfX0w0Z25JUllIU3FPaXFPZ0hDbFJXX1YxdDNJeXl5aDR1LTBiWHN4U3lRb3hRTUtKVng2aXVQRDZzTm5JVkRWSnluQXUycWhNSWd3bWNFcmw2NmJvcjV1YlFaVHRDNEI1Y3ZZa0dDa2JiSTN5elB5cGs?oc=5"
     }
   ]
 }

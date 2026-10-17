@@ -1,91 +1,91 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "label": "ranked",
-  "generatedAt": "2026-10-16T22:05:01.996Z",
+  "generatedAt": "2026-10-17T21:26:16.150Z",
   "window": {
-    "from": "2026-10-15T18:30:00.000Z",
-    "to": "2026-10-16T18:30:00.000Z"
+    "from": "2026-10-16T18:30:00.000Z",
+    "to": "2026-10-17T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "Anthropic assigned highest junk credit rating in June",
+      "title": "India’s space economy projected to reach $45 billion in 7–8 years: Jitendra Singh",
       "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "ai",
-      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d"
+      "source": "News On AIR, DD News",
+      "corroboration": 6,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEgwZk1udE9BalBZcXZFcHBOdWZhWHRLeGpKcnRwam1DaWZhaFJ3ZDMxcUJ4X1p1X0VpdWFTWVpoZjA3bmlkMFJXTm5HSDM4M0JJUjZqT3NDQUV6MnJWOXRRbVNyZUhUR2VydFRrcDdTWEdhRXM3QkVELVNJMHZGSkFYc25PV1ZCR0lmdHJ4TEVtLTYyMkl4SXpUSjVHdXhCTU5TRFlObm83aWwwQXhiV2RUbVRxcm1uTklUY2pJa0thdm8?oc=5"
     },
     {
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "title": "Israeli Settlers Attack European Diplomats In West Bank, French Mayor Beaten",
       "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "ai",
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/"
+      "source": "NDTV, Hacker News",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmhKLTczSi0zbEZPMzNSOTYtYVpMNHBkS1JTTTJpYUN1NnA4N3hpMl92UFFoam0tdDdzRnFtbWowOVlPVWVSWm5wOVhUaTNTTzFkeTQzRWYxMFNPd1JMTW1jLW1Ialh3d2d4YlN4ZTFxUDJGazhNSHRvMThQOTlMMFQtbWhaM0w1QVQwdXREeVNZWFNLbGlpYWhlN3RSam1KUkNFRjJYTVdicEFmQVpIQUZ5NjloLXPSAb8BQVVfeXFMTzJNajFCZml0M0dkNEk0ZUpQempYdlhNTzZZdHNDZFBCRllRNjI1cEpjSl9tQldCSnhkd3ZEblhZVWFPSEVQSXM5Qm5rUFNkNEFVWGdhZUtzcUY0VTBSWFZtOFJrTTdVcVZuV04zVmFsNi1CWFoxVzFhS3RHZzZFZHpwRFZXU1YyekZWQTNHM0xmdTUtQk9LTkkxeTc0Z2JCcjkzVklBdGZUaGpZa2czY0IzQUk5ZjFBeEs1WlZBUmc?oc=5"
     },
     {
-      "title": "Desire to Move Permanently to U.S. at New Low",
+      "title": "Super Intelligence",
+      "summary": null,
+      "source": "Salesforce, Hacker News",
+      "corroboration": 2,
+      "category": "ai",
+      "url": "https://www.si.gov/"
+    },
+    {
+      "title": "North Korea says it tested new torpedo system with AI capabilities",
+      "summary": null,
+      "source": "The Hindu, ABC News - Breaking News, Latest News and Videos",
+      "corroboration": 3,
+      "category": "ai",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOHNUS1phYkZVd1FtRktfNDF1QlZYWVpORTl3LUpwT3V0Z2Q1UF8yNlF6NGhiZFR4NnZWUnRSeXJEWTZia1RoYllYenRIS1pRbThMaU1xRXB4Z0VzSnprbFFSaGsxZllQQ3dndTRnclVQdzRxNlVycVdzNURQVVIxMVdSb0pFZGFid3NHZTU2LWdCcFZMeUF4SUczSXZRUEJabU9aYkhOVzg3S0E4YmViUWVBcUJYb3B3bkcyelpVSWtQNS1mRkZrR1lFM29sMV9HdHlSY3NrV1fSAdgBQVVfeXFMTzhzVEtaYWJGVXdRbUZLXzQxdUJWWFlaTkU5dy1KcE91dGdkNVBfMjZRejRoYmRUeDZ2VlJ0UnlyRFk2YmtUaGJZWHp0SEtaUW04TGlNcUVweGdFc0p6a2xRUmhrMWZZUEN3Z3U0Z3JVUHc0cTZVcnFXczVEUFVSMTFXUm9KRWRhYndzR2U1Ni1nQnBWTHlBeElHM0l2UVBCWm1PWmJITlc4N0tBOGJlYlFlQXFCWG9wd25HMnpaVUlrUDUtZkZGa0dZRTNvbDFfR3R5UmNza1dX?oc=5"
+    },
+    {
+      "title": "China Proposes Export Controls on AI Technologies",
+      "summary": null,
+      "source": "TNGlobal, Digital Watch Observatory",
+      "corroboration": 3,
+      "category": "tech",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMjh5b1NsdWxQRXNwXzlLSi1pLU8wdlIxVEc0TU1Md0hLM1FUdEVvcnhPa3d6bFBHc2VtY1UtRzZITnI1eVlzWGYyelBocjBsRXpBa1NlVjBwMmplX2Zhd0tUSWJDUmFGQVhIVVQ2UzlxN25ZdUFHbTFXejJqM3NWOXduVDhtdmZ4R0FiM2NoaVRtMzFRZjV3?oc=5"
+    },
+    {
+      "title": "OpenCode Hacked: User credentials leaked",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "tech",
-      "url": "https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx"
+      "url": "https://twitter.com/opencode/status/2111516673953935833"
     },
     {
-      "title": "JPEG XL vs. AVIF for web use-cases",
+      "title": "At least 17 killed in stampede at Hindu festival in eastern India",
       "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "tech",
-      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/"
-    },
-    {
-      "title": "Non-tariff barriers biggest hurdle in India-China trade: Sitharaman",
-      "summary": null,
-      "source": "The New Indian Express, ThePrint",
+      "source": "Anadolu Ajansı, Daily Sabah",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd1RwZUdKdWZGcTUzdTJvWkV1Z2pFeVlIdmdhUUJKaHQwZlZlcmN2MTM5blVVU2tDcV9lVUlOX0EyQ1NwaDlEeEFlZVpLTHExc0hPemZ5THpxQzJUVnR3X2ZabWNoMHF1elpQb0hGSWRZNFRiRTREcHAyc2Qwb3BwNkVEX1Q2My1ZYnlMR1VoS1BRa1hrajV5RDdKd1BxOUdhamtjNjloVGtoQmtVRmxpdU4wQ1BZQjllNGlWZtIBygFBVV95cUxNSjF3SjJRTnhyYTlXVnlwMENTSEUtWngxalpKcEZ6RDRzLUItYXphY2g5SVY4anBrZi0tTF81QWhMdGpVdVdXMDlpNmk2YWxyT18wd1haZkdhNlBGYVlBQU85WVQxejdkVnJzWGNxcWZWWVBOLXd0eUFXd0RrTU8xdDZlNGl4cHBSSkZGTm5OdUFzZlBOa1V4Y2xDVks3Uk8zS25uRzVQUlFadUprUHZCdkVBeXJzZlRveE1MV0VjeExFVVBiNFZqUjdR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUnZvRFFlQUxsa0R2ZlhHZy01Z3BkeTJES0RXNW5Na2dvejgxQTVhZElHbnZQYUZrcEpTdnBiWXdXY1VSN2xUN0EycEJsNzFfTTJ5c05xN1JFWmdRUDNDdUVqLUJmaUVfZ25yQk8xaGZlRGZ0VGJYQU9DNTl1ZTRzYm1WWExFRmJoaWZSblpLYmFOeERVak1IRXFMZUJ4ejFELUIxZk8zbVU0VmtyVUx4Ng?oc=5"
     },
     {
-      "title": "India becomes the latest country to report rogue AI agent activity",
+      "title": "India news: CJP founder released a day after detention",
       "summary": null,
-      "source": "TechCrunch, unknown",
+      "source": "DW.com, Reuters",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRGlBOUVmSHdlby05aHhjczE1TjJVREdhMzJvazFUMTVWX3hoNHpJbklpSm9hcjkwc3cwSktlejVqX3dVNG5LdTZMdXJWc2VxSE1rLTUzeFZITjF3YnlZTFl3LXdjanl6RF9rT04xWGtzMHFtQkRUMjhxZXJMdXRUc2Q2dGdtRE9tVFlGWXRWSUJjMXF0YnZpMFRFZFdDQ0I5clFB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcTBIYlJONS0xSjZSR20zeFlhQ0NtNU5DSEJTTFAwZzFnVkU4djhMdzkzcG1BeWFnc2tFcDh0UWNvWHVPUjlaSXNtRG9QMmRzb1VuQURGUEhvNTR1WTJwc08wcWZ5R1dzbU02UG55aEVzZmZzekxjWDA5UmdNaUROSFlvMldwcnRhbm14T1BsTFlGX1k?oc=5"
     },
     {
-      "title": "Deepti Sharma, debutant Niki Prasad rescue India after top-order collapse against Zimbabwe",
+      "title": "Inter move clear at Serie A summit with Bologna win",
       "summary": null,
-      "source": "Olympics, The Times of India",
-      "corroboration": 2,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPY1BQVzlEOGhRb2dDSUJCVVp4Z3p6WndFRGs5ZWg3YVBmYU1TcEs0X0ozSldiSFNnUkhzenBJSmliUG5iR2R3VmJ4WE9QZHJ4eWtEUk5meFdESFctazBXRGtPQTNUWFV6WkZYcEo2M0gyNWlyT1RYV194T0M2ZDdsMkpGMnpNdTVWRzZET0ozOGVMcG9tZU1CNE1XTmgxczc5Q1NMSHU5TlFaUzA0QzBCMkJ4RXViSWJma2RKZFNZTkl2UUs5QVVRNXdlNTRhV09WWjEtRWI4RFktMlpMS0hRTEg0eXVjRnVjeXJ3ZVNfVnFSWjVhMWJQUm1SLWIzTjJ10gGGAkFVX3lxTE5WLVlYVHNSM201bXAzY0dFWUZZR3VlTGt3U0xtcE0yOXdkUXF0TFhic204dFhmdjI5SzZKUnFOcm54STE0R0R5dnpuVjFSY1ZKcjh1VnFlcDZlTWZEV09STmxrWGQ0dVdScVEyREFrZ1hOT1NhNVpVeDd5YlZYd3VCTWRLbS1fXzVnRkdZbFR2cWhzcjJMeTdvbG1JM1FkQzh2dVUyZzdraDJhUlpVcFY4SGkwNV8yUFBqTG81RHhfdXpxX0pZY3BrVjRlaHk1bDhEZUtGc2lvRGt5Q0NRelZjX3dHRE9kdklkbjljNjRyTld6cFFfQjdmMFRVRGxOd2RDZlh3REE?oc=5"
-    },
-    {
-      "title": "Iran president says conflict in Middle East amounts to ‘ecocide’",
-      "summary": null,
-      "source": "アラブニュース, Arab News",
+      "source": "NDTV Sports, RFI",
       "corroboration": 2,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWlN1V3k2ZUNtQkVvbFB0VWF5UkNodVBNTWx5S3I5N0s3dFQ1X0cyaTlQel9uY2dDTl9LQjJJR3Q2RnRTcllDT0tmOVZxSWFBS0hscUlaYUZjMldSZkRVMjNHRGtZcFhUUzNHX2FwZlJ2b1M2WnVZc3Y4SEFwbVU0RXBMb2pGVDRjQzZGSDB4TmJJamkxem9neW9qajk3SVdxMHB1dThLOE1FX2lHSkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ29WOEQwQWFwMWR0eWR4d1ZQTWVaNi1yVHl3bUVXUXp5cUVlaGJGOHZmSDF6c2JaMjZfZWdxMTl6S205MEVJd1g4WHFMLXNrQ1hvOUJIYW9QRm1fRkJ2eGMxZUZObGZ3TFhTanhHSzBlalgteEZidk8wOFBjRm1GN1o3TU9FSE9VcmZ6VHFwdlNNc2pL?oc=5"
     },
     {
-      "title": "Indian authorities crack down on 'cockroach' movement",
+      "title": "Scientists Uncover Dual Role of Brain Cells in Cognitive Decline with Age",
       "summary": null,
-      "source": "Sky News",
-      "corroboration": 1,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbzRhQkFEeXIzdUJxT3lSN0dsUmJCcHF1M3VHcTdJN3pYU2F4bGpJM092aE1ZSmprLTFWbFBnWTROcW5Nd19LUG9OYy14RTdtcnZpODFMdzE0a1pmMmhPcl9BX1hOcUozMk1ZYndYck0ySzFZN0xGbmoxdGlVdTI3MnZ0Y0ZITFdCXzVxT2g4VXM?oc=5"
-    },
-    {
-      "title": "In an era of smooth-talking chatbots, how do researchers find trustworthy answers?",
-      "summary": null,
-      "source": "American Physical Society",
+      "source": "SSBCrack",
       "corroboration": 1,
       "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOEtxcjVCTXFkQ0RPVFNfX0w0Z25JUllIU3FPaXFPZ0hDbFJXX1YxdDNJeXl5aDR1LTBiWHN4U3lRb3hRTUtKVng2aXVQRDZzTm5JVkRWSnluQXUycWhNSWd3bWNFcmw2NmJvcjV1YlFaVHRDNEI1Y3ZZa0dDa2JiSTN5elB5cGs?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVHNaYmlKRURPNl8xU1VxdHh4UEhqNGhSckFuYmNleFhHaDBXSlB1VEh1VUoyM3JidVRjYWdubkt4TGVacEhTRldYcUcwVEFKeURodl9rZHJTTlhGWGd5aURDenlyX1Vyd3ZoMEZ2S1A0ME5Ldlo3UUxxUG9jbThUM1J4SWEtZ0UxeVFBajZlMFVxZ09WSUNrRzdiNnhTeUVwcXc?oc=5"
     }
   ]
 }

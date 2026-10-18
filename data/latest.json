@@ -1,91 +1,91 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "label": "ranked",
-  "generatedAt": "2026-10-17T21:26:16.150Z",
+  "generatedAt": "2026-10-18T21:30:14.826Z",
   "window": {
-    "from": "2026-10-16T18:30:00.000Z",
-    "to": "2026-10-17T18:30:00.000Z"
+    "from": "2026-10-17T18:30:00.000Z",
+    "to": "2026-10-18T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "India’s space economy projected to reach $45 billion in 7–8 years: Jitendra Singh",
+      "title": "Rajnath Singh to represent India at SCO Heads of Govt meeting in Tajikistan",
       "summary": null,
-      "source": "News On AIR, DD News",
-      "corroboration": 6,
+      "source": "The Times of India, The Economic Times",
+      "corroboration": 9,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEgwZk1udE9BalBZcXZFcHBOdWZhWHRLeGpKcnRwam1DaWZhaFJ3ZDMxcUJ4X1p1X0VpdWFTWVpoZjA3bmlkMFJXTm5HSDM4M0JJUjZqT3NDQUV6MnJWOXRRbVNyZUhUR2VydFRrcDdTWEdhRXM3QkVELVNJMHZGSkFYc25PV1ZCR0lmdHJ4TEVtLTYyMkl4SXpUSjVHdXhCTU5TRFlObm83aWwwQXhiV2RUbVRxcm1uTklUY2pJa0thdm8?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMjNGaTZRdVdaaEpTYkdZWGpCZ2QxMUZMYkpTSy1kbGRzM0hhdVRBTktiMmg0M3FNeXlQZ2ZDZWtOeXQtNnhfUGQwcmJiZjVmUjI1UzBPZlI2ZDRvX0VqTDE3aDl5WTNjZElsdkE0aWd6aEEzSHVlbGw2X296cG45RUJVQUxyMVJBTk0tb2V5NC1GOTRyZHVnVWRYVUVMc21yMWIySEVxbVI4d0F2ZHJzSkZJdTFwaFJGbmVuX0NvRktmaThlVUNEbHlUa3NPdjVsZnhGUmRGTdIB3AFBVV95cUxPWnV2aDkxQlJVbnpoM183YXBWRzlrR0VST3lEaXZsVGN5YjF4dUhZV2IwTTZoMkJ6Z1ZSbFFyZFI4YkNQSGhDOU9LUGg4d2F1ZEdjcTQwVVA1Y0xsNDVoLXpya0Z2WXFPY25fVmsyMF9vZFZDT1ZPV3d5c0o0SDkxbllkVXpTMWpkMDVJM0c4SWIxVmRneXFpaUhESjhnaXpqLWhsRlBjQ3ExRzhUUEdla3g2aW41el9oN29SdlBXUWJ1cG91dTFNZ0xqX1pzRTIwN2JqczFpUWJWOHdT?oc=5"
     },
     {
-      "title": "Israeli Settlers Attack European Diplomats In West Bank, French Mayor Beaten",
+      "title": "Rajnath Singh to Represent India at SCO Meeting in Tajikistan",
+      "summary": null,
+      "source": "Open Magazine, News On AIR",
+      "corroboration": 6,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUN4QWFtMTdOUU1UWFdpa2lkQjFvUGJOQmQzRUVrTHYxYUxWX2owcG1TMWItQUNJdFYtZ2dkcW9kVFFXM25oVFJCQzZDdXJiN1FPNkdvZUxjTmZqRU4zaC1uUXJwZmNaem81TVdfTGNXbVdJeDh4cFF6RFhKTUJKaDBVNV9UdWpJYnlieVpiRXpSOThDR1ZRYllsVmZPODhCaEdFQ0R3enRod3R00gGyAUFVX3lxTE10RkdzZjFnZFFRVmo4WGprVDVTV094UW5GMFoxdUw2SUF5ZkJIY0tiamNwS3dqa3hIZHE3TXpVSFB2S0pIdGd5cVRZWVZYYWxVWm5TSjRQUkFVNHZra2xzNjU4MklyUERBc0M3ZUlkT1laWkRyanQ2OTVzc3BiTm1yZlBoMUtibFpLSDZuZkdQeWlNNUVnWUg1REctM1VpOFBqVUROZXRXbDVib0xOUmxKYVE?oc=5"
+    },
+    {
+      "title": "India’s space economy could reach $40-45 billion in 7-8 years: Jitendra Singh",
+      "summary": null,
+      "source": "ET Manufacturing, News On AIR",
+      "corroboration": 6,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSFR4T3RSR3loM3JTeXB6cUhHdlBiNGxTdkJ1VTE4NnFiTUZUaHZmdVE1LWdETkJKOTNtRlB2T05WSG9vbWtLZXM1Q040eDdhUjlJSGhuZ0JIVmRIX05IVjNrWGFOT0MwMl8xNENSa0xJTkdfdUpER012anB0cjJkQ0FIa1ItVDF1eTl6VF9aaHp5SlM4U0UtOVRSXy05VzZHRkprTEtaUlN4SFlxN1pSS1JRRlQyQ0RERUI5elJLeHN3cTZOWFdjYkMwa1Nha1BBdzJ2bVYwTVAzbGMwS1VJWWNuS0JHSUh3M0c1aHY0ONIB9AFBVV95cUxNemFUZUtGYmxjeWxILUs2Y18xYVBrb2p5alF2eUp6V09vajZpbEJWYUJnbnh6cTMzTmVyT1pGV280aEFPOUNpNm8wMTBDSW13YXFlTGpsV2syWlE2YkxNZjJaelY2NWR3RGgwblR5QnVkSm9ZRkRqenlTeXVaUkp3R01OUUF2a2R5WGhUellJSGwtcmE1U2c1c211OTVFVkFmSnpQMDZJLXNTcjFzR2hDam9neWxjNER2VU1qWWY3RjRJWVQ4VzVJdmFoN3lUMVdHMHdxcGFNUnJIeExJWnZVVm96N2RJc0JDb2pzSm42eXFVSHRM?oc=5"
+    },
+    {
+      "title": "China proposes export controls on 23 AI technologies",
+      "summary": null,
+      "source": "Reuters, ET EnergyWorld",
+      "corroboration": 5,
+      "category": "tech",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcHh4V0lQMXFqSkJzYnNWYTJrZWU1UXNLZ29XZjBLLUJBcGxpX3lVSmVJSGxYWHlDQmRuSDM5NFNjWHdiaHZYQWV5SDdPWldfVmRvMXNpVkg1OGpUUElFalczZUpWZjhVWWIzRU9RaVlETW9aT2VzUWNQYXRUUXlSa2d3?oc=5"
+    },
+    {
+      "title": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict",
+      "summary": null,
+      "source": "Reuters, ThePrint",
+      "corroboration": 5,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaUsxbVVqQ0FFUl81U25IbG1NaXhrNzFqZzIzaFpRUVhKbF9rYlZoMXg1Z3NzYjR1TEtkeHNCU1BrOWs4ZXR5VHFqMTBoX3VjSV9FRV9neGVDSkdUNWIxMlNhZWRJbldocDM5Q2hiMXYxUXpHVUJqWkkyOEF5OGNBNWduQXFPMXp6VXhYRjUyNmsxaV9pbXJhS29uVGh6Tm51emp4S3YtdmI5c21HZE9HeFkycENlNGxHRUlJd29YWkxwRF85eXc?oc=5"
+    },
+    {
+      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "summary": null,
+      "source": "unknown, Hacker News",
+      "corroboration": 2,
+      "category": "tech",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything"
+    },
+    {
+      "title": "Israeli settlers attack European diplomats in the West Bank",
       "summary": null,
       "source": "NDTV, Hacker News",
       "corroboration": 2,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmhKLTczSi0zbEZPMzNSOTYtYVpMNHBkS1JTTTJpYUN1NnA4N3hpMl92UFFoam0tdDdzRnFtbWowOVlPVWVSWm5wOVhUaTNTTzFkeTQzRWYxMFNPd1JMTW1jLW1Ialh3d2d4YlN4ZTFxUDJGazhNSHRvMThQOTlMMFQtbWhaM0w1QVQwdXREeVNZWFNLbGlpYWhlN3RSam1KUkNFRjJYTVdicEFmQVpIQUZ5NjloLXPSAb8BQVVfeXFMTzJNajFCZml0M0dkNEk0ZUpQempYdlhNTzZZdHNDZFBCRllRNjI1cEpjSl9tQldCSnhkd3ZEblhZVWFPSEVQSXM5Qm5rUFNkNEFVWGdhZUtzcUY0VTBSWFZtOFJrTTdVcVZuV04zVmFsNi1CWFoxVzFhS3RHZzZFZHpwRFZXU1YyekZWQTNHM0xmdTUtQk9LTkkxeTc0Z2JCcjkzVklBdGZUaGpZa2czY0IzQUk5ZjFBeEs1WlZBUmc?oc=5"
+      "url": "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0"
     },
     {
-      "title": "Super Intelligence",
-      "summary": null,
-      "source": "Salesforce, Hacker News",
-      "corroboration": 2,
-      "category": "ai",
-      "url": "https://www.si.gov/"
-    },
-    {
-      "title": "North Korea says it tested new torpedo system with AI capabilities",
-      "summary": null,
-      "source": "The Hindu, ABC News - Breaking News, Latest News and Videos",
-      "corroboration": 3,
-      "category": "ai",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOHNUS1phYkZVd1FtRktfNDF1QlZYWVpORTl3LUpwT3V0Z2Q1UF8yNlF6NGhiZFR4NnZWUnRSeXJEWTZia1RoYllYenRIS1pRbThMaU1xRXB4Z0VzSnprbFFSaGsxZllQQ3dndTRnclVQdzRxNlVycVdzNURQVVIxMVdSb0pFZGFid3NHZTU2LWdCcFZMeUF4SUczSXZRUEJabU9aYkhOVzg3S0E4YmViUWVBcUJYb3B3bkcyelpVSWtQNS1mRkZrR1lFM29sMV9HdHlSY3NrV1fSAdgBQVVfeXFMTzhzVEtaYWJGVXdRbUZLXzQxdUJWWFlaTkU5dy1KcE91dGdkNVBfMjZRejRoYmRUeDZ2VlJ0UnlyRFk2YmtUaGJZWHp0SEtaUW04TGlNcUVweGdFc0p6a2xRUmhrMWZZUEN3Z3U0Z3JVUHc0cTZVcnFXczVEUFVSMTFXUm9KRWRhYndzR2U1Ni1nQnBWTHlBeElHM0l2UVBCWm1PWmJITlc4N0tBOGJlYlFlQXFCWG9wd25HMnpaVUlrUDUtZkZGa0dZRTNvbDFfR3R5UmNza1dX?oc=5"
-    },
-    {
-      "title": "China Proposes Export Controls on AI Technologies",
-      "summary": null,
-      "source": "TNGlobal, Digital Watch Observatory",
-      "corroboration": 3,
-      "category": "tech",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMjh5b1NsdWxQRXNwXzlLSi1pLU8wdlIxVEc0TU1Md0hLM1FUdEVvcnhPa3d6bFBHc2VtY1UtRzZITnI1eVlzWGYyelBocjBsRXpBa1NlVjBwMmplX2Zhd0tUSWJDUmFGQVhIVVQ2UzlxN25ZdUFHbTFXejJqM3NWOXduVDhtdmZ4R0FiM2NoaVRtMzFRZjV3?oc=5"
-    },
-    {
-      "title": "OpenCode Hacked: User credentials leaked",
+      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
-      "category": "tech",
-      "url": "https://twitter.com/opencode/status/2111516673953935833"
+      "category": "ai",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model"
     },
     {
-      "title": "At least 17 killed in stampede at Hindu festival in eastern India",
+      "title": "Websites are closing their doors to AI agents",
       "summary": null,
-      "source": "Anadolu Ajansı, Daily Sabah",
-      "corroboration": 2,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUnZvRFFlQUxsa0R2ZlhHZy01Z3BkeTJES0RXNW5Na2dvejgxQTVhZElHbnZQYUZrcEpTdnBiWXdXY1VSN2xUN0EycEJsNzFfTTJ5c05xN1JFWmdRUDNDdUVqLUJmaUVfZ25yQk8xaGZlRGZ0VGJYQU9DNTl1ZTRzYm1WWExFRmJoaWZSblpLYmFOeERVak1IRXFMZUJ4ejFELUIxZk8zbVU0VmtyVUx4Ng?oc=5"
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
     },
     {
-      "title": "India news: CJP founder released a day after detention",
+      "title": "Scientists’ preferences may hold back animal science discoveries, per a study",
       "summary": null,
-      "source": "DW.com, Reuters",
-      "corroboration": 2,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcTBIYlJONS0xSjZSR20zeFlhQ0NtNU5DSEJTTFAwZzFnVkU4djhMdzkzcG1BeWFnc2tFcDh0UWNvWHVPUjlaSXNtRG9QMmRzb1VuQURGUEhvNTR1WTJwc08wcWZ5R1dzbU02UG55aEVzZmZzekxjWDA5UmdNaUROSFlvMldwcnRhbm14T1BsTFlGX1k?oc=5"
-    },
-    {
-      "title": "Inter move clear at Serie A summit with Bologna win",
-      "summary": null,
-      "source": "NDTV Sports, RFI",
-      "corroboration": 2,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ29WOEQwQWFwMWR0eWR4d1ZQTWVaNi1yVHl3bUVXUXp5cUVlaGJGOHZmSDF6c2JaMjZfZWdxMTl6S205MEVJd1g4WHFMLXNrQ1hvOUJIYW9QRm1fRkJ2eGMxZUZObGZ3TFhTanhHSzBlalgteEZidk8wOFBjRm1GN1o3TU9FSE9VcmZ6VHFwdlNNc2pL?oc=5"
-    },
-    {
-      "title": "Scientists Uncover Dual Role of Brain Cells in Cognitive Decline with Age",
-      "summary": null,
-      "source": "SSBCrack",
+      "source": "Inceptive Mind",
       "corroboration": 1,
       "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVHNaYmlKRURPNl8xU1VxdHh4UEhqNGhSckFuYmNleFhHaDBXSlB1VEh1VUoyM3JidVRjYWdubkt4TGVacEhTRldYcUcwVEFKeURodl9rZHJTTlhGWGd5aURDenlyX1Vyd3ZoMEZ2S1A0ME5Ldlo3UUxxUG9jbThUM1J4SWEtZ0UxeVFBajZlMFVxZ09WSUNrRzdiNnhTeUVwcXc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQUxVQXN6RGNxU0pJZm1LZXl5UFNjV3dqclYzMXYzbnRRaWRBdEhhU2RtV0JDYzAxajk3OU9CZUt0ZTZRaGctUHd5c3NzZTNJWmliQ24xbVR2b2dUV2N2WXRMY2hWVHV1NkhPTGJGUk4wbVlBT2JQMmpRNS1LQV9tMEhwWncyQS11X2JjZ2pVRlVCWndJRGJLcUt2T0RScXE5dHN6MklXTXRjTGgtVHFF?oc=5"
     }
   ]
 }

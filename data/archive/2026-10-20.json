@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-20",
+  "label": "ranked",
+  "generatedAt": "2026-10-20T22:16:44.962Z",
+  "window": {
+    "from": "2026-10-19T18:30:00.000Z",
+    "to": "2026-10-20T18:30:00.000Z"
+  },
+  "items": [
+    {
+      "title": "AI chip startup Tenstorrent more than doubles its valuation to $6.2 billion in funding round",
+      "summary": null,
+      "source": "Reuters, ET Manufacturing",
+      "corroboration": 5,
+      "category": "tech",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZEZuZHdVV1dZN3BpaFczenc4QkhZYjdjblNqRHd5UnllS3otOS04MUtCYjJtejZYbENlaE9nUFljbmdJN1RDaEdxZkxpSlhoMlMxdFhYWmdGaW4xejVjZ2hwS0U3b2lJNUJRUVRvak51Mzk4N3B0M3duMGQydWtYNHUwMG43d2hNS21mYV9jcXRQSjdRRFRXZkZPdVRmaUV1dlE4cEhQN18xcE9Yb1ZnTkF6Y3g4OU9waG1yV0dvOHBnM0lldTczYjgzVmdtTEd1UGxVNVdGYVhfNVpR?oc=5"
+    },
+    {
+      "title": "Students learning leadership skills at summit in Stevens Point",
+      "summary": null,
+      "source": "KBTX News 3, WLBT",
+      "corroboration": 4,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ1RaeUZzdkNGRnNELWNMN3pHdG9nNjJTQmpvWkZTMElwbWZneU1sZEF3VlpPRVZaWUw1NFJUUmhzd215XzZJM3F4QXN1NzZ0VjlkYkpCQk9qbFI1czlEYVNubnZEWG1kbnRVY25pd254Q2R2ek5UdEQxaDNuSEx5TDhtbzUxcXZnOEc4U3F3d3J3WkRFMXVpMDZTdw?oc=5"
+    },
+    {
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "summary": null,
+      "source": "Anthropic, Hacker News",
+      "corroboration": 2,
+      "category": "science",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design"
+    },
+    {
+      "title": "SimCity, but with Permits",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://permit.petercai.com/"
+    },
+    {
+      "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop"
+    },
+    {
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://github.com/deepseek-ai/DeepInfer"
+    },
+    {
+      "title": "Rubio says India diversifying oil, trade deal 'very close'",
+      "summary": null,
+      "source": "AFP.com, The Economic Times",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdjlwMm1MdnhxRkxla3M5Y0I3dnJVejZfVk9ScFM0YVJtbkR0cWg4aTQxUXEyeXFybm1faDRKSXYteTJzX1F3cjRqYVJYazhGWGNPOUxsaTd4ZG5lX2o0Y2RFSVNwTW5EV1N6UEs3cm9zOXo2emt3bHlTZ0tydXVYcThxVFo?oc=5"
+    },
+    {
+      "title": "\"We're About As Close As You Can Be\": Marco Rubio On India-US Trade Deal",
+      "summary": null,
+      "source": "Moneycontrol.com, NDTV",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONy1YUTRyZHhGbzEtM2l5d2NNN1kzVFFQMW9OQ0FIT19UX3ZjTWdha1N6dEVFS2lPZS1fTmRVRHRYYk5TdkRvdFNxSnpWZi1pamM1dzItU2h6RGJVeFZCV01nT0MzeXdLRnVQZnpGRTh0ZTRPUFkxdHhaUmF3RC1QM05WOC03MVYyMEk2SkVMSzRDS1hrb0xITlE5bmx4VDk1SlJzaUg5V1hCMGFoVkHSAbYBQVVfeXFMUDZCekJiOWtpaG1kVGI5c2poWVVsQVVfVVlvQ3UybmNrbGk3WnRpcTQ5YmphMzRrTUZCZmx5U2NqY3NFbXVzajRYNldxSTMzbzZrR29sbjFjbjcxNWZvb29VMFRwWHFtTXY0LWFxR2V2Y1YyMU5raGltZXBDWHBiQ3NpTE5WU3JYWXh0OWwwNGw2a0kyc2dHQmRyVW10RTBTQVUyOUVIRzZCNVZwTnBWYmlpV2pNVkE?oc=5"
+    },
+    {
+      "title": "India's economy growing despite West Asia conflict, Rajnath Singh says in Tajikistan",
+      "summary": null,
+      "source": "Moneycontrol.com, The Tribune",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXpJTTduZXJRQnpjRUREcXRHWXlCQzhRZEJaLVkxd19HSnRuNzBaV3RGakl0V2Y0Mkg2NU1RdUl0ZDlHams3bzZUMGt3Mnh0SlFNMEh0SC1mWmNIRGlmd0ZrSHp2NW9HWFNXY1dXUVVzeVFsZHNROGh1NjJIa29RNU53a0dYNzNWNTZTQkVRUGZ5YWQ4azBpZGxHeHhCN0pRcHF4UGdKcUsxbHg5Vm1ZOHVwRWhSR3JMbzNGSVpEWmpubVU4N0RLUEtCZVkyeVpYUHFucHdBMNIB3AFBVV95cUxPYXFVMUxzQXczc3Z5aGFOWHBOLUdTT3hjSEZ6VjRKRDZwVjlxSE5XYm96QjVZekFkRTN1Z2tQMzZ4ODd4blViejVjbXlvenVuTmZhSmV4VG0xbXluXy00Rm9yVEpWdGYwcHE3R0wwX1pqMnkweEJ5eWg5MElCVHVsaXJVTF9aWmFHSWlyZ3lzOVdnMGh6NXdIcVFaTWp0UWhWUzlVZUZTalJTRUpLWFJHZExwU1lXUFljeE44cS1BUmhLeG0xZHk5aTRrVjF1YTFjTDNMQkQ3N2Z2ODMt?oc=5"
+    },
+    {
+      "title": "Investment summit: German government strikes AI deal with Nvidia",
+      "summary": null,
+      "source": "Euronews.com, Yahoo Finance",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkg1WHh6WTlCYXlHVVliZzc4Y0x2NlZZeFNtTmtpNEJqMnRDTG5ILXJsRDlJa2lPLXBZNXIxSzAwUnQyN1hiSG4zQllBbEJURzgzYzJlMFNmRkw4aW81WTAzZW13UDZTVWVjNExrMXg4QnJRNjhRRUNwRVdGUzhtU3VzSUJ1eWhXSVZwR1VUaFBXU3hLamotNWZwb19ySDRH?oc=5"
+    }
+  ]
+}

@@ -1,91 +1,91 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "label": "ranked",
-  "generatedAt": "2026-10-19T22:54:06.640Z",
+  "generatedAt": "2026-10-20T22:16:44.962Z",
   "window": {
-    "from": "2026-10-18T18:30:00.000Z",
-    "to": "2026-10-19T18:30:00.000Z"
+    "from": "2026-10-19T18:30:00.000Z",
+    "to": "2026-10-20T18:30:00.000Z"
   },
   "items": [
-    {
-      "title": "India sugar stocks slide as government halts sugar diversion to ethanol",
-      "summary": null,
-      "source": "The Hindu, Reuters",
-      "corroboration": 4,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMlFmT0M5dG0wX2EyLUlXVzJHNlFjRjJGMUZ3dC1rUGpMbDFGRllfNlJlR2dTbEM0eV9sOUptaEZtTXYtS0RyQVozT2JkMjVxay0wT0hyT2c5Y09rZ3k0dHNfNFY4MVZaREVUdWk2eVVWTldqRGZqVVlmSkFnaks1UFBEMTNQSk9YV0NsQWZISGp0MjVNX1p1WE9oVmg4cDlXLW10ODN5WDVBVl9jQnZOUnZUVQ?oc=5"
-    },
-    {
-      "title": "Spare India from anarchy: 400 Indian-origin academics from 27 nations slam protests",
-      "summary": null,
-      "source": "NDTV, India Today",
-      "corroboration": 3,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGFNZG0tZkl2bE5uYkVWSjhMb2ktVVhMbWNNdEFTXy1XMjBkUi1PN3R0c3JZcmdJRnFteXk3cVFJczVLNE5yWDF1cDFjazdlVUtiLUZjRDFvUS1RaVZHTV85bVRPUmVIWkp1YTE3cTc2NGdVUzJpYUx3MnFJSGdpOGtWeFFTaFJIQzRSd1g4a09EbFVDWnZNN0hHU2F6UFd4MnlrWEpyeDRwT0xZNWFuT0ZuY0ZGbDhhX25WNzVwOTBFd9IBxwFBVV95cUxQRFB5NkVBR0dTeVdvRXkyMUxhRDh1U2FteVpxVDR5RjZXcnVTcDkwLWM1ak8tbEgtbVg1VEw3dm5rRmxVTW1GRmxqX2RCVTFPaFlxZHZFRUprMWxVQ0lZbVlaR3o2NUF2dzhTRDZ5WnFZaEtQX2xRWGcxMDVHcTVPQm96dzdSWGdGNmZmNjdUYUVjRmlzV3lqLXZOZlJMV1V4cWtPWlhXc19UQ1FZd0J1MGxKanZvNmJ6Ymw4NUVYR3l6RHpEZHA4?oc=5"
-    },
-    {
-      "title": "Putin proposes summit with Trump, Xi to discuss Ukraine war: Report",
-      "summary": null,
-      "source": "NDTV, The Times of India",
-      "corroboration": 3,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTm5qYXJzWlR0VFB2YmhuRDQ5XzZKX2gySWNvbHJ0Y2RvejlHNGNrOEg5eGxUSWR0djR5bXYyQlZaUkZxSllWNE1lOHVkQmNoSW5PTFBkOWFVNlZnMWlic2VPSFkwSVFkd1I0VUpUbHF1dmNtY3NqcnF6YkFQeE16MmtFUHNaaHhKZlFWaW5WUm9COEFfeFhkVEpzdktMRUtZczFaR2xGZzVjN2tEbFQzekd2NlBSYzdhRXFwOEc2VdIBxAFBVV95cUxPMUM5X3JlOEk3d0hPVWVDUkNFdWJRNENKYXdxSHdJaThITHY1Q2RiQVdGeWlGSGhZWVVLTHpTN0wtbnZNeDZFcXUxSE1reTZZVUdaQkJqc0VuSzl6akhhbWk4MlFXb3RZX3J3TUNEZFlJNmtjUG5NU3JJbE9GSE82LTl0RmtHVWpBQmdraEZEMkFKNG5ka19MZjY5ak9aeWY3RXEzd3ZMSUhwcHJ3dEltdFpINlVXZnZ6S0VnVEV3bDlSOVdo?oc=5"
-    },
-    {
-      "title": "What's behind Egypt's move towards possible military involvement in Saudi-Yemen conflict?",
-      "summary": null,
-      "source": "Reuters, Al-Monitor",
-      "corroboration": 3,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPanNPNnZWTjRaRnNqQ3cxSW50M0dvN2xzNm9jdzRRN0xlZTNVaERfVWJRemtCRXpFR1pNdU1ZOUpyQlRDUENaY3pMQk80WDlQMXVKU1dfMk9KajFmRkU5TlBQQVlNWVRIOVgwWmQwWTFURGNpZzBmWm1wNzBBbFpXbk40ZU5lbDJMb0w3bW44WGEwMEU3Z0NVWkc3alVIYW1TdkRidnRkY2J6RHhfbnlyNWpCX0ZiRzZCQ2xLX0tLUGZENWZNeGhfVjEtOXdTSU3SAc8BQVVfeXFMT2pzTzZ2Vk40WkZzakN3MUludDNHbzdsczZvY3c0UTdMZWUzVWhEX1ViUXprQkV6RUdaTXVNWTlKckJUQ1BDWmN6TEJPNFg5UDF1SlNXXzJPSmoxZkZFOU5QUEFZTVlUSDlYMFpkMFkxVERjaWcwZlptcDcwQWxaV25ONGVOZWwyTG9MN21uOFhhMDBFN2dDVVpHN2pVSGFtU3ZEYnZ0ZGNiekR4X255cjVqQl9GYkc2QkNsS19LS1BmRDVmTXhoX1YxLTl3U0lN?oc=5"
-    },
-    {
-      "title": "Lab-grown diamond jewellery startup So/Facet raises ₹10 crore",
-      "summary": null,
-      "source": "Indian Startup News, The Economic Times",
-      "corroboration": 3,
-      "category": "tech",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaER2TE5EVnNiTm1LOUdsYlkzSXNBZVEtek1tTXZBN0U1Wjg1RmN5eTM4OU9NMnJUbUxEOE1TbFlGa1I1c25RelpIRENfRXFhTGo0ODVNSk9XRlJvaVBmMUcyM2g0bEs1Ny1BWmdVYjRlaWtDUEEyWnNhRWJHa2tzYWM1b2o0TWQwM1F1bTI4VkV5dGwxUHdvSG5kYTdrYndOREVqRXVUYWZMN2tyTVdzbl9MMmN3Nk5p0gG-AUFVX3lxTE1LRk5GSWllRFU2WkpySmxiYnNkenhaLWY0eHJlb2pPaExNUTE0WmhRQXFsdUhIeE1zV2hYYWs1OERPZUY4bWxpZmJJcnRJVkdoUXBBRjlQQ1BhMmJWYW0wLXRBa1JKZmJHTU8xT21YVkZvVEs5VGpabEswbklpVXZkcDlsU1dFOWhTQlFTUWE4d1EtOFhDRkc0eE9Ud2ItLWs5Mkhld0RfVXNqWks0UTJ2NWFOMjZSY09BYjliYXc?oc=5"
-    },
     {
       "title": "AI chip startup Tenstorrent more than doubles its valuation to $6.2 billion in funding round",
       "summary": null,
       "source": "Reuters, ET Manufacturing",
-      "corroboration": 3,
+      "corroboration": 5,
       "category": "tech",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZEZuZHdVV1dZN3BpaFczenc4QkhZYjdjblNqRHd5UnllS3otOS04MUtCYjJtejZYbENlaE9nUFljbmdJN1RDaEdxZkxpSlhoMlMxdFhYWmdGaW4xejVjZ2hwS0U3b2lJNUJRUVRvak51Mzk4N3B0M3duMGQydWtYNHUwMG43d2hNS21mYV9jcXRQSjdRRFRXZkZPdVRmaUV1dlE4cEhQN18xcE9Yb1ZnTkF6Y3g4OU9waG1yV0dvOHBnM0lldTczYjgzVmdtTEd1UGxVNVdGYVhfNVpR?oc=5"
     },
     {
-      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "title": "Students learning leadership skills at summit in Stevens Point",
+      "summary": null,
+      "source": "KBTX News 3, WLBT",
+      "corroboration": 4,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ1RaeUZzdkNGRnNELWNMN3pHdG9nNjJTQmpvWkZTMElwbWZneU1sZEF3VlpPRVZaWUw1NFJUUmhzd215XzZJM3F4QXN1NzZ0VjlkYkpCQk9qbFI1czlEYVNubnZEWG1kbnRVY25pd254Q2R2ek5UdEQxaDNuSEx5TDhtbzUxcXZnOEc4U3F3d3J3WkRFMXVpMDZTdw?oc=5"
+    },
+    {
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "summary": null,
+      "source": "Anthropic, Hacker News",
+      "corroboration": 2,
+      "category": "science",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design"
+    },
+    {
+      "title": "SimCity, but with Permits",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://permit.petercai.com/"
+    },
+    {
+      "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://news.ycombinator.com/item?id=50151036"
+      "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop"
     },
     {
-      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://100toolkit.com/blog/deslop-model/"
+      "url": "https://github.com/deepseek-ai/DeepInfer"
     },
     {
-      "title": "EXCLUSIVE: India probing Pernod, Diageo Scotch imports under India-UK trade pact, sources say",
+      "title": "Rubio says India diversifying oil, trade deal 'very close'",
       "summary": null,
-      "source": "Reuters, Euronext Markets: Real-time Stock Market Data | live",
+      "source": "AFP.com, The Economic Times",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSWpNTHh4Y3hMX2pBNlZjWTA5QnI2M194bWt6ZUpXLUJyZHZ6MEpBeFB3dUZBT2FlVng4b21FV2ZOM0tOR2htU0h2bWRtbVlyZ0w5TXFPZTRibUpjQlR4TjEydUZySXF6bllGSm5ENms2elREOXNhWnZJR2lxUjhNazhfeENCWjk1alQtT0dPaG5ka2hKN3JScU90RFA5dlFNaTFLWFREU2h0dC1aLUk1cU51SG9qMnRBaUtSMVdLMGN2SnJYU0Nv?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdjlwMm1MdnhxRkxla3M5Y0I3dnJVejZfVk9ScFM0YVJtbkR0cWg4aTQxUXEyeXFybm1faDRKSXYteTJzX1F3cjRqYVJYazhGWGNPOUxsaTd4ZG5lX2o0Y2RFSVNwTW5EV1N6UEs3cm9zOXo2emt3bHlTZ0tydXVYcThxVFo?oc=5"
     },
     {
-      "title": "Anthropic’s ‘Claude-led’ CRISPR-like discovery is sparking controversy",
+      "title": "\"We're About As Close As You Can Be\": Marco Rubio On India-US Trade Deal",
       "summary": null,
-      "source": "Scripps News",
-      "corroboration": 1,
-      "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTWNnX2lBU1pGVlEycy1qdUVXMUJIckVVd1A1VTlGVjUxZEF0cWtRU3pwTmgxWVBNWnhKZWxvVk8xWDJIUEVKQV9ZRmxQOFVlbDQyR3ZrRF9tZjRMNU1WSXN1ZF9CaDhlRGNfSkJOMXdOOHhPMmhERTZ5VW1yZGtfNWt1Z2FtWmhBdXNVSTFkNThWT3g0WV96M1E4ZDRudXMxNlBaNW14VmNZVUFuN05rQ2Vvd1VkX3dOaEk5VzRad1p1RnpNaW9hU2pTRy04Vk5zTFE?oc=5"
+      "source": "Moneycontrol.com, NDTV",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONy1YUTRyZHhGbzEtM2l5d2NNN1kzVFFQMW9OQ0FIT19UX3ZjTWdha1N6dEVFS2lPZS1fTmRVRHRYYk5TdkRvdFNxSnpWZi1pamM1dzItU2h6RGJVeFZCV01nT0MzeXdLRnVQZnpGRTh0ZTRPUFkxdHhaUmF3RC1QM05WOC03MVYyMEk2SkVMSzRDS1hrb0xITlE5bmx4VDk1SlJzaUg5V1hCMGFoVkHSAbYBQVVfeXFMUDZCekJiOWtpaG1kVGI5c2poWVVsQVVfVVlvQ3UybmNrbGk3WnRpcTQ5YmphMzRrTUZCZmx5U2NqY3NFbXVzajRYNldxSTMzbzZrR29sbjFjbjcxNWZvb29VMFRwWHFtTXY0LWFxR2V2Y1YyMU5raGltZXBDWHBiQ3NpTE5WU3JYWXh0OWwwNGw2a0kyc2dHQmRyVW10RTBTQVUyOUVIRzZCNVZwTnBWYmlpV2pNVkE?oc=5"
+    },
+    {
+      "title": "India's economy growing despite West Asia conflict, Rajnath Singh says in Tajikistan",
+      "summary": null,
+      "source": "Moneycontrol.com, The Tribune",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXpJTTduZXJRQnpjRUREcXRHWXlCQzhRZEJaLVkxd19HSnRuNzBaV3RGakl0V2Y0Mkg2NU1RdUl0ZDlHams3bzZUMGt3Mnh0SlFNMEh0SC1mWmNIRGlmd0ZrSHp2NW9HWFNXY1dXUVVzeVFsZHNROGh1NjJIa29RNU53a0dYNzNWNTZTQkVRUGZ5YWQ4azBpZGxHeHhCN0pRcHF4UGdKcUsxbHg5Vm1ZOHVwRWhSR3JMbzNGSVpEWmpubVU4N0RLUEtCZVkyeVpYUHFucHdBMNIB3AFBVV95cUxPYXFVMUxzQXczc3Z5aGFOWHBOLUdTT3hjSEZ6VjRKRDZwVjlxSE5XYm96QjVZekFkRTN1Z2tQMzZ4ODd4blViejVjbXlvenVuTmZhSmV4VG0xbXluXy00Rm9yVEpWdGYwcHE3R0wwX1pqMnkweEJ5eWg5MElCVHVsaXJVTF9aWmFHSWlyZ3lzOVdnMGh6NXdIcVFaTWp0UWhWUzlVZUZTalJTRUpLWFJHZExwU1lXUFljeE44cS1BUmhLeG0xZHk5aTRrVjF1YTFjTDNMQkQ3N2Z2ODMt?oc=5"
+    },
+    {
+      "title": "Investment summit: German government strikes AI deal with Nvidia",
+      "summary": null,
+      "source": "Euronews.com, Yahoo Finance",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkg1WHh6WTlCYXlHVVliZzc4Y0x2NlZZeFNtTmtpNEJqMnRDTG5ILXJsRDlJa2lPLXBZNXIxSzAwUnQyN1hiSG4zQllBbEJURzgzYzJlMFNmRkw4aW81WTAzZW13UDZTVWVjNExrMXg4QnJRNjhRRUNwRVdGUzhtU3VzSUJ1eWhXSVZwR1VUaFBXU3hLamotNWZwb19ySDRH?oc=5"
     }
   ]
 }

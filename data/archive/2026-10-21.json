@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-21",
+  "label": "ranked",
+  "generatedAt": "2026-10-21T22:18:46.832Z",
+  "window": {
+    "from": "2026-10-20T18:30:00.000Z",
+    "to": "2026-10-21T18:30:00.000Z"
+  },
+  "items": [
+    {
+      "title": "Nigeria Reclaims Africa’s Startup Funding Lead With $635m Inflows",
+      "summary": null,
+      "source": "https://theeconomictimes.com.ng/, Businessday NG",
+      "corroboration": 4,
+      "category": "tech",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOajVVRWJhLTZxRDBnOGxXdEtwNjJtMTNwS2VYbjRDTWFhVGRIYUtYN3V2eG41SUtIT1A0VVZWaFJEV0NEY0RwWlZGVDFDVTFnR20wTXIwUU5Lb3hKZ0sxZlFRenMxZFMzSjFRX0pmeEdrQnVGZlN4eENFSks1UUY4RlBDUEwyOHEtT2puTnZFXzU?oc=5"
+    },
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "summary": null,
+      "source": "OpenAI, Hacker News",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "summary": null,
+      "source": "PYMNTS.com, Hacker News",
+      "corroboration": 2,
+      "category": "ai",
+      "url": "https://openai.com/index/openai-models-google-cloud/"
+    },
+    {
+      "title": "Musk Ordered Starlink Slowdown That Blindsided Ukraine",
+      "summary": null,
+      "source": "WSJ, Hacker News",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://www.wsj.com/world/ukraine-starlink-elon-musk-trump-dbc49193"
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "summary": null,
+      "source": "OpenAI, Hacker News",
+      "corroboration": 2,
+      "category": "science",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mT3FxTUpGSndLdWh6emNISWRnSmNEdEZFZHdMWGlZZWQyaWp3cElhVGdCX3BTTDVySVhIOExMU0xacGk4MGdKNUhJUVBFVTNpOUN2aWpyUlBuTVh1STlGdkdLSmRnbW1GNEF6NkpPRHBBNC0wMTR1UEJZVGNGUQ?oc=5"
+    },
+    {
+      "title": "Europe risks startup exodus as regulation, funding and skill gaps hamper AI adoption, AWS EMEA head says",
+      "summary": null,
+      "source": "TradingView, Reuters",
+      "corroboration": 3,
+      "category": "tech",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPdmN2ZEFCcFQtemtZQ1BSV2pfSVVQY3dCMk03MF90eWdMZnZwaEtmOENROU9DU29UcDlJRlh1NUJMZVd5dklLNzJ1RjQxWEdpWGVRMjNaa1VVbFZteTVCSld6OVpiemMwZ0xLYTR0UGVPd0RjVUVPejdhRE9rdUxoVFo2UzhsZF9UOWhHcm9jR1RwUWdWdk9OWXUtdlI1c0RlcTVhbUlMdEtuM1ZCaDJkbVBNZVNOY2xDNzN3LW9yZWNPdUZrWVE1NmppbDRLY2JEQ2Fra2xaWlkzQVBKdXAxcjlSNWlPeEN0X3BJbTdobmRwMzdvNFZwUF9wRE1QU0dnZkE?oc=5"
+    },
+    {
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce"
+    },
+    {
+      "title": "Indian court orders release of two leaders of Cockroach movement",
+      "summary": null,
+      "source": "The Guardian, Reuters",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUzRaYTBCVWZDcVN1MGxsb0Z4TlR5dXVJdlBZZkUycnpJcTBFd2lWZ1h5WmFfNHhNbmZPSzhqSi1yMWd5cEFnT0dzUFJqamktZ0NpTzQydzAydnRxQlRsTVJtRU9DbEhTUklNT2laOVZlWXo2RXFMY2FQUE94OWJsa284bi1mZHpHLThCcGtERlhBczNPamg3dTJ0XzVlSzFpeTVOVFFTXzZKTkpMQnI1NzVRQ2ZqR0Vk?oc=5"
+    },
+    {
+      "title": "Trump says India deal 'pretty close’ and 'much different'",
+      "summary": null,
+      "source": "DW.com, BusinessLine",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTEViU1B5YnA2SjdZRkU5dm1uQW1uRjBteFB0TWFSNEU0bll3YWdLTWZGS3JxYlE3RW1wVDN4OE90X05kVC1lUnlWb3otMFNJbXVDNXRfTWViQkFUb2lkdTdDM3U2N1dJTk10TjlGdFpDMVdMZzY1VFhqSGJNdXdXU2U1cmx4MFdac1Z4eV9hTnNMYzhyMWZUX2xvN3c1WmtVbVlxM01SNzJQdGhBdjlqN2VTdXpSWUVXWmfSAcABQVVfeXFMUFZ4MjkzbTcySjRqV05qcnJ0M2llWGlNcWN2QlVvVnhtUm02RUVIbTQ2WmJ6VjFkTzd1WW1PRm94eDJrWVBaTGFrRG8xUmJpVmNIRjBBbW1ZeG53RmZBaUFfNHRpbWlMWHhwcUstaEJyMlRsRXZVOUxtUFd5eDV4eFdieXQ4aDhvckMzSVdSNFJmZmtJZkFPQ1BSTUdLNmk2Q2hYRVZKRUhNcF9nU25JT1NtUURJTmtndlJPTnllaURK?oc=5"
+    },
+    {
+      "title": "India should let exchange rate move as first line of defence in ongoing shock, IMF official says",
+      "summary": null,
+      "source": "Reuters, ET Government",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZlpyZnA3Yjc3Uzhzc3JzZ1ozVWItb3lkdnVCUTBYTTN2WUViSGRzRkxhU0c2ekpjOGxXenJRdzAxYkVScTEwOWpWQ3pFZGRJUkxlXzUzcUVCcno2cDVrdHp3b1R5UTZqVHdxY1NxbkxPeGZFbTBNeWtLVi1fVF9ZRmMzeS0yRFFtRUpKRFEteXJSX2hSRHFZdktpMllLeE5KQ09XUk5CWWJJNV9fYWgxZ21OMWF5TVJ4STg3Tg?oc=5"
+    }
+  ]
+}

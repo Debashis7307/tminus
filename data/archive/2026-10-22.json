@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-22",
+  "label": "ranked",
+  "generatedAt": "2026-10-22T22:18:10.869Z",
+  "window": {
+    "from": "2026-10-21T18:30:00.000Z",
+    "to": "2026-10-22T18:30:00.000Z"
+  },
+  "items": [
+    {
+      "title": "Karta AI raises $3 mn seed funding led by PeerCapital, Cedar Hill Capital",
+      "summary": null,
+      "source": "Indian Startup News, ET Entrepreneur",
+      "corroboration": 4,
+      "category": "tech",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOVVGWUl1SFV2anVqWkVlMFlpTnRDSTVJa19MbmJ2Y2liVi0tOXBOa1A4YmhzaEtnak1nS0tVLTF1UWpfSHNrU1U4bzBSOUszcUpjWDlYbGVuRm1IQnc5YnFTdVkwOUY0MkltUHhxa0NnY0hveDltZTQwX0JEM05yNFNzeTRtN2F2QTZXdVo5SDA2Ry1wRlB0UjY0MkR3MVZWQUxVS0hxcXQwc0xVVGhOOFhBbW9xM0hxOUJsamljQWtrNmU5cnNyTDlib3c3eXdldVdPY1hGbmZvcGp60gHiAUFVX3lxTE9oejJvVUFtTFdCQVVLdl9UdE9rRmlxd2N6NHBZSWlpRW1kV1JucV9PUHpxRnhDV1dtLThmSGo4elJ3R0stOG53V2kwMklNRE9sWFFxWVlsMGNSc0tfQ3hoUW5rLUQ2aXZjdTJ0aHRiejRMU1gzU2tCMk50NEdFV09PYV9XLUlDc2VDamZta3FmWnlLT2xOYWpDT1U4TlJ6cE1uYWpYMGpXaEFzZFJ0QXpXV0ZSV1RfdXcxOWxOOVVuU2Q3dmVhT3UwQ2U0Q3E0eGlxLVRVZ1FoZFJTRElGS0xSblE?oc=5"
+    },
+    {
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://github.com/NVIDIA/OpenShell"
+    },
+    {
+      "title": "A farewell to Arc browser",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://arc.net/"
+    },
+    {
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans"
+    },
+    {
+      "title": "India extends duty-free raw sugar import deadline to December 31",
+      "summary": null,
+      "source": "Reuters, BusinessLine",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcmdRc01qa1FqMkYtZ3FzU2xTSFdJaXdTMURPNW5HejMzUHJWUzhfNlRqc24tT2d2bzBydWd5MHFzU1JfTktHdnRxck1Mem5NajJjTV9NSXczQ2wxMGxlQ3J2V2NydUhDaDA1WkdnTnpzcjFaNUh3X2k0YzFjX3czOC1xUEEzelE1QVpnQlEwU2dURTJkdy14YnU1alY0cHRYVnR4U2tUQW15M1EzSnc?oc=5"
+    },
+    {
+      "title": "PM Modi Warns Trade, Technology And Sea Routes Are Being Weaponised Amid Changing World Order",
+      "summary": null,
+      "source": "NDTV, NDTV Profit",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVV9wMHNydzBlYlVnZ3Bmb3BPR2JVbmUxVzY0Rk1qRUlHcTZZNDdsNlBSNXNFbUZsS19GNnBlOTVVY25DNTFuTVZuWnJGSjkzUERXQlpWd3NKdTNEQVQ0dFJOdnM5dl81YVdSZUEzOG4zRTQwOHRJS29rR0dURk1sYU1kQk83dEo4QXFrRXlhV2tlSDdaTldBUXhpdE9LWTZVc3dqdFMxMi11UEpReDFmVkhKQndvcW5MVUxMelJtUEFkc2Fvc0tmR2hmbnVfXzDSAdcBQVVfeXFMTXVNNnRKMVJQQi1KMUthOVRsY3VoTlJkVFp2VUZNWnZiNEcyMFMybnhVNm0xQ2l4UlpBak1iQXhKOHJTWlBKN2FKay1uRURqN0NwVDdqY1lmZU00LThHUUtFNTFpdGE4RkJqbnhTaDBmXzFsWXZqMm90eVloUUozOHVoaGFhWlFzQ0lwUXIwRHZMYlZjNXpLZ0FpbGc0b05aemo2cGRhTktBaWk3MmxiSVVtOEMzZHJZLTlSMTI1XzRLVjd6OWxiR2dCVGlVVHRwODNRaVZ2ZlE?oc=5"
+    },
+    {
+      "title": "Earthquake of magnitude 7.0 hits Tibet",
+      "summary": null,
+      "source": "The Times of India, Hindustan Times",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTlZncXlPUTRZbWY2WWhxZXFjUHFxbVVXN2tkQm0yX0R1MXowcUxldjJORVF5dmJqV1lGOEptZ1d6ZG5EMmc3N25GNVRsdnJpQzRVb29QMUtLaGdVc3NqNjhEd3pxT1Y4M3JCVWVDQUJTQm1WTy02Z3VkdVdDOE9rNnBqLXlObnJZV2JERnhVakN6cGJSOVV1eHlfSmYwdVpKcGdkQ1BOcElfWDhjVFFuRzNHYWpvNXVFQVAySWx1eE7SAcYBQVVfeXFMUFVPaFB2X1dVeVBNVkQxcEFud090VVc3eEwyek5QeTZHSjJFWk5RN1puc1RmcnRlaDlNdC1pdmFvbmNiQXF3Y1BTODVvR0RsUS1xdFZ6UGY4eE9GVnZVcVFOQXNjLWxKaGZNMTF2eUVWQzQ4SjFNR0g4MWZqS3QtdDJVcGU4ZTlQa1FTUHJUQW9YcVpQRjZJdnFWZVZZTm9xYWpxWHp4NjUxV0RwaDJmTTBZRkNsU2lHRkppQl9QM2FZVWJMeHRB?oc=5"
+    },
+    {
+      "title": "Musk is getting it wrong on India’s space oligarchs",
+      "summary": null,
+      "source": "The Economic Times, ThePrint",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdjZZZUFRMDdWQV9mVHdHbDVPUGlWcV94Vk1TdGlGdWRxWFl3dnVza2kza1RraDJaZlhnV2owX0twcEhLWnBjTFR0aVM1elNCWEszaGNuUk1vYkJ6cm1TdjVtZTg5cVpPOFBKZW13UVlXd2hHMHQ4aHZ1WmtJQlZxRVdKX0FCREJFVGhoSFBR0gGTAUFVX3lxTFBkSXFheEFSWnlxY0tTbHNOYlRaVzN0MHZrMVlLQkVNcGhBOXpIalhVb1E0ejN6WEVNRjBnM0lsbngweHg3cTg3QzA0SVAwOEtKQUpZa0d4RVhxZTZEbk9uRk81VUd3X3dnR29lWjhTMHdvaEZEaVBzVEFYTnFLc25CUTFueHdWUnJWOVdLb0lIMXBxMA?oc=5"
+    },
+    {
+      "title": "Video | PM Modi On The 'World Between Orders' At NDTV World Summit",
+      "summary": null,
+      "source": "NDTV, NDTV Profit",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORks5LWJuZ1RXOWFmOWZIcE5rN2FsVERfYktOaENodnFUM1Qzb1Rhb1V5dTNrWXh5a3VFN2JrLUp0Z2c1c05xdUIzMFFhakxET1F5ZWphNTU4bnR5LXQyV1dnQmdyUWRtZDY1Um9XX054R0JoYXJacDFCeEZGZjBPX0xDc3RPRVZ5eE1RcUxUclBBMm13Q3c?oc=5"
+    },
+    {
+      "title": "Researchers Identify Audio from Mysterious 39-Foot Whale Rarely Seen Since Its 2003 Discovery",
+      "summary": null,
+      "source": "People.com",
+      "corroboration": 1,
+      "category": "science",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONW9QRnhIdkdRZS1WY3dxODZJTDdPTjg3VzZ6Y2p6THZuREVKeXhHdHJpWDZ4RE9iY3VVRzZNdzltRXA0aGloQnoxQU1GdHlkRE5wUzRFU3RVMlR4bElOLVZVdFQ0aFNlUDZWeHRNRF9NZG1xaUd6NkpUQl9jSU1pSG42R19QdGd1cGllQ2Q0OFplZy03QnJXUEo2alBPLTdPTFRNR3pOWnFpd2tXSm9oSEdTMUY4X083OHdGWQ?oc=5"
+    }
+  ]
+}

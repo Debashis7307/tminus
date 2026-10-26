@@ -1,91 +1,91 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "label": "ranked",
-  "generatedAt": "2026-10-25T21:45:09.746Z",
+  "generatedAt": "2026-10-26T23:06:49.068Z",
   "window": {
-    "from": "2026-10-24T18:30:00.000Z",
-    "to": "2026-10-25T18:30:00.000Z"
+    "from": "2026-10-25T18:30:00.000Z",
+    "to": "2026-10-26T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "India Plans 4 Space Launch Pads by 2029: ISRO",
+      "title": "Artificial intelligence giant Anthropic files papers to sell shares to public for first time",
       "summary": null,
-      "source": "Deccan Chronicle, Urban Acres",
-      "corroboration": 4,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMERrMFpTeFZzM2s1a1UyYnRqTDZXdTFkSWVDN01GY1ZzV1BMc1c2UWhGaU5YX0tKNzFqdUM4Mm83RXlrM1RlYjdKVkV3RXNwTUNNZ2E0MzZvalBnWGZYLS1mdXZrVUJfcWI0VUhsSWFXdVNfaE5td0UtM2k1RUUwRWV2OA?oc=5"
-    },
-    {
-      "title": "ISRO to have four launch pads by 2029, says Narayanan",
-      "summary": null,
-      "source": "ThePrint, Pragativadi",
-      "corroboration": 4,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVZLNUF3WUM1TnNRaXh6Snp4dDd4WXVjLUFTenFUY2w1WXZpNjQtMDlaeng2TGNOQ2cxazFEVTkzOHFGcDZoTDFuaFYxRWJPNk1jaWZOcG9zNlMxTGFqVlViU1RHNzMyek9EOEJnUnRObWVSUjBLa3JZOGg2MnNueUpoTG9nb3FybXc2bU5VWUpmTFdjYlHSAZYBQVVfeXFMTi1WSzVBd1lDNU5zUWl4ekp6eHQ3eFl1Yy1BU3pxVGNsNVl2aTY0LTA5Wnp4NkxjTkNnMWsxRFU5MzhxRnA2aEwxbmhWMUViTzZNY2lmTnBvczZTMUxhalZVYlNURzczMnpPRDhCZ1J0Tm1lUlIwS2tyWThoNjJzbnlKaExvZ29xcm13Nm1OVVlKZkxXY2JR?oc=5"
-    },
-    {
-      "title": "Preparations begin for Putin-Xi-Trump trilateral summit: Kremlin",
-      "summary": null,
-      "source": "Anadolu Ajansı, Yeni Şafak English",
-      "corroboration": 4,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWU81aEtBTnQxMGpUS0hKdVh3RmxoTjFoc0xxc1VlYWdTeUo0WjgzRjFyVHc2TjZJcFBvNlBtQ1ZSZkxQOXFpM0hvV203dTkwQXktYURSaFZRQTQ5U0swRHdSOGowT0ZudlA2R0ROVm5Sa1B4cGpKRjNVQjBqVm9kdnkyOVplbjZldUcwTEdma2ljczl5bTRkaWF5cmZXMnVuaFE1bg?oc=5"
-    },
-    {
-      "title": "NCERT introduces 20-hour AI module for classes 9 to 12",
-      "summary": null,
-      "source": "Daily Pioneer, The Hindu",
-      "corroboration": 3,
+      "source": "Livemint, Udayavani",
+      "corroboration": 7,
       "category": "ai",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY09KbFM4eTBOSmk4LXh1RVdvS054ZlNGcksyVldWVjdKN2JEYWI4cUdNdmhwcUd2UndPVWRCcnlxUGQ2OEl0VVlGdjZiUlNiZWxrVTdFREMxbjk3RVk4VUR0VW1nVFA0WmJNQkdtTW9qWjV5OUpMOHVnbG8zcWVSU0Q1dldtWWxQbmZyUVd30gGbAUFVX3lxTE9RZm5hd0VhRnF5Sm5FZ2t2d3NkOHlmU0VscjFhVVQ1a2JFUDYxVEc5RVZncVF2Mi0xT05YZGNVcU9Cbm1pNFdFc01jZ05QeVVTU3hGZXRRTW91LTh1ZEdiSWdMRXdERzlZZ3ZldnZJYTh3SUVhcWVGdEo1RlhCWWNCTl92Z3NiU0paTzZUUkdWTW5DWktKTmJIVEtN?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVHdvMnlSSy1TVVVYOXJGcHFFNnZLU0dJQ21jQnN2c1NfWjB5RDdnaFRNM0thUFg2WmJqd05iTURFdlhqZ2ozbFVfSUpQbk5iZm0yQ3VsOVJ2ZHNzTThHX01rOHBvVWozUzRLVjhSQ1VTVGRqNnV5RExqVV9fNE01MDJ5LTgxTFhvTlRvcDVITG93YVEyeEQxNXlIbS1xVmU0X0JwVGNWdXFzSWhhZE82ZmxjcnluNFBzVjV5RGtOYk81TUZiXzg5a2hzY0hrQzd1bXpRYQ?oc=5"
     },
     {
-      "title": "India Aims to Quadruple Port Capacity by 2047: Piyush Goyal",
+      "title": "Detected: How artificial intelligence is changing breast cancer detection",
       "summary": null,
-      "source": "News On AIR, The Economic Times",
+      "source": "Live 5 News, WECT",
+      "corroboration": 4,
+      "category": "ai",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR21GVVJoeThzRlVmTjkzbGxSREJHREJkd3RuX0RXS0QzS1lNWEp4alNUYkNaS29hUG43b0lNalJyc3JYOHU3cXAwQ1BNbHdDSm5JSUZUMTltcnZ1TVRTaXk4NHZFWUFXV0MzSi1GX1g3N255Rl9wLUFwUTRkWFNkOXpXUUl6cnNwa3g1SzVZb09UMXEtcDZaMDZoTXg5UVIxdTRlMTlLdTZpQkkzR2hz?oc=5"
+    },
+    {
+      "title": "India, US fine-tuning trade agreement; most discussions over: Goyal",
+      "summary": null,
+      "source": "The Hindu, Business Standard",
+      "corroboration": 4,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTkI0QUZUTEpmd2JCQkVsdFNVWk8xdVpIV1ZZV3JqanpoOTRsR0tOaVVXQ1F1ZDRpLTRHZUowY2x6ZjdSQkJmZFRwRWZuUEdvd1NCQlVlVlhVelBfeHI4QXp2eEVrM2FrQjFpYk9zWTZyNzl2MkdpMHRoY0hOaHdNVE50VXI5LWp6S3lnSk9xeVV1TGJsSjlYMmIzZUtGWmp3ZmZrLWlKZGx6dUpKODJTUEs2Y0t4WDgwb04tSFB5c2N2Ym5CUWlNSW90MNIB0AFBVV95cUxPTnE2Q2xiNjctYUQ4UGRhbGtyWmdhQzQtSDVfS0o4eTBsbU1fajJLYzRwdnB5LTJMc3BmNy05aXZVWEVlTjBXckwyTjdWRVNMSFNaUTFwRHJ2SU1rVmllMVo4NjdHSWpFZkRDNmgxYnY0MWlteUpWZ3h0R3pwZUd6dXByT0RRdHQ5ZElLUWdUVW44eWtycHcyWVB0RDBqT1YyNDM3VHNnLWNwME1BUG1UMEpJSGY2OWNRQ2c5RGlmT2pRczRXd0VlMEVRSmgyaUxJ?oc=5"
+    },
+    {
+      "title": "CBSE holds national summit on ‘Facilitating School-to-Work Transition’",
+      "summary": null,
+      "source": "DD News, Careers360",
+      "corroboration": 4,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV3lreGJpM0JoUi1seWRtVzVFenFtUGVaZDJLWEl2Z2tUS0hRWjVUZkVhbjRTRmRaTVZvSnRDT3JnZUtuZFYtUmdpSUpoRGxwYVZ1c3ZxTnVscVBwQzZoa3RjSUIwZnBpZ2dES09lb3JKQWdBdV8zc2U5SkZ1X1JKVnVsQndVOUZKeXRHaFJoS3JOZ2VPUjdqY1lEeEFNSUo5TjJoNXl6RXZ2NkxKWkRpZHUteHZDeXRDOXowdTcya1NfQ2lIVlpDalVB?oc=5"
+    },
+    {
+      "title": "L&T Technology Services, Nokia announce engineering collaboration",
+      "summary": null,
+      "source": "India Business Trade, BusinessLine",
       "corroboration": 3,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS0txV2FSbVVkVXJvUGxSdzl1dFlWamdWdngzamNxeG4yNDJQT3VxLUczUVdDT0JQWC1hMVZ5WWZsc2VKQVNnY2xXdVdha1NxVlQ3eWswU19VdmFxV3lRRy1vcUxDbExwUGQ1blEtbWlRVjljS2k1STZwa1huZ1YzMVFhU1E4RWctMlU2bXYtYzU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbnJpNXZuTmdTOFRRTHdOSmNuVmRfNTRxT0JjemJhMnVuOVdNb09DLTlnNXNyZmRTeEJyUlNsNDhmOWltZnNXV0lEejdEaHRvem85OFhoVmtqS3VlcjAxMHVjQ2ZtMjZUY0xjcXZiZFNlZWNSUnFXTEp6bWJobGcxLUtzaTduX2IxUDN6VmM2RkxId3lOTFI2blNYMW1oWll3YTFIX1Y5V21KU0JTdE5DNXdoQXhqMzFMMHV0ejN6aGJ3eHBpRHctSFh30gHQAUFVX3lxTE81ejhPNDV5TzRsUDE1b3UtR2p1UWl0MThLN3JpOTFQMTg3TDN1THNoRDMwWTJ3Z2xyVFM3SnQ4bTZCTmc4M09rYUVLSjVuZE0yaFo1U0MzMDRoNy1ORlZpLV9CTlB3S2pSQ1d4cHZheGFiY0RYSGtUbXZoSmRYSnFraktRNnltU09Eb3JpNE5yQjFjdGdUQ1N2WUZaLWllVnBQcGxZOWJ1QlVQZkVIcHdCX3pJcVV1eTdvMUdzaEl0S1ZRVVJ6U1NFOEJrWU9wMDI?oc=5"
     },
     {
-      "title": "Summit LNG marks milestone of 300th ship-to-ship transfer",
+      "title": "PM to inaugurate Emerging Science, Technology and Innovation Conclave 2026 on 27 October",
       "summary": null,
-      "source": "Daily Sun, New Age BD",
+      "source": "PM India, DD India",
       "corroboration": 3,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSC1IRGNJdHpxaHdWV1dwcjFiUXhBR3lBR3hqVWY1LVlYTGlBdHFfdmJkQ0FJWUlIYmxiMkJJTGYxNkJNcW8zbm1LMG5RM0xaMkRCdWRxMW5wQi01UzBQelhZSnlleU1UQUs5d216cFVQRk5zcGFqVGFZQ2F1SFJFMUJIcUNTMGIzRGg3Z3Q1UXRMbjAzWG5aTVpuY2RfZ0tqWVpzdnRaZU5xV28?oc=5"
+      "category": "tech",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTEVwT28zaHZUSjh2bk1KSjFiNGdXTU9oWVM3TkZ6dUp4VFpqYjdqRDF3aDA5ampUOGFQZDh3a0ljeUtJc0Q5b1c2MDdBaUdBa0wyUVAyWFVHMGZHR2JrT2dvdFFnc2JnUU1FVW5kVWVlcC00eVI2RExqZlFZdXdBZ3dtVjJybGxpdVd0cmFBMU5HNEtWX2llZ1cwMVNKem9FVnFKei1yQjZlbjNiRW9lSHdSUUN3YUhqLWlDYklrdmNXTTVuNDBCZHpFVlZrSGQ1NUFzSFdDRWlIRlc3YWdzRw?oc=5"
     },
     {
-      "title": "Dolly Parton's Imagination Library",
+      "title": "Type Server Protocol",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "tech",
-      "url": "https://imaginationlibrary.com/"
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md"
     },
     {
-      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "title": "India, Canada hold inaugural Migration and Mobility Dialogue in Delhi",
       "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "tech",
-      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/"
+      "source": "News On AIR, The New Indian Express",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYkdWV2dSR2pfcEsxdEhZcWFNcGZNUGduUC1SNU9yLTIyYnZHaEdiZkhrRGZiM1BMS0dNcU4yRWhFQUk5Sy1TSTAwQTh0X21EUzZ0Mm42amg5U1AyUXBvb0FKXzl0a2ItZXZfQ1NvNEVtNnVOZlJjNEhHMFIwY3F4VVZEa1R4SFlsc0Y5ZmV0WlpxcTJnTWoycXpiQVJaYmxrSVE3T3VuQ2g5bTFSTWo2YTVqaHJqQWxGQWdFcXBR0gHLAUFVX3lxTE1HcFdTNWFXTExFZC1sSzN6YmRvNUpwdGdlUm5rLXhZeC1xSTI5TlRwUi11bVQ3V01FU1MwemhxOFFuOUFUZ3IwZkVkYWdUQ0s4Z2ZJRTMwM2tGdVFNVDZlaWMtRFgtai1FR1BGSFY3eklXaTM1eHI5a2Vna1MtZG5CZVloazNDdnR3U0VpNUNmZWRFaXNnM0ZrU25hNW9tWGFRYm5LXzRkemJRN3o5NFRoVHExVGloOUl0RHZuLS1fQTJzSFFCZWFWbFlB?oc=5"
     },
     {
-      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "title": "Microsoft offers buyouts to around 60,000 employees",
       "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "ai",
-      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html"
+      "source": "Hindustan Times, unknown",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/"
     },
     {
-      "title": "Tiny Atomic Defects Reveal a Quantum Secret Hidden Inside an Unusual Metal",
+      "title": "NSU Appoints Robert P. Smith, Ph.D., as Vice President for Research and Economic Development",
       "summary": null,
-      "source": "SciTechDaily",
-      "corroboration": 1,
+      "source": "Nova Southeastern University, citybiz",
+      "corroboration": 2,
       "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRlY4cVBaMWxpbzdZNnlnUnRiUjlhSmZZYTFkUVZSQTZtYjJkdWItS2IwQ0lfVU0xYW5YMlFCU19zbm5RcnVpcHk0amNMS05vc29vYXlwdnFKTVY5cWhsUGpjZ2tzVm96Uk5iSGFXaDZwa2kya3R0SWF4NkMzLVVtQUFDMlZNdkxBTklCMjNkODVmNFVKek4tcFlXdGxieVg0TVE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdTQ0Z2l4empwS3lSdFo3eUt6Q3lEODE1Nl90ZjVvdkVwUGtLV0JMeE9HZVdBZnNiSkdFVWx2blc1VW9xQ3NHd1I0WEg1N2UycW1jZ0lKbm5zWUkyNjU0RFhacmRNTmJBd3A5V2lSaGRWeEtxYVVOTEFvQ2c1VnBwY2xqenFsYnMxQUhQWHJzeWFidE9XbkdyQndxR1VoRkZOTVo3RGsyX2h4c0ZPc3ZiemFCM0FrdkhIVHZwOE5uVkRkZw?oc=5"
     }
   ]
 }

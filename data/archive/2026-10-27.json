@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-27",
+  "label": "ranked",
+  "generatedAt": "2026-10-27T22:56:22.450Z",
+  "window": {
+    "from": "2026-10-26T18:30:00.000Z",
+    "to": "2026-10-27T18:30:00.000Z"
+  },
+  "items": [
+    {
+      "title": "Trump Vows to Ban 'Artificial Intelligence' Term",
+      "summary": null,
+      "source": "Forbes, Reuters",
+      "corroboration": 9,
+      "category": "ai",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTGNuejFUNXhiUkcyRGU3a3V6cld3TzFVRnI2MjhhWmlSaVdjb29zYVBZMU5SZ0FXNzB4WkRTNkhOYjhJWU90cHdHYjIzMUVqQmVURFdTcEJzQWlsbzhGYXBJYWotalJ2TlhYbkhJdjhGOWJJeGJzSmZwV2JnamVxN1FBQnhIZC12elU5NUU4U1JFdFJVSlhOQ0JMTDJveTQ?oc=5"
+    },
+    {
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "summary": null,
+      "source": "Al Jazeera, Analytics Insight",
+      "corroboration": 3,
+      "category": "science",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+    },
+    {
+      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220"
+    },
+    {
+      "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/"
+    },
+    {
+      "title": "New 14‑inch MacBook Pro with M6",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
+    },
+    {
+      "title": "Asian Champions Trophy: India make rollicking start to title defence with 13-0 win over Bangladesh",
+      "summary": null,
+      "source": "Hockey India, DD News",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT1Radjg0VTNtdjJSUUJNQWotdzJzQUpQSkc4eEZaamUwem1XRWU4T1lYaThhMEdYQmtfRmNoRHFFTlFCUzctWGh0LWh4RW8zUHZyUVQwZUpiR3NzanhHZkxIZzZNWURVbFZYT3NhTEVDOXBkb0JoR1ZXRFVvdmMyZVlTc0M5alY5SDBUTVRkQXR4LXFQZ3hkZFdiNzZNZnNhSWRoOFhsTG9hUHNfT2ZQNTZjcWtwRUZETFdzZFRLMFQ?oc=5"
+    },
+    {
+      "title": "India To Host SCO's 1st Civilisational Dialogue Forum, Pakistan Minister Invited",
+      "summary": null,
+      "source": "NDTV, The New Indian Express",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVFd5WjZPSFkxbXdpUzNNZmpSRzdOczNOSUFBamFhY0JDUDBTa0kwcGcwel84OF85S2JFcVVZR1JMYl9SaXZvYkF4eHNDTjlyR0JzVGZZV2ZvU2xCYWFwY0pZd3ZEOW5fLTBxdHkxc0dKR2FPcFd6eHExUDlrMjREYVo1b2NmM2RCMFRNVHJiTzZQMkJ2dUNacTViNXNIMjE5YldISTU3LUlfbjVmRUViQ3VhdVpJTFFmYkZN0gHDAUFVX3lxTFBiVEtPazZhQnA2UmNJYkhHODlSMkExT0RrV2ZBZVE4SExERmhUNWpyb0pWTjdEaDdhOWRnX01kYWJ2RXFNQi00TGJBYi1TRFdMWVZETjM3Y0FOaWIxczRLU193d0xNSzhnYmx6UElXT0tuajItejM1b3dFLTd2UGNERm5iZ1RkNXRBSnB0aHlJMEN6YjdjSHZwbGNIYk5oRlhaZUpVUjdUZkNDUnhDb1BRWXFxN2ZyUkM2ZlZPTDRSM0cxUQ?oc=5"
+    },
+    {
+      "title": "India must embrace future technologies, lead world in creating them: PM Modi at ESTIC",
+      "summary": null,
+      "source": "The New Indian Express, News On AIR",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMlZQQlRnU05qZmR0aU5xcEJDQ3VmOV91Vm0yR2RxOVpPUThDdVgybkpNYjF3MVliNnFaZ3E0VzhaWk9uYVRuR0xENUF6VUxYS3QzOWNjREdleVc2OWtQTjNaREd6VTNCRU5ZdFhTZ014RS1iOFhHcHFkQlgxc1lIdHZ5UEU0c0tCTTBNSC1ZUWFIRnozQXdyR29ubElKcW1veUFxWmhxb2lMdzFjQ1lrQlFIREtiY3FzS1N3RUxDdFI1U3ZHdUlNY3BWTzhRbGfSAdwBQVVfeXFMTU1pd3V2N1pDSFo5UjFDLXVqQ05UU3A1WDVJVkRLTE5HT2x6YWNhMGVWcC1TZjVUQS1HNGJkYU91X1dwcktfSTlDLThaSVpjLXhMUXR3ZGpUdVBfT2prLThicF9DN09PbnVnVE90Umc1UTRmQ0tWRklWTGVoVjE4Z2d4aEpaNExuSm5fYUN2NVZGREI1c3RiQzVnbHJWaGR2MG9qRUhDMERmOTBETkc4OE84QkhLNUJzVzFxVDJoNk42UUdza3BxSU9VQ2JqenFVTjRVZ1NJUWViM2c4SA?oc=5"
+    },
+    {
+      "title": "Colombia Halloween",
+      "summary": null,
+      "source": "Post Register",
+      "corroboration": 1,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX3U1dzVQTWd6ZlI2V0JVRVpzZmlHOWtna0locVNmNTdtZUx5TW44MHlkVkdZSW43bWdaSHB3VkF4LUV0UGxfc09UM0JINGdCUTd2UmpjUXJOVlJUVnVOYnFIQ0JVSE5JWjlsSDlZM3BHMmFzZy1UU2p4YWs1aXRFX3g2VFk5NXk2U2NTdloyU2dXUlluUWVrSnZxOExCY3JsSHR1VjhyQkloUQ?oc=5"
+    },
+    {
+      "title": "Russia Gas Summit",
+      "summary": null,
+      "source": "Post Register",
+      "corroboration": 1,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORUI0MHdLREoxRmZPeTFBcVFLb2pEd0s0QzlES3Z6MmlxRXpDVTlTX1BidWpsbjRvbFJ6ZVlndjk5Z29sS0oyV1pNVUstejdQTGVpMG1VNmNOWnNvV2NKTEg2cTFpV1h3R00xaWNrakg3RXU2MEc3bE00NmpNN2szNU1tNzlCV3JtWGp3RUxwLWJqaGV0bHowWjk1NElPZ3pmUWNoY2pFcGI?oc=5"
+    }
+  ]
+}

@@ -1,91 +1,91 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "label": "ranked",
-  "generatedAt": "2026-10-26T23:06:49.068Z",
+  "generatedAt": "2026-10-27T22:56:22.450Z",
   "window": {
-    "from": "2026-10-25T18:30:00.000Z",
-    "to": "2026-10-26T18:30:00.000Z"
+    "from": "2026-10-26T18:30:00.000Z",
+    "to": "2026-10-27T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "Artificial intelligence giant Anthropic files papers to sell shares to public for first time",
+      "title": "Trump Vows to Ban 'Artificial Intelligence' Term",
       "summary": null,
-      "source": "Livemint, Udayavani",
-      "corroboration": 7,
+      "source": "Forbes, Reuters",
+      "corroboration": 9,
       "category": "ai",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVHdvMnlSSy1TVVVYOXJGcHFFNnZLU0dJQ21jQnN2c1NfWjB5RDdnaFRNM0thUFg2WmJqd05iTURFdlhqZ2ozbFVfSUpQbk5iZm0yQ3VsOVJ2ZHNzTThHX01rOHBvVWozUzRLVjhSQ1VTVGRqNnV5RExqVV9fNE01MDJ5LTgxTFhvTlRvcDVITG93YVEyeEQxNXlIbS1xVmU0X0JwVGNWdXFzSWhhZE82ZmxjcnluNFBzVjV5RGtOYk81TUZiXzg5a2hzY0hrQzd1bXpRYQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTGNuejFUNXhiUkcyRGU3a3V6cld3TzFVRnI2MjhhWmlSaVdjb29zYVBZMU5SZ0FXNzB4WkRTNkhOYjhJWU90cHdHYjIzMUVqQmVURFdTcEJzQWlsbzhGYXBJYWotalJ2TlhYbkhJdjhGOWJJeGJzSmZwV2JnamVxN1FBQnhIZC12elU5NUU4U1JFdFJVSlhOQ0JMTDJveTQ?oc=5"
     },
     {
-      "title": "Detected: How artificial intelligence is changing breast cancer detection",
+      "title": "Three new discoveries in mathematics, computer science, and physics",
       "summary": null,
-      "source": "Live 5 News, WECT",
-      "corroboration": 4,
+      "source": "Al Jazeera, Analytics Insight",
+      "corroboration": 3,
+      "category": "science",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+    },
+    {
+      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
       "category": "ai",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR21GVVJoeThzRlVmTjkzbGxSREJHREJkd3RuX0RXS0QzS1lNWEp4alNUYkNaS29hUG43b0lNalJyc3JYOHU3cXAwQ1BNbHdDSm5JSUZUMTltcnZ1TVRTaXk4NHZFWUFXV0MzSi1GX1g3N255Rl9wLUFwUTRkWFNkOXpXUUl6cnNwa3g1SzVZb09UMXEtcDZaMDZoTXg5UVIxdTRlMTlLdTZpQkkzR2hz?oc=5"
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220"
     },
     {
-      "title": "India, US fine-tuning trade agreement; most discussions over: Goyal",
-      "summary": null,
-      "source": "The Hindu, Business Standard",
-      "corroboration": 4,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTkI0QUZUTEpmd2JCQkVsdFNVWk8xdVpIV1ZZV3JqanpoOTRsR0tOaVVXQ1F1ZDRpLTRHZUowY2x6ZjdSQkJmZFRwRWZuUEdvd1NCQlVlVlhVelBfeHI4QXp2eEVrM2FrQjFpYk9zWTZyNzl2MkdpMHRoY0hOaHdNVE50VXI5LWp6S3lnSk9xeVV1TGJsSjlYMmIzZUtGWmp3ZmZrLWlKZGx6dUpKODJTUEs2Y0t4WDgwb04tSFB5c2N2Ym5CUWlNSW90MNIB0AFBVV95cUxPTnE2Q2xiNjctYUQ4UGRhbGtyWmdhQzQtSDVfS0o4eTBsbU1fajJLYzRwdnB5LTJMc3BmNy05aXZVWEVlTjBXckwyTjdWRVNMSFNaUTFwRHJ2SU1rVmllMVo4NjdHSWpFZkRDNmgxYnY0MWlteUpWZ3h0R3pwZUd6dXByT0RRdHQ5ZElLUWdUVW44eWtycHcyWVB0RDBqT1YyNDM3VHNnLWNwME1BUG1UMEpJSGY2OWNRQ2c5RGlmT2pRczRXd0VlMEVRSmgyaUxJ?oc=5"
-    },
-    {
-      "title": "CBSE holds national summit on ‘Facilitating School-to-Work Transition’",
-      "summary": null,
-      "source": "DD News, Careers360",
-      "corroboration": 4,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV3lreGJpM0JoUi1seWRtVzVFenFtUGVaZDJLWEl2Z2tUS0hRWjVUZkVhbjRTRmRaTVZvSnRDT3JnZUtuZFYtUmdpSUpoRGxwYVZ1c3ZxTnVscVBwQzZoa3RjSUIwZnBpZ2dES09lb3JKQWdBdV8zc2U5SkZ1X1JKVnVsQndVOUZKeXRHaFJoS3JOZ2VPUjdqY1lEeEFNSUo5TjJoNXl6RXZ2NkxKWkRpZHUteHZDeXRDOXowdTcya1NfQ2lIVlpDalVB?oc=5"
-    },
-    {
-      "title": "L&T Technology Services, Nokia announce engineering collaboration",
-      "summary": null,
-      "source": "India Business Trade, BusinessLine",
-      "corroboration": 3,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbnJpNXZuTmdTOFRRTHdOSmNuVmRfNTRxT0JjemJhMnVuOVdNb09DLTlnNXNyZmRTeEJyUlNsNDhmOWltZnNXV0lEejdEaHRvem85OFhoVmtqS3VlcjAxMHVjQ2ZtMjZUY0xjcXZiZFNlZWNSUnFXTEp6bWJobGcxLUtzaTduX2IxUDN6VmM2RkxId3lOTFI2blNYMW1oWll3YTFIX1Y5V21KU0JTdE5DNXdoQXhqMzFMMHV0ejN6aGJ3eHBpRHctSFh30gHQAUFVX3lxTE81ejhPNDV5TzRsUDE1b3UtR2p1UWl0MThLN3JpOTFQMTg3TDN1THNoRDMwWTJ3Z2xyVFM3SnQ4bTZCTmc4M09rYUVLSjVuZE0yaFo1U0MzMDRoNy1ORlZpLV9CTlB3S2pSQ1d4cHZheGFiY0RYSGtUbXZoSmRYSnFraktRNnltU09Eb3JpNE5yQjFjdGdUQ1N2WUZaLWllVnBQcGxZOWJ1QlVQZkVIcHdCX3pJcVV1eTdvMUdzaEl0S1ZRVVJ6U1NFOEJrWU9wMDI?oc=5"
-    },
-    {
-      "title": "PM to inaugurate Emerging Science, Technology and Innovation Conclave 2026 on 27 October",
-      "summary": null,
-      "source": "PM India, DD India",
-      "corroboration": 3,
-      "category": "tech",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTEVwT28zaHZUSjh2bk1KSjFiNGdXTU9oWVM3TkZ6dUp4VFpqYjdqRDF3aDA5ampUOGFQZDh3a0ljeUtJc0Q5b1c2MDdBaUdBa0wyUVAyWFVHMGZHR2JrT2dvdFFnc2JnUU1FVW5kVWVlcC00eVI2RExqZlFZdXdBZ3dtVjJybGxpdVd0cmFBMU5HNEtWX2llZ1cwMVNKem9FVnFKei1yQjZlbjNiRW9lSHdSUUN3YUhqLWlDYklrdmNXTTVuNDBCZHpFVlZrSGQ1NUFzSFdDRWlIRlc3YWdzRw?oc=5"
-    },
-    {
-      "title": "Type Server Protocol",
+      "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "tech",
-      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md"
+      "url": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/"
     },
     {
-      "title": "India, Canada hold inaugural Migration and Mobility Dialogue in Delhi",
+      "title": "New 14‑inch MacBook Pro with M6",
       "summary": null,
-      "source": "News On AIR, The New Indian Express",
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
+    },
+    {
+      "title": "Asian Champions Trophy: India make rollicking start to title defence with 13-0 win over Bangladesh",
+      "summary": null,
+      "source": "Hockey India, DD News",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYkdWV2dSR2pfcEsxdEhZcWFNcGZNUGduUC1SNU9yLTIyYnZHaEdiZkhrRGZiM1BMS0dNcU4yRWhFQUk5Sy1TSTAwQTh0X21EUzZ0Mm42amg5U1AyUXBvb0FKXzl0a2ItZXZfQ1NvNEVtNnVOZlJjNEhHMFIwY3F4VVZEa1R4SFlsc0Y5ZmV0WlpxcTJnTWoycXpiQVJaYmxrSVE3T3VuQ2g5bTFSTWo2YTVqaHJqQWxGQWdFcXBR0gHLAUFVX3lxTE1HcFdTNWFXTExFZC1sSzN6YmRvNUpwdGdlUm5rLXhZeC1xSTI5TlRwUi11bVQ3V01FU1MwemhxOFFuOUFUZ3IwZkVkYWdUQ0s4Z2ZJRTMwM2tGdVFNVDZlaWMtRFgtai1FR1BGSFY3eklXaTM1eHI5a2Vna1MtZG5CZVloazNDdnR3U0VpNUNmZWRFaXNnM0ZrU25hNW9tWGFRYm5LXzRkemJRN3o5NFRoVHExVGloOUl0RHZuLS1fQTJzSFFCZWFWbFlB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT1Radjg0VTNtdjJSUUJNQWotdzJzQUpQSkc4eEZaamUwem1XRWU4T1lYaThhMEdYQmtfRmNoRHFFTlFCUzctWGh0LWh4RW8zUHZyUVQwZUpiR3NzanhHZkxIZzZNWURVbFZYT3NhTEVDOXBkb0JoR1ZXRFVvdmMyZVlTc0M5alY5SDBUTVRkQXR4LXFQZ3hkZFdiNzZNZnNhSWRoOFhsTG9hUHNfT2ZQNTZjcWtwRUZETFdzZFRLMFQ?oc=5"
     },
     {
-      "title": "Microsoft offers buyouts to around 60,000 employees",
+      "title": "India To Host SCO's 1st Civilisational Dialogue Forum, Pakistan Minister Invited",
       "summary": null,
-      "source": "Hindustan Times, unknown",
+      "source": "NDTV, The New Indian Express",
       "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVFd5WjZPSFkxbXdpUzNNZmpSRzdOczNOSUFBamFhY0JDUDBTa0kwcGcwel84OF85S2JFcVVZR1JMYl9SaXZvYkF4eHNDTjlyR0JzVGZZV2ZvU2xCYWFwY0pZd3ZEOW5fLTBxdHkxc0dKR2FPcFd6eHExUDlrMjREYVo1b2NmM2RCMFRNVHJiTzZQMkJ2dUNacTViNXNIMjE5YldISTU3LUlfbjVmRUViQ3VhdVpJTFFmYkZN0gHDAUFVX3lxTFBiVEtPazZhQnA2UmNJYkhHODlSMkExT0RrV2ZBZVE4SExERmhUNWpyb0pWTjdEaDdhOWRnX01kYWJ2RXFNQi00TGJBYi1TRFdMWVZETjM3Y0FOaWIxczRLU193d0xNSzhnYmx6UElXT0tuajItejM1b3dFLTd2UGNERm5iZ1RkNXRBSnB0aHlJMEN6YjdjSHZwbGNIYk5oRlhaZUpVUjdUZkNDUnhDb1BRWXFxN2ZyUkM2ZlZPTDRSM0cxUQ?oc=5"
+    },
+    {
+      "title": "India must embrace future technologies, lead world in creating them: PM Modi at ESTIC",
+      "summary": null,
+      "source": "The New Indian Express, News On AIR",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMlZQQlRnU05qZmR0aU5xcEJDQ3VmOV91Vm0yR2RxOVpPUThDdVgybkpNYjF3MVliNnFaZ3E0VzhaWk9uYVRuR0xENUF6VUxYS3QzOWNjREdleVc2OWtQTjNaREd6VTNCRU5ZdFhTZ014RS1iOFhHcHFkQlgxc1lIdHZ5UEU0c0tCTTBNSC1ZUWFIRnozQXdyR29ubElKcW1veUFxWmhxb2lMdzFjQ1lrQlFIREtiY3FzS1N3RUxDdFI1U3ZHdUlNY3BWTzhRbGfSAdwBQVVfeXFMTU1pd3V2N1pDSFo5UjFDLXVqQ05UU3A1WDVJVkRLTE5HT2x6YWNhMGVWcC1TZjVUQS1HNGJkYU91X1dwcktfSTlDLThaSVpjLXhMUXR3ZGpUdVBfT2prLThicF9DN09PbnVnVE90Umc1UTRmQ0tWRklWTGVoVjE4Z2d4aEpaNExuSm5fYUN2NVZGREI1c3RiQzVnbHJWaGR2MG9qRUhDMERmOTBETkc4OE84QkhLNUJzVzFxVDJoNk42UUdza3BxSU9VQ2JqenFVTjRVZ1NJUWViM2c4SA?oc=5"
+    },
+    {
+      "title": "Colombia Halloween",
+      "summary": null,
+      "source": "Post Register",
+      "corroboration": 1,
       "category": "world",
-      "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX3U1dzVQTWd6ZlI2V0JVRVpzZmlHOWtna0locVNmNTdtZUx5TW44MHlkVkdZSW43bWdaSHB3VkF4LUV0UGxfc09UM0JINGdCUTd2UmpjUXJOVlJUVnVOYnFIQ0JVSE5JWjlsSDlZM3BHMmFzZy1UU2p4YWs1aXRFX3g2VFk5NXk2U2NTdloyU2dXUlluUWVrSnZxOExCY3JsSHR1VjhyQkloUQ?oc=5"
     },
     {
-      "title": "NSU Appoints Robert P. Smith, Ph.D., as Vice President for Research and Economic Development",
+      "title": "Russia Gas Summit",
       "summary": null,
-      "source": "Nova Southeastern University, citybiz",
-      "corroboration": 2,
-      "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdTQ0Z2l4empwS3lSdFo3eUt6Q3lEODE1Nl90ZjVvdkVwUGtLV0JMeE9HZVdBZnNiSkdFVWx2blc1VW9xQ3NHd1I0WEg1N2UycW1jZ0lKbm5zWUkyNjU0RFhacmRNTmJBd3A5V2lSaGRWeEtxYVVOTEFvQ2c1VnBwY2xqenFsYnMxQUhQWHJzeWFidE9XbkdyQndxR1VoRkZOTVo3RGsyX2h4c0ZPc3ZiemFCM0FrdkhIVHZwOE5uVkRkZw?oc=5"
+      "source": "Post Register",
+      "corroboration": 1,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORUI0MHdLREoxRmZPeTFBcVFLb2pEd0s0QzlES3Z6MmlxRXpDVTlTX1BidWpsbjRvbFJ6ZVlndjk5Z29sS0oyV1pNVUstejdQTGVpMG1VNmNOWnNvV2NKTEg2cTFpV1h3R00xaWNrakg3RXU2MEc3bE00NmpNN2szNU1tNzlCV3JtWGp3RUxwLWJqaGV0bHowWjk1NElPZ3pmUWNoY2pFcGI?oc=5"
     }
   ]
 }

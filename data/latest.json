@@ -1,91 +1,91 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "label": "ranked",
-  "generatedAt": "2026-10-27T22:56:22.450Z",
+  "generatedAt": "2026-10-28T23:12:43.487Z",
   "window": {
-    "from": "2026-10-26T18:30:00.000Z",
-    "to": "2026-10-27T18:30:00.000Z"
+    "from": "2026-10-27T18:30:00.000Z",
+    "to": "2026-10-28T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "Trump Vows to Ban 'Artificial Intelligence' Term",
+      "title": "Reuters: High-speed train crash in Spain kills at least 30",
+      "summary": null,
+      "source": "NHKニュース, Hacker News",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JaEZWN1VvbFdVWWlBYlRGYW02cE9fVm9ST1pSM19vSWpHWkJqN3dYOVE3NlQtYUdoaFViNkVyQkdJekJWeU1wejMySGpPMlN5X25jeHhkTmNsXzV3Rk5zeWVzOA?oc=5"
+    },
+    {
+      "title": "ISRO to launch NVS-03 satellite on October 30",
+      "summary": null,
+      "source": "ThePrint, The Indian Express",
+      "corroboration": 3,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLXgzSEJwYUFSX3oyRldNNlExYV9YUXVJbXlvbnJLc2p3TThCSGl5aW54eC11Y1E2NDh3c1pZTWNKMXl3RlV1QS15MXRxOUdrOEdyN0N0NGhVajZCMktfdzhxd0RWS1BaM0FWNFJpQV9JTHVEOEJuVk9vR2FGd1dWTHpxUlpYYmhwSklpRGxpUWZWWVdrYTRyUGI1MVdCRVJVZUp5YXcxZFJnNFpZNktCd0s5NG5fNWhwQnlF0gG7AUFVX3lxTE4teDNIQnBhQVJfejJGV002UTFhX1hRdUlteW9ucktzandNOEJIaXlpbnh4LXVjUTY0OHdzWllNY0oxeXdGVXVBLXkxdHE5R2s4R3I3Q3Q0aFVqNkIyS193OHF3RFZLUFozQVY0UmlBX0lMdUQ4Qm5WT29HYUZ3V1ZMenFSWlhiaHBKSWlEbGlRZlZZV2thNHJQYjUxV0JFUlVlSnlhdzFkUmc0Wlk2S0J3Szk0bl81aHBCeUU?oc=5"
+    },
+    {
+      "title": "Trump says he will ban term artificial intelligence",
       "summary": null,
       "source": "Forbes, Reuters",
-      "corroboration": 9,
-      "category": "ai",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTGNuejFUNXhiUkcyRGU3a3V6cld3TzFVRnI2MjhhWmlSaVdjb29zYVBZMU5SZ0FXNzB4WkRTNkhOYjhJWU90cHdHYjIzMUVqQmVURFdTcEJzQWlsbzhGYXBJYWotalJ2TlhYbkhJdjhGOWJJeGJzSmZwV2JnamVxN1FBQnhIZC12elU5NUU4U1JFdFJVSlhOQ0JMTDJveTQ?oc=5"
-    },
-    {
-      "title": "Three new discoveries in mathematics, computer science, and physics",
-      "summary": null,
-      "source": "Al Jazeera, Analytics Insight",
       "corroboration": 3,
-      "category": "science",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+      "category": "ai",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTVKYzJuUHVHb1A0cnVGZGdheE5VT1kwWmZVVEV0YVY4RkhQenRfeTA4bHhaWDRJd2o2NVFCa2VPb2duR0dzZUVmOFBSMEFoSUhDQngtN2V1b0l1YVdVNnp4TEF6Y2lVNjlYM29ueVpjMkFxZUdIUklTZDFIdU5QQnVXV1lBOEp2TFZpLVVqZmp1MElLSmoxRg?oc=5"
     },
     {
-      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+      "title": "Early progress on accelerating drug development with Claude",
+      "summary": null,
+      "source": "Anthropic, Hacker News",
+      "corroboration": 2,
+      "category": "science",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IbmplZ01nQUt5R0hldklCR3FRMlVWZy1RcFZlc1VpRDhVNk00Vzd0Mm5QdlNXb1NncmxTX1ZFZTl4Xzl5bkpqUU56OGVxWjlZWmN6SjM4cVFLX3dkU0RUNWJVQ1JZTUswTk1iSzJ1MGwyUldn?oc=5"
+    },
+    {
+      "title": "US imposes sanctions on Rwanda's defense ministry over Congo conflict",
+      "summary": null,
+      "source": "Reuters, Internazionale",
+      "corroboration": 3,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFV5WTBDc2l5NVRFbllUS1NOZzZTM2x3cVVmaV9ydHhIdGRScmJVV3FQYTdJYlRMclVKZHVCSTEwcnpJaGpVUDZmVWlfZzN6NzA1b0VrZllGZHhWYVc5YkpCYTFONl82NlI5MWVxZ1NzZ3BPRzU4aG9iNlZLLWtVWW0tdXN4ZmVfbktkeHlKV1VpZG44RlNIZEVR?oc=5"
+    },
+    {
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons"
+    },
+    {
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/"
+    },
+    {
+      "title": "Gemini 4 Carbon",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220"
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
     },
     {
-      "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
+      "title": "Apple launches its new touchscreen MacBook Pro",
       "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "tech",
-      "url": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/"
-    },
-    {
-      "title": "New 14‑inch MacBook Pro with M6",
-      "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "tech",
-      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
-    },
-    {
-      "title": "Asian Champions Trophy: India make rollicking start to title defence with 13-0 win over Bangladesh",
-      "summary": null,
-      "source": "Hockey India, DD News",
+      "source": "India Today, unknown",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT1Radjg0VTNtdjJSUUJNQWotdzJzQUpQSkc4eEZaamUwem1XRWU4T1lYaThhMEdYQmtfRmNoRHFFTlFCUzctWGh0LWh4RW8zUHZyUVQwZUpiR3NzanhHZkxIZzZNWURVbFZYT3NhTEVDOXBkb0JoR1ZXRFVvdmMyZVlTc0M5alY5SDBUTVRkQXR4LXFQZ3hkZFdiNzZNZnNhSWRoOFhsTG9hUHNfT2ZQNTZjcWtwRUZETFdzZFRLMFQ?oc=5"
+      "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/"
     },
     {
-      "title": "India To Host SCO's 1st Civilisational Dialogue Forum, Pakistan Minister Invited",
+      "title": "India's September industrial output grows 6.7% y/y",
       "summary": null,
-      "source": "NDTV, The New Indian Express",
+      "source": "Reuters, Upstox",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVFd5WjZPSFkxbXdpUzNNZmpSRzdOczNOSUFBamFhY0JDUDBTa0kwcGcwel84OF85S2JFcVVZR1JMYl9SaXZvYkF4eHNDTjlyR0JzVGZZV2ZvU2xCYWFwY0pZd3ZEOW5fLTBxdHkxc0dKR2FPcFd6eHExUDlrMjREYVo1b2NmM2RCMFRNVHJiTzZQMkJ2dUNacTViNXNIMjE5YldISTU3LUlfbjVmRUViQ3VhdVpJTFFmYkZN0gHDAUFVX3lxTFBiVEtPazZhQnA2UmNJYkhHODlSMkExT0RrV2ZBZVE4SExERmhUNWpyb0pWTjdEaDdhOWRnX01kYWJ2RXFNQi00TGJBYi1TRFdMWVZETjM3Y0FOaWIxczRLU193d0xNSzhnYmx6UElXT0tuajItejM1b3dFLTd2UGNERm5iZ1RkNXRBSnB0aHlJMEN6YjdjSHZwbGNIYk5oRlhaZUpVUjdUZkNDUnhDb1BRWXFxN2ZyUkM2ZlZPTDRSM0cxUQ?oc=5"
-    },
-    {
-      "title": "India must embrace future technologies, lead world in creating them: PM Modi at ESTIC",
-      "summary": null,
-      "source": "The New Indian Express, News On AIR",
-      "corroboration": 2,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMlZQQlRnU05qZmR0aU5xcEJDQ3VmOV91Vm0yR2RxOVpPUThDdVgybkpNYjF3MVliNnFaZ3E0VzhaWk9uYVRuR0xENUF6VUxYS3QzOWNjREdleVc2OWtQTjNaREd6VTNCRU5ZdFhTZ014RS1iOFhHcHFkQlgxc1lIdHZ5UEU0c0tCTTBNSC1ZUWFIRnozQXdyR29ubElKcW1veUFxWmhxb2lMdzFjQ1lrQlFIREtiY3FzS1N3RUxDdFI1U3ZHdUlNY3BWTzhRbGfSAdwBQVVfeXFMTU1pd3V2N1pDSFo5UjFDLXVqQ05UU3A1WDVJVkRLTE5HT2x6YWNhMGVWcC1TZjVUQS1HNGJkYU91X1dwcktfSTlDLThaSVpjLXhMUXR3ZGpUdVBfT2prLThicF9DN09PbnVnVE90Umc1UTRmQ0tWRklWTGVoVjE4Z2d4aEpaNExuSm5fYUN2NVZGREI1c3RiQzVnbHJWaGR2MG9qRUhDMERmOTBETkc4OE84QkhLNUJzVzFxVDJoNk42UUdza3BxSU9VQ2JqenFVTjRVZ1NJUWViM2c4SA?oc=5"
-    },
-    {
-      "title": "Colombia Halloween",
-      "summary": null,
-      "source": "Post Register",
-      "corroboration": 1,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX3U1dzVQTWd6ZlI2V0JVRVpzZmlHOWtna0locVNmNTdtZUx5TW44MHlkVkdZSW43bWdaSHB3VkF4LUV0UGxfc09UM0JINGdCUTd2UmpjUXJOVlJUVnVOYnFIQ0JVSE5JWjlsSDlZM3BHMmFzZy1UU2p4YWs1aXRFX3g2VFk5NXk2U2NTdloyU2dXUlluUWVrSnZxOExCY3JsSHR1VjhyQkloUQ?oc=5"
-    },
-    {
-      "title": "Russia Gas Summit",
-      "summary": null,
-      "source": "Post Register",
-      "corroboration": 1,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORUI0MHdLREoxRmZPeTFBcVFLb2pEd0s0QzlES3Z6MmlxRXpDVTlTX1BidWpsbjRvbFJ6ZVlndjk5Z29sS0oyV1pNVUstejdQTGVpMG1VNmNOWnNvV2NKTEg2cTFpV1h3R00xaWNrakg3RXU2MEc3bE00NmpNN2szNU1tNzlCV3JtWGp3RUxwLWJqaGV0bHowWjk1NElPZ3pmUWNoY2pFcGI?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc081QlVqdFg5NnNJcXZocmdUUXRZaGhxVzkyTy1kUjIzSUtUcGZmUWNvenUwaWN6cUh1aFR6Uy1nUEdvVVFmcHF3SnlFTU5IX21oVnowZUFkQWNBeVg5M3ZrSGwzUmw5S2NldjZpVWpmOWs2Z0psVjNxcDhadFdTcGRMZmVSaHBXeWwzSFN4Vm5zSzRabC1qVWNB?oc=5"
     }
   ]
 }

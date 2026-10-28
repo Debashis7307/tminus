@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-28",
+  "label": "ranked",
+  "generatedAt": "2026-10-28T23:12:43.487Z",
+  "window": {
+    "from": "2026-10-27T18:30:00.000Z",
+    "to": "2026-10-28T18:30:00.000Z"
+  },
+  "items": [
+    {
+      "title": "Reuters: High-speed train crash in Spain kills at least 30",
+      "summary": null,
+      "source": "NHKニュース, Hacker News",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JaEZWN1VvbFdVWWlBYlRGYW02cE9fVm9ST1pSM19vSWpHWkJqN3dYOVE3NlQtYUdoaFViNkVyQkdJekJWeU1wejMySGpPMlN5X25jeHhkTmNsXzV3Rk5zeWVzOA?oc=5"
+    },
+    {
+      "title": "ISRO to launch NVS-03 satellite on October 30",
+      "summary": null,
+      "source": "ThePrint, The Indian Express",
+      "corroboration": 3,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLXgzSEJwYUFSX3oyRldNNlExYV9YUXVJbXlvbnJLc2p3TThCSGl5aW54eC11Y1E2NDh3c1pZTWNKMXl3RlV1QS15MXRxOUdrOEdyN0N0NGhVajZCMktfdzhxd0RWS1BaM0FWNFJpQV9JTHVEOEJuVk9vR2FGd1dWTHpxUlpYYmhwSklpRGxpUWZWWVdrYTRyUGI1MVdCRVJVZUp5YXcxZFJnNFpZNktCd0s5NG5fNWhwQnlF0gG7AUFVX3lxTE4teDNIQnBhQVJfejJGV002UTFhX1hRdUlteW9ucktzandNOEJIaXlpbnh4LXVjUTY0OHdzWllNY0oxeXdGVXVBLXkxdHE5R2s4R3I3Q3Q0aFVqNkIyS193OHF3RFZLUFozQVY0UmlBX0lMdUQ4Qm5WT29HYUZ3V1ZMenFSWlhiaHBKSWlEbGlRZlZZV2thNHJQYjUxV0JFUlVlSnlhdzFkUmc0Wlk2S0J3Szk0bl81aHBCeUU?oc=5"
+    },
+    {
+      "title": "Trump says he will ban term artificial intelligence",
+      "summary": null,
+      "source": "Forbes, Reuters",
+      "corroboration": 3,
+      "category": "ai",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTVKYzJuUHVHb1A0cnVGZGdheE5VT1kwWmZVVEV0YVY4RkhQenRfeTA4bHhaWDRJd2o2NVFCa2VPb2duR0dzZUVmOFBSMEFoSUhDQngtN2V1b0l1YVdVNnp4TEF6Y2lVNjlYM29ueVpjMkFxZUdIUklTZDFIdU5QQnVXV1lBOEp2TFZpLVVqZmp1MElLSmoxRg?oc=5"
+    },
+    {
+      "title": "Early progress on accelerating drug development with Claude",
+      "summary": null,
+      "source": "Anthropic, Hacker News",
+      "corroboration": 2,
+      "category": "science",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IbmplZ01nQUt5R0hldklCR3FRMlVWZy1RcFZlc1VpRDhVNk00Vzd0Mm5QdlNXb1NncmxTX1ZFZTl4Xzl5bkpqUU56OGVxWjlZWmN6SjM4cVFLX3dkU0RUNWJVQ1JZTUswTk1iSzJ1MGwyUldn?oc=5"
+    },
+    {
+      "title": "US imposes sanctions on Rwanda's defense ministry over Congo conflict",
+      "summary": null,
+      "source": "Reuters, Internazionale",
+      "corroboration": 3,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFV5WTBDc2l5NVRFbllUS1NOZzZTM2x3cVVmaV9ydHhIdGRScmJVV3FQYTdJYlRMclVKZHVCSTEwcnpJaGpVUDZmVWlfZzN6NzA1b0VrZllGZHhWYVc5YkpCYTFONl82NlI5MWVxZ1NzZ3BPRzU4aG9iNlZLLWtVWW0tdXN4ZmVfbktkeHlKV1VpZG44RlNIZEVR?oc=5"
+    },
+    {
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons"
+    },
+    {
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/"
+    },
+    {
+      "title": "Gemini 4 Carbon",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+    },
+    {
+      "title": "Apple launches its new touchscreen MacBook Pro",
+      "summary": null,
+      "source": "India Today, unknown",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/"
+    },
+    {
+      "title": "India's September industrial output grows 6.7% y/y",
+      "summary": null,
+      "source": "Reuters, Upstox",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc081QlVqdFg5NnNJcXZocmdUUXRZaGhxVzkyTy1kUjIzSUtUcGZmUWNvenUwaWN6cUh1aFR6Uy1nUEdvVVFmcHF3SnlFTU5IX21oVnowZUFkQWNBeVg5M3ZrSGwzUmw5S2NldjZpVWpmOWs2Z0psVjNxcDhadFdTcGRMZmVSaHBXeWwzSFN4Vm5zSzRabC1qVWNB?oc=5"
+    }
+  ]
+}

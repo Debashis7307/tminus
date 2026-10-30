@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-30",
+  "label": "ranked",
+  "generatedAt": "2026-10-30T22:57:18.830Z",
+  "window": {
+    "from": "2026-10-29T18:30:00.000Z",
+    "to": "2026-10-30T18:30:00.000Z"
+  },
+  "items": [
+    {
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f"
+    },
+    {
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/"
+    },
+    {
+      "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/"
+    },
+    {
+      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://github.com/dbreunig/nesformer"
+    },
+    {
+      "title": "Watch: ISRO launches NVS-03 satellite to strengthen India’s NavIC navigation network",
+      "summary": null,
+      "source": "Telangana Today, The Economic Times",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkhUMHk1R3lubkVoMGR3OEZjM25QNzVvVzByYml6a0Z4OTBITi1CZEYyY0s5amVUeHl2QmFYa0daWU1Xa1ZIMVd1eUp6cnFQdUt6N0VzZDhFal9GYXExSWlLVGdDLU1LN25DTkdWMUtHTmhKRndyS1RjcC1rSUdxaVk0OF9SaVlUVlp0N0t0eGpqMHQwRTVKQ1ZTanZwZHFWM1E4ZmI4ZHlKb0M0eXc?oc=5"
+    },
+    {
+      "title": "At 90, Japanese bodybuilder is still competing, in photos",
+      "summary": null,
+      "source": "Idaho Press, Post Register",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMnlrZ255Ni1ndXdleHNYMUxZNTV5cU1HSUFxd2p6X1VQUkhoVnNaWjBScE45YllGSlFlcHQyZkF1ZDJnMXhCVFpCVmE2MTUxWUZpQlRlWjI5M3VmREJkWEZVcWFDdGJaNS0xcUZJZ1dORDVIdW1zZXI1Y0x6SU96NlV5Y0VNSnNEZ3lPVFo1Y1pNbENHa21KNy1vTmRIZTlPSWt6djFyQmR4ZVprNVFQbk93dzdlMklsZGVaUndyNGtVMFBkNHd1d1p1UGdzcFNIRVR2Rjg5cHRFSVk?oc=5"
+    },
+    {
+      "title": "Manisha Becomes India's First-Ever Women's World Champion",
+      "summary": null,
+      "source": "United World Wrestling, The Times of India",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZXVuS1NTREpULUsxOXRKWXA5V0puVUJRS2tfd192R0RrcHhFSENMWFZIcTZ4MnlhNVZzREtCVjdyZEpEWFA3M1g4Y3ViLTFxT0FMamVxRjNsTDJHd2pvREpENFlCZkk0OTBOVUI0b0Q4N3NoekR0bzd3V1BUa0NwbTVoTnQySFU?oc=5"
+    },
+    {
+      "title": "ISRO's GSLV-F18 Launch Successful: India sends NVS-03 into space in major NavIC mission",
+      "summary": null,
+      "source": "Moneycontrol.com, News18",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVW1fWEFaemJvRE56X0FQd2loNEJHQXYxQjlEdGpoaHhXMFk0TDJKZkN2THpMTjJqYncyQWRPZWZBOHNiWE9KX3lJdVRXMnVKTVF2TDFlWTdrQjVtQmxfemk4azloZHFyV0ZwT0szV3ppdWx0MnFTeDJvSzl1S2dERHQ4NUxrYUlBZGhCQkpoME5kbkZob2pZVEVkdnBfQk5Ta0JKMFFSYmQ2QUxybTEtLTZXYTkzN1JlaXBkNzJlaVJNTzVJNTBueWhpZ21SZU9uc1hsdHc4ZkxyVFhNY3fSAeMBQVVfeXFMTlVRdkZJNTJTWEVVMXBUOUpSQXJnZkVSNUtINHJUM2JzVUJCUHNPMkJmTjVGdmJYU29SakFncE1xRV95U3lVZGl6TVZ0dXI4bjU5RTFTREFveDNyTmdGNTdKR3JRTDFheWVWODI0aTVnREp6aVVXN0VHZGhWcVZxeVJueXFTMzJTMFZHWU1jUmRLS0IwS3QtaUJlS2tEVE9taExvTmhubE5vZHZMSm0ycnAxVWRzWmhCbFE1c0VuMWN6UHNFeW9aU3NzQm45WlBwQ0I3S3hDOS1zZlJoWGRkLUtNWDQ?oc=5"
+    },
+    {
+      "title": "Make game-changing connections at Founder Summit with Braindate",
+      "summary": null,
+      "source": "TechCrunch, unknown",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaUZoNS1JZks3bzZZWlpXazJfVWo3eGZqYzJLeThFZHhuN0V1WE5sb3hqWEV3LVN0TkxpREJuSjZZSnlYNWl0cjlGcW54WjAxX1FtQUY3clpTeDVGS0d6U2g5R1ktYnVldGVSX0tsY0YzN1dvVE1OM3VQTjc5bktuRm1QN2Y2cUI5Rm9DOThPZHpncU9wT2dqamt6dDBiMGZZREZzRUxzdkNmSWswY1BJSzNHQlFKTWZLZGlBaDc2VmdxX053cFpmQg?oc=5"
+    },
+    {
+      "title": "PI Industries Unveils Pioxaniliprole, India's First Indigenously Discovered Insecticide Molecule",
+      "summary": null,
+      "source": "Indian Chemical News, RuralVoice",
+      "corroboration": 2,
+      "category": "science",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMFlFclRHVEYycXZmSGNDS3NpUl9RVjBnNTkycURqREViRmUtUjkwZXhMczNxRXZvdnNyRGRGUGNoblpXN2NJZURiS3dncDN1MVdESkZjTmNfeWVTaHh2cmJqZzlxTkdhc2o5YmJlT2Y3MHV4TmVNOERxOWhGMDcwbXFxZ0YxeVNfS01jN3FLb0ZySlMyVF8wMzZneTJtajhoM2lUb1N5eXR1LTk0U204SDhZUlhIYjB2ZTAwYWx1Qk9XSkFDOUpzalNHQ0VDVjhZQUZV0gHTAUFVX3lxTFAwWUVyVEdURjJxdmZIY0NLc2lSX1FWMGc1OTJxRGpERWJGZS1SOTBleExzM3FFdm92c3JEZEZQY2huWlc3Y0llRGJLd2dwM3UxV0RKRmNOY195ZVNoeHZyYmpnOXFOR2FzajliYmVPZjcwdXhOZU04RHE5aEYwNzBtcXFnRjF5U19LTWM3cUtvRnJKUzJUXzAzNmd5Mm1qOGgzaVRvU3l5dHUtOTRTbThIOFlSWEhiMHZlMDBhbHVCT1dKQUM5SnNqU0dDRUNWOFlBRlU?oc=5"
+    }
+  ]
+}

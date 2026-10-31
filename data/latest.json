@@ -1,91 +1,91 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "label": "ranked",
-  "generatedAt": "2026-10-30T22:57:18.830Z",
+  "generatedAt": "2026-10-31T22:27:44.099Z",
   "window": {
-    "from": "2026-10-29T18:30:00.000Z",
-    "to": "2026-10-30T18:30:00.000Z"
+    "from": "2026-10-30T18:30:00.000Z",
+    "to": "2026-10-31T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "title": "ISRO Launches NVS-03 Satellite To Strengthen India's NavIC System",
+      "summary": null,
+      "source": "Sarkaritel.com, www.nationpathindia.com",
+      "corroboration": 5,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YMkxrbEEyV1U4WWFhbXFRYnZ5bEMwWHpFVEYzd2gwbFhTOS16cndUUW83OXF6ZW5Vd1NCcnZxeHFnbkhtYW05MVRyYWlfN1lhNjVLYjdPelZ6b0EtaUlvTExCYkJaVmNfVDFpdE9HMlR4aDBtaDVkbQ?oc=5"
+    },
+    {
+      "title": "Nigerian-Born Engineer Akinbile Raises $3.8m For AI Startup",
+      "summary": null,
+      "source": "Vanguard News, PM News Nigeria",
+      "corroboration": 4,
+      "category": "tech",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaEdRTGhnaVl6T2hLeUowMDB2QlRjUzdORTA1bTUzckRQdUwxbHpEdUVOUTlnTWtORWRDLThxWnpuRFVhdW84aDNtSHlNRy1Wb2wzeGswazNjaHF0OGRGOFNTdWhRM0R2M1VWRFItX2VJUmZ3anZGbFlBRTV5aXY0LWFROWlyTmQ1OXc?oc=5"
+    },
+    {
+      "title": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
+      "summary": null,
+      "source": "unknown, Hacker News",
+      "corroboration": 2,
+      "category": "tech",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+    },
+    {
+      "title": "OpenAI raises less than half of $30B target",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f"
+      "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5"
     },
     {
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "tech",
-      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/"
-    },
-    {
-      "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/"
+      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778"
     },
     {
-      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "title": "India, Turkey propose ideas to resume Black Sea grain shipments amid war: Rubio",
       "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "tech",
-      "url": "https://github.com/dbreunig/nesformer"
-    },
-    {
-      "title": "Watch: ISRO launches NVS-03 satellite to strengthen India’s NavIC navigation network",
-      "summary": null,
-      "source": "Telangana Today, The Economic Times",
+      "source": "India Today, ANI News",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkhUMHk1R3lubkVoMGR3OEZjM25QNzVvVzByYml6a0Z4OTBITi1CZEYyY0s5amVUeHl2QmFYa0daWU1Xa1ZIMVd1eUp6cnFQdUt6N0VzZDhFal9GYXExSWlLVGdDLU1LN25DTkdWMUtHTmhKRndyS1RjcC1rSUdxaVk0OF9SaVlUVlp0N0t0eGpqMHQwRTVKQ1ZTanZwZHFWM1E4ZmI4ZHlKb0M0eXc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOS3V5MmNuVURudlJQem5rN1ZrdTY5ZDBiNkVieDF3NkZCRE5vQzhyUlJmaEVzUHdZMFg3WDNtX2hhZXYwSW1KeFl2cU1nRUFNRVJXT2IzWWVySTQtU044T210R1N2dDZKeTN5QVFTU0RvaFMycFY0OHBhTEszcnhEanNWUTNkY2syVjJ0cTVubFBkOS1YU1NJMGpYclZRYWlXc0dJZTFhNFNua2JlVmJTVkxEM3k1Xy10Wklvdk83a3dZaWR4d00zcXFabmM0TmlHaF83ckVSeFdmQ3NTV0RfVmZKRjlJbEpXc1U00gHwAUFVX3lxTE9ydHRndGZTT2xsbnVHb0N2d3dxZGR5MUcyY1dXNnFfcDFlRWx5XzlqRVhrRWFPWTJSTHYzdVlvTmZ4ak5sWHVnXzVaTExUMWxaMldHXzRDTHVHaWVyY2poY28tczlsRGtWRHRWSlNVaDItTUJkcnIyaHFBR1AzUHRhRU11OV9iWm54NUxaSWlpbHZNV2ZYdm1RU25xWmJtVzJvdG42eHB1MGQzOUpJNXQtc1hzOVlKTDZyZ0VaRlpoc1MwcHBMWTV2U3R6Z2xzNzdqaEpsem8ySmg3cUtfcktpenNDM3pvQ0E0MGFpQ3EtdQ?oc=5"
     },
     {
-      "title": "At 90, Japanese bodybuilder is still competing, in photos",
+      "title": "Thousands rally in Manipur against recent killings, ethnic conflict",
       "summary": null,
-      "source": "Idaho Press, Post Register",
+      "source": "The Times of India, NDTV",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYVItUkRPSXk5ODh6aHA1MlpOXzVoSUdNY0F6NVVkbENDeXh1ZmtzRnlxbmhYUzM4MUFieXZ5MXhXNXZaR2NWQzB3WGdoZHJaa2dNR3dkX3FjSFpqS0hFUnAtSFVyVUtJRzhtNDBqazN4dk1wNmx6Z0xNbmZZYV9MR0I3SkNUbnpqXzZULVdFR0ZYTGdnQzdUYi14eDRUbWFtMVRuVUxzMnVsNmVHeHpuN2dCODNJNXZ6WjEtTDFmOFhXTU4zbVZieEF4RHVIVWfSAdQBQVVfeXFMTnZJMXIyWGNzcnF1TGx0UmgtOUhtczlRX1doaHU5Qk1Ga29McXgyZ0R6LXVtVWNsbEtUcjZSQXJxOV9YWXgxbHFFLWpsN2hhc3hZXzdLRlhXaEx3Z1NYSzlVb0FXcGlWUDhtQVpiX0pDeHk4Wk9BeWJFd3NZVEVlemtUc1ZFejVHN01YVVQwNm15bXc5YV8xd2ZMZF90NXBuVExHUFk4QnpfMHpiTjl0NEF1MDgwSU5Zem1JTlV4bHJOUlhDOEpKeUcxLS02anR0VEJxaDU?oc=5"
+    },
+    {
+      "title": "Trump says Iran conflict will conclude soon",
+      "summary": null,
+      "source": "chinadailyhk, Middle East Online",
       "corroboration": 2,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMnlrZ255Ni1ndXdleHNYMUxZNTV5cU1HSUFxd2p6X1VQUkhoVnNaWjBScE45YllGSlFlcHQyZkF1ZDJnMXhCVFpCVmE2MTUxWUZpQlRlWjI5M3VmREJkWEZVcWFDdGJaNS0xcUZJZ1dORDVIdW1zZXI1Y0x6SU96NlV5Y0VNSnNEZ3lPVFo1Y1pNbENHa21KNy1vTmRIZTlPSWt6djFyQmR4ZVprNVFQbk93dzdlMklsZGVaUndyNGtVMFBkNHd1d1p1UGdzcFNIRVR2Rjg5cHRFSVk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ1o5RHRHSkY3YjRTN0JfRXZITmNsb21sbE5Ha2ZvUWNkTTlFdHJERy1ZaXJzTV94ajNxdE9OQzlkSk1YTjVpMG16dUhLMEppSHYtWG5NZzRNUmxuc1ZTNVNmRF9MMnEwVllqQWl4N0xmNE8xTmNpWmYwazNqdGNLejVNMA?oc=5"
     },
     {
-      "title": "Manisha Becomes India's First-Ever Women's World Champion",
+      "title": "PI Industries unveils Pioxaniliprole, India’s first indigenously discovered Insecticide molecule",
       "summary": null,
-      "source": "United World Wrestling, The Times of India",
-      "corroboration": 2,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZXVuS1NTREpULUsxOXRKWXA5V0puVUJRS2tfd192R0RrcHhFSENMWFZIcTZ4MnlhNVZzREtCVjdyZEpEWFA3M1g4Y3ViLTFxT0FMamVxRjNsTDJHd2pvREpENFlCZkk0OTBOVUI0b0Q4N3NoekR0bzd3V1BUa0NwbTVoTnQySFU?oc=5"
-    },
-    {
-      "title": "ISRO's GSLV-F18 Launch Successful: India sends NVS-03 into space in major NavIC mission",
-      "summary": null,
-      "source": "Moneycontrol.com, News18",
-      "corroboration": 2,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVW1fWEFaemJvRE56X0FQd2loNEJHQXYxQjlEdGpoaHhXMFk0TDJKZkN2THpMTjJqYncyQWRPZWZBOHNiWE9KX3lJdVRXMnVKTVF2TDFlWTdrQjVtQmxfemk4azloZHFyV0ZwT0szV3ppdWx0MnFTeDJvSzl1S2dERHQ4NUxrYUlBZGhCQkpoME5kbkZob2pZVEVkdnBfQk5Ta0JKMFFSYmQ2QUxybTEtLTZXYTkzN1JlaXBkNzJlaVJNTzVJNTBueWhpZ21SZU9uc1hsdHc4ZkxyVFhNY3fSAeMBQVVfeXFMTlVRdkZJNTJTWEVVMXBUOUpSQXJnZkVSNUtINHJUM2JzVUJCUHNPMkJmTjVGdmJYU29SakFncE1xRV95U3lVZGl6TVZ0dXI4bjU5RTFTREFveDNyTmdGNTdKR3JRTDFheWVWODI0aTVnREp6aVVXN0VHZGhWcVZxeVJueXFTMzJTMFZHWU1jUmRLS0IwS3QtaUJlS2tEVE9taExvTmhubE5vZHZMSm0ycnAxVWRzWmhCbFE1c0VuMWN6UHNFeW9aU3NzQm45WlBwQ0I3S3hDOS1zZlJoWGRkLUtNWDQ?oc=5"
-    },
-    {
-      "title": "Make game-changing connections at Founder Summit with Braindate",
-      "summary": null,
-      "source": "TechCrunch, unknown",
-      "corroboration": 2,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaUZoNS1JZks3bzZZWlpXazJfVWo3eGZqYzJLeThFZHhuN0V1WE5sb3hqWEV3LVN0TkxpREJuSjZZSnlYNWl0cjlGcW54WjAxX1FtQUY3clpTeDVGS0d6U2g5R1ktYnVldGVSX0tsY0YzN1dvVE1OM3VQTjc5bktuRm1QN2Y2cUI5Rm9DOThPZHpncU9wT2dqamt6dDBiMGZZREZzRUxzdkNmSWswY1BJSzNHQlFKTWZLZGlBaDc2VmdxX053cFpmQg?oc=5"
-    },
-    {
-      "title": "PI Industries Unveils Pioxaniliprole, India's First Indigenously Discovered Insecticide Molecule",
-      "summary": null,
-      "source": "Indian Chemical News, RuralVoice",
+      "source": "AgroSpectrum India, RuralVoice",
       "corroboration": 2,
       "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMFlFclRHVEYycXZmSGNDS3NpUl9RVjBnNTkycURqREViRmUtUjkwZXhMczNxRXZvdnNyRGRGUGNoblpXN2NJZURiS3dncDN1MVdESkZjTmNfeWVTaHh2cmJqZzlxTkdhc2o5YmJlT2Y3MHV4TmVNOERxOWhGMDcwbXFxZ0YxeVNfS01jN3FLb0ZySlMyVF8wMzZneTJtajhoM2lUb1N5eXR1LTk0U204SDhZUlhIYjB2ZTAwYWx1Qk9XSkFDOUpzalNHQ0VDVjhZQUZV0gHTAUFVX3lxTFAwWUVyVEdURjJxdmZIY0NLc2lSX1FWMGc1OTJxRGpERWJGZS1SOTBleExzM3FFdm92c3JEZEZQY2huWlc3Y0llRGJLd2dwM3UxV0RKRmNOY195ZVNoeHZyYmpnOXFOR2FzajliYmVPZjcwdXhOZU04RHE5aEYwNzBtcXFnRjF5U19LTWM3cUtvRnJKUzJUXzAzNmd5Mm1qOGgzaVRvU3l5dHUtOTRTbThIOFlSWEhiMHZlMDBhbHVCT1dKQUM5SnNqU0dDRUNWOFlBRlU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMnNvZHVRQXp5Zzk5LXFHdWVhMXlxWVRXbC1VRkJPcWdOYzF3b19yOTB3c0FVWDJIZzB3dmxuQndOdVZmbUhTRUxtV0JSX1ctZFBCY0YxQU4zOGRQcUE2b1NUZHQwZVAwRXpHdkZmUW5nZzZHcjYtWEJDei1ma19LM0VXSEs3bERRbVo2MEQ0ZVF3MV9PS0FZbWhUclRvU2trT0VlVkZsMGJWd2k4SUpKSk93RXZjNUZQam9MSHlXdFFOSXdGTGRjMkpKelF0QmFKOU85OC1RSF9zalZF?oc=5"
+    },
+    {
+      "title": "Germany Halloween",
+      "summary": null,
+      "source": "Post Register",
+      "corroboration": 1,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZk5xamItZWJXdXdKRHZHRExBZWQzUk1ra3RqMjRSRkd1Zi1zSFdXN2RmaXFTUHlaZElOYkFRYWFEUDhOMzZpanpETnQyV0syMkZDWVZRS3FnX1BJbVRpTFQ3MnJWWE1JSVBfQVVORkloWHN5dk82TUtVbVlQVUNhSWFFd1V3VmsxWFRzZzl5TkR5ZWZHbFVJVHNVZWw3b1ZacFZmU0ZUVUY?oc=5"
     }
   ]
 }

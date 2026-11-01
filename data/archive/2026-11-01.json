@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-01",
+  "label": "ranked",
+  "generatedAt": "2026-11-01T22:47:39.812Z",
+  "window": {
+    "from": "2026-10-31T18:30:00.000Z",
+    "to": "2026-11-01T18:30:00.000Z"
+  },
+  "items": [
+    {
+      "title": "Major global news moments of October, in AP photos",
+      "summary": null,
+      "source": "Post Register, NewsChannel20",
+      "corroboration": 6,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMWJjRHQ2M1c1Mm81UTcyM05SZ3dSNjZmd2tXX1I5clJoaGxXMGluWmp6TzhjUThQUU10Q25RTWFJSk5pSWdUaHBwa0xwT3hzb2NqV3FBclhEZEFHSHU5OEc0emxTZGZ6LWotOEFqNVhZVDdjSTJjWDV5ajBfMG1QUVJweERyZUFrSzR2ZTJ1b2F5cXlZUDRoOG80ZUpsR2JhUjk4X01ZRkpud29Dd3h2RXpqaFpoYzdYSkIyNUNfT0g2T016M3RFVWpIMDNTeFpjMWlv?oc=5"
+    },
+    {
+      "title": "Mathematics has changed. Let's act like it",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/"
+    },
+    {
+      "title": "Patrick Stewart taught us what good men do with power",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism"
+    },
+    {
+      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy"
+    },
+    {
+      "title": "The AI cost of JavaScript frameworks",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/"
+    },
+    {
+      "title": "Power Grid Corporation of India Q2 Results: Net profit up 8%; approves ₹3 interim dividend",
+      "summary": null,
+      "source": "IndiaIPO, CNBC TV18",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRTFISGtGek85N0UxVVBwaXdZc2ktLWt3cGVhYmFzN2FvcWt2NU0zc010bGEtSnozM25PdC1YeGx6bEQ0NUpCREh5TGlnMG1BcXBYdjNMZm9Udk5fcFp5eWZENVMzelUxVnlfLWg3UUpqeVpibW9NbTU4MEFNUDJyd2l4aFhVekdzRGVwcjdqaENxYW9zQXFDOUlOSnJ2YS1EQWl2V1gtN1FHNl9NMVFydlhkbDJQNkFWLTRyUUdaNA?oc=5"
+    },
+    {
+      "title": "Asian Champions Trophy: Harmanpreet’s hat-trick helps India down Malaysia",
+      "summary": null,
+      "source": "Olympics, The Hindu",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNndKRTM3MG5tVC1NT0hxNWh5X2dXckZ3WENwNkZ6WGE0SmxiYnMxMVVmWFBlOHRNM0lIU2JwbVlqWjdIR29jTjBScXNIN0MyeF92RVdEVE8zSEVoMjl5TUQ3bG5DUGRZU3phZm9ROGtDZGFKcWt0RnBrNEVwUERKVkg3MmNRTnQ1WHZmX1pxM3hKUjVRU0x0WlV1TWtnYkh5elp0TDJyeXFXUEZsRHVfXy1EVTh4NmdhYkZBUjI3U0ZTcHFCdkt3RdIBzwFBVV95cUxNMVF0ak5XdGNjVW5LeWJ2ZERJUjhxc0hqYURoeUtOdHlWeFBVZENBanY0bE5mbTlpNzZFdlpWQW56ODRuTlZCNGY4RzhEX2FzRjc2bFE2b09ocGc1UC1EeGNQR19HTlh0ZzIzNFRGa3A2UFBPMkRuRjQ0YkJCZlN1LW54eXJWdkYySTZXS2ZZbFY4U3NZTEcwY0x5Q3EwQkVhelpUeC1YNm00cjhTWU1GQzlwSmk4R3FsNWNmczNKRHAzOWZUWFQ2V3VMUGplVWs?oc=5"
+    },
+    {
+      "title": "Indian opposition parties stage new protest against the elections chief",
+      "summary": null,
+      "source": "KTVN, Hürriyet Daily News",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNc1lLWFh2TDc0WE9MN3RZWVRpS0Z0TUZGT21ReG5BNlJxRlJFbFhlc3NTNThDT1B4azE0azRrc01LcGRtWDBMZmxweTNid0JYV1hFWXdUM1NvRnl1LXp1RHR6NlF4YnI1bEVLblFBaDE5LWZLTjN4MDNEZXNZZk5zMXRWWU01bUtNQ3lHd2oxUHpMbW9salhMeTF2ejBPM1dsTkxQVW1MaTRSLVJhbTk0c3pPX09qVjc2SVFoczJxT2NDZXhaM29MMlFnYnFlOWM2N0FSS0JYUmtrV0pkc0tPZmt4VHBETkVvVHc?oc=5"
+    },
+    {
+      "title": "India's opposition parties stage new protest against the country's election chief - ABC News",
+      "summary": null,
+      "source": "ABC News - Breaking News, Latest News and Videos, KTVN",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUs4QzdQU1ZQdXV5SVNDcmNrQnVxWlR2RUNnSE1vMk42cVR3MXpGQVJPWFJ0b2xmNXBiNjBTeDEzYzlhQndwWE5XMlhpbXV5Y1FDM051UEhhODlReHdsQWRpakxsblduZ0dSTGNhQ0dPZjAxaU5GTy11YXdtclFXVTI2SHAxaXB5R25ubEU5cUpEVzBwanpIU09Ia0Y0MFdmcjFKcmd6cnpaWE5oSmNV0gG0AUFVX3lxTFBzTkFicThwNnd4RndzV2RLWlZ3d3N0d1RkTnZyVmZLRjFEMlFJNXVnS3JRLWZ5XzhyTnFTLXhUODg0cGFWSURPOFBsRFJucE0wYVBUMEtNMHl0ZG50bkp0dEpkc1BSNDN3VFIxNjlyZlNCS2N4T2I2aEh1ZE9iRUVQV2Zkd3Q1cDNkVFQzaktlTzlSdUZHRWlaTjQ5ZWoxMXktTVdoVDJWb3F0V1o2cDlreDlRSA?oc=5"
+    },
+    {
+      "title": "AI firms risk monopolising mathematical knowledge, leading researchers warn",
+      "summary": null,
+      "source": "Sri Lanka Guardian",
+      "corroboration": 1,
+      "category": "science",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2xVdklHZlMtOU1qVmFJdVAwbzYzVkJLZVNkTHpKY3lHQnB2UEVLOWYtelBUTndKakx3Z2lhenJrd3VyNWpXUWVlbHk5Y2lkdmRkcXk2YmpUeElZVFppZkNaeGZhN3lyRWdqVkNiZHQ5MDlILW5SRkc0cTNWcGQ4WHpJMzcwSmp4Y252VXVWQmNIVjZTM2ZuckhIaEd4U1U?oc=5"
+    }
+  ]
+}

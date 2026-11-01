@@ -1,91 +1,91 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "label": "ranked",
-  "generatedAt": "2026-10-31T22:27:44.099Z",
+  "generatedAt": "2026-11-01T22:47:39.812Z",
   "window": {
-    "from": "2026-10-30T18:30:00.000Z",
-    "to": "2026-10-31T18:30:00.000Z"
+    "from": "2026-10-31T18:30:00.000Z",
+    "to": "2026-11-01T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "ISRO Launches NVS-03 Satellite To Strengthen India's NavIC System",
+      "title": "Major global news moments of October, in AP photos",
       "summary": null,
-      "source": "Sarkaritel.com, www.nationpathindia.com",
-      "corroboration": 5,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YMkxrbEEyV1U4WWFhbXFRYnZ5bEMwWHpFVEYzd2gwbFhTOS16cndUUW83OXF6ZW5Vd1NCcnZxeHFnbkhtYW05MVRyYWlfN1lhNjVLYjdPelZ6b0EtaUlvTExCYkJaVmNfVDFpdE9HMlR4aDBtaDVkbQ?oc=5"
+      "source": "Post Register, NewsChannel20",
+      "corroboration": 6,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMWJjRHQ2M1c1Mm81UTcyM05SZ3dSNjZmd2tXX1I5clJoaGxXMGluWmp6TzhjUThQUU10Q25RTWFJSk5pSWdUaHBwa0xwT3hzb2NqV3FBclhEZEFHSHU5OEc0emxTZGZ6LWotOEFqNVhZVDdjSTJjWDV5ajBfMG1QUVJweERyZUFrSzR2ZTJ1b2F5cXlZUDRoOG80ZUpsR2JhUjk4X01ZRkpud29Dd3h2RXpqaFpoYzdYSkIyNUNfT0g2T016M3RFVWpIMDNTeFpjMWlv?oc=5"
     },
     {
-      "title": "Nigerian-Born Engineer Akinbile Raises $3.8m For AI Startup",
+      "title": "Mathematics has changed. Let's act like it",
       "summary": null,
-      "source": "Vanguard News, PM News Nigeria",
-      "corroboration": 4,
+      "source": "Hacker News",
+      "corroboration": 1,
       "category": "tech",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaEdRTGhnaVl6T2hLeUowMDB2QlRjUzdORTA1bTUzckRQdUwxbHpEdUVOUTlnTWtORWRDLThxWnpuRFVhdW84aDNtSHlNRy1Wb2wzeGswazNjaHF0OGRGOFNTdWhRM0R2M1VWRFItX2VJUmZ3anZGbFlBRTV5aXY0LWFROWlyTmQ1OXc?oc=5"
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/"
     },
     {
-      "title": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
+      "title": "Patrick Stewart taught us what good men do with power",
       "summary": null,
-      "source": "unknown, Hacker News",
-      "corroboration": 2,
+      "source": "Hacker News",
+      "corroboration": 1,
       "category": "tech",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+      "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism"
     },
     {
-      "title": "OpenAI raises less than half of $30B target",
+      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5"
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy"
     },
     {
-      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+      "title": "The AI cost of JavaScript frameworks",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778"
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/"
     },
     {
-      "title": "India, Turkey propose ideas to resume Black Sea grain shipments amid war: Rubio",
+      "title": "Power Grid Corporation of India Q2 Results: Net profit up 8%; approves ₹3 interim dividend",
       "summary": null,
-      "source": "India Today, ANI News",
+      "source": "IndiaIPO, CNBC TV18",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOS3V5MmNuVURudlJQem5rN1ZrdTY5ZDBiNkVieDF3NkZCRE5vQzhyUlJmaEVzUHdZMFg3WDNtX2hhZXYwSW1KeFl2cU1nRUFNRVJXT2IzWWVySTQtU044T210R1N2dDZKeTN5QVFTU0RvaFMycFY0OHBhTEszcnhEanNWUTNkY2syVjJ0cTVubFBkOS1YU1NJMGpYclZRYWlXc0dJZTFhNFNua2JlVmJTVkxEM3k1Xy10Wklvdk83a3dZaWR4d00zcXFabmM0TmlHaF83ckVSeFdmQ3NTV0RfVmZKRjlJbEpXc1U00gHwAUFVX3lxTE9ydHRndGZTT2xsbnVHb0N2d3dxZGR5MUcyY1dXNnFfcDFlRWx5XzlqRVhrRWFPWTJSTHYzdVlvTmZ4ak5sWHVnXzVaTExUMWxaMldHXzRDTHVHaWVyY2poY28tczlsRGtWRHRWSlNVaDItTUJkcnIyaHFBR1AzUHRhRU11OV9iWm54NUxaSWlpbHZNV2ZYdm1RU25xWmJtVzJvdG42eHB1MGQzOUpJNXQtc1hzOVlKTDZyZ0VaRlpoc1MwcHBMWTV2U3R6Z2xzNzdqaEpsem8ySmg3cUtfcktpenNDM3pvQ0E0MGFpQ3EtdQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRTFISGtGek85N0UxVVBwaXdZc2ktLWt3cGVhYmFzN2FvcWt2NU0zc010bGEtSnozM25PdC1YeGx6bEQ0NUpCREh5TGlnMG1BcXBYdjNMZm9Udk5fcFp5eWZENVMzelUxVnlfLWg3UUpqeVpibW9NbTU4MEFNUDJyd2l4aFhVekdzRGVwcjdqaENxYW9zQXFDOUlOSnJ2YS1EQWl2V1gtN1FHNl9NMVFydlhkbDJQNkFWLTRyUUdaNA?oc=5"
     },
     {
-      "title": "Thousands rally in Manipur against recent killings, ethnic conflict",
+      "title": "Asian Champions Trophy: Harmanpreet’s hat-trick helps India down Malaysia",
       "summary": null,
-      "source": "The Times of India, NDTV",
+      "source": "Olympics, The Hindu",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYVItUkRPSXk5ODh6aHA1MlpOXzVoSUdNY0F6NVVkbENDeXh1ZmtzRnlxbmhYUzM4MUFieXZ5MXhXNXZaR2NWQzB3WGdoZHJaa2dNR3dkX3FjSFpqS0hFUnAtSFVyVUtJRzhtNDBqazN4dk1wNmx6Z0xNbmZZYV9MR0I3SkNUbnpqXzZULVdFR0ZYTGdnQzdUYi14eDRUbWFtMVRuVUxzMnVsNmVHeHpuN2dCODNJNXZ6WjEtTDFmOFhXTU4zbVZieEF4RHVIVWfSAdQBQVVfeXFMTnZJMXIyWGNzcnF1TGx0UmgtOUhtczlRX1doaHU5Qk1Ga29McXgyZ0R6LXVtVWNsbEtUcjZSQXJxOV9YWXgxbHFFLWpsN2hhc3hZXzdLRlhXaEx3Z1NYSzlVb0FXcGlWUDhtQVpiX0pDeHk4Wk9BeWJFd3NZVEVlemtUc1ZFejVHN01YVVQwNm15bXc5YV8xd2ZMZF90NXBuVExHUFk4QnpfMHpiTjl0NEF1MDgwSU5Zem1JTlV4bHJOUlhDOEpKeUcxLS02anR0VEJxaDU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNndKRTM3MG5tVC1NT0hxNWh5X2dXckZ3WENwNkZ6WGE0SmxiYnMxMVVmWFBlOHRNM0lIU2JwbVlqWjdIR29jTjBScXNIN0MyeF92RVdEVE8zSEVoMjl5TUQ3bG5DUGRZU3phZm9ROGtDZGFKcWt0RnBrNEVwUERKVkg3MmNRTnQ1WHZmX1pxM3hKUjVRU0x0WlV1TWtnYkh5elp0TDJyeXFXUEZsRHVfXy1EVTh4NmdhYkZBUjI3U0ZTcHFCdkt3RdIBzwFBVV95cUxNMVF0ak5XdGNjVW5LeWJ2ZERJUjhxc0hqYURoeUtOdHlWeFBVZENBanY0bE5mbTlpNzZFdlpWQW56ODRuTlZCNGY4RzhEX2FzRjc2bFE2b09ocGc1UC1EeGNQR19HTlh0ZzIzNFRGa3A2UFBPMkRuRjQ0YkJCZlN1LW54eXJWdkYySTZXS2ZZbFY4U3NZTEcwY0x5Q3EwQkVhelpUeC1YNm00cjhTWU1GQzlwSmk4R3FsNWNmczNKRHAzOWZUWFQ2V3VMUGplVWs?oc=5"
     },
     {
-      "title": "Trump says Iran conflict will conclude soon",
+      "title": "Indian opposition parties stage new protest against the elections chief",
       "summary": null,
-      "source": "chinadailyhk, Middle East Online",
+      "source": "KTVN, Hürriyet Daily News",
       "corroboration": 2,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ1o5RHRHSkY3YjRTN0JfRXZITmNsb21sbE5Ha2ZvUWNkTTlFdHJERy1ZaXJzTV94ajNxdE9OQzlkSk1YTjVpMG16dUhLMEppSHYtWG5NZzRNUmxuc1ZTNVNmRF9MMnEwVllqQWl4N0xmNE8xTmNpWmYwazNqdGNLejVNMA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNc1lLWFh2TDc0WE9MN3RZWVRpS0Z0TUZGT21ReG5BNlJxRlJFbFhlc3NTNThDT1B4azE0azRrc01LcGRtWDBMZmxweTNid0JYV1hFWXdUM1NvRnl1LXp1RHR6NlF4YnI1bEVLblFBaDE5LWZLTjN4MDNEZXNZZk5zMXRWWU01bUtNQ3lHd2oxUHpMbW9salhMeTF2ejBPM1dsTkxQVW1MaTRSLVJhbTk0c3pPX09qVjc2SVFoczJxT2NDZXhaM29MMlFnYnFlOWM2N0FSS0JYUmtrV0pkc0tPZmt4VHBETkVvVHc?oc=5"
     },
     {
-      "title": "PI Industries unveils Pioxaniliprole, India’s first indigenously discovered Insecticide molecule",
+      "title": "India's opposition parties stage new protest against the country's election chief - ABC News",
       "summary": null,
-      "source": "AgroSpectrum India, RuralVoice",
+      "source": "ABC News - Breaking News, Latest News and Videos, KTVN",
       "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUs4QzdQU1ZQdXV5SVNDcmNrQnVxWlR2RUNnSE1vMk42cVR3MXpGQVJPWFJ0b2xmNXBiNjBTeDEzYzlhQndwWE5XMlhpbXV5Y1FDM051UEhhODlReHdsQWRpakxsblduZ0dSTGNhQ0dPZjAxaU5GTy11YXdtclFXVTI2SHAxaXB5R25ubEU5cUpEVzBwanpIU09Ia0Y0MFdmcjFKcmd6cnpaWE5oSmNV0gG0AUFVX3lxTFBzTkFicThwNnd4RndzV2RLWlZ3d3N0d1RkTnZyVmZLRjFEMlFJNXVnS3JRLWZ5XzhyTnFTLXhUODg0cGFWSURPOFBsRFJucE0wYVBUMEtNMHl0ZG50bkp0dEpkc1BSNDN3VFIxNjlyZlNCS2N4T2I2aEh1ZE9iRUVQV2Zkd3Q1cDNkVFQzaktlTzlSdUZHRWlaTjQ5ZWoxMXktTVdoVDJWb3F0V1o2cDlreDlRSA?oc=5"
+    },
+    {
+      "title": "AI firms risk monopolising mathematical knowledge, leading researchers warn",
+      "summary": null,
+      "source": "Sri Lanka Guardian",
+      "corroboration": 1,
       "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMnNvZHVRQXp5Zzk5LXFHdWVhMXlxWVRXbC1VRkJPcWdOYzF3b19yOTB3c0FVWDJIZzB3dmxuQndOdVZmbUhTRUxtV0JSX1ctZFBCY0YxQU4zOGRQcUE2b1NUZHQwZVAwRXpHdkZmUW5nZzZHcjYtWEJDei1ma19LM0VXSEs3bERRbVo2MEQ0ZVF3MV9PS0FZbWhUclRvU2trT0VlVkZsMGJWd2k4SUpKSk93RXZjNUZQam9MSHlXdFFOSXdGTGRjMkpKelF0QmFKOU85OC1RSF9zalZF?oc=5"
-    },
-    {
-      "title": "Germany Halloween",
-      "summary": null,
-      "source": "Post Register",
-      "corroboration": 1,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZk5xamItZWJXdXdKRHZHRExBZWQzUk1ra3RqMjRSRkd1Zi1zSFdXN2RmaXFTUHlaZElOYkFRYWFEUDhOMzZpanpETnQyV0syMkZDWVZRS3FnX1BJbVRpTFQ3MnJWWE1JSVBfQVVORkloWHN5dk82TUtVbVlQVUNhSWFFd1V3VmsxWFRzZzl5TkR5ZWZHbFVJVHNVZWw3b1ZacFZmU0ZUVUY?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2xVdklHZlMtOU1qVmFJdVAwbzYzVkJLZVNkTHpKY3lHQnB2UEVLOWYtelBUTndKakx3Z2lhenJrd3VyNWpXUWVlbHk5Y2lkdmRkcXk2YmpUeElZVFppZkNaeGZhN3lyRWdqVkNiZHQ5MDlILW5SRkc0cTNWcGQ4WHpJMzcwSmp4Y252VXVWQmNIVjZTM2ZuckhIaEd4U1U?oc=5"
     }
   ]
 }

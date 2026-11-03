@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-03",
+  "label": "ranked",
+  "generatedAt": "2026-11-03T23:58:01.097Z",
+  "window": {
+    "from": "2026-11-02T18:30:00.000Z",
+    "to": "2026-11-03T18:30:00.000Z"
+  },
+  "items": [
+    {
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
+    },
+    {
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370"
+    },
+    {
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://neufangled.com/"
+    },
+    {
+      "title": "Study estimates 75% of NFL players who died over 15-year span had CTE",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975"
+    },
+    {
+      "title": "India will not open dairy sector or allow GM imports, says Piyush Goyal",
+      "summary": null,
+      "source": "DD News, DD India",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV0s3LXRNcE1aLXBQNVlBYllXN0dKQ2RzMFFYcWxfNzRMc3Y5NW1uc3oyNHhyeE9aOGFTNEFxT3hlZUQ2X1d4dHdPRS1mQ1l0WmhSbkN1MDFIcVdaaHlwRXJMV09teGY2SHFRcjFIelJ2bWVkWE1ialNBSkJiQWttbXFqbUljMWlpNEhpTk81WEVkZ1hSZi0tOGs0cks?oc=5"
+    },
+    {
+      "title": "World News in Brief: November 3",
+      "summary": null,
+      "source": "Nhan Dan Online, Westfair Communications",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51UnIzaVU1QTdZMDN4bmx0RFFBWGZFREdqMXNiblNDVTY4S3VPbTZ5TVM0elc2dzhkY3JNdHg0R0xsck1UMWhkbzFrR0hXOU1DNmU4OWY3S3BsZ3dSNGE1dzYyT1p0NmljaVlHc0xnTktiSThqc1N3?oc=5"
+    },
+    {
+      "title": "The Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+      "summary": null,
+      "source": "TechCrunch, unknown",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcTI3LW94cVlQVkQ3cUF3cFJHbDN1VE9BQ19qV1JneTVnNDh5UFhxX2Q4ZkFXWGhYelRneElnR21IaEFTc08zN1NLYTJ0YV82M0ZzdzNzMEZyTDJrck9kekxkTkRxUFVHX3FJNEIzOGdJRHVZX19BcmQ0TTZzb2w4QVY0T0RHVUQ5WVlFcXhGTk9tRjh4QmE3WTZ0UGJIOXRkeXl2TDY4SWZYUzNvcEtvU0E3V0R1el8tUi1wag?oc=5"
+    },
+    {
+      "title": "'India to right some wrongs': Michael Bracewell on ODI series",
+      "summary": null,
+      "source": "Deccan Herald",
+      "corroboration": 1,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlR5TElzSElzODZzbzk4am9XQ3VVYXdFUGNGLUlRTmhpWGR3MnpnbVJpcWdKbkwwTWtpeDJQaHZVZUZKWHR2TmJxSHJkZTRHZmxfS2kyZXp2bjdicmRWOXlrR3dGMWJLYkh0NWthWEUxaUNOdUFzdjdrdDktdnFZTUxQdGprSWhNNWNkSGRHV3ozRVMtZFE4MFU3WUM5Rk9iXzY0UXJqZVZGRldoQWc?oc=5"
+    },
+    {
+      "title": "India Clinch both Men’s & Women’s Titles at Inaugural Commonwealth Kabaddi Championship in Ahmedabad",
+      "summary": null,
+      "source": "News On AIR",
+      "corroboration": 1,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGlRZTZuMlZic0NBRHVTQU5haXROZ01TdHlIWHExNnItakZ3bHc4d1JuQS1PeXM5QzdfREY2dS1xSUJaeUJ1aW5nNXV0YUU2RVhESGFSd2E1MjFFdDB3VEJfdU9tTWZfYlU2SklpUjRCUG1lS2dzNWhrQzlGOVZsdUZpdVdqbG4xMk1OVnZyc0lEOVUzNmlCWTlQZmllemFvT09lX3h5RHR6ZUpLdnBMQ1RwNmczZWRBTzlTNXVMaw?oc=5"
+    },
+    {
+      "title": "Research Fellowships Help Graduate Students Turn Promising Ideas Into Discovery",
+      "summary": null,
+      "source": "UTHSC News",
+      "corroboration": 1,
+      "category": "science",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0tVZWRUdTlUNGRtendET0RGSGRBUW5OYV9weWdXUU9xdTFiWTZYWjA3aTRMRC12eGU2RFptSVZiOFN2aVBNUkxMaGhZZ2I4TTg1MEpXU1EwTkdsVDM3WkR2QmV2ZTIyQnJUNmFrWGt1V2J5ZkZ5TUxTbHVBQ0FnUS1hQUp2azhpbllwZFpwdDZ4dFdoRU15Mld4WU9ReUZCbkhGcWpR?oc=5"
+    }
+  ]
+}

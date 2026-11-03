@@ -1,91 +1,91 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "label": "ranked",
-  "generatedAt": "2026-11-03T01:33:30.591Z",
+  "generatedAt": "2026-11-03T23:58:01.097Z",
   "window": {
-    "from": "2026-11-01T18:30:00.000Z",
-    "to": "2026-11-02T18:30:00.000Z"
+    "from": "2026-11-02T18:30:00.000Z",
+    "to": "2026-11-03T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "India needs more optimism: Sitharaman says economy remains robust, banks are in good shape",
-      "summary": null,
-      "source": "LinkedIn, MSN",
-      "corroboration": 3,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRkFuVUdSRWtBYUhDT25RZ0ZNZzl6cDl0cXliYWU2X2xxeXNZa3U3NEJVMzdlOTAyQVV5Y3dha0NQTzgtODUzUkpkNjl0RGtEV2NSa2UzY09RTmdlYlNLTmthdGVPZDNYNzJKYTFmVWVpM3hZaHlFUmdpMUtRaEk3MnpBUFMwLWlfMlcyaVBTaElOaW1CcEFVVHJIUl91QUVPSVRBTWJqWTBDUGlERFhZYXJjNElweWJyT2hqaHR4dFMyUnNLdXVnU05hbkxCM1pIUnZ3OVhIUQ?oc=5"
-    },
-    {
-      "title": "Astra can read and write weights to improve Qwen",
-      "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "tech",
-      "url": "https://rikiyat.github.io/blog/weight-space-programming/"
-    },
-    {
-      "title": "Show HN: Subvocal – Talk to your computer without making noise",
-      "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "tech",
-      "url": "https://news.ycombinator.com/item?id=50340088"
-    },
-    {
-      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11"
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
     },
     {
-      "title": "Jobless tech workers are being left out of San Francisco's AI boom",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near"
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370"
     },
     {
-      "title": "Houthis claim Saudi's Dammam airport targeted with 2 drones",
+      "title": "Stringman, an $800 open-source room scale gripper robot",
       "summary": null,
-      "source": "NDTV, Hindustan Times",
-      "corroboration": 2,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeEJEVGxhdE81MWtzUlp3NklFMkVrS2NsaGRYUXZqaFExd3R5RkFrb3NFSkNzSG5ySF9EWjU5R0NBZnBfQWo1SXh6enlLXzRKb25XLWlzMHZJOE11akJkUHZaNUlKRDZVbm9nRDhwVDFrOTBkU0VaV3Y4M3hJMTZ5NjM4WHNjWlZueUZSZHNyb09uRC1jR1l4Nlo5UnZWZUVfM1EzcFllazJ3RGY3OXdLT0JvQmZUS2xveDlkSC1uY1U2Zy0yM3ZVemh6V0ZldlFwalY2dA?oc=5"
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://neufangled.com/"
     },
     {
-      "title": "EXCLUSIVE-India moves to resolve Scotch tariff dispute under UK trade pact, sources say",
+      "title": "Study estimates 75% of NFL players who died over 15-year span had CTE",
       "summary": null,
-      "source": "Reuters, Devdiscourse",
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975"
+    },
+    {
+      "title": "India will not open dairy sector or allow GM imports, says Piyush Goyal",
+      "summary": null,
+      "source": "DD News, DD India",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOLTVON1d3SzFQaFNob0w0b2tMNFJxcXRtcHlYZlNIOEk3TXBSX050c1JScV9sajlRcHhuVGtlaXUwcVozcnRhNVRaY0c2SHhyOENyR1doUndXT2xzZGdKUENMVXh3cnViRkItdXpkdFdxMTBQN1l6UThLTnNpTWpXM2tzbVRiUm5YSUVGNEo2dEozTE16SDg1SUd5UjBjUWZxczNTZnU3NlhKbUI5bHVOeVJ1SUIwa0dYaHpUcDR2U291UERzV1JWOHozZUNsWUQ1SHVFU3BtcUJnU0hNRzJ2TFVGRdIB4wFBVV95cUxOLTVON1d3SzFQaFNob0w0b2tMNFJxcXRtcHlYZlNIOEk3TXBSX050c1JScV9sajlRcHhuVGtlaXUwcVozcnRhNVRaY0c2SHhyOENyR1doUndXT2xzZGdKUENMVXh3cnViRkItdXpkdFdxMTBQN1l6UThLTnNpTWpXM2tzbVRiUm5YSUVGNEo2dEozTE16SDg1SUd5UjBjUWZxczNTZnU3NlhKbUI5bHVOeVJ1SUIwa0dYaHpUcDR2U291UERzV1JWOHozZUNsWUQ1SHVFU3BtcUJnU0hNRzJ2TFVGRQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV0s3LXRNcE1aLXBQNVlBYllXN0dKQ2RzMFFYcWxfNzRMc3Y5NW1uc3oyNHhyeE9aOGFTNEFxT3hlZUQ2X1d4dHdPRS1mQ1l0WmhSbkN1MDFIcVdaaHlwRXJMV09teGY2SHFRcjFIelJ2bWVkWE1ialNBSkJiQWttbXFqbUljMWlpNEhpTk81WEVkZ1hSZi0tOGs0cks?oc=5"
     },
     {
-      "title": "India evacuates thousands ahead of second cyclone in a week",
+      "title": "World News in Brief: November 3",
       "summary": null,
-      "source": "Al Jazeera, Reuters",
-      "corroboration": 2,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQamt2aGgxc1Nia3g0N3czYnM3M1Qxa2VNR19DN1hYUTdkVWkxMzRxdlJuUXluTm9NdDRQdHZxTU4zOV9BVzV2a0dfQUVPQlRObDRDU0pmbWVXWnBEdlFIQ2NtY2NWdmRGREtLYUJNeDNMeFFlSUs5ZTRRM0NRMmh4cFYwUWVxOXVNczJmajh3LWIzT2lHalNFaDJxMlJVc25tWTZjODFpR01KODU2?oc=5"
-    },
-    {
-      "title": "Suzlon at Bharat Renewable Energy Summit & Expo 2026",
-      "summary": null,
-      "source": "PM India, Suzlon",
+      "source": "Nhan Dan Online, Westfair Communications",
       "corroboration": 2,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tSHhUbUh4bVdEbWY3OFhJRU9VbUFXbk9ObDlMVmh0aUNKUE1vOV9WcU5QTVg5bGdzempKUFR0U0pKQlBxaXMyZFBHT2xWeEh4ZmQzQ3k2UQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51UnIzaVU1QTdZMDN4bmx0RFFBWGZFREdqMXNiblNDVTY4S3VPbTZ5TVM0elc2dzhkY3JNdHg0R0xsck1UMWhkbzFrR0hXOU1DNmU4OWY3S3BsZ3dSNGE1dzYyT1p0NmljaVlHc0xnTktiSThqc1N3?oc=5"
     },
     {
-      "title": "An “Invisible” Discovery in France’s Chauvet Cave Reveals the 37,000-Year-Old Secret to How Its Ancient Art Has Survived",
+      "title": "The Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
       "summary": null,
-      "source": "The Debrief",
+      "source": "TechCrunch, unknown",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcTI3LW94cVlQVkQ3cUF3cFJHbDN1VE9BQ19qV1JneTVnNDh5UFhxX2Q4ZkFXWGhYelRneElnR21IaEFTc08zN1NLYTJ0YV82M0ZzdzNzMEZyTDJrck9kekxkTkRxUFVHX3FJNEIzOGdJRHVZX19BcmQ0TTZzb2w4QVY0T0RHVUQ5WVlFcXhGTk9tRjh4QmE3WTZ0UGJIOXRkeXl2TDY4SWZYUzNvcEtvU0E3V0R1el8tUi1wag?oc=5"
+    },
+    {
+      "title": "'India to right some wrongs': Michael Bracewell on ODI series",
+      "summary": null,
+      "source": "Deccan Herald",
+      "corroboration": 1,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlR5TElzSElzODZzbzk4am9XQ3VVYXdFUGNGLUlRTmhpWGR3MnpnbVJpcWdKbkwwTWtpeDJQaHZVZUZKWHR2TmJxSHJkZTRHZmxfS2kyZXp2bjdicmRWOXlrR3dGMWJLYkh0NWthWEUxaUNOdUFzdjdrdDktdnFZTUxQdGprSWhNNWNkSGRHV3ozRVMtZFE4MFU3WUM5Rk9iXzY0UXJqZVZGRldoQWc?oc=5"
+    },
+    {
+      "title": "India Clinch both Men’s & Women’s Titles at Inaugural Commonwealth Kabaddi Championship in Ahmedabad",
+      "summary": null,
+      "source": "News On AIR",
+      "corroboration": 1,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGlRZTZuMlZic0NBRHVTQU5haXROZ01TdHlIWHExNnItakZ3bHc4d1JuQS1PeXM5QzdfREY2dS1xSUJaeUJ1aW5nNXV0YUU2RVhESGFSd2E1MjFFdDB3VEJfdU9tTWZfYlU2SklpUjRCUG1lS2dzNWhrQzlGOVZsdUZpdVdqbG4xMk1OVnZyc0lEOVUzNmlCWTlQZmllemFvT09lX3h5RHR6ZUpLdnBMQ1RwNmczZWRBTzlTNXVMaw?oc=5"
+    },
+    {
+      "title": "Research Fellowships Help Graduate Students Turn Promising Ideas Into Discovery",
+      "summary": null,
+      "source": "UTHSC News",
       "corroboration": 1,
       "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMUFzWEpQTjZmTHJPSFF6b2dxNzFiZXlPT3hSWUp4V3lJdk5rWWtjcTVfaFN6NzRDaGlocEdLRy1JQVlCUy01MXR2VGNoMll0dnU2Y0hyRVNyYXZabGI0QWhpN29HSXdPRlFrOG83WnQ2ZlF2eGtvRmRlV3I2ZklYLXZ1b2tBNXFPUzlfaHlBMW5QeHppMnBCNVE5ZDRaQ2NnWmc4WVc0SzRna01OQ2hnQm9RenhGTXZ5eWJNcXdrMG45LWgzTkFDSHl6aUk2NkJseEE5UXBaUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0tVZWRUdTlUNGRtendET0RGSGRBUW5OYV9weWdXUU9xdTFiWTZYWjA3aTRMRC12eGU2RFptSVZiOFN2aVBNUkxMaGhZZ2I4TTg1MEpXU1EwTkdsVDM3WkR2QmV2ZTIyQnJUNmFrWGt1V2J5ZkZ5TUxTbHVBQ0FnUS1hQUp2azhpbllwZFpwdDZ4dFdoRU15Mld4WU9ReUZCbkhGcWpR?oc=5"
     }
   ]
 }

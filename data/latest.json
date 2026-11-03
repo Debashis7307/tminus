@@ -1,91 +1,91 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "label": "ranked",
-  "generatedAt": "2026-11-01T22:47:39.812Z",
+  "generatedAt": "2026-11-03T01:33:30.591Z",
   "window": {
-    "from": "2026-10-31T18:30:00.000Z",
-    "to": "2026-11-01T18:30:00.000Z"
+    "from": "2026-11-01T18:30:00.000Z",
+    "to": "2026-11-02T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "Major global news moments of October, in AP photos",
+      "title": "India needs more optimism: Sitharaman says economy remains robust, banks are in good shape",
       "summary": null,
-      "source": "Post Register, NewsChannel20",
-      "corroboration": 6,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMWJjRHQ2M1c1Mm81UTcyM05SZ3dSNjZmd2tXX1I5clJoaGxXMGluWmp6TzhjUThQUU10Q25RTWFJSk5pSWdUaHBwa0xwT3hzb2NqV3FBclhEZEFHSHU5OEc0emxTZGZ6LWotOEFqNVhZVDdjSTJjWDV5ajBfMG1QUVJweERyZUFrSzR2ZTJ1b2F5cXlZUDRoOG80ZUpsR2JhUjk4X01ZRkpud29Dd3h2RXpqaFpoYzdYSkIyNUNfT0g2T016M3RFVWpIMDNTeFpjMWlv?oc=5"
+      "source": "LinkedIn, MSN",
+      "corroboration": 3,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRkFuVUdSRWtBYUhDT25RZ0ZNZzl6cDl0cXliYWU2X2xxeXNZa3U3NEJVMzdlOTAyQVV5Y3dha0NQTzgtODUzUkpkNjl0RGtEV2NSa2UzY09RTmdlYlNLTmthdGVPZDNYNzJKYTFmVWVpM3hZaHlFUmdpMUtRaEk3MnpBUFMwLWlfMlcyaVBTaElOaW1CcEFVVHJIUl91QUVPSVRBTWJqWTBDUGlERFhZYXJjNElweWJyT2hqaHR4dFMyUnNLdXVnU05hbkxCM1pIUnZ3OVhIUQ?oc=5"
     },
     {
-      "title": "Mathematics has changed. Let's act like it",
+      "title": "Astra can read and write weights to improve Qwen",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "tech",
-      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/"
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/"
     },
     {
-      "title": "Patrick Stewart taught us what good men do with power",
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "tech",
-      "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism"
+      "url": "https://news.ycombinator.com/item?id=50340088"
     },
     {
-      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy"
+      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11"
     },
     {
-      "title": "The AI cost of JavaScript frameworks",
+      "title": "Jobless tech workers are being left out of San Francisco's AI boom",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/"
+      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near"
     },
     {
-      "title": "Power Grid Corporation of India Q2 Results: Net profit up 8%; approves ₹3 interim dividend",
+      "title": "Houthis claim Saudi's Dammam airport targeted with 2 drones",
       "summary": null,
-      "source": "IndiaIPO, CNBC TV18",
-      "corroboration": 2,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRTFISGtGek85N0UxVVBwaXdZc2ktLWt3cGVhYmFzN2FvcWt2NU0zc010bGEtSnozM25PdC1YeGx6bEQ0NUpCREh5TGlnMG1BcXBYdjNMZm9Udk5fcFp5eWZENVMzelUxVnlfLWg3UUpqeVpibW9NbTU4MEFNUDJyd2l4aFhVekdzRGVwcjdqaENxYW9zQXFDOUlOSnJ2YS1EQWl2V1gtN1FHNl9NMVFydlhkbDJQNkFWLTRyUUdaNA?oc=5"
-    },
-    {
-      "title": "Asian Champions Trophy: Harmanpreet’s hat-trick helps India down Malaysia",
-      "summary": null,
-      "source": "Olympics, The Hindu",
-      "corroboration": 2,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNndKRTM3MG5tVC1NT0hxNWh5X2dXckZ3WENwNkZ6WGE0SmxiYnMxMVVmWFBlOHRNM0lIU2JwbVlqWjdIR29jTjBScXNIN0MyeF92RVdEVE8zSEVoMjl5TUQ3bG5DUGRZU3phZm9ROGtDZGFKcWt0RnBrNEVwUERKVkg3MmNRTnQ1WHZmX1pxM3hKUjVRU0x0WlV1TWtnYkh5elp0TDJyeXFXUEZsRHVfXy1EVTh4NmdhYkZBUjI3U0ZTcHFCdkt3RdIBzwFBVV95cUxNMVF0ak5XdGNjVW5LeWJ2ZERJUjhxc0hqYURoeUtOdHlWeFBVZENBanY0bE5mbTlpNzZFdlpWQW56ODRuTlZCNGY4RzhEX2FzRjc2bFE2b09ocGc1UC1EeGNQR19HTlh0ZzIzNFRGa3A2UFBPMkRuRjQ0YkJCZlN1LW54eXJWdkYySTZXS2ZZbFY4U3NZTEcwY0x5Q3EwQkVhelpUeC1YNm00cjhTWU1GQzlwSmk4R3FsNWNmczNKRHAzOWZUWFQ2V3VMUGplVWs?oc=5"
-    },
-    {
-      "title": "Indian opposition parties stage new protest against the elections chief",
-      "summary": null,
-      "source": "KTVN, Hürriyet Daily News",
+      "source": "NDTV, Hindustan Times",
       "corroboration": 2,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNc1lLWFh2TDc0WE9MN3RZWVRpS0Z0TUZGT21ReG5BNlJxRlJFbFhlc3NTNThDT1B4azE0azRrc01LcGRtWDBMZmxweTNid0JYV1hFWXdUM1NvRnl1LXp1RHR6NlF4YnI1bEVLblFBaDE5LWZLTjN4MDNEZXNZZk5zMXRWWU01bUtNQ3lHd2oxUHpMbW9salhMeTF2ejBPM1dsTkxQVW1MaTRSLVJhbTk0c3pPX09qVjc2SVFoczJxT2NDZXhaM29MMlFnYnFlOWM2N0FSS0JYUmtrV0pkc0tPZmt4VHBETkVvVHc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeEJEVGxhdE81MWtzUlp3NklFMkVrS2NsaGRYUXZqaFExd3R5RkFrb3NFSkNzSG5ySF9EWjU5R0NBZnBfQWo1SXh6enlLXzRKb25XLWlzMHZJOE11akJkUHZaNUlKRDZVbm9nRDhwVDFrOTBkU0VaV3Y4M3hJMTZ5NjM4WHNjWlZueUZSZHNyb09uRC1jR1l4Nlo5UnZWZUVfM1EzcFllazJ3RGY3OXdLT0JvQmZUS2xveDlkSC1uY1U2Zy0yM3ZVemh6V0ZldlFwalY2dA?oc=5"
     },
     {
-      "title": "India's opposition parties stage new protest against the country's election chief - ABC News",
+      "title": "EXCLUSIVE-India moves to resolve Scotch tariff dispute under UK trade pact, sources say",
       "summary": null,
-      "source": "ABC News - Breaking News, Latest News and Videos, KTVN",
+      "source": "Reuters, Devdiscourse",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUs4QzdQU1ZQdXV5SVNDcmNrQnVxWlR2RUNnSE1vMk42cVR3MXpGQVJPWFJ0b2xmNXBiNjBTeDEzYzlhQndwWE5XMlhpbXV5Y1FDM051UEhhODlReHdsQWRpakxsblduZ0dSTGNhQ0dPZjAxaU5GTy11YXdtclFXVTI2SHAxaXB5R25ubEU5cUpEVzBwanpIU09Ia0Y0MFdmcjFKcmd6cnpaWE5oSmNV0gG0AUFVX3lxTFBzTkFicThwNnd4RndzV2RLWlZ3d3N0d1RkTnZyVmZLRjFEMlFJNXVnS3JRLWZ5XzhyTnFTLXhUODg0cGFWSURPOFBsRFJucE0wYVBUMEtNMHl0ZG50bkp0dEpkc1BSNDN3VFIxNjlyZlNCS2N4T2I2aEh1ZE9iRUVQV2Zkd3Q1cDNkVFQzaktlTzlSdUZHRWlaTjQ5ZWoxMXktTVdoVDJWb3F0V1o2cDlreDlRSA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOLTVON1d3SzFQaFNob0w0b2tMNFJxcXRtcHlYZlNIOEk3TXBSX050c1JScV9sajlRcHhuVGtlaXUwcVozcnRhNVRaY0c2SHhyOENyR1doUndXT2xzZGdKUENMVXh3cnViRkItdXpkdFdxMTBQN1l6UThLTnNpTWpXM2tzbVRiUm5YSUVGNEo2dEozTE16SDg1SUd5UjBjUWZxczNTZnU3NlhKbUI5bHVOeVJ1SUIwa0dYaHpUcDR2U291UERzV1JWOHozZUNsWUQ1SHVFU3BtcUJnU0hNRzJ2TFVGRdIB4wFBVV95cUxOLTVON1d3SzFQaFNob0w0b2tMNFJxcXRtcHlYZlNIOEk3TXBSX050c1JScV9sajlRcHhuVGtlaXUwcVozcnRhNVRaY0c2SHhyOENyR1doUndXT2xzZGdKUENMVXh3cnViRkItdXpkdFdxMTBQN1l6UThLTnNpTWpXM2tzbVRiUm5YSUVGNEo2dEozTE16SDg1SUd5UjBjUWZxczNTZnU3NlhKbUI5bHVOeVJ1SUIwa0dYaHpUcDR2U291UERzV1JWOHozZUNsWUQ1SHVFU3BtcUJnU0hNRzJ2TFVGRQ?oc=5"
     },
     {
-      "title": "AI firms risk monopolising mathematical knowledge, leading researchers warn",
+      "title": "India evacuates thousands ahead of second cyclone in a week",
       "summary": null,
-      "source": "Sri Lanka Guardian",
+      "source": "Al Jazeera, Reuters",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQamt2aGgxc1Nia3g0N3czYnM3M1Qxa2VNR19DN1hYUTdkVWkxMzRxdlJuUXluTm9NdDRQdHZxTU4zOV9BVzV2a0dfQUVPQlRObDRDU0pmbWVXWnBEdlFIQ2NtY2NWdmRGREtLYUJNeDNMeFFlSUs5ZTRRM0NRMmh4cFYwUWVxOXVNczJmajh3LWIzT2lHalNFaDJxMlJVc25tWTZjODFpR01KODU2?oc=5"
+    },
+    {
+      "title": "Suzlon at Bharat Renewable Energy Summit & Expo 2026",
+      "summary": null,
+      "source": "PM India, Suzlon",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tSHhUbUh4bVdEbWY3OFhJRU9VbUFXbk9ObDlMVmh0aUNKUE1vOV9WcU5QTVg5bGdzempKUFR0U0pKQlBxaXMyZFBHT2xWeEh4ZmQzQ3k2UQ?oc=5"
+    },
+    {
+      "title": "An “Invisible” Discovery in France’s Chauvet Cave Reveals the 37,000-Year-Old Secret to How Its Ancient Art Has Survived",
+      "summary": null,
+      "source": "The Debrief",
       "corroboration": 1,
       "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2xVdklHZlMtOU1qVmFJdVAwbzYzVkJLZVNkTHpKY3lHQnB2UEVLOWYtelBUTndKakx3Z2lhenJrd3VyNWpXUWVlbHk5Y2lkdmRkcXk2YmpUeElZVFppZkNaeGZhN3lyRWdqVkNiZHQ5MDlILW5SRkc0cTNWcGQ4WHpJMzcwSmp4Y252VXVWQmNIVjZTM2ZuckhIaEd4U1U?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMUFzWEpQTjZmTHJPSFF6b2dxNzFiZXlPT3hSWUp4V3lJdk5rWWtjcTVfaFN6NzRDaGlocEdLRy1JQVlCUy01MXR2VGNoMll0dnU2Y0hyRVNyYXZabGI0QWhpN29HSXdPRlFrOG83WnQ2ZlF2eGtvRmRlV3I2ZklYLXZ1b2tBNXFPUzlfaHlBMW5QeHppMnBCNVE5ZDRaQ2NnWmc4WVc0SzRna01OQ2hnQm9RenhGTXZ5eWJNcXdrMG45LWgzTkFDSHl6aUk2NkJseEE5UXBaUQ?oc=5"
     }
   ]
 }

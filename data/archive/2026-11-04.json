@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-04",
+  "label": "ranked",
+  "generatedAt": "2026-11-05T00:22:09.487Z",
+  "window": {
+    "from": "2026-11-03T18:30:00.000Z",
+    "to": "2026-11-04T18:30:00.000Z"
+  },
+  "items": [
+    {
+      "title": "AI sales startup Nooks secures $500 million in funding for expansion",
+      "summary": null,
+      "source": "Reuters, The Economic Times",
+      "corroboration": 4,
+      "category": "tech",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOXpKNVNpQ1hhR3lxTGJuem9WcDNINW00TE1ORVZuX0xaWDFtcGhXdENBblhnWTBrVFNkRGU1SzM2S1oyRHJtUUVkSEJEUi1wUXh4Tk5XbWFDZ3FySEZ0U19xRVpwbmVFaWZRZnh1Sm81MnkybWtpY2tuNEhSSFNwOHdQRnZuTm54aWZVcWM4M0l5T0N6ekdVUllFSkFwTU94TWVfanNWSUEybUo3eDRIZi1kRQ?oc=5"
+    },
+    {
+      "title": "A new Go API for JSON",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://go.dev/blog/jsonv2"
+    },
+    {
+      "title": "Progress on provable inference for large language models",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://www.anthropic.com/research/provable-inference"
+    },
+    {
+      "title": "Kimi K3.1 Pro model weights are out",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+    },
+    {
+      "title": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran",
+      "summary": null,
+      "source": "Reuters, U.S. News & World Report",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEhmUWlhLUFxUEhVeEJxVXdwc3FtVndOSUg4YlNfQ2RyYUt2OUFlM200M1h3M3NLZEFpU2c1MHJza2JPV2dkWGRWU05sMlp2ZmRqVUxUa3Rvd2RSeGFyQXctSDZPYTNfUmEza1lLSEY5SUN2OUdmZkhHQW5tTTcza3FfbGZ2X1ZkZk5VWmVWWHRhLW9pZmx3QmJOSVJLdWR1OHRNaUJoQVVKZw?oc=5"
+    },
+    {
+      "title": "India thrash South Korea 8-1 to set up Asian Champions Trophy final against Japan",
+      "summary": null,
+      "source": "www.olympics.com, Telangana Today",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTEFlS3FQNFQxRVIwU0ZDekYwWklJbF9IVjNRMFh0aGp1aFJmMEFNQ2lFSWNDOFFvNlRmU1JfbGxSM0Nhd1ZzT2JEWW5vc1JKM0h3R3U4SDVkQ095bGVlUHZETGhNeTN2ZmNaMHBPdGw0am1zc283SG4xLUtiWkhHY2JzSzZsanJpU1VVX0c1LWF5eG1BV1FKMFlMV3FEamw5dHRUM1Qwa2FnUVBF?oc=5"
+    },
+    {
+      "title": "JD Vance Says Iran War \"Reason\" Why Republicans Lost US Midterm Elections",
+      "summary": null,
+      "source": "NDTV, Business Today",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWxwdl8wX3FPZ3otQUFrRlIwd1ZqS25nZTJKbE1fUVp1MEQyV2NvM1ZVWnQtMmJrbVBqXzRocDlYaW05LTVwd1VQcU9oZGZXWkZDWnl5eDNLZ3hFb0V6Y1pYaG5DMEMxdVZRSlRmRlVVTGU1SWRXeTcxZXA0azF2Q21pVFpqSFc4SWRsdTBtYUtXLUlSXy1rN1h4V1N0YmI5cHZWSmZNUGdSbHVCUnBqYXJB0gG6AUFVX3lxTE5LX0hsT1ZfR0RMQUw5b0FVSDFhOER1N3g5X3ZEWFhjMzFuQzM3alhkRUU0czRnb1NxVTZlZW44T3NIVXRnM0FMSy15YUhLZjZPUFpjTVdEY2VVT1dUQ2tqX1FqdDJZZU9xb244eDBMcEREZlI0QlFONC1HazBYVnphODVYbjVfeDdBZURUeUpQRG4xRk93a1psT2xmVDFYNjJmVFktNFpOT2VHU01xcDV6UDZnQ0pqeUFmUQ?oc=5"
+    },
+    {
+      "title": "Iran exempts Indian ships from Hormuz curbs, citing medicine imports",
+      "summary": null,
+      "source": "The Times of India, Business Standard",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUGtmOFdYQjA2bjhXZUdCZEktM19rQ1ZXMHFteWZHSXExVXFtSTJKeU1GMlpMX2xpRGJpUlpZX2ZsRHhTbG9feVRDSWQyRUNEbU4wVGdFc2JZc0l0ZlZfaGNqdkpfOXNIdkhqMEZQOUdxU0pEQUgyOWdZWTJCMUFsV09WZnU2MTdLOUd6cDUxajZfckE2UFJudDNTeDYyWmJMelBFZW5CcWNjWXQ2NGZzY0t1Q2o2YWNWeC0tWVh3WlNNWU1mbVRXSHBIV3rSAdIBQVVfeXFMT1J1M2wzLTF1TXl1YXU2bkdLUlY2cEYwMkVta2U2cWktN1lDVzlWd0FQSVNFbG5Vc2hKU24tVWYyUlphWDZYSTR3N0tqbGNxNVM1bEVQRHBhOVBlN2FHNmdGeVp5TEtqT2t4NUtOLUdPYjRldVNFRkl5RHB5YVJEM2o4NkxoSkQxQ191N28yRHc5WlpCdTJzM3BDRmowMHdHeVhOQ1pNX3FpaWhHWW5oVkRzbXJXVWNSYklnRFlqaExmaVl5ak9ISXJyamxtZXNPWlJ3?oc=5"
+    },
+    {
+      "title": "‘The reason we lost is the war’: JD Vance admits Iran conflict cost Republicans in midterms",
+      "summary": null,
+      "source": "The Week, News18",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVGdwQ05ETUp3eTV5cjNqMDVMUUJ1OTFnWVRqRlhXN1VqMHRtMV9sV1hlcjlGNzRMb3hmUjZxZjJLd3pxdWJsOEJnLVRHSkxCT25ERHZkeTF2b2tGd0pDSDJHbDNIc2tDS3V4eklpclAxUHNQbVZ4bHMybWdZUW11NlhuME10WlMzdHZma2xicjVueE1OcEZwUNIBngFBVV95cUxQUzM1ZDdPYXZwcWQ3UmdoakJuZFI5QnQxeDFqUlhSOUd2Q3doa28tdVpNU0hDdGVieDBUd0Y2UmN3ODFiYldiUmdZR182eTMtVi05ZkduemhuczhvOEVybjZwVU94NFZxamctR3IwWmJ4bmsxUHpTdjN0YnFIMlZqTXh0YW45RGh0UnZpM3pWcVBZU0Rxa1V0SjltT1cxQQ?oc=5"
+    },
+    {
+      "title": "The Medical Research Journey from Bench to Bedside",
+      "summary": null,
+      "source": "University of Colorado Anschutz",
+      "corroboration": 1,
+      "category": "science",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HclE3VmxNQlhOUEdWNHNldmFLODhRcHFGYjUwSjBGdWJzdmRNb3RQTkhUXzA1a1RzcEdiYzNTM3NDMWNQZWFNV0RZZjhiTFNGblk1LTZZMGZCNWROT3pSVjRNVnhsanFPM0xUa1lrMA?oc=5"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-06",
+  "label": "ranked",
+  "generatedAt": "2026-11-06T23:43:23.543Z",
+  "window": {
+    "from": "2026-11-05T18:30:00.000Z",
+    "to": "2026-11-06T18:30:00.000Z"
+  },
+  "items": [
+    {
+      "title": "Drone delivery startup Zipline valued at $21.5 billion in latest funding round",
+      "summary": null,
+      "source": "TradingView, marketscreener.com",
+      "corroboration": 4,
+      "category": "tech",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWElWZkFaSnRhVEd0VlpkaHlQS0h6X3ZQWlh5Qi1XREV1ZV81N2k1YlpSTDU2R2J4N0J0RVc2Z0FyekNUS3NPdThHY1BnSjBBMmFrZzZQMzlCcHE1aUZYX0RPeGp6RFVzbUg4RnZqNUZ3bXhmT0NUV0djU1F0d2g5NXFVWmRpR0dGdExiV3ZqMUVNeTBleVRiTnBUaFNrZm1SakR2eVpxcG9JTHVhY1ZVOENfeEJjTVFtT091QzdxNjcyVnowU29xMkRkbmN3ekNpSUd1a25ZQ0hUdlJ2U0RFbg?oc=5"
+    },
+    {
+      "title": "Meghan Markle's Father Arrested Over Child Sexual Abuse Material",
+      "summary": null,
+      "source": "NDTV, The Indian Express",
+      "corroboration": 3,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMHJtd2dyOFNtUHBGalJUMS1kTy1La0kxX18tSjZqRE55TzRXeXhTQ25paGwzdjhtT0tVQkE2YXI0X25RZnFqaUVKM3RCWG96QkxHNkg2ekJwWmpwZW5LMmlMWWs1dE1KSEM5S0hiVEw1LU5kNndfUVZYWHpPbE5DMFVtRmRwaGpEMGlvSTZYbkpyb0F4cE5SaDNIVlhBR0c2ZENXQ3htcnYyX2xaWVZZcDcxWFAweWhYMV9UUDR30gHGAUFVX3lxTE9xaXN3YUVSWGUxMzREeUJZUGR2eXkxOVhzb1FBclFFdFIwWkJkZlZsMmVENjVsZTlMaVh1S1pnWE9JeHNWTnRaZ0ZpS0pXVHk2SUJ4VzZtaTJvbzNkNHNCN3VCWF9CancyNEdldjY4Z1cwNjJCWmZLSHpjSHdXSFZOaTh3YWQxdVZEOUc3emtzY1NNenNlWWJfRGh6c3BpRTF3Zy1uMmJkdlNCZHNfZ1h4UkJhTFFvNk1lNDJnOEtzN3RKRmx3dw?oc=5"
+    },
+    {
+      "title": "Astana hosts Aqaba Process summit on artificial intelligence security",
+      "summary": null,
+      "source": "The Astana Times, Anadolu Ajansı",
+      "corroboration": 3,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JT1JMOVA2ZEpmWXh4VG9kTVYtcC1xRDJyTjRnWFNxX3ZSaUozdE1YYTV1TnFTVUx3YldsSXhoME5lb3ZRa0FBWXRxSm5DZ2NkX3VQa2lPS1cwUjZTTlFj?oc=5"
+    },
+    {
+      "title": "AI-Powered Insurance Startup Kalepa Valued at $470M in New Funding Round",
+      "summary": null,
+      "source": "Reuters, Insurance Journal",
+      "corroboration": 3,
+      "category": "tech",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43UEwxUlFpWnVwWWd1UjdGTDQ2Z29nZDRNRnpkY2ZDVm1BbVF1aGpzOG5zVE51RElwY1J4dXdXWlhFUEJKV3JfZFFiQjByb2ViNVJRVkFXblVYTDZ2amdGLXZyOHNDUDkxQ3ZwN0J2WUxKVU9GdUxV?oc=5"
+    },
+    {
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+    },
+    {
+      "title": "Govt relaxes passport and visa rules for foreign nationals residing in India",
+      "summary": null,
+      "source": "News On AIR, ET TravelWorld",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbkR3a1N6VnhOdnVHRTRxaFZfYzNIWVVIYVhUQVZtYnBfWnNqN2I0ejRKSHZBOXZhMl9sdnNwVklVUzI1RFpwaEVxcFJPTGY4cUxwM1lBWXpnOVBwNUFHcGdxcmtVeUJKVENqTEZDeVZJSUJaUHJudXJQeTJwOUNCUXdjUEhjQW52cWcyTm0wSTEyT2Z6aTczZU9pYUVRTDl5SnVJTlV2MjFKNVlQRE9nOGk4VjhVa3dZRzJJY1VRZUVXSEREd3U4VEt3YmVUdmdabjJoQlh6RU9RdHVhc3E1Q1JzNDRSSnlfU3Vn0gHvAUFVX3lxTE5uNDBxQTVZeklVZDZDbGt5VnRET2VHVEt4cDBCZzBoZDIwLW5QMV9aNHdINElNbmVRTVdWZEx2NEQ2VEEya3B2c1YySFZ5U2ptSzliVFl3SWhWZk9IWTRlWDlOVUg5WWFPYzU5Vmc2aTRMVk1sc0tFYjJDOEgwbzQxSjhnU0k3MXdMMVRWdExNelYwQTYyeUhlQ00wSjJwRUxoSzd2WEt4Z1pqSm53N3N3MXN5TXVpVTBMMWI3a1R1dXBDdlRMNkNvaERKNzhQOUEtdGNkai1iZWN2Nml2U1h3bGpGVmtmQndFZ1cxcVZv?oc=5"
+    },
+    {
+      "title": "'Ramayana' box office collection day 2: The Ranbir Kapoor, Yash, Sai Pallavi starrer crosses Rs 100 crore",
+      "summary": null,
+      "source": "The Times of India",
+      "corroboration": 1,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQalJuUFFiRG9FM2IwVGNoT2prUVdDX1dQQWxlR2NQRWY4QUNHdy1YUjRCenhKQVBBXzFXMzMyTDBsWTVMSHZ6TFdlUkpabDc5TzF4Y2djYWlRT0x5NUZHcVUyeEl2THJwR0h2am9HcGExdEEyd3RhMFVScDRjV2M1RUJVbDNORk90SDVWWUYxV3ZIZFAzN09DQnRqZ0kwOS1wMW9OTnY5RUJaSDd4TGJxTTZ2dDY4akdpbENHSHhxbndaY1N0dFljTFNvdklOZUhlX2ppcU5SYTFvcWc4bWxRa1dPc0xtUGRIWE5zMGw2S0RnNXFvUVlrZkRIYjdreUtkR3dVT09WakpqTGUtd2hWbGdNUTBBdFpGOEJzNElrb0QwSHl4Zk1DWjJBY0NtazhPSVQzbWpaWnJudE1DdW9lUm55WEtxQ292cWhxdVl2eVFYYW5yMlHSAdsCQVVfeXFMT2VEZ01UZkEyQ1NfZk93WFN5YWlVRTZyT0ZmTHdlc0RNX0FhbFVfNjNfU0xkV1ZhODNLeHR1SEFPQkM3ODk5dDN0cF9pMHhNSWJ0TE5GQ0R4aFNoN1VfRmFQMjlDY21FRG02a01nUGJQNFhIZnhqZTkzcnl5LVFqU2JIbjU1cE5vQ2JlOV8zdkxoLWF2d05DS2Rnb211cjM3OUljeEg5VGQ5UXNLUEFqcmhYZVNaQ21qTTBNcTBzZlRoWmszNDl1Z0RjTzJ2aVA5TXZzME1mYmdvOE8tZ3h4bVdxX3RKOWprLVBxTDJZV1VKMWdkUUtYQVhJSHR0a3EyWHhpTGZvVE5YUTlva1lVamNaazFMbDBJVk1rZFpZa21XUW5zWHgyTDBLT2JIWnJMY2Vjd0gyRnZqQXhEazZRSFpNSTV1SU5YSng2czVaX2NuUjFsUy1BbEotUVk?oc=5"
+    },
+    {
+      "title": "A window for India before the US Congress shifts",
+      "summary": null,
+      "source": "Deccan Herald",
+      "corroboration": 1,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUm5PQ0VjZUhORDdpOWRLOG02aXBnM0lWNmh4NFJ3R2xfQ3lDd1R0TWEzcXplSkNLZ3FtZWRvVmxZNzJfaW1FN1FpNEF6d3M4eTFRS1VNelFaQXJacVBLQzdyNlFPTExPWVdJQjJFMEl6T3RZMzJLUUlERDNmaS1wTmNPNWFoUXc2S0oySTk5QWc5Vi1rbVhBU05NZw?oc=5"
+    },
+    {
+      "title": "WashU Student Selected for Anthropic AI for Science Program",
+      "summary": null,
+      "source": "Mirage News",
+      "corroboration": 1,
+      "category": "science",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONTA2bXNTRU9ia1hKT0s0LUZZbzhZZ0RvT0Jpb3VIUl9taU94bTViRm1XVFlzNVBEMFBtemY5clFZdXVJc3R6T0VvZ3Itb2FmWl9TdXJvaHYwMGl6MUdFZlMtYWs1YWJiaHIzRHZCcGxmNllyMm8tdGM3Qkt1V0ZtQnZRT0kyQQ?oc=5"
+    }
+  ]
+}

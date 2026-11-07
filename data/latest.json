@@ -1,91 +1,91 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "label": "ranked",
-  "generatedAt": "2026-11-06T23:43:23.543Z",
+  "generatedAt": "2026-11-07T22:43:12.986Z",
   "window": {
-    "from": "2026-11-05T18:30:00.000Z",
-    "to": "2026-11-06T18:30:00.000Z"
+    "from": "2026-11-06T18:30:00.000Z",
+    "to": "2026-11-07T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "Drone delivery startup Zipline valued at $21.5 billion in latest funding round",
+      "title": "Beijing hosts 7th World Media Summit",
       "summary": null,
-      "source": "TradingView, marketscreener.com",
-      "corroboration": 4,
-      "category": "tech",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWElWZkFaSnRhVEd0VlpkaHlQS0h6X3ZQWlh5Qi1XREV1ZV81N2k1YlpSTDU2R2J4N0J0RVc2Z0FyekNUS3NPdThHY1BnSjBBMmFrZzZQMzlCcHE1aUZYX0RPeGp6RFVzbUg4RnZqNUZ3bXhmT0NUV0djU1F0d2g5NXFVWmRpR0dGdExiV3ZqMUVNeTBleVRiTnBUaFNrZm1SakR2eVpxcG9JTHVhY1ZVOENfeEJjTVFtT091QzdxNjcyVnowU29xMkRkbmN3ekNpSUd1a25ZQ0hUdlJ2U0RFbg?oc=5"
-    },
-    {
-      "title": "Meghan Markle's Father Arrested Over Child Sexual Abuse Material",
-      "summary": null,
-      "source": "NDTV, The Indian Express",
-      "corroboration": 3,
+      "source": "CGTN, Xinhua",
+      "corroboration": 5,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMHJtd2dyOFNtUHBGalJUMS1kTy1La0kxX18tSjZqRE55TzRXeXhTQ25paGwzdjhtT0tVQkE2YXI0X25RZnFqaUVKM3RCWG96QkxHNkg2ekJwWmpwZW5LMmlMWWs1dE1KSEM5S0hiVEw1LU5kNndfUVZYWHpPbE5DMFVtRmRwaGpEMGlvSTZYbkpyb0F4cE5SaDNIVlhBR0c2ZENXQ3htcnYyX2xaWVZZcDcxWFAweWhYMV9UUDR30gHGAUFVX3lxTE9xaXN3YUVSWGUxMzREeUJZUGR2eXkxOVhzb1FBclFFdFIwWkJkZlZsMmVENjVsZTlMaVh1S1pnWE9JeHNWTnRaZ0ZpS0pXVHk2SUJ4VzZtaTJvbzNkNHNCN3VCWF9CancyNEdldjY4Z1cwNjJCWmZLSHpjSHdXSFZOaTh3YWQxdVZEOUc3emtzY1NNenNlWWJfRGh6c3BpRTF3Zy1uMmJkdlNCZHNfZ1h4UkJhTFFvNk1lNDJnOEtzN3RKRmx3dw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FMktYYU9JWW9kdkg1VFBkdnRTMDRzdW5JZWk5bUlmZ3AzSm5oZ0xKZ3N3SmJLenZjSlVPSVl6QVVsUXdRX2RlNGpncDUwWjRZNS1abGhrTWU5NGRTNU9XQ0Z4bVVSNzM2TnNYVDFueWpIZUEwaTJPZ1k5YXM?oc=5"
     },
     {
-      "title": "Astana hosts Aqaba Process summit on artificial intelligence security",
+      "title": "What I run on my $10 USD OpenStick homelab",
       "summary": null,
-      "source": "The Astana Times, Anadolu Ajansı",
-      "corroboration": 3,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JT1JMOVA2ZEpmWXh4VG9kTVYtcC1xRDJyTjRnWFNxX3ZSaUozdE1YYTV1TnFTVUx3YldsSXhoME5lb3ZRa0FBWXRxSm5DZ2NkX3VQa2lPS1cwUjZTTlFj?oc=5"
-    },
-    {
-      "title": "AI-Powered Insurance Startup Kalepa Valued at $470M in New Funding Round",
-      "summary": null,
-      "source": "Reuters, Insurance Journal",
-      "corroboration": 3,
+      "source": "Hacker News",
+      "corroboration": 1,
       "category": "tech",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43UEwxUlFpWnVwWWd1UjdGTDQ2Z29nZDRNRnpkY2ZDVm1BbVF1aGpzOG5zVE51RElwY1J4dXdXWlhFUEJKV3JfZFFiQjByb2ViNVJRVkFXblVYTDZ2amdGLXZyOHNDUDkxQ3ZwN0J2WUxKVU9GdUxV?oc=5"
+      "url": "https://blog.bosscher.ch/posts/openstick/"
     },
     {
-      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "title": "The end of Microsoft Research's AI Frontiers group",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout"
+      "url": "https://hunch.net/?p=13764006"
     },
     {
-      "title": "Gemini Omni 1.2 Flash",
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://github.com/hedgerow-dev/coldframe"
+    },
+    {
+      "title": "The End of AI Frontiers",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+      "url": "https://hunch.net/?p=13764006"
     },
     {
-      "title": "Govt relaxes passport and visa rules for foreign nationals residing in India",
+      "title": "India win rain-hit second ODI against New Zealand by four runs",
       "summary": null,
-      "source": "News On AIR, ET TravelWorld",
+      "source": "Al Jazeera, Arab News",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbkR3a1N6VnhOdnVHRTRxaFZfYzNIWVVIYVhUQVZtYnBfWnNqN2I0ejRKSHZBOXZhMl9sdnNwVklVUzI1RFpwaEVxcFJPTGY4cUxwM1lBWXpnOVBwNUFHcGdxcmtVeUJKVENqTEZDeVZJSUJaUHJudXJQeTJwOUNCUXdjUEhjQW52cWcyTm0wSTEyT2Z6aTczZU9pYUVRTDl5SnVJTlV2MjFKNVlQRE9nOGk4VjhVa3dZRzJJY1VRZUVXSEREd3U4VEt3YmVUdmdabjJoQlh6RU9RdHVhc3E1Q1JzNDRSSnlfU3Vn0gHvAUFVX3lxTE5uNDBxQTVZeklVZDZDbGt5VnRET2VHVEt4cDBCZzBoZDIwLW5QMV9aNHdINElNbmVRTVdWZEx2NEQ2VEEya3B2c1YySFZ5U2ptSzliVFl3SWhWZk9IWTRlWDlOVUg5WWFPYzU5Vmc2aTRMVk1sc0tFYjJDOEgwbzQxSjhnU0k3MXdMMVRWdExNelYwQTYyeUhlQ00wSjJwRUxoSzd2WEt4Z1pqSm53N3N3MXN5TXVpVTBMMWI3a1R1dXBDdlRMNkNvaERKNzhQOUEtdGNkai1iZWN2Nml2U1h3bGpGVmtmQndFZ1cxcVZv?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWWZoMHp5Rkt3N3RrcmhiVU1ZTWM4MWpkMDBpRi10NUZNWEY4em9mOUxiR2ZBWENYTzBVeG9Rby1JRkxkUmtZWWJJWVlPNm9SUWVUM1ZvY2NKWXFoemFUMFJ6OFdnWEo1WXI3eW02TEtzbHJKZ1NMY2Ziek5VY3VwTE1seHN6elBNOVFwRVlLaUI2UFZ2eVVzeV9JYVIwWlNzTkdTaktR?oc=5"
     },
     {
-      "title": "'Ramayana' box office collection day 2: The Ranbir Kapoor, Yash, Sai Pallavi starrer crosses Rs 100 crore",
+      "title": "No place for glorifying India: Posters beside defaced Tagore mural in Bangladesh",
       "summary": null,
-      "source": "The Times of India",
-      "corroboration": 1,
+      "source": "The Times of India, India Today",
+      "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQalJuUFFiRG9FM2IwVGNoT2prUVdDX1dQQWxlR2NQRWY4QUNHdy1YUjRCenhKQVBBXzFXMzMyTDBsWTVMSHZ6TFdlUkpabDc5TzF4Y2djYWlRT0x5NUZHcVUyeEl2THJwR0h2am9HcGExdEEyd3RhMFVScDRjV2M1RUJVbDNORk90SDVWWUYxV3ZIZFAzN09DQnRqZ0kwOS1wMW9OTnY5RUJaSDd4TGJxTTZ2dDY4akdpbENHSHhxbndaY1N0dFljTFNvdklOZUhlX2ppcU5SYTFvcWc4bWxRa1dPc0xtUGRIWE5zMGw2S0RnNXFvUVlrZkRIYjdreUtkR3dVT09WakpqTGUtd2hWbGdNUTBBdFpGOEJzNElrb0QwSHl4Zk1DWjJBY0NtazhPSVQzbWpaWnJudE1DdW9lUm55WEtxQ292cWhxdVl2eVFYYW5yMlHSAdsCQVVfeXFMT2VEZ01UZkEyQ1NfZk93WFN5YWlVRTZyT0ZmTHdlc0RNX0FhbFVfNjNfU0xkV1ZhODNLeHR1SEFPQkM3ODk5dDN0cF9pMHhNSWJ0TE5GQ0R4aFNoN1VfRmFQMjlDY21FRG02a01nUGJQNFhIZnhqZTkzcnl5LVFqU2JIbjU1cE5vQ2JlOV8zdkxoLWF2d05DS2Rnb211cjM3OUljeEg5VGQ5UXNLUEFqcmhYZVNaQ21qTTBNcTBzZlRoWmszNDl1Z0RjTzJ2aVA5TXZzME1mYmdvOE8tZ3h4bVdxX3RKOWprLVBxTDJZV1VKMWdkUUtYQVhJSHR0a3EyWHhpTGZvVE5YUTlva1lVamNaazFMbDBJVk1rZFpZa21XUW5zWHgyTDBLT2JIWnJMY2Vjd0gyRnZqQXhEazZRSFpNSTV1SU5YSng2czVaX2NuUjFsUy1BbEotUVk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNaHdtRFdySkk4NE1iNll6QVhrekpQdUpHOFlKSkM1b1ZTRDFFQXlkNTVCNUdydjc1X002WVFFOW5xekVyYV9GVjJJRWJZVS1lRFExWjd5TFBucnpvTWdXbjhiRlU2TzI2c1VsbkVmNDlJRzRwZVNvbWdTVzBKbjRJVWxXY3VNWFNPLTZnRXdJYm11SkRkWWVUUkRsQkxUbzFTVFRHbHNxdmR3R0FHVldkaVI4MXNnSXpqVGNYMmJJbGpxSmx5dm5QN1otNXZ1MVpHRTlBel8tdk56Rk04bWI0SnV6TE9tQ1dLb0tfMW5nUUNTV2xmeURJM25nRHNGa2drdnVtVW9wSzV1OEJIZC1lel9FR3BzQWfSAZwCQVVfeXFMTnd4N2YzYUlWLTRNZURhTGRnLUp3aUJKbXR3dTd6dmtoUDJtT3FLYjJIUVducjBvbWptVk9xb0dmdUFnR01iS0dydWRiS1F0b0JFZHVfMjE3Wmk0ZUlmV1lpOGMzZExEa3FKQU9nSEdFYlVmT1luU1V3Q2J0enNLWkZDT2JGOXdidTRNblZkQ2JJS3lSelRtTTd6UnBhdG9kaHEycHRQNFFsd0RULU83UTAzWDZQR0NZQVRhblN4VU1BRXU5MlVmVEJlMTE2VXFPdTAtTEFTWThUQ2ZUc2Z4d3JnMkxWQy02cUNncHJqTEluaDlvbHpvbTY3ZTNGMnVWcjhsX04zc3puUTF2SS1fYm5jUmJrRFAtY0xxLVM?oc=5"
     },
     {
-      "title": "A window for India before the US Congress shifts",
+      "title": "Penguin was 'uneasy' with criticism of govt in my memoir: Sonia Gandhi",
       "summary": null,
-      "source": "Deccan Herald",
-      "corroboration": 1,
+      "source": "The New Indian Express, Business Standard",
+      "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUm5PQ0VjZUhORDdpOWRLOG02aXBnM0lWNmh4NFJ3R2xfQ3lDd1R0TWEzcXplSkNLZ3FtZWRvVmxZNzJfaW1FN1FpNEF6d3M4eTFRS1VNelFaQXJacVBLQzdyNlFPTExPWVdJQjJFMEl6T3RZMzJLUUlERDNmaS1wTmNPNWFoUXc2S0oySTk5QWc5Vi1rbVhBU05NZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWFTaklKSmdKQXdEM25ibFlpUXlxQTFjSTFGbng2X3RndnFsY0VtaUZSeURsMEQxd25qZkVJM2tvVDhJYWpPTDFqLWEtUXlLbjFSYllvYld5bFRsM1Y1eDFsOW83R25IZVpnekk0UWFtbnF2WXFuZTNfTWItdkxzZE9mNExkOTlpaHZTZnVrZEpDZWxxWGtoRElUeHlxS2dYanBreHBKMkxJaEFPdC1nbXZ3c1dkb0VaVXRxZDdWTjNraUQzSWF5U2p2SzXSAdIBQVVfeXFMTTc4b3FyVlUzbGJmclBOZnFfZmR3clN4cTJhRVBjejNMdTZhSlg4R2RNMVJJSmR6Q01oMGNMVS1OM0w5UnZBcHBFekFjMTk0SFFTMjRDN2dkVzFRaHp2OWYzMmVGMHBRRlo5VV9MaENINE5ON0ptX0RmZTFnem82N0Y3N0tkLTlWRi1wa0o1LVBHS0l2eGdEVmlQRTR3dTNNN3ZSVzNIM2ZicVMzWFpfc0kzZHpMUzIxRjYxZ2xvVmFvdHRhczVmQVhMdk5oWGp0NDN3?oc=5"
     },
     {
-      "title": "WashU Student Selected for Anthropic AI for Science Program",
+      "title": "Gujarat delegation completes Australia-New Zealand roadshows ahead of VGGS 2027",
       "summary": null,
-      "source": "Mirage News",
+      "source": "ANI News, The News Mill",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ1RrNWQ1cUs0MncyYllhakg4QndQS1Nub0VTNXptbDMzblp5YnNEOWZISmdJbWxhOWtGUzhTNmJZMnRuSE9iRkI2VmJEcF9RdjFraWgyaElIVkdBdFJxRDBpMWdxS2NEeGJqVEw3eno4Tjh5VHRlRm13QmZsSk1PWmt3ZlB2TVBIQWphaURXVmtzX0tsRENpbWJRcWNFWmswbDkwdDJCRVBWcEtpWmlaTzVoc2g3VjYtcXpNWmUtRFl3VjlEOEpNeGhUSGpMX00?oc=5"
+    },
+    {
+      "title": "How Scientific Research Benefits from Modern AI",
+      "summary": null,
+      "source": "Machine Design",
       "corroboration": 1,
       "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONTA2bXNTRU9ia1hKT0s0LUZZbzhZZ0RvT0Jpb3VIUl9taU94bTViRm1XVFlzNVBEMFBtemY5clFZdXVJc3R6T0VvZ3Itb2FmWl9TdXJvaHYwMGl6MUdFZlMtYWs1YWJiaHIzRHZCcGxmNllyMm8tdGM3Qkt1V0ZtQnZRT0kyQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRzZDYTdiTXZtdlcyX2ItSTRFRTUzb3V2V3VjZ1g3bzVBWjVDMjNOa3dyU2xnQWNpLVhwa052clJHZGRIWGpwZ29kTmFhRFBEUWRsU0IxM3hjMGlUcGxYTWpQODFQZ1l0Qm5oMjc3VGFlTGtYV2pWaDhBRVMyZ0ZUZ2NUcC1mZVR5Y2NNcHpHZHFuWlY5Q2FvRmVlLVA1WnNyQkZKSXpwSUpQV2ZYdk1XNjJYenZmUUt2TFJDWnZRcW4yMTlWeUE?oc=5"
     }
   ]
 }

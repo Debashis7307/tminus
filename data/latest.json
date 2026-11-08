@@ -1,91 +1,91 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "label": "ranked",
-  "generatedAt": "2026-11-07T22:43:12.986Z",
+  "generatedAt": "2026-11-08T22:52:10.864Z",
   "window": {
-    "from": "2026-11-06T18:30:00.000Z",
-    "to": "2026-11-07T18:30:00.000Z"
+    "from": "2026-11-07T18:30:00.000Z",
+    "to": "2026-11-08T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "Beijing hosts 7th World Media Summit",
+      "title": "Anuj Shrivatri becomes India's 100th grandmaster",
       "summary": null,
-      "source": "CGTN, Xinhua",
-      "corroboration": 5,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FMktYYU9JWW9kdkg1VFBkdnRTMDRzdW5JZWk5bUlmZ3AzSm5oZ0xKZ3N3SmJLenZjSlVPSVl6QVVsUXdRX2RlNGpncDUwWjRZNS1abGhrTWU5NGRTNU9XQ0Z4bVVSNzM2TnNYVDFueWpIZUEwaTJPZ1k5YXM?oc=5"
+      "source": "ChessBase India, The Times of India",
+      "corroboration": 10,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM0hCODNBX3ZsdFJrdkd2QVdOY1R6eFVNQ0d4VHBsajdza1R6TmR2cS1EOVhtOGk0QS1MN2tUMGJJc09DRWlYSXVEbExsMWNLdXlMRTdzWjI5MkpZaDJKUFB5aEFnVng5SVpETWkwdmxudnRPVUNtbWMxY2EwMTRRZS1aRnNMQlJQQmVfOU1rTVV6MS1uV0dUMnNneGxyaG1iZEhTY1ZPT2EyOWtUWVlBUzVIY9IBuAFBVV95cUxPcFhVYnE5TS1zVncyNW1FdE5Dd29ndWNTV2ZvQzJYSlJ0LUpkdTd1enpFbm91SG9RRE9qUTM2UTJEaVpKVXR0TDZpVWZ5eDJRcHExYjZ4RFlzQ3ZDR1lNcUtGVGpLMkdpYy1OZDNwdFdSeU9QdlBNVXJZWmFjbjJvWnlIVVNXS0VDTXk1M1NxaFdZWmE0YV9aMVkwTnRlQUNWRE56UmpHM29maFY5ZzgxZFhDTTVNdmts?oc=5"
     },
     {
-      "title": "What I run on my $10 USD OpenStick homelab",
+      "title": "Got $5,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence (AI).",
       "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "tech",
-      "url": "https://blog.bosscher.ch/posts/openstick/"
+      "source": "Yahoo Finance, The Motley Fool",
+      "corroboration": 4,
+      "category": "ai",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFNoNVUwVHF2QVBHTW51c1MySXlrR2ZjNk1panpUcFJhSzg2VzJkYVRjM1djOWptQThzZGFpdVJOcTJxdTRvUEI4RVhaMF9uemY5ckcxc0hrTmFWRjkzU2VYQTZRUklXUEpoenYwZzk0OUIzY0stRXVTNFlpQmNGcHl1aUxoRHdmbVE?oc=5"
     },
     {
-      "title": "The end of Microsoft Research's AI Frontiers group",
+      "title": "19 Indian seafarers stranded in Yemen evacuated, Embassy says",
+      "summary": null,
+      "source": "The Hindu, The New Indian Express",
+      "corroboration": 3,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcE9mVFhIMjhzZVdubHV4Smh6VWFLX2c4emtGcURxX1pqRFFVNEU0WnhRU3ZLbG02WEN0MHdlV0JqeHZMZXhNU29zUjdpSl9OOEJXazF1VEowVEt2aFh5b093bnlzUDdsUVhUeGU3dllqaF8zNm1naTJ5bUloU3V1WnV1REtIS0NrdHJGSmp1N2YxUDlTWEZ6UGViNTF1QWxMR3B3WFd30gGsAUFVX3lxTE9UZmUyaFRPbmRtN0tVTFA5dzc1OE0yZ0dqXzFVUXFJdXp6LWZhbXF0S04xMU9KbmV4NVAyVXpCeUpSMGFPai1jVVVSNmVhNXl5WXpLYjJ1WjVPRG1RTmZES0E5MVIzR05SOHM0a1pfemRxdFRKWGhOS3dRUzhya2oxM2w4SW9URTNhdjUwS0pYTHcyWW85THgxbWFTZE1QV1pKY0xXRWFOR3phdHA?oc=5"
+    },
+    {
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://hunch.net/?p=13764006"
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
     },
     {
-      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "tech",
-      "url": "https://github.com/hedgerow-dev/coldframe"
+      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/"
     },
     {
-      "title": "The End of AI Frontiers",
+      "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
-      "category": "ai",
-      "url": "https://hunch.net/?p=13764006"
+      "category": "tech",
+      "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/"
     },
     {
-      "title": "India win rain-hit second ODI against New Zealand by four runs",
+      "title": "India revels in Diwali celebrations, Delhi AQI dips to 'very poor'",
       "summary": null,
-      "source": "Al Jazeera, Arab News",
+      "source": "Rediff, The Economic Times",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWWZoMHp5Rkt3N3RrcmhiVU1ZTWM4MWpkMDBpRi10NUZNWEY4em9mOUxiR2ZBWENYTzBVeG9Rby1JRkxkUmtZWWJJWVlPNm9SUWVUM1ZvY2NKWXFoemFUMFJ6OFdnWEo1WXI3eW02TEtzbHJKZ1NMY2Ziek5VY3VwTE1seHN6elBNOVFwRVlLaUI2UFZ2eVVzeV9JYVIwWlNzTkdTaktR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQekNOZkVFaDFNNW5Ddzctc0V5TnBtUlJpZkpqdDBFYkhoRmtFQm54dlktR202emZaUm5WRzBVMXJtMkN6NU1yVVpfdVI2cjN2bFV4dzRlSlZpX1RrZVdKUFN5aXh0Si1CSVJGR2szdXRjZnNTWjEtbDRrc3Vmd3NEeklaTUZPajFtSzRFWGlza1lVTWsyc3JiWEljU3M1U1FkaEc1MW1aUDJkSDNPOFp0MNIBswFBVV95cUxOSWplcWdlR1RmMHFqQ2J4T3R2dTZqMzVsRUVBOGxwbnEyQVpUOFZEYnVsOFk5TUNjVUdxaUZtTWk4MDYzM2MtTlpOLVdFOERYUkc2Y3UyckNpb3lEVHh3MXRKYVRTWjVEQkdwak5oMlpQMVdxTERSN255b1JONnNmUHdBOEUybGFHUDhQSE5xbFNpZlBvZlkza2NPRHZmcTJieTIxV1ZaLW4wSW9ESzRaRWkxbw?oc=5"
     },
     {
-      "title": "No place for glorifying India: Posters beside defaced Tagore mural in Bangladesh",
+      "title": "Aramco Skyscraper In Riyadh Damaged In \"Attempted Attack\"",
       "summary": null,
-      "source": "The Times of India, India Today",
-      "corroboration": 2,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNaHdtRFdySkk4NE1iNll6QVhrekpQdUpHOFlKSkM1b1ZTRDFFQXlkNTVCNUdydjc1X002WVFFOW5xekVyYV9GVjJJRWJZVS1lRFExWjd5TFBucnpvTWdXbjhiRlU2TzI2c1VsbkVmNDlJRzRwZVNvbWdTVzBKbjRJVWxXY3VNWFNPLTZnRXdJYm11SkRkWWVUUkRsQkxUbzFTVFRHbHNxdmR3R0FHVldkaVI4MXNnSXpqVGNYMmJJbGpxSmx5dm5QN1otNXZ1MVpHRTlBel8tdk56Rk04bWI0SnV6TE9tQ1dLb0tfMW5nUUNTV2xmeURJM25nRHNGa2drdnVtVW9wSzV1OEJIZC1lel9FR3BzQWfSAZwCQVVfeXFMTnd4N2YzYUlWLTRNZURhTGRnLUp3aUJKbXR3dTd6dmtoUDJtT3FLYjJIUVducjBvbWptVk9xb0dmdUFnR01iS0dydWRiS1F0b0JFZHVfMjE3Wmk0ZUlmV1lpOGMzZExEa3FKQU9nSEdFYlVmT1luU1V3Q2J0enNLWkZDT2JGOXdidTRNblZkQ2JJS3lSelRtTTd6UnBhdG9kaHEycHRQNFFsd0RULU83UTAzWDZQR0NZQVRhblN4VU1BRXU5MlVmVEJlMTE2VXFPdTAtTEFTWThUQ2ZUc2Z4d3JnMkxWQy02cUNncHJqTEluaDlvbHpvbTY3ZTNGMnVWcjhsX04zc3puUTF2SS1fYm5jUmJrRFAtY0xxLVM?oc=5"
-    },
-    {
-      "title": "Penguin was 'uneasy' with criticism of govt in my memoir: Sonia Gandhi",
-      "summary": null,
-      "source": "The New Indian Express, Business Standard",
-      "corroboration": 2,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWFTaklKSmdKQXdEM25ibFlpUXlxQTFjSTFGbng2X3RndnFsY0VtaUZSeURsMEQxd25qZkVJM2tvVDhJYWpPTDFqLWEtUXlLbjFSYllvYld5bFRsM1Y1eDFsOW83R25IZVpnekk0UWFtbnF2WXFuZTNfTWItdkxzZE9mNExkOTlpaHZTZnVrZEpDZWxxWGtoRElUeHlxS2dYanBreHBKMkxJaEFPdC1nbXZ3c1dkb0VaVXRxZDdWTjNraUQzSWF5U2p2SzXSAdIBQVVfeXFMTTc4b3FyVlUzbGJmclBOZnFfZmR3clN4cTJhRVBjejNMdTZhSlg4R2RNMVJJSmR6Q01oMGNMVS1OM0w5UnZBcHBFekFjMTk0SFFTMjRDN2dkVzFRaHp2OWYzMmVGMHBRRlo5VV9MaENINE5ON0ptX0RmZTFnem82N0Y3N0tkLTlWRi1wa0o1LVBHS0l2eGdEVmlQRTR3dTNNN3ZSVzNIM2ZicVMzWFpfc0kzZHpMUzIxRjYxZ2xvVmFvdHRhczVmQVhMdk5oWGp0NDN3?oc=5"
-    },
-    {
-      "title": "Gujarat delegation completes Australia-New Zealand roadshows ahead of VGGS 2027",
-      "summary": null,
-      "source": "ANI News, The News Mill",
+      "source": "NDTV, Al Jazeera",
       "corroboration": 2,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ1RrNWQ1cUs0MncyYllhakg4QndQS1Nub0VTNXptbDMzblp5YnNEOWZISmdJbWxhOWtGUzhTNmJZMnRuSE9iRkI2VmJEcF9RdjFraWgyaElIVkdBdFJxRDBpMWdxS2NEeGJqVEw3eno4Tjh5VHRlRm13QmZsSk1PWmt3ZlB2TVBIQWphaURXVmtzX0tsRENpbWJRcWNFWmswbDkwdDJCRVBWcEtpWmlaTzVoc2g3VjYtcXpNWmUtRFl3VjlEOEpNeGhUSGpMX00?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcU5UM3dnX3Rnd21qN25xOC14bm5wYzF2ZnZwQ2RoTE9fZ25UN1dpcjVuVEpBWTRvdnFCTjJKRlJQTXBuVlNia2VEMERUS0J2UkN5MmZFV3psZU5SeUcwSE5icEVqVlhtc2MwdzJkYXY4VGJ1Z2llUmRncGRhWXJiRnhzeU9nYncxeHl6am9iX0p0N2c5YTR6aGRFWjfSAaQBQVVfeXFMTVZVZ1J5am1VSVlsWVo3UllhRFlLU3pOU25TdkV5Q3NoM1RQRS15cXdyMzFTTDNmRnpKUUJZR2NXUS1HSXdiVkVCU2IxMkJkWmF3UlYzT2hSeU43SVJYN2JlOVJfU2Eyc3VIcjBPZEJOak5ZYW9WWUNFTkJzVElfUktsYWNUbGNVem5rejVxZ2VSczNHREI1eERObGt6b0ZMam5zNHk?oc=5"
     },
     {
-      "title": "How Scientific Research Benefits from Modern AI",
+      "title": "Global South Delegates Seek Stronger Voice At World Media Summit In Beijing",
       "summary": null,
-      "source": "Machine Design",
+      "source": "Bernama, KBC Digital",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMYWJueHNGRFNfdlFiemFicWZheVZzNklrcFFTa0l3Y2FvX1VFeFBSblhzMTA5S2t2aFBYUTdlMjlFUlJzZTViUU03bHNhOTM1X3RPRnNsd3UxQUJOUVZDUWh3?oc=5"
+    },
+    {
+      "title": "Computational Study Identifies Leishmania Peptides as Anticancer Candidates",
+      "summary": null,
+      "source": "Bioengineer.org",
       "corroboration": 1,
       "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRzZDYTdiTXZtdlcyX2ItSTRFRTUzb3V2V3VjZ1g3bzVBWjVDMjNOa3dyU2xnQWNpLVhwa052clJHZGRIWGpwZ29kTmFhRFBEUWRsU0IxM3hjMGlUcGxYTWpQODFQZ1l0Qm5oMjc3VGFlTGtYV2pWaDhBRVMyZ0ZUZ2NUcC1mZVR5Y2NNcHpHZHFuWlY5Q2FvRmVlLVA1WnNyQkZKSXpwSUpQV2ZYdk1XNjJYenZmUUt2TFJDWnZRcW4yMTlWeUE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQnA3WUFOVnlnVDBhd1I4Y291QjFVMm5lOGVfTFk3d01UREFXS2pRbmFVZ2I0Nk8zelkzeWNtN1hORHhzcmpCQjVoZ2ZsMUpRdDJmSDh0azVDazg3dFRhWE9DRmhMNjUzSTI5TjRlSEFkc1ZZeS1JUzUzbVNDcTVYaFRqZzZ6d3JvQlVKdUpIcUxoc213M3lEd2J1cDdUcmtmbXc?oc=5"
     }
   ]
 }

@@ -1,91 +1,91 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "label": "ranked",
-  "generatedAt": "2026-11-08T22:52:10.864Z",
+  "generatedAt": "2026-11-10T02:03:50.020Z",
   "window": {
-    "from": "2026-11-07T18:30:00.000Z",
-    "to": "2026-11-08T18:30:00.000Z"
+    "from": "2026-11-08T18:30:00.000Z",
+    "to": "2026-11-09T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "Anuj Shrivatri becomes India's 100th grandmaster",
-      "summary": null,
-      "source": "ChessBase India, The Times of India",
-      "corroboration": 10,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM0hCODNBX3ZsdFJrdkd2QVdOY1R6eFVNQ0d4VHBsajdza1R6TmR2cS1EOVhtOGk0QS1MN2tUMGJJc09DRWlYSXVEbExsMWNLdXlMRTdzWjI5MkpZaDJKUFB5aEFnVng5SVpETWkwdmxudnRPVUNtbWMxY2EwMTRRZS1aRnNMQlJQQmVfOU1rTVV6MS1uV0dUMnNneGxyaG1iZEhTY1ZPT2EyOWtUWVlBUzVIY9IBuAFBVV95cUxPcFhVYnE5TS1zVncyNW1FdE5Dd29ndWNTV2ZvQzJYSlJ0LUpkdTd1enpFbm91SG9RRE9qUTM2UTJEaVpKVXR0TDZpVWZ5eDJRcHExYjZ4RFlzQ3ZDR1lNcUtGVGpLMkdpYy1OZDNwdFdSeU9QdlBNVXJZWmFjbjJvWnlIVVNXS0VDTXk1M1NxaFdZWmE0YV9aMVkwTnRlQUNWRE56UmpHM29maFY5ZzgxZFhDTTVNdmts?oc=5"
-    },
-    {
-      "title": "Got $5,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence (AI).",
-      "summary": null,
-      "source": "Yahoo Finance, The Motley Fool",
-      "corroboration": 4,
-      "category": "ai",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFNoNVUwVHF2QVBHTW51c1MySXlrR2ZjNk1panpUcFJhSzg2VzJkYVRjM1djOWptQThzZGFpdVJOcTJxdTRvUEI4RVhaMF9uemY5ckcxc0hrTmFWRjkzU2VYQTZRUklXUEpoenYwZzk0OUIzY0stRXVTNFlpQmNGcHl1aUxoRHdmbVE?oc=5"
-    },
-    {
-      "title": "19 Indian seafarers stranded in Yemen evacuated, Embassy says",
-      "summary": null,
-      "source": "The Hindu, The New Indian Express",
-      "corroboration": 3,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcE9mVFhIMjhzZVdubHV4Smh6VWFLX2c4emtGcURxX1pqRFFVNEU0WnhRU3ZLbG02WEN0MHdlV0JqeHZMZXhNU29zUjdpSl9OOEJXazF1VEowVEt2aFh5b093bnlzUDdsUVhUeGU3dllqaF8zNm1naTJ5bUloU3V1WnV1REtIS0NrdHJGSmp1N2YxUDlTWEZ6UGViNTF1QWxMR3B3WFd30gGsAUFVX3lxTE9UZmUyaFRPbmRtN0tVTFA5dzc1OE0yZ0dqXzFVUXFJdXp6LWZhbXF0S04xMU9KbmV4NVAyVXpCeUpSMGFPai1jVVVSNmVhNXl5WXpLYjJ1WjVPRG1RTmZES0E5MVIzR05SOHM0a1pfemRxdFRKWGhOS3dRUzhya2oxM2w4SW9URTNhdjUwS0pYTHcyWW85THgxbWFTZE1QV1pKY0xXRWFOR3phdHA?oc=5"
-    },
-    {
-      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-      "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "ai",
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"
-    },
-    {
-      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+      "title": "Too many men suffering in silence, national health report finds (Canada)",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "tech",
-      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/"
+      "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds"
     },
     {
-      "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://github.com/thisisme6598/gemini_files/"
+    },
+    {
+      "title": "Our Smallest, Most Efficient Model: Muse Ember",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://research.meta.ai/blog/muse-ember"
+    },
+    {
+      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "tech",
-      "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/"
+      "url": "https://www.watched.earth"
     },
     {
-      "title": "India revels in Diwali celebrations, Delhi AQI dips to 'very poor'",
+      "title": "Google Cloud India MD Shashikumar Sreedharan joins Sarvam as President and CBO",
       "summary": null,
-      "source": "Rediff, The Economic Times",
+      "source": "YourStory.com, Analytics India Magazine",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQekNOZkVFaDFNNW5Ddzctc0V5TnBtUlJpZkpqdDBFYkhoRmtFQm54dlktR202emZaUm5WRzBVMXJtMkN6NU1yVVpfdVI2cjN2bFV4dzRlSlZpX1RrZVdKUFN5aXh0Si1CSVJGR2szdXRjZnNTWjEtbDRrc3Vmd3NEeklaTUZPajFtSzRFWGlza1lVTWsyc3JiWEljU3M1U1FkaEc1MW1aUDJkSDNPOFp0MNIBswFBVV95cUxOSWplcWdlR1RmMHFqQ2J4T3R2dTZqMzVsRUVBOGxwbnEyQVpUOFZEYnVsOFk5TUNjVUdxaUZtTWk4MDYzM2MtTlpOLVdFOERYUkc2Y3UyckNpb3lEVHh3MXRKYVRTWjVEQkdwak5oMlpQMVdxTERSN255b1JONnNmUHdBOEUybGFHUDhQSE5xbFNpZlBvZlkza2NPRHZmcTJieTIxV1ZaLW4wSW9ESzRaRWkxbw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0Q5SmR2UTZ4MDIyMmI3akRqeTd2Y00yVWEwMEJYbjJXWFdpMlVlc1IzSmxZcGhGSjZYdnZYR21teWE5aF9hWjlfRU01MWR6X21zdUpaQXQ3RGdaZEUtMDJ5SUNITFdmaF95NHQ5NVduaWcwUVRHd01wUGE2aG12UDZjaWFTQWdlN19pcW9sM05aUm5zS3JIa1RyY2g?oc=5"
     },
     {
-      "title": "Aramco Skyscraper In Riyadh Damaged In \"Attempted Attack\"",
+      "title": "EAM Jaishankar speaks to Russian FM Lavrov on Ukraine conflict, diplomatic initiatives",
       "summary": null,
-      "source": "NDTV, Al Jazeera",
+      "source": "DD India, ANI News",
       "corroboration": 2,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcU5UM3dnX3Rnd21qN25xOC14bm5wYzF2ZnZwQ2RoTE9fZ25UN1dpcjVuVEpBWTRvdnFCTjJKRlJQTXBuVlNia2VEMERUS0J2UkN5MmZFV3psZU5SeUcwSE5icEVqVlhtc2MwdzJkYXY4VGJ1Z2llUmRncGRhWXJiRnhzeU9nYncxeHl6am9iX0p0N2c5YTR6aGRFWjfSAaQBQVVfeXFMTVZVZ1J5am1VSVlsWVo3UllhRFlLU3pOU25TdkV5Q3NoM1RQRS15cXdyMzFTTDNmRnpKUUJZR2NXUS1HSXdiVkVCU2IxMkJkWmF3UlYzT2hSeU43SVJYN2JlOVJfU2Eyc3VIcjBPZEJOak5ZYW9WWUNFTkJzVElfUktsYWNUbGNVem5rejVxZ2VSczNHREI1eERObGt6b0ZMam5zNHk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZDlTZHllLWZqSmVhM2dwb05jWXB0TDNqelpCcENiU0stQUl4dGpRbDkxd1NOOHZQR0l5d05CZnI0dUtnODU5bWdwXzVnTUlEaE5lRnVwUGJ6MkRVSjhrRm9sRXZKUXNEaUhmRDduWTVKS1BhaC1maFp2TXNDNDMxYVVGWU5hS0dlanA3UVpaMHRXckdQQjIzZ2xQUkZiUm9kWXlNaGNaaFlrSG8xN1U3TTd3ekQ1LTl1cUlHa0tLTGJnV2RKXy1mU3VQcTczWlFCQ0lXSnBudw?oc=5"
     },
     {
-      "title": "Global South Delegates Seek Stronger Voice At World Media Summit In Beijing",
+      "title": "COP31 summit leaders urge crisis-wracked world to move faster on climate",
       "summary": null,
-      "source": "Bernama, KBC Digital",
+      "source": "Al-Monitor, Reuters",
       "corroboration": 2,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMYWJueHNGRFNfdlFiemFicWZheVZzNklrcFFTa0l3Y2FvX1VFeFBSblhzMTA5S2t2aFBYUTdlMjlFUlJzZTViUU03bHNhOTM1X3RPRnNsd3UxQUJOUVZDUWh3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNG5EYWpyMmdRNjFiczRIWWJsVDRkN1lHM0tidG9SQ25oallJSEF4dkhZVWVWYU9PaVJ6YVJQNmlWTGVObEZVb3FyUzFKWEtjNE8wWGFuc0g2dTRsa0pDODRXY2JwTmdOLVpTc3ZvejZZa1U3X1dhbV9KakR0SG1ObER0aWpEajBELVphVG1RTW1sSVFGTzMyX3dpa1puV3hNaTRmdmpncDVWa1Z3SVI0VGtTZw?oc=5"
     },
     {
-      "title": "Computational Study Identifies Leishmania Peptides as Anticancer Candidates",
+      "title": "Beyond Trial and Error: A Framework for AI-Driven Solid-Electrolyte Discovery",
       "summary": null,
-      "source": "Bioengineer.org",
-      "corroboration": 1,
+      "source": "Asia Research News |, EurekAlert!",
+      "corroboration": 2,
       "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQnA3WUFOVnlnVDBhd1I4Y291QjFVMm5lOGVfTFk3d01UREFXS2pRbmFVZ2I0Nk8zelkzeWNtN1hORHhzcmpCQjVoZ2ZsMUpRdDJmSDh0azVDazg3dFRhWE9DRmhMNjUzSTI5TjRlSEFkc1ZZeS1JUzUzbVNDcTVYaFRqZzZ6d3JvQlVKdUpIcUxoc213M3lEd2J1cDdUcmtmbXc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVNWLVlQbWpKQzlOdlItUEw5aDRhNFR6d2ZySDdoTXpTSXNYSmNpWS1TcFpXWF9xenN1Vk9kLURlSDdvZHlPVlZkOFprT1ZJT2RkSURDenJJMnRZOExnSDJraTdRTnIyQVhjUkdTU3lSZnZyMy1odl91YXJ6a0pMQjBUM0J2bUFDMW1TOEkzMVljOU11aWFwSE5pa0N2WE1oVHRwSFQyMXJaLVlkVng0Xw?oc=5"
+    },
+    {
+      "title": "\"Seek to paint bleak picture of India\": JNU Professor on Chinese vloggers falsely portraying Dhaka slums as Delhi",
+      "summary": null,
+      "source": "ANI News",
+      "corroboration": 1,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOc3IwWjRmbjJmVWV6TDJweFZwbkl3cUJQWHBGQ2pmQmx0ZDJXdXVlRU5nc295T2s5VkRQdFJnSGtyVDY3UUtNaERzT3V2bTdESncwWUYwWWVjN3VBQnl1MkJUemFMNkoxdUktamJWWWRtVTBxYWRVaGNodXNXUWpVLVlib253dDJPUEVXaFJrcGRGZllhTUc0dGFFZWk0SG1VdzRrVUdDei0ydFhjUWtYRzRvOXVGQ2VvQThWbVNYcjlWMENWazBUR3g0VG1JVkFMekxjWlg2NDdoNmtlY05kaE4zeVhMRzBBQ3c0S0ZuZzVWbTh0TkE?oc=5"
+    },
+    {
+      "title": "New branch campuses make stuttering start in India",
+      "summary": null,
+      "source": "Times Higher Education",
+      "corroboration": 1,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY1FfNHl2NDZnVmp3cXpNdFdIWUstTGdKanRzd3dKTTZUTV94R2ZJeTA5Tm9sY0xCakhrRmtUOGZKM1plWVJpTUhhYnEtQXFXZ3lIcFNDZWVrVWdrSDJ6TEI0LXFFcFdELVQ5aWxWTGtIYmNBOExWN0s3YlVUQkhhRkdUVklRZEphOHYteXpMUV94eTQ?oc=5"
     }
   ]
 }

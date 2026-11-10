@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-09",
+  "label": "ranked",
+  "generatedAt": "2026-11-10T02:03:50.020Z",
+  "window": {
+    "from": "2026-11-08T18:30:00.000Z",
+    "to": "2026-11-09T18:30:00.000Z"
+  },
+  "items": [
+    {
+      "title": "Too many men suffering in silence, national health report finds (Canada)",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds"
+    },
+    {
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://github.com/thisisme6598/gemini_files/"
+    },
+    {
+      "title": "Our Smallest, Most Efficient Model: Muse Ember",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://research.meta.ai/blog/muse-ember"
+    },
+    {
+      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://www.watched.earth"
+    },
+    {
+      "title": "Google Cloud India MD Shashikumar Sreedharan joins Sarvam as President and CBO",
+      "summary": null,
+      "source": "YourStory.com, Analytics India Magazine",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0Q5SmR2UTZ4MDIyMmI3akRqeTd2Y00yVWEwMEJYbjJXWFdpMlVlc1IzSmxZcGhGSjZYdnZYR21teWE5aF9hWjlfRU01MWR6X21zdUpaQXQ3RGdaZEUtMDJ5SUNITFdmaF95NHQ5NVduaWcwUVRHd01wUGE2aG12UDZjaWFTQWdlN19pcW9sM05aUm5zS3JIa1RyY2g?oc=5"
+    },
+    {
+      "title": "EAM Jaishankar speaks to Russian FM Lavrov on Ukraine conflict, diplomatic initiatives",
+      "summary": null,
+      "source": "DD India, ANI News",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZDlTZHllLWZqSmVhM2dwb05jWXB0TDNqelpCcENiU0stQUl4dGpRbDkxd1NOOHZQR0l5d05CZnI0dUtnODU5bWdwXzVnTUlEaE5lRnVwUGJ6MkRVSjhrRm9sRXZKUXNEaUhmRDduWTVKS1BhaC1maFp2TXNDNDMxYVVGWU5hS0dlanA3UVpaMHRXckdQQjIzZ2xQUkZiUm9kWXlNaGNaaFlrSG8xN1U3TTd3ekQ1LTl1cUlHa0tLTGJnV2RKXy1mU3VQcTczWlFCQ0lXSnBudw?oc=5"
+    },
+    {
+      "title": "COP31 summit leaders urge crisis-wracked world to move faster on climate",
+      "summary": null,
+      "source": "Al-Monitor, Reuters",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNG5EYWpyMmdRNjFiczRIWWJsVDRkN1lHM0tidG9SQ25oallJSEF4dkhZVWVWYU9PaVJ6YVJQNmlWTGVObEZVb3FyUzFKWEtjNE8wWGFuc0g2dTRsa0pDODRXY2JwTmdOLVpTc3ZvejZZa1U3X1dhbV9KakR0SG1ObER0aWpEajBELVphVG1RTW1sSVFGTzMyX3dpa1puV3hNaTRmdmpncDVWa1Z3SVI0VGtTZw?oc=5"
+    },
+    {
+      "title": "Beyond Trial and Error: A Framework for AI-Driven Solid-Electrolyte Discovery",
+      "summary": null,
+      "source": "Asia Research News |, EurekAlert!",
+      "corroboration": 2,
+      "category": "science",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVNWLVlQbWpKQzlOdlItUEw5aDRhNFR6d2ZySDdoTXpTSXNYSmNpWS1TcFpXWF9xenN1Vk9kLURlSDdvZHlPVlZkOFprT1ZJT2RkSURDenJJMnRZOExnSDJraTdRTnIyQVhjUkdTU3lSZnZyMy1odl91YXJ6a0pMQjBUM0J2bUFDMW1TOEkzMVljOU11aWFwSE5pa0N2WE1oVHRwSFQyMXJaLVlkVng0Xw?oc=5"
+    },
+    {
+      "title": "\"Seek to paint bleak picture of India\": JNU Professor on Chinese vloggers falsely portraying Dhaka slums as Delhi",
+      "summary": null,
+      "source": "ANI News",
+      "corroboration": 1,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOc3IwWjRmbjJmVWV6TDJweFZwbkl3cUJQWHBGQ2pmQmx0ZDJXdXVlRU5nc295T2s5VkRQdFJnSGtyVDY3UUtNaERzT3V2bTdESncwWUYwWWVjN3VBQnl1MkJUemFMNkoxdUktamJWWWRtVTBxYWRVaGNodXNXUWpVLVlib253dDJPUEVXaFJrcGRGZllhTUc0dGFFZWk0SG1VdzRrVUdDei0ydFhjUWtYRzRvOXVGQ2VvQThWbVNYcjlWMENWazBUR3g0VG1JVkFMekxjWlg2NDdoNmtlY05kaE4zeVhMRzBBQ3c0S0ZuZzVWbTh0TkE?oc=5"
+    },
+    {
+      "title": "New branch campuses make stuttering start in India",
+      "summary": null,
+      "source": "Times Higher Education",
+      "corroboration": 1,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY1FfNHl2NDZnVmp3cXpNdFdIWUstTGdKanRzd3dKTTZUTV94R2ZJeTA5Tm9sY0xCakhrRmtUOGZKM1plWVJpTUhhYnEtQXFXZ3lIcFNDZWVrVWdrSDJ6TEI0LXFFcFdELVQ5aWxWTGtIYmNBOExWN0s3YlVUQkhhRkdUVklRZEphOHYteXpMUV94eTQ?oc=5"
+    }
+  ]
+}

@@ -1,91 +1,91 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "label": "ranked",
-  "generatedAt": "2026-11-10T02:03:50.020Z",
+  "generatedAt": "2026-11-11T00:01:56.287Z",
   "window": {
-    "from": "2026-11-08T18:30:00.000Z",
-    "to": "2026-11-09T18:30:00.000Z"
+    "from": "2026-11-09T18:30:00.000Z",
+    "to": "2026-11-10T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "Too many men suffering in silence, national health report finds (Canada)",
+      "title": "AI training startup Mercor valued at $20 billion in latest funding round",
+      "summary": null,
+      "source": "TradingView, CNA",
+      "corroboration": 3,
+      "category": "tech",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZTh4aWZfbTV4ZEJvS2xSTWpTZVowV3Z6U29TRUJWdlAwR0pwbXVfX3NOYnZwNHVLcmRfSHNNdVExdzBLWTBVeVJfSm5lMC11MG5KeFZ6Vnc2cjJSTU1DS1dXcDhmbFF6S3k3UzBhRmtqdndMZ2RlZWdyWk8tWGhoZU1ucVl1a3JDLWxWRS1YcktkWHFRcGU4dFAzZG54MEVPTTlvTTVBMy02bW5LZEUwMWpJb1RBdU9NU0tJdVIxUTRTVUZXU2FyVkhXUkdPWk1McXRwT0dmMWg?oc=5"
+    },
+    {
+      "title": "Starlink Mini 2",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "tech",
-      "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds"
+      "url": "https://starlink.com/mini-2"
     },
     {
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://github.com/thisisme6598/gemini_files/"
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data"
     },
     {
-      "title": "Our Smallest, Most Efficient Model: Muse Ember",
+      "title": "Gemini 4 Carbon is now available",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://research.meta.ai/blog/muse-ember"
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
     },
     {
-      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+      "title": "Piyush Goyal says India on track to achieve $1 trillion export target",
       "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "tech",
-      "url": "https://www.watched.earth"
-    },
-    {
-      "title": "Google Cloud India MD Shashikumar Sreedharan joins Sarvam as President and CBO",
-      "summary": null,
-      "source": "YourStory.com, Analytics India Magazine",
+      "source": "News On AIR, The Economic Times",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0Q5SmR2UTZ4MDIyMmI3akRqeTd2Y00yVWEwMEJYbjJXWFdpMlVlc1IzSmxZcGhGSjZYdnZYR21teWE5aF9hWjlfRU01MWR6X21zdUpaQXQ3RGdaZEUtMDJ5SUNITFdmaF95NHQ5NVduaWcwUVRHd01wUGE2aG12UDZjaWFTQWdlN19pcW9sM05aUm5zS3JIa1RyY2g?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelFzWkFwZE84d1VMQnU2WThJdFotUnZHRG9NOTZUMTRvc2hJQlc2dlZIOVZpaUtEeXBINTB3RnRGcFNoaHFTTnhBRzU2WmROSkwwQ2w1aTJzSHU1WlBLaGh5RldRSFhfTnF6bmx4ZFZJRUFZVjdMR1BhNTdDeG0yUGk1TTlTMjU5MjJxU2VSQVp6YU1NMTYwTDhR?oc=5"
     },
     {
-      "title": "EAM Jaishankar speaks to Russian FM Lavrov on Ukraine conflict, diplomatic initiatives",
+      "title": "Pakistan blames India's Diwali fireworks for Lahore's toxic air",
       "summary": null,
-      "source": "DD India, ANI News",
+      "source": "Reuters, U.S. News & World Report",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGNZcGQ1Zm55NXM1YUV6OGVSNHliTDRITm9ncEQ3OWlCdVI5M3dEcVF6XzZoTjZ2RFFrd0phU1pxVnNYWkhPcUV5YXQ4RFB1cjlKMFdvVjMzX0FGWVNRS2JSUnJHU1JXSm01enB0a2pxRDhnMENseDlVLWJmRl9TTkpPelRQdl85MHZJSTZ2emdveFlaSWt6TFFMVF9Bc1RaVlNJOVhNNlYtZWJuYWFDaGZ4d2k?oc=5"
+    },
+    {
+      "title": "India's unemployment rate falls to 5.1% in July-September 2026",
+      "summary": null,
+      "source": "BusinessLine, Fortune India",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObE5WcTc0M0NXTzdKUVdPRmtNWm96SHlDRGNHVDgzRS1zcjlJTjByd1RPZk9zX2g5MVhyMVNkYjdLclRRQUk2Sk90WVpTTVVweHQwU29Kc3dmVHVVUExieUxVbzJBczVObHZmZk1sOTJPcEFoc1F5Zld2WUNuc0VwblRab053WWxXRmVnRDlSWjFuTlNWVjFtLXY0Y0dxU3daQVExdDZaOF94OTRRMDRhWEUwZ2VpSHRVaTctamF6T3hjdHlWS1RzTHY5OUtEV0pxUGxXdVRlMm05elRyc2xyOWlxc1ZLODJjQ3hvV1pB0gH0AUFVX3lxTE5URXZzeG5Dd1BfdXI4WXAtNWI4NGt3ZzF4MUF0YXJiM25PSGVuR1UyY2w0THN4WlhnUUJfVUFOSk1GdjA0VzVMeGZqSEc2NFVCNUdKZmFCSUVVWDRiQ0pZRUYzTFlXNG52MDZUbzVVa1NEanJIX1JPLUljaGNHc1NibWhHMS1pcXRhZ1h2LXVtWC1ZeG8wMS1qTVFMenJiSTZTUi1ycUFVX2FLLUptOXkwN0k5Q0pCbHdzdWJQNmxabGNOekt4ckI2bjQ5Qkl4ZUFmM0doMkN3NkJJeXJ6bF9rRFlOcGw0Nk5oTkJGXzhhVExMNXU?oc=5"
+    },
+    {
+      "title": "Telangana to host Bharat Summit on November 13 and 14",
+      "summary": null,
+      "source": "inc.in, The Hindu",
       "corroboration": 2,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZDlTZHllLWZqSmVhM2dwb05jWXB0TDNqelpCcENiU0stQUl4dGpRbDkxd1NOOHZQR0l5d05CZnI0dUtnODU5bWdwXzVnTUlEaE5lRnVwUGJ6MkRVSjhrRm9sRXZKUXNEaUhmRDduWTVKS1BhaC1maFp2TXNDNDMxYVVGWU5hS0dlanA3UVpaMHRXckdQQjIzZ2xQUkZiUm9kWXlNaGNaaFlrSG8xN1U3TTd3ekQ1LTl1cUlHa0tLTGJnV2RKXy1mU3VQcTczWlFCQ0lXSnBudw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV25UaTltSmpUVEpvVkhUTFZ4RjVpMkNMMHprRW93NGFQXzNDSWxxUG1ZTHRQOFlXYkZXWGlRLWhXQWl4Q1N1cXBZd2RlZW12cHkyWW5QWmc3RllSOXhnU0V0UFVqTGZ3QUVaNW81cWVpMVRTcTJfWGlLRUd2VGMwQk1PU00wdVhiUGtGd0Z2dmFUM0JvaGM5VTg4MVo5clExZ3d4NVpSMEh6a1RWXzVjU2lR0gG4AUFVX3lxTE1nSHBOU3lIZDZoUUlsaERwSXJHbEQ3X0hvQVdDM2pybmYxS2ItZGljNHVqZ1dmNlowVk1DMUtIcnpKY1pMZzNnbl9Qci0wWVVwaFQ4UGk4d2Q1QUpsczJmUTl6TndrdmltVFBoYTZ0VlEtZEZuMHZyZ2YzNWIycFJpSjNSOXpEQ3JWRUt5MU1BRzF4bFM0ZlptV1FScE51aVhoWms2b2VwbzhMM2VFRXlGV2Y5MHJBcXM?oc=5"
     },
     {
-      "title": "COP31 summit leaders urge crisis-wracked world to move faster on climate",
+      "title": "EU Climate Chief Warns of Low Expectations Ahead of COP31 Summit",
       "summary": null,
-      "source": "Al-Monitor, Reuters",
+      "source": "The Hindu, Deccan Chronicle",
       "corroboration": 2,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNG5EYWpyMmdRNjFiczRIWWJsVDRkN1lHM0tidG9SQ25oallJSEF4dkhZVWVWYU9PaVJ6YVJQNmlWTGVObEZVb3FyUzFKWEtjNE8wWGFuc0g2dTRsa0pDODRXY2JwTmdOLVpTc3ZvejZZa1U3X1dhbV9KakR0SG1ObER0aWpEajBELVphVG1RTW1sSVFGTzMyX3dpa1puV3hNaTRmdmpncDVWa1Z3SVI0VGtTZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLXZKYkhta3hfNWRNaURaVC1iMkVfLTlzWHI0eVRWU0VMVmxjdlg4T0dTVWtvWFd3dnk3WlctNk9FUXl5YkY3NDQ5dEJaMHFyc0ozTjBOTGFXc2ZzbkhHSkw2SFA5U2ZQSkpYRnVWTzhHUkxzaDU1LTRSX1pPMEhFMVRqYmFaX3lCYklaZ1I1Mkt5c08xUkcxRG1NaUdGR1JUMm8zMDNUeWtZMzhiQkpn0gG0AUFVX3lxTE1aeXYybXA5RnYxdUFKUTFUV0ZtdWhBMzB1ZVBZTWJMSkRvT0EyUTRUT2x5ME5GaGFxZXJmNVNUb1JXZmJVNDE0aWpPbHFrQVRrbU1mbEFUdnY4NlpRSlVIN0haMTdKdXVhdXJodVRRQUNNelVlLXBTaUlvOUxVd3lTMHg1dmtNWmU1aktDR2NJRkVGblNTM1ZTQ3VOUHV3bVUycUpUYWMtb2l6MXk3ellucUlidA?oc=5"
     },
     {
-      "title": "Beyond Trial and Error: A Framework for AI-Driven Solid-Electrolyte Discovery",
+      "title": "Discovery Institute Launches AI Research Assistant",
       "summary": null,
-      "source": "Asia Research News |, EurekAlert!",
-      "corroboration": 2,
+      "source": "Science and Culture Today",
+      "corroboration": 1,
       "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVNWLVlQbWpKQzlOdlItUEw5aDRhNFR6d2ZySDdoTXpTSXNYSmNpWS1TcFpXWF9xenN1Vk9kLURlSDdvZHlPVlZkOFprT1ZJT2RkSURDenJJMnRZOExnSDJraTdRTnIyQVhjUkdTU3lSZnZyMy1odl91YXJ6a0pMQjBUM0J2bUFDMW1TOEkzMVljOU11aWFwSE5pa0N2WE1oVHRwSFQyMXJaLVlkVng0Xw?oc=5"
-    },
-    {
-      "title": "\"Seek to paint bleak picture of India\": JNU Professor on Chinese vloggers falsely portraying Dhaka slums as Delhi",
-      "summary": null,
-      "source": "ANI News",
-      "corroboration": 1,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOc3IwWjRmbjJmVWV6TDJweFZwbkl3cUJQWHBGQ2pmQmx0ZDJXdXVlRU5nc295T2s5VkRQdFJnSGtyVDY3UUtNaERzT3V2bTdESncwWUYwWWVjN3VBQnl1MkJUemFMNkoxdUktamJWWWRtVTBxYWRVaGNodXNXUWpVLVlib253dDJPUEVXaFJrcGRGZllhTUc0dGFFZWk0SG1VdzRrVUdDei0ydFhjUWtYRzRvOXVGQ2VvQThWbVNYcjlWMENWazBUR3g0VG1JVkFMekxjWlg2NDdoNmtlY05kaE4zeVhMRzBBQ3c0S0ZuZzVWbTh0TkE?oc=5"
-    },
-    {
-      "title": "New branch campuses make stuttering start in India",
-      "summary": null,
-      "source": "Times Higher Education",
-      "corroboration": 1,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY1FfNHl2NDZnVmp3cXpNdFdIWUstTGdKanRzd3dKTTZUTV94R2ZJeTA5Tm9sY0xCakhrRmtUOGZKM1plWVJpTUhhYnEtQXFXZ3lIcFNDZWVrVWdrSDJ6TEI0LXFFcFdELVQ5aWxWTGtIYmNBOExWN0s3YlVUQkhhRkdUVklRZEphOHYteXpMUV94eTQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOVVnWElFRVFIT1lLM29GOXpWNHhaVGFMZWxOZmdSYkJySFdLbl9XVklTdmpzWkVNNzlkd083bGFuTTJJNmJfQjg4WDFOTThZOVVVRVp1NGc4ZTFaZWE4NDV2OUFZMHV0VW9jOUEweF9rM2drVWZSZlNNRlFRVlp5RWJaVkRxN1BleDhpdXJiNTdHS2M?oc=5"
     }
   ]
 }

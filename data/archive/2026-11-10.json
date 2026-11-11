@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-10",
+  "label": "ranked",
+  "generatedAt": "2026-11-11T00:01:56.287Z",
+  "window": {
+    "from": "2026-11-09T18:30:00.000Z",
+    "to": "2026-11-10T18:30:00.000Z"
+  },
+  "items": [
+    {
+      "title": "AI training startup Mercor valued at $20 billion in latest funding round",
+      "summary": null,
+      "source": "TradingView, CNA",
+      "corroboration": 3,
+      "category": "tech",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZTh4aWZfbTV4ZEJvS2xSTWpTZVowV3Z6U29TRUJWdlAwR0pwbXVfX3NOYnZwNHVLcmRfSHNNdVExdzBLWTBVeVJfSm5lMC11MG5KeFZ6Vnc2cjJSTU1DS1dXcDhmbFF6S3k3UzBhRmtqdndMZ2RlZWdyWk8tWGhoZU1ucVl1a3JDLWxWRS1YcktkWHFRcGU4dFAzZG54MEVPTTlvTTVBMy02bW5LZEUwMWpJb1RBdU9NU0tJdVIxUTRTVUZXU2FyVkhXUkdPWk1McXRwT0dmMWg?oc=5"
+    },
+    {
+      "title": "Starlink Mini 2",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://starlink.com/mini-2"
+    },
+    {
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data"
+    },
+    {
+      "title": "Gemini 4 Carbon is now available",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+    },
+    {
+      "title": "Piyush Goyal says India on track to achieve $1 trillion export target",
+      "summary": null,
+      "source": "News On AIR, The Economic Times",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelFzWkFwZE84d1VMQnU2WThJdFotUnZHRG9NOTZUMTRvc2hJQlc2dlZIOVZpaUtEeXBINTB3RnRGcFNoaHFTTnhBRzU2WmROSkwwQ2w1aTJzSHU1WlBLaGh5RldRSFhfTnF6bmx4ZFZJRUFZVjdMR1BhNTdDeG0yUGk1TTlTMjU5MjJxU2VSQVp6YU1NMTYwTDhR?oc=5"
+    },
+    {
+      "title": "Pakistan blames India's Diwali fireworks for Lahore's toxic air",
+      "summary": null,
+      "source": "Reuters, U.S. News & World Report",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGNZcGQ1Zm55NXM1YUV6OGVSNHliTDRITm9ncEQ3OWlCdVI5M3dEcVF6XzZoTjZ2RFFrd0phU1pxVnNYWkhPcUV5YXQ4RFB1cjlKMFdvVjMzX0FGWVNRS2JSUnJHU1JXSm01enB0a2pxRDhnMENseDlVLWJmRl9TTkpPelRQdl85MHZJSTZ2emdveFlaSWt6TFFMVF9Bc1RaVlNJOVhNNlYtZWJuYWFDaGZ4d2k?oc=5"
+    },
+    {
+      "title": "India's unemployment rate falls to 5.1% in July-September 2026",
+      "summary": null,
+      "source": "BusinessLine, Fortune India",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObE5WcTc0M0NXTzdKUVdPRmtNWm96SHlDRGNHVDgzRS1zcjlJTjByd1RPZk9zX2g5MVhyMVNkYjdLclRRQUk2Sk90WVpTTVVweHQwU29Kc3dmVHVVUExieUxVbzJBczVObHZmZk1sOTJPcEFoc1F5Zld2WUNuc0VwblRab053WWxXRmVnRDlSWjFuTlNWVjFtLXY0Y0dxU3daQVExdDZaOF94OTRRMDRhWEUwZ2VpSHRVaTctamF6T3hjdHlWS1RzTHY5OUtEV0pxUGxXdVRlMm05elRyc2xyOWlxc1ZLODJjQ3hvV1pB0gH0AUFVX3lxTE5URXZzeG5Dd1BfdXI4WXAtNWI4NGt3ZzF4MUF0YXJiM25PSGVuR1UyY2w0THN4WlhnUUJfVUFOSk1GdjA0VzVMeGZqSEc2NFVCNUdKZmFCSUVVWDRiQ0pZRUYzTFlXNG52MDZUbzVVa1NEanJIX1JPLUljaGNHc1NibWhHMS1pcXRhZ1h2LXVtWC1ZeG8wMS1qTVFMenJiSTZTUi1ycUFVX2FLLUptOXkwN0k5Q0pCbHdzdWJQNmxabGNOekt4ckI2bjQ5Qkl4ZUFmM0doMkN3NkJJeXJ6bF9rRFlOcGw0Nk5oTkJGXzhhVExMNXU?oc=5"
+    },
+    {
+      "title": "Telangana to host Bharat Summit on November 13 and 14",
+      "summary": null,
+      "source": "inc.in, The Hindu",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV25UaTltSmpUVEpvVkhUTFZ4RjVpMkNMMHprRW93NGFQXzNDSWxxUG1ZTHRQOFlXYkZXWGlRLWhXQWl4Q1N1cXBZd2RlZW12cHkyWW5QWmc3RllSOXhnU0V0UFVqTGZ3QUVaNW81cWVpMVRTcTJfWGlLRUd2VGMwQk1PU00wdVhiUGtGd0Z2dmFUM0JvaGM5VTg4MVo5clExZ3d4NVpSMEh6a1RWXzVjU2lR0gG4AUFVX3lxTE1nSHBOU3lIZDZoUUlsaERwSXJHbEQ3X0hvQVdDM2pybmYxS2ItZGljNHVqZ1dmNlowVk1DMUtIcnpKY1pMZzNnbl9Qci0wWVVwaFQ4UGk4d2Q1QUpsczJmUTl6TndrdmltVFBoYTZ0VlEtZEZuMHZyZ2YzNWIycFJpSjNSOXpEQ3JWRUt5MU1BRzF4bFM0ZlptV1FScE51aVhoWms2b2VwbzhMM2VFRXlGV2Y5MHJBcXM?oc=5"
+    },
+    {
+      "title": "EU Climate Chief Warns of Low Expectations Ahead of COP31 Summit",
+      "summary": null,
+      "source": "The Hindu, Deccan Chronicle",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLXZKYkhta3hfNWRNaURaVC1iMkVfLTlzWHI0eVRWU0VMVmxjdlg4T0dTVWtvWFd3dnk3WlctNk9FUXl5YkY3NDQ5dEJaMHFyc0ozTjBOTGFXc2ZzbkhHSkw2SFA5U2ZQSkpYRnVWTzhHUkxzaDU1LTRSX1pPMEhFMVRqYmFaX3lCYklaZ1I1Mkt5c08xUkcxRG1NaUdGR1JUMm8zMDNUeWtZMzhiQkpn0gG0AUFVX3lxTE1aeXYybXA5RnYxdUFKUTFUV0ZtdWhBMzB1ZVBZTWJMSkRvT0EyUTRUT2x5ME5GaGFxZXJmNVNUb1JXZmJVNDE0aWpPbHFrQVRrbU1mbEFUdnY4NlpRSlVIN0haMTdKdXVhdXJodVRRQUNNelVlLXBTaUlvOUxVd3lTMHg1dmtNWmU1aktDR2NJRkVGblNTM1ZTQ3VOUHV3bVUycUpUYWMtb2l6MXk3ellucUlidA?oc=5"
+    },
+    {
+      "title": "Discovery Institute Launches AI Research Assistant",
+      "summary": null,
+      "source": "Science and Culture Today",
+      "corroboration": 1,
+      "category": "science",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOVVnWElFRVFIT1lLM29GOXpWNHhaVGFMZWxOZmdSYkJySFdLbl9XVklTdmpzWkVNNzlkd083bGFuTTJJNmJfQjg4WDFOTThZOVVVRVp1NGc4ZTFaZWE4NDV2OUFZMHV0VW9jOUEweF9rM2drVWZSZlNNRlFRVlp5RWJaVkRxN1BleDhpdXJiNTdHS2M?oc=5"
+    }
+  ]
+}

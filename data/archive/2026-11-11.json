@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-11",
+  "label": "ranked",
+  "generatedAt": "2026-11-12T01:31:17.489Z",
+  "window": {
+    "from": "2026-11-10T18:30:00.000Z",
+    "to": "2026-11-11T18:30:00.000Z"
+  },
+  "items": [
+    {
+      "title": "AI training startup Mercor valued at $20 billion in latest funding round",
+      "summary": null,
+      "source": "Reuters, Miami Herald",
+      "corroboration": 4,
+      "category": "tech",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQakRyVVFaNHJEdFVOdTVHYUtNSWN3MEw4SkZXNFFXZFRtM21LLTZmWGtHRU9RcU9QM0dSUENscUhOZWV0WkFBZ1hQQV9vcHBFMzZxRlNrTjZvZFZwZzFZeDR2eGo2U2Q5b3VEcExyek9GY0JxQ0o4SkZYZmRTR21GaDhLTmE2b3J3MzJrRGZORXd0akdkVm41V0gzRGJYVTlvZ1hnZ0VUZ3RSa1RqckxUYUMyQ291NjVVQkdZa3NB?oc=5"
+    },
+    {
+      "title": "UK-backed AI chip startup Fractile hits $7 billion valuation in funding round",
+      "summary": null,
+      "source": "Reuters, TradingView",
+      "corroboration": 3,
+      "category": "tech",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU0V1VVc2X0ppTUpCU0lET0pMdzV1YjFLbV83a0luR0VCdmVFN0g0ZzFzZXpZeWdWMjBNWVppUWV5QlNNYkFEdkY3QnJadVhleU5saHFaMk1USXRUZkpoTGEzeE9rejdTbGFnYVVMdk5DZVBLWlFuNnlKZi0wRnR2cE96UlRTWXluUGdpME53bkEtQWZPSGowd2l5OXU0WVM2ZHZ0OXlHSW5KZjFuUFVSYWpSZWlobFZJSnNiblE1YVZSc0ozVlNJaA?oc=5"
+    },
+    {
+      "title": "My AI agents found an unmapped Maya site?",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://pietromiotti.com/latest/maya-site"
+    },
+    {
+      "title": "AI, activity, and outcomes in software engineering",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://cabird.com/talks/shipping-faster/"
+    },
+    {
+      "title": "Russian ambassador to US dies suddenly, foreign ministry says",
+      "summary": null,
+      "source": "India Today, AppleValleyNewsNow.com",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVk9nTVU0aUNDYWNKbGNhems3V0pCN2Rza0piTXBjYTBDSnRpN2tQSllKMWR4a0VvdnNDNzNqbnIwejJWMkM1WURfMDh3ckVmZm44ZVhHcUR5d3MwM2JUcy1rbUpncXlnSEx1WUlMRmJUbnVuOTkyOHFMZjNEVzBBV1RWU3Y1dmpBa3B0UEpsQkZTQWlfLW5tcFo1ZWlWOGVZX1RQY2VrVTdqdWFnYTFGMUlIeWhVSFJDY0VBU3Zsb3dyQk41bkZSZXotamx0VHRubHNLaXVRR19vNC1GVV8yZDFJdGVZdVhFd3hKN2FhRDVNQTg?oc=5"
+    },
+    {
+      "title": "Moody's lifts India growth forecast, sees economy well positioned to sustain near 7% growth",
+      "summary": null,
+      "source": "Reuters, TradingView",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb1Bhc253SGlMZGdtdjFTWk9raTg0ckVuNEJuM0YycUtidDd4dll4Z2RIM0t3TXlxX1hvZnpxZG1FanQzOTFDeW9BalFwLTVrSnRGbDJVa0tzMHNQZUdkR3pwQUZMYTlDOFhCOGhuSzgyZW1aQkVCcE9rRkhUU3Jtd3dmbW1PMV9Gd0NCZHNRN2xfeUdmeFZxb2cxTEp0VjhNRFVnWWlmNW40WUFJQUlpNzNnS1g0QTA2Vi0tYkRIb09paUxB?oc=5"
+    },
+    {
+      "title": "India's Q2 GDP growth likely to hit 7.8%, beating RBI estimate: SBI",
+      "summary": null,
+      "source": "Moneycontrol.com, Fortune India",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTFlsOXJHbG1jdVpUeTFnWXUyZWx0VmhPM3NfNUZMT0R3T1FHNGdKdVJiM082Z2ZteWFqUVFmOGtXeWVkX0VySXNXWFY4Qjc3Wi14SVVxaVVER1NUcTF5QlVRcE0zMndWZzJKU2ZuZldGeWtCalZGMF85bVdPSFVGVExtR2Jzd3lPenA2SFZVSkwtUUI1M20wdGhWdnlKbHJpQThYQ0NOcklHQdIBtwFBVV95cUxPd0dvenJ2UHRlODRMMlZBOThLcmtJU0Z2U3hTOVItQ1lxOUstd19fbkRDaHBjMlVDM2lxU0xoM0xBU1RwVko4Q1dYcDFtQURRdzJJV2k0SUpiTVhaeUxjdy05WjBzNmZxUHVKR1F1Y29NLThINDE4OElVaDJhTjJqZ1lPZlJYMnFvVjlQdnlYUG94SkpGampfT2ZFcGlnYi1QRlA0NG92a0hPT3htZ3p4eHdJV3JiaGc?oc=5"
+    },
+    {
+      "title": "SS United States to be sunk to become the world’s largest artificial reef - watch live",
+      "summary": null,
+      "source": "The Guardian",
+      "corroboration": 1,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ2VxZ015d2dLcGFIbjRwUUlvVVFiaEJ2NG13U0Q4NGpRMzMyVXpYYjVMZWxROXhUeHh6TFZRbVcxS0tnNUk2bHBIUHBmSUVTUmNGM3R6VEphaW9ITnlIZ3o5VDZJRUNIWk9HRVZmQlN4VVFSYmRyajdza2NEZXhNU1YtZmRfdkh4WkN4UTVYOFFyemdnZnZmbWRydm5DQ3NFRTBZMkt2UHBfMjRxX1dGNU15NXAzbHNzdmFLZG5KYmF0V21qR1I2WUduNU8xTFV2TExn?oc=5"
+    },
+    {
+      "title": "Ohio’s ‘wandering bears’ signal a possible comeback for the species",
+      "summary": null,
+      "source": "thecanadianpressnews.ca",
+      "corroboration": 1,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOc1R0Nzc3M0htUDk1aUdkQnE1QXVzbzNCakpSVFMyaXZqazVwSVNROUNUc19sanQzazdQOF9KanQwNEN4bU5ObThYTC1maVhiVk84MFNncjVUd2lkRnBjZ1ZBS09sR2ZhelhNaUtBNTlnSkUyR2RoQ0t1dURfX3BfdUlRVlNsZHhQc25yN2FMQWthQVppa1BwaF9jMFd5RHdsNzFtVDFHczl6UWJ2TF9aTVFYN3U3SjdKMDNzeEVYR2Y1WHdVOE5SZGZIVzVnU3hRNDJZYUZyRkU2SVFVTGQyUnJwUmphelhpZHpVUXF3?oc=5"
+    },
+    {
+      "title": "Beyond discovery: Research with purpose thrives at Texas A&M",
+      "summary": null,
+      "source": "Texas A&M Stories",
+      "corroboration": 1,
+      "category": "science",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUGZyT2JteDVkemdkcWNVcnR4allyZXpVR1JDYnJ5aUJmZmdQQW5ZYWMzMXRBSEVDS05NV3V4ZlZyRmVYbWpucTRFUWhJUV8waV94UHU3dExhbFAtbUxLdHRrX25ZUkJIeWZGQVktLVMyVERMOC1uOG95YlJudDFMRy1mdDlWTndVRDJReW12cmlZUDdYTzVr?oc=5"
+    }
+  ]
+}

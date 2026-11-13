@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-12",
+  "label": "ranked",
+  "generatedAt": "2026-11-13T00:18:46.039Z",
+  "window": {
+    "from": "2026-11-11T18:30:00.000Z",
+    "to": "2026-11-12T18:30:00.000Z"
+  },
+  "items": [
+    {
+      "title": "Jensen Huang, a global salesman for artificial intelligence, resigns from Nvidia after affair",
+      "summary": null,
+      "source": "WIFR, FOX5 Vegas",
+      "corroboration": 4,
+      "category": "ai",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTFpSNEtKZFR5emFqNEhGeXR6bmpfZHNZaFFBMktmTkVBaUhTQm9iSWd4SlRTNjMwNmN3VFMwX21WY2JkQmx2SHFicmJyUVdUUTlIT2Z6aklYZ05LQ3JOX3N2OHhPT3FDTUd0NEx3VFZGdDI1bWpKNU5ldHBCamhTRVBLTlZZaUhVUGJHMlpDY1VSOEdiQURFTElyQldQaE01cXRnQzlpZV9JRUE4M21Zbjdrclo1M2JLRzk4S2JuaHRNemRCRFBuWHJ6Rko?oc=5"
+    },
+    {
+      "title": "UK-backed AI chip startup Fractile hits $7 billion valuation in funding round",
+      "summary": null,
+      "source": "Reuters, TradingView",
+      "corroboration": 4,
+      "category": "tech",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU0V1VVc2X0ppTUpCU0lET0pMdzV1YjFLbV83a0luR0VCdmVFN0g0ZzFzZXpZeWdWMjBNWVppUWV5QlNNYkFEdkY3QnJadVhleU5saHFaMk1USXRUZkpoTGEzeE9rejdTbGFnYVVMdk5DZVBLWlFuNnlKZi0wRnR2cE96UlRTWXluUGdpME53bkEtQWZPSGowd2l5OXU0WVM2ZHZ0OXlHSW5KZjFuUFVSYWpSZWlobFZJSnNiblE1YVZSc0ozVlNJaA?oc=5"
+    },
+    {
+      "title": "Jensen Huang resigns as Nvidia CEO immediately",
+      "summary": null,
+      "source": "NDTV, Hacker News",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/"
+    },
+    {
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "summary": null,
+      "source": "Business Standard, Hacker News",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
+    },
+    {
+      "title": "Nvidia vs. AMD: Which Is the Better Artificial Intelligence (AI) Stock for 2027 After the Tech Sell-Off?",
+      "summary": null,
+      "source": "Yahoo Finance, The Motley Fool",
+      "corroboration": 3,
+      "category": "ai",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbmVtdWp0SlNrQVlnN1ppSEdZUkZnRFNTckV1V1l6cHBEdWhVMkdFVll1QVdGclAzLVZTRFUzd2hub2lNY1VzSm1ZVjFxaWNyT2piRG5SdlAxbWtyYWpRY2VEaDRuRnlqcW5CTjAweHh1QnBlQ01vVVBybDdxM0pFNGJXUnNvTXkxa0dwTDYtQnI0RC1ZVFYyTG4ySQ?oc=5"
+    },
+    {
+      "title": "Rust 1.100",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://github.com/rust-lang/rust/releases/tag/1.100.0"
+    },
+    {
+      "title": "India's economy is holding up. But economists see headwinds building for FY28",
+      "summary": null,
+      "source": "LinkedIn, CNBC TV18",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzQwODhPdXVnS0lsRDFDd2J4ckhhREROVFBKOVVWb3YyUHNka3ZuNzg5amQxMnRsSlc4ZVd6UVJtNi1uN1YwUVpEcGFNdG5HdF9jcFBoRUZtWVNXTWZtWDV3SGNla2dHcVdLcjBEelgwbTVJd0pwUkZBa2JaTTVwYTZrY09pbzE5V2tCWWNvRE5HUlFfVVM0c3E3MDF6QzFOcVQzQXh0VDNka2lVWnhvTNIBtgFBVV95cUxQT2M5RnFYejY5OVpmM0hXSTVGQlZhQkVqR0JpVF9mOUVNWGVBUUFIX0kyMXJRc01oSWZyaHBaUGE4b3lmOWEzYjJkcTFOZUFhWW1OSXBseXFSTkJXOHBZLVdNU2Iwd0RxNmdYRUl6bFVCQ1oxYURKX21OREZoM2VwOV92cjFiMGE4VXkxWUFGN1hQVmFMNFN2U3pJdUxwRXBXaVRlZlVBUUdzY1poNzJ5MzlNQzZzdw?oc=5"
+    },
+    {
+      "title": "Moody's lifts India growth forecast, sees economy well positioned to sustain near 7% growth",
+      "summary": null,
+      "source": "Daily Sun, TradingView",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNE5OT0ZpRFFrT2syZlRpVDVRcm15TzZSSDJ4eVQ4UnhvVWx2NXFONm1LU1JCdUhNLTVZVVhlTndkX1ZlU1R4MkpZUkx0MnR2Yy11TGVYMTJ1QlJKWXVwbXMxYkwxc3RsN1NMcUhwQ0Q0TmVzRDdjRC1ZUEV6RnBuZTNWd2JXVmpTV1hCUF83cDRQU3lXYlQ2RE9PcUZsZUJESVRKS2NCWlRWT3dDSy1COVRVS3VSdzFDd0V1Rk56b2ZIV1luclEwRlVPYw?oc=5"
+    },
+    {
+      "title": "India Offers An Oasis In A Turbulent Global Economy: Piyush Goyal",
+      "summary": null,
+      "source": "Open Magazine, Deccan Chronicle",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNFRSWExreFZ6ejh0QjFPTG9XTUpLcUhLeFptSUI5U01JZWV1cWFvOHFObDRGcENUVHFRcXoxeVdCNFlLY1REQjctVi1qcVJKWFNiLVpiVDRDSFV1WXc5M3F2ajBqNEFVRi1PNDR1SFRFZ3E4M19nWVRRSE80c2VQejFPQ2VqUnV6VkNOLUtUbnU4VWFfdTR6YjU2ay1KX3d6dFpR0gGoAUFVX3lxTFBhd1JZS0FieWlENHJnclJCTDkwRW94UHpsSFFwLTNtQk1rT2JXdHpEUkhRYlkzNGdyamNmQ0Y2YmtRNXlWMG1LTkg2RWlwb0JidXctMXBWNUxVemQwZk92X0xiV3AxQm5xTXdJZFBzcDVjYjMxQjFkcXVMQ2FCbTJhREFrZ2I2VC00Qmd2LWo3bkZtOG1jSllfbEFTTEl3eHoxbFNxSlRjSQ?oc=5"
+    },
+    {
+      "title": "An explosion in citations led researcher to a worrying discovery",
+      "summary": null,
+      "source": "EurekAlert!",
+      "corroboration": 1,
+      "category": "science",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FWHFickYwdE5lM1ZfYTZ0QWN5dGRvMUEwZDRHaXF5X1ZBQ19xbUNNR1Q1YTFJdWJMRWwzSFFqVHBhb3RTSkZKZVdkbUVGdGJlcWNocnJDcG9sUHVu?oc=5"
+    }
+  ]
+}

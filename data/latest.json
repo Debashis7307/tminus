@@ -1,91 +1,91 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "label": "ranked",
-  "generatedAt": "2026-11-14T00:19:26.309Z",
+  "generatedAt": "2026-11-14T22:57:34.760Z",
   "window": {
-    "from": "2026-11-12T18:30:00.000Z",
-    "to": "2026-11-13T18:30:00.000Z"
+    "from": "2026-11-13T18:30:00.000Z",
+    "to": "2026-11-14T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "title": "Italy fines Meta $880m over photo privacy",
       "summary": null,
-      "source": "NDTV, Hacker News",
+      "source": "Al Jazeera, Hacker News",
       "corroboration": 2,
-      "category": "ai",
-      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/"
+      "category": "tech",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcklyOFA0TWlHVnZrRnhxWUtIM2FOR3ZsWjlSUC00MXhjVHJPV1BaMlQyd0xvdmNmRzRVcWxKZmNuSndveVdoQWJfNjlmWlJFRkxCLUNNMHgtSTA1aXZnZHZuMTJDdjV0UjBMNGV6M0x3X3owbjc0WWxkd0pPVl9LelY5d3hGUkhPWVHSAY8BQVVfeXFMTkpMRkQ5VFVOVG15MDdlZF9EY2EyZi15NE5nQjlXc3pPRDVtN2xva1hsOGxjSmQxcjNGLTY3OUFwakljRHZSMEFqc2V3WTRreU9vODFxbmRCQjdieDA1VzRpX3BJUXFlWW1GTm1iN1dtV1VtV2ljak5QMzRQcWc2cU4yc0trdkYwSC1jUV96WnM?oc=5"
     },
     {
-      "title": "Truck and bus collision in India's Assam kills at least 23 people",
+      "title": "India no longer a democracy under BJP-led regime: Rahul Gandhi",
       "summary": null,
-      "source": "Reuters, Al Jazeera",
+      "source": "The New Indian Express, Deccan Herald",
       "corroboration": 3,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjllVmVCdTJhVUpRVDg3N09uYmhXLU40ZVozbHRLY1hRQkNpakZ4NVZjWVVObnEtcmpCbXZlYmIzdTV5dTlQN2Eyb0Y4UVM4RXZkc1BiU2hfY2FFVm1aTy1IVmtBRDZwTm1Eb2dvS3dEaDBvS0ZGcGY0TGNsYV9hZ1RMY19Ncy1zbWNyQ3NLVmdWMlN3cnBiQkI0cmJaZ3pkWUUxeA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQekJ3cl83czVjdXlrcEY5cWVFMWloNHU1V0QzMzd4Q2EySHZ2MVN1OVRHZENpaTE4NFJXa1dUVHoyWWt6cEtuOGczaVA2Z0VkWnlTdG81SzlUVWpLZGhiU2xXdVlUOWs0NVh1VnV6UWt3dVlndGthQlVhOFZBZFRpRG1JUVdKNFd4bEEtOW16bG9iVExrZWRKMl9kUHFrVUlod2NBVS0yTFA0M01lc2FQZURqNU0?oc=5"
     },
     {
-      "title": "Q-CTRL Secures US$290 Million Series C Funding Led by Salesforce Ventures",
+      "title": "Arm vs. ASML: Which Technology Stock Is a Better Buy for 2027?",
       "summary": null,
-      "source": "Quantum Computing Report, Q-CTRL",
+      "source": "Yahoo Finance, The Motley Fool",
       "corroboration": 3,
-      "category": "tech",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVFpWemNIR2lDRzd0QW5IdXh3UC0xRmVweEMxckZPQ1JxZDhGU0tnbnprLUlmN0hwcnc5dU15QVNTX3RSWWhzeHpScm5zSFpfZUJmOWpicGplenI2RkhsTzh5M1dsaHBpT1ZzMzBEUS1kZk9NdEotdzU2Z2Jnc1JfelNId29UcjFiRGYta1hoV1BBTjJYQjJQQVVpeUR0SXdxc2pYM2pFX2NBUWpqMlA5T2VyT2o?oc=5"
-    },
-    {
-      "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
-      "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "tech",
-      "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/"
-    },
-    {
-      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
       "category": "ai",
-      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWV0Sm9Wb3JOWkE5eXpyQWp2VzFZUDVseC1kXzlvOFktTjluZkZPaDZUM0tLajZvNng1OEZ4Mno4V2p3aW8xaHpVTzZURWphcXFKa0VjdHVLSHpicVoxY2o2NXJzamg0T1I3MFd1NnFJSlV4MGh2dkZJX3N6VU4xX003ek9DNTQyenlabkVrZzJJTkJPRGNFa2F6T05XNlVlTGdUeWxVdFlvX0QyemUzclZ3?oc=5"
     },
     {
-      "title": "World news in brief",
+      "title": "Microsoft services fully restored after global outage",
       "summary": null,
-      "source": "Nhan Dan Online, The Church Times",
-      "corroboration": 2,
+      "source": "NHKニュース, BBC",
+      "corroboration": 3,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeDZDM2l5RndwdU5QVzZIeF95cUtoZmtEWTR2MVN3d25vT1BHeThDcEI0SWNBclk0U1FjX3lSVF9GUmliLWxNUms3SHN2OWp2NXZ2TDBMbUI3bjZNWkF5YlZyaXY4b1JUOTg1QWw2S1F1c3EwUEpLMmc4bi1qVklSOHJyZGx2X1AwbE0yZjRsWQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSEVSRldicEYzM1dMalhwQkwxWldKd2tuUDg2eXR0dnMyczRtVnBHMG1IQUhtdHVuOGg3UExxRjZPMExEN2FyRi04VS1kQUZqR09rMXVrb3pXZGR5UmZtelFyZ29YdmlFTVFqOVpqbEkyMmZfS1dRNFBWdTZhd3g3TUxZeEJiODdQTzFJ?oc=5"
     },
     {
-      "title": "India's October merchandise trade deficit rose to one-year high of $39.88 billion",
+      "title": "Advancing science & engineering with Antigravity’s /teamwork",
       "summary": null,
-      "source": "Reuters, ET Government",
+      "source": "Google Research, Hacker News",
       "corroboration": 2,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaWhXMTN3eVhlUDZHNXpIb1FnMWQwR1I0OGIwRG16NWhVUGpJOVJ1UFpDVW9kZ0g2Umk5bWlkbXVuV19mUWk2QkF3V1plMnpGMGFuVXIyZU5XWDlGdmdRVkpEWnRqZ24wZXhlZkhUTWdBYWpaUWFrckFEVVZYTWFwUDBMZXQtVkpwbkR6dlB3dm0yeTJRVV9qODV0cUJVMTFkc01ZYjdGOVg3cEwyeGtodkV3WkEzUjJqVEU3bW5TNm14dWhobXFHQjhQa1dEd0JVZGkzS1VlRzJFMzBPNnd2MXliSFHSAegBQVVfeXFMT2hxSDhIVWtuM2hfTjZ5WEcxcnBrald2TXpiZUxJQlhPMEJQM0NiMmlBYjlQako3SjFqSlkxRUszb0lScWhuYkliX3dsVlhSZW9SRlZoNUxwVDFncmpoUW9vU2F6V1dvS2E0X3o4ZWVsZndLUlVsZWdDSWkycG4zam5DeGdwRndIbVJOWkhQc1lQRld0dHJDTGpvUTk2VEJzb3BqU2pDNE9pOERwOUNRVWpLNWlOeGpNcXVHVDRvZlJFTkFUdk1QWF9LaUN4eUJnblYtMW1oeG96QjFwdDJsLVN4bDMxaXZkNA?oc=5"
-    },
-    {
-      "title": "Henry takes six as New Zealand thrash India by 244 runs",
-      "summary": null,
-      "source": "Al Jazeera, AFP.com",
-      "corroboration": 2,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0cFNmZktybjJjNHRZZ1VYQm1ON1VveFRVVlVjUGV1cmE4akc5Ml8tbU9SbjNZOVl1bHlZZTBidjlYZGFGSlZWcWtNRXBodGIyU19FN0N5Q1hSSXJobHpwWVJmLUU3Y0UxUExxZHVrZE1oajZjSWw1YmYzdUc?oc=5"
-    },
-    {
-      "title": "EU leaders seek to tackle challenges in first AI summit",
-      "summary": null,
-      "source": "Reuters, Taipei Times",
-      "corroboration": 2,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ockdsMGtBRWZvZTFKN2ZUNVlYTm10M1dTUzlNYWlLYm1PdmZoVW9qTG5zZFk3UVRuQld1V04teFJEdTFocENLVjRiSDJ2dWRFVGFMNWR4NjBhcFVTSFQ0WWdiUlE3U2dLOWxfTjY0Z2xXMVpSY0gzVw?oc=5"
-    },
-    {
-      "title": "Research in action: Celebrating Dalhousie science and tech trailblazers at the Discovery Awards",
-      "summary": null,
-      "source": "Dalhousie University",
-      "corroboration": 1,
       "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSG1QOEN6X25rZE5XM3pUSEcyM1o0cTViSWl2ekNWMlBjUGJQWDN3MS1aSDd4dTFSUl9najNTdF9CSDZwSVRDcG9fenZ5ME4zV0tvcVdhTGNlSHo3cXZBRC1SWWNHcXBZV1lMdFhKZEM1eHAyMTNaMkZOZXN5eEJ5VWZ4WE9DcmtUZ3NFNEpzejV2NzFHcjdWZTR4aGN0dEhHalctNGpSSzhRM2dLWnZxdUtncjg5S3VpZ1BzalV0dnZZVTFSaE1Wd2RROTk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTHFHVUVWcUxYVXFZV1ZGVmw1NXFsQUZFaDZ3UWRyVkpVQVd4NkFwNzk5RVZkODdkbXJOYW4zNDhZU2FyZ3RFNHBtVnFvUmtCMWdINXVYNHphbnhhdlA4SXl6QmczMDBmbkxDSU5idndaY1c0a2twTF94U2RUMXBDV2pTcS14YmJLMjhxNnJWNTg4Ny1pZnh5X3RB?oc=5"
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary": null,
+      "source": "TechCrunch, Yahoo Finance UK",
+      "corroboration": 3,
+      "category": "tech",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ0Nkc183ekxNZ0hpbEEyYkRTa1JMVy1ETHZMN0VubXFFNVBMWGZmeUkzSFRsNUhaajB0ZGdHMGJpektwVXAyc1N2TFBUSEdhb0FFMnJBNWdWckNiMjFld212QUZXcDlBQnJGSW5RSU1YN2FpUlNVaE1CaGc0Uk9UdjNHbEF4UzVyN3BGNE55LXFpTXJpcWNkNjFsV0swWGcxdFhaVWN2MEVSbjFNUU1pSXdsRkQtU1R0?oc=5"
+    },
+    {
+      "title": "The Claude Delusion",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://www.netmeister.org/blog/claude-delusion.html"
+    },
+    {
+      "title": "Fascists running country, India no longer democracy: Rahul at Bharat Summit",
+      "summary": null,
+      "source": "The Times of India, India Today",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbWNrUm9SVjZpZlIza2JPUk51VmVCMm42czJiOGNpSmI4MVBDX285MHBxTWNVeDdHZ3VqYUdESzAzeWVENEpoeVV0UkkzeUNfSlZka0ZOamZEX0NfX2ZCZ2w5ZE84YURsWktkbDEyZUc4cjhmTmFBenV3RVlyeEktZ2VNRXBFZ3VwdkJOU0NXNzFGOTU4MWxXVExoUC1GMk9TbTNMVEhaZURDS2NMRS1NazJ5aF82Mm1md2V4My1kdnlFU1hueU5Sa1c3Um9lN1VxQzk4emJFaUswd2NFN2ZPeHZscULSAeoBQVVfeXFMTVc2dncxbjNXcWVRSEg0N0haQ1M1RHBjWVMwMjc2aHY2T1BaSGhiNk5KUVpRMHlNR1JwMldnWnJNYmpOLWY0TlB1R1VKcHJuTldfbEdEcWgxWHVtYno1UVBKajZrTmlQR3JKejlyR3NpQ1hYNmRFaV9wcHBOZXljYmNQcFZxcVk4YlR3UHZXVXhaQVZtOWNDOS1zZ2UtRC16MWRpUThvck1zeTZoU25zZFlDdk9HblQ5dnNZWkFsN1BKQ0UwOVZUTDdUZVJFMUtBS0VHNkp2VllFb0sxaHRZNjJEZkJtSWJuZTBR?oc=5"
+    },
+    {
+      "title": "Commander of Belgian Navy RAdm Tanguy Botman visits India",
+      "summary": null,
+      "source": "ANI News, www.pib.gov.in",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVHlqdmZpOWYyQUhHekk1aVZrNHFLT0cwRXpJQk84ZDlHeWRPS09PaHhrSlRVcExRZVBzamg5YmxtUTcwYjItM0dFa0lhUlh5aTUtbjVCTF9hdkdndTRQQklBelhlYWk0a055OHo3bzl1NE9WV2xrQXVabThDUWtUamRnZTBuMzhVaEMzZFBUV2xTTGZVZk5LUlFWTUtUVVZXaUoxLVBzU3NVNjJOdzU0?oc=5"
+    },
+    {
+      "title": "ASEAN unity faces test as energy crisis, conflicts loom over summit",
+      "summary": null,
+      "source": "Reuters, The Daily Star",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWTJ0MThmTjNUS1lvWklkVWU4dklONnU5MEYwSTVyRnNOOEVaRHFzVGRWUExjS09sZ0EwczdaS05Jalk5ek4ySkJMc3pwVk52aC1QeWFJLWt3RERwSlZzQXpRMktsdzItRWlIdmJTNGpfajNfUXBnZ3hoNkxjbWpzX2lFYXcxZWstRTJnUWdpeGg3ZGMtbVdwNmJTbzM0QmZCanRWR1NmZXR5aFpFQmlSb0RKcGZrcTdlaE1FeEZ4X2t4TUdLMHRjbA?oc=5"
     }
   ]
 }

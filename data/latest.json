@@ -1,75 +1,75 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "label": "ranked",
-  "generatedAt": "2026-11-17T02:27:39.612Z",
+  "generatedAt": "2026-11-18T01:35:49.788Z",
   "window": {
-    "from": "2026-11-15T18:30:00.000Z",
-    "to": "2026-11-16T18:30:00.000Z"
+    "from": "2026-11-16T18:30:00.000Z",
+    "to": "2026-11-17T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "India's ties with ASEAN at heart of Act East Policy: PM Modi",
+      "title": "Puneet Anand joins BMW Group India as Director – Govt. Relations, Corporate Affairs & CSR",
       "summary": null,
-      "source": "LawStreet Journal, Open Magazine",
-      "corroboration": 4,
+      "source": "Indian Television Dot Com, BW Auto World",
+      "corroboration": 6,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTBtN0RabVIxMlNRM2E4RXdiYWNkTkZFTGdpMHhSMTdtNmE0NVlZVGx5OWNGcmlHWXdOdnRDMm9zU0hyeXY5WVVrMjFyeGRkT215M29kSEZMVnZuUEMwVnVSYVgtTlp6dndWZmNObFFNMVBjbU0tdE5jY1VPTXZicWlYeXdoYTBaaGRLWUhsdVhEb2lrZ1JBWmNLVVJqc0o2VUFOSUVXQnBZdlXSAbABQVVfeXFMUG9hN0xwSFZRQUxjSmJCX3RLOVZKOGoxVTZWNFB6VWtGUFlfd2p3dU9VNVNDV1lGU3c2NmVIbWI0am9NQ3lfenZuVTVhNVlSQUNsenQwN0p4a185dWZ2VFdkSE1Ock1RdzNRcTJEVWxyeHIwOEhEbGFCMWdSUUYzZ0liaXlISjdUSHFMVUFYZ2VFQnFXZDBvY3o2MkVkYnhBWFlrbFo0VzBZa241U3VtY0Q?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWHhmQVdmb1ZjdTkwM1B5VFNOQjlVN1FBdzlDZlljSHBXMWYtZ1RXSDJKYllIcXI1eWlkR0NKTzJ0NlhzVWF2QlZFbmtDRmc0Y0ZHdlF1RWJ5OHRfamd4YVhZS1JWY2NmWVZGUU9WOFBBYWJOT2Rsd2VkbHIzQ0Y1OVBKc2ZWMTZ6QXF0SjRvTFdxZnRQMHlWYVVKWkhzLUh2TDVlTmY1cDdtNU5jTkxzd2xNVzVMLTdtTU1DMFpCajdwemJTUm1MY1k4VklDWjhuN1Z4ak95MHRZZER4MTJRSzlndEJQcERxaURGNEJNMUNvRkpW?oc=5"
     },
     {
-      "title": "Software is breaking down at a systemic level",
+      "title": "MAI Code 2 and Code 2 Flash",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "tech",
-      "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/"
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
     },
     {
-      "title": "Grazing sheep in fields with solar arrays",
+      "title": "Apple Services Down",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "tech",
-      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains"
+      "url": "https://developer.apple.com/system-status/"
     },
     {
-      "title": "Jiff 1.0: A datetime library for Rust",
+      "title": "GPT‑6.2 Astra and Sol",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
-      "category": "tech",
-      "url": "https://burntsushi.net/jiff/"
+      "category": "ai",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
     },
     {
-      "title": "Frame – 31.5\" color ePaper display",
+      "title": "What is the best harness for each model?",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
-      "category": "tech",
-      "url": "https://trmnl.com/blog/introducing-frame"
+      "category": "ai",
+      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
     },
     {
-      "title": "IBM investing $3 bn annually in India, plans $10 bn global quantum push: CEO",
+      "title": "India cannot set conditions for Hasina's return: Bangladesh PM's adviser",
       "summary": null,
-      "source": "The Hindu, ThePrint",
+      "source": "The Hindu, Business Standard",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX0RZdVhJcU5Jc0ViekFWVXo4WldYbEVndHlXWko1bWZwWUpHOHpQLURKYkZsdEVSUm92dDRNb08tSjRsRXpyS3FNWWNsMk1TWnk1S25JWmZrSW85dVc1UFNPT25odlBpTXpVSm5zcDdiU0pubFpJV3Y5aEV5T29vUGpMUFh2aTlEV2xjSHFDZVF2MVJwZVg2QXVHTHZvbHhSeXB3MkpwZGZHNkRFU0HSAbMBQVVfeXFMUHlMLThkdEhPODVwMmNiUWRaRmFadVZBelJHNEJxVXBGUnJiSGt1VE5zb3dCbS1lQlhJTmwwUm81VENwS3JPeFNfSy1qVk5LRXBqc3VZUEpGckRtd05wcThydE1PSnJPY2Q3S1czRS1hbTFMUHlxU2xWa3NFTjVvdDFKQ0tyVGVVOGVtODNyZENnMDF6M0VwUGxwZEVhNVJ4cEdRQkctRHZ5Q2VQcFp1dlc1ems?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOS1XQVZXZjhmWU9Mcm1uVm14NjNLaUZlR00wamVUZjFVNmxpWFFiRVk1dURQSkpveVJUSDYzRXdjR2phVEQ1TkRuQ1ctemI2UzFYaV9ZZ0NNMjIwSEppVEpyM1lWOUxBUnJQaUxjdUdrM1NyNl9tc2ZZc25GOVlCNy1sRWxFbWFjUFZ5R2FFUmFDWXA5NU0zTU5DT2Y0VHpnbkFHRElsMlZmZGxZWmFyX0UwWGtjbnhLdWhXRFlqZ0pSdWRiZXJoRnJZajA2SkNmNVHSAdcBQVVfeXFMT0NNTHIxeVRUam1rMzYxaG1iaUNLWGFFcWs5WDZ0RE5uTi14ZGV2TjlBNnY1a2FSUzBTSmhxY1gyR0VTUFhSUUxxRnVRME5Ca3dZXzJqVzEyNnkzVU5jdlhQZmx5cDRuMkxEbjAyVDhpeG5NcVk5SHJCSHZpdE93WExnRldVemdRYjlVUXBzMzE5c1JtOXpVTDYwM051ZTNkSmxIQ2xLeW5Hb2JaNWNwZmo2cFp0Z1NCRkQ5cWNCRlJOQ3BJWnlKQ3RvRmkwaHQzR0Y5Qi1fTEE?oc=5"
     },
     {
-      "title": "China says Xi, Trump, Putin to discuss ‘world peace’ in trilateral",
+      "title": "What Trump, Putin and Xi want from superpower summit",
       "summary": null,
-      "source": "The Guardian, Al Arabiya English",
+      "source": "DW.com, The Hill",
       "corroboration": 2,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1g3bm1kSjV3NjRoZzRTRFRZSWhCanFKb2xvVDVBUUE3RWJaWjF6QmpWbTFhYkRpSE9OQVF4RXhqb3FaS2twaGhYbG5ad3ViTVlkRnk4bzR2Wldkbkx1VEZDRUNYNmtPazVkaHV1c2R6OEI4dk9FLUo0eS1ucmZwTXhIdVNhOWwxMWFVQ1VRLXRTbTQwRWM5RDFfZlZQYnBuZXo0WVdLS2xNWTIzbi1DUjJqai3SAboBQVVfeXFMT2hfdVZEWGI4eFVIZk9rWHNfcjZsdFhZcHh4TnhRdEFSQXJ3WmhUeHktbnd2aGxuUzY1XzI4a2hFYXJ1RjBZUzZZM3NBNlo0SjR4YUgwUl8xNEt0SmVVUnkzSWxDZGVvQXU0OVBJODQ1UU5vaFoxaE10SFhBdVFMeTdBSXdvVEdzZ2psTllhOE5Xd2Y1Wkdaa2ZWeTRzOV9BVXFZa3FGWDM0aGR0MHlaSE9wM2Q5UXlWWDd3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTU9mTXJVMFAwR2o3Vk5rTzdpOVZyb1BsYlRWSWJvVEw4T0RsMkUtOFowRjVUbkZOUTlpZ05OcGJLWWppYV9zdGpTbGNxLXhkLVlwOUZYd3dXWjBaeGJCdTljZkFPZVBDdGE4S25BcGszMzZacmRPV0ZDOUhWWEpCdFBGSThMS0dmRFHSAY8BQVVfeXFMTmx4T3RURGptNXRGLXpNV29yR2tsNVlaMjVQQ0tRdjBjeWpSUVg5NTlfTHhZUWdkMkhyM2djR3V6a1h5d0V0QlAxcjh5aXAzZFpmVmwzVEpqb2c3cjludnloZUJMU2diMEhNNFh6WllqOEFPQUVNNlZ0QTFQMTJvblJEQUxpblRjdGRaNFc4RGM?oc=5"
     },
     {
-      "title": "India's unemployment rate eases to 4.9% in Oct; female participation rises",
+      "title": "Puneet Anand Joins BMW Group India to Lead Government Relations and Corporate Affairs",
       "summary": null,
-      "source": "Business Standard, ET Government",
+      "source": "Adgully, Autocar Professional",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX1VjZHBzT2x3bENKNkd1bDFRNS0wM0lfVy1vOHduanJyNGVmLUlhWnlWdHFjM29pRDRSMTIwdmRSdG5WT2hIdzMxX0kxNUluT1ZoRWFqaGg0Mnh5UlBsNlF4eEhsNmF2QWQ4OW1mYnNOaVRJVEVlcVlmb2JPNUl3TjJIMjEtREYzc05zTlFYaVllT1JIMG8xc3hxTjlDZmV1X3VoVHZqQWJib3JjeDZ2ZnVZbHQydlJfb1o3UTV5QUhmNHZibkJtMnB2clJuM3JVMGxEMkdn0gHbAUFVX3lxTE80TUN3dGxGeFo1OThOWlpJM2RWaGdHRktPVDZEcEducGNqckF4VGdpWk4xaUNrWklzeF9CZUE5VUQ5a0xNM3lsNFZ1WnFaSFBwX2lSd2o2bHpqMnRXXzMzR1ZXNHJTYTdja2J3RTNVb3ZsdXprMmFESDhTd3FYZG1Od0NaZnQ3M294REltOEZrZVdGR29PQ0w1T3pCNlIyTHIzeks2cFdycGdWMTAxT3Z0OUE4ZFE5TWpyYVpmSHAzbGtsdkxGMHQ0UU1PZXdLck93WmpiT0ItOWoyZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQWtPUHVKcTlTdGNFcThCX3VVSnNiT0RvZGRjcm81SWxRbllDLS1oeEhUWUM3U0ZBNGo0Zm9WM0tXVG9IajlmRkMyMFNGcnFBZndleTQ4WkE3dzlYT2l6OHhvWEVHVzZKRU8tVG5Ja1BTNE1xNElUc2h0WWVfLV9iT1MxT1lTdXA0dFowQ3RDZFZuM2N6RFl1VkJUWUktNDlqWThyTWRFWjNodXdMUFZpWHZlWURBRmhtUFBEUmpHRUTSAcgBQVVfeXFMTjJySFo1NFpxX2hIMTNnNjk2c2ZVMnV5LU04bnEyVXZXWno2M21YMkJOczJ0dEpkZ1NPUGQ5ZDM3RGtlclpNcU83WnJ4T2gwN1Z6OVNSTUt6bndHa1NKVjhvY1pDdWVkd05SQ3NiR2hyY1dTLTY2cmdta0tqdUFrN0o3cmc1X0MtYml1d0x2RTgwMlNueUdRSTBxM1lIdUQ3YURDaDNOSUUtUFdleW9HdjNkM2EwdFR1V2JmaVRXOXNRdTFLZkJkdHg?oc=5"
     },
     {
       "title": "NVIDIA Introduces Nemotron for Science to Accelerate Discoveries with Agents",
@@ -80,12 +80,12 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYm9SdXJlaFU1RlJkWmN3bXFwQ2Q2ZHNTU21jWkttV2hHWmh5WUJBUE1nYVZ3UnBReGEwT3FTM2JJdV9MU3hZUGVGWTNNS251TDc5U0c3amN6ektyVElqbnBpN2pEc2x6S2tYOVRhdjFHYTZiY21UaVl6M0FaZVpvdnpuYml6LWVFSHJzQnkyWHlnbGszVUVtcDlfWVhtY2ZENlVoMkpabUdVYjZFcERhR3FNaXZaeG1za256R3ViT2hXeXVv?oc=5"
     },
     {
-      "title": "Customers of major US banks report online outages",
+      "title": "Five time-management lessons for an always-on world",
       "summary": null,
-      "source": "FOX40",
+      "source": "TCNJ | The College of New Jersey",
       "corroboration": 1,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTjZxVkNSajQzVXBkXzVVektPWFE3bHFwN3pPVVdkT19NVWpmaGJlZjkwMWV5b1ZDejB2aVNpUWRZTThsc3h5bnphMGxucUZtTFVVY3BtSFdTdXBoWXJpOENWa0h2cVY4c2w5cHF5WjAxcmV6SXdjT2lRRjJqM21yVmVNNS1OZndHTzJHWnptMzlJeXVqX3ZaNmNaa3Bwd9IBowFBVV95cUxNaGJSS25YSVNJMkdYWTIzeG9GVzdqYTVfRkVMcmxmQzFSVDRKY3VRVG12Y1F4MVJicGx6VGlMeV95b2I5dTVJQnZ3YUxGSGFQTnJta1daRVRsZ3lVSzB6WlVQWG9tZmphUWZHZnJocVVzMjJFLWRwNGxka3FpWEcwM192TThVYW9SR2tEUGh5dDhlNzR3bjNuZ3hGQ21udThLR1NJ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MdHRSNDRvZmZoUThpRU1mTlVOLUFwaGg2VXlnR2lVa2piRHJuMlFyVzd2WjZXOEc5b0lHWnBvSWtuOTVyd2czS1lGb2RUSmFkWFJxSGhvZVJsQQ?oc=5"
     }
   ]
 }

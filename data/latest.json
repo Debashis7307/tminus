@@ -1,91 +1,91 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "label": "ranked",
-  "generatedAt": "2026-11-18T01:35:49.788Z",
+  "generatedAt": "2026-11-19T01:11:37.335Z",
   "window": {
-    "from": "2026-11-16T18:30:00.000Z",
-    "to": "2026-11-17T18:30:00.000Z"
+    "from": "2026-11-17T18:30:00.000Z",
+    "to": "2026-11-18T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "Puneet Anand joins BMW Group India as Director – Govt. Relations, Corporate Affairs & CSR",
+      "title": "Bengaluru Accounts for 36.3 pc of India’s Native AI Startup Funding",
       "summary": null,
-      "source": "Indian Television Dot Com, BW Auto World",
-      "corroboration": 6,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWHhmQVdmb1ZjdTkwM1B5VFNOQjlVN1FBdzlDZlljSHBXMWYtZ1RXSDJKYllIcXI1eWlkR0NKTzJ0NlhzVWF2QlZFbmtDRmc0Y0ZHdlF1RWJ5OHRfamd4YVhZS1JWY2NmWVZGUU9WOFBBYWJOT2Rsd2VkbHIzQ0Y1OVBKc2ZWMTZ6QXF0SjRvTFdxZnRQMHlWYVVKWkhzLUh2TDVlTmY1cDdtNU5jTkxzd2xNVzVMLTdtTU1DMFpCajdwemJTUm1MY1k4VklDWjhuN1Z4ak95MHRZZER4MTJRSzlndEJQcERxaURGNEJNMUNvRkpW?oc=5"
+      "source": "ETHRWorld.com, Deccan Chronicle",
+      "corroboration": 4,
+      "category": "tech",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc0NpcjVUM2YxUmZpOWFpRHJKblowb1hObnM0dmtqVVhPeTRZbnNTY2lDREh3MFprMjBHbHBGTzJFWGpLeDJYV2FCYXBscURFVU12bnBKdVBKeUt0cXplMGhPcWx2dHZCR3FERnNnV3YxeXdVNWVxb1JDSm9zVWpuTXZ1eXV6WGN3c292eUZsRDNFOFRoUkRwZUdNN283M1lvOC16RHM1cE05a3gxSHhZT0V0SmFzaGQtbEVFcHY0bXlkNjN1WHlIZDcxR0piWTZk0gHQAUFVX3lxTE9zQ2lyNVQzZjFSZmk5YWlEckpuWjBvWE5uczR2a2pVWE95NFluc1NjaUNESHcwWmsyMEdscEZPMkVYakt4MlhXYUJhcGxxREVVTXZucEp1UEp5S3RxemUwaE9xbHZ0dkJHcURGc2dXdjF5d1U1ZXFvUkNKb3NVam5NdnV5dXpYY3dzb3Z5RmxEM0U4VGhSRHBlR003bzczWW84LXpEczVwTTlreDFIeFlPRXRKYXNoZC1sRUVwdjRteWQ2M3VYeUhkNzFHSmJZNmQ?oc=5"
     },
     {
-      "title": "MAI Code 2 and Code 2 Flash",
+      "title": "Scottish HTTP Codes",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "tech",
-      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
+      "url": "https://underwood.network/http/scots.html"
     },
     {
-      "title": "Apple Services Down",
-      "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "tech",
-      "url": "https://developer.apple.com/system-status/"
-    },
-    {
-      "title": "GPT‑6.2 Astra and Sol",
+      "title": "Advancing chip design with OpenAI models",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models/"
     },
     {
-      "title": "What is the best harness for each model?",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/"
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/"
     },
     {
-      "title": "India cannot set conditions for Hasina's return: Bangladesh PM's adviser",
+      "title": "India imposes 162.5% effective duty on bulk Scotch imports amid trade pact row",
       "summary": null,
-      "source": "The Hindu, Business Standard",
+      "source": "The Hindu, BusinessLine",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOS1XQVZXZjhmWU9Mcm1uVm14NjNLaUZlR00wamVUZjFVNmxpWFFiRVk1dURQSkpveVJUSDYzRXdjR2phVEQ1TkRuQ1ctemI2UzFYaV9ZZ0NNMjIwSEppVEpyM1lWOUxBUnJQaUxjdUdrM1NyNl9tc2ZZc25GOVlCNy1sRWxFbWFjUFZ5R2FFUmFDWXA5NU0zTU5DT2Y0VHpnbkFHRElsMlZmZGxZWmFyX0UwWGtjbnhLdWhXRFlqZ0pSdWRiZXJoRnJZajA2SkNmNVHSAdcBQVVfeXFMT0NNTHIxeVRUam1rMzYxaG1iaUNLWGFFcWs5WDZ0RE5uTi14ZGV2TjlBNnY1a2FSUzBTSmhxY1gyR0VTUFhSUUxxRnVRME5Ca3dZXzJqVzEyNnkzVU5jdlhQZmx5cDRuMkxEbjAyVDhpeG5NcVk5SHJCSHZpdE93WExnRldVemdRYjlVUXBzMzE5c1JtOXpVTDYwM051ZTNkSmxIQ2xLeW5Hb2JaNWNwZmo2cFp0Z1NCRkQ5cWNCRlJOQ3BJWnlKQ3RvRmkwaHQzR0Y5Qi1fTEE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSl9pcGJmQlpPNjVRY0MzckpYd2tWWEdpRE1ZMXEtZ0lyT1ZBZVNFVTV1am45d3NuSURVTHExOHhVVFRsYUlZX2FvaGM1aWRTWmRfZC1fNDhEQlpDLUVZTnl2SlVjTnhNRGttSDFkZUxuNHk1RmlJLXhFYjhtNnd3aU1ZcXppV0N3OUU3cGZ6bl9TNWJTYWdzTzU1OEJiRWIzNEhUUC10MEVzOC0yZVVaUU1iX3ZtWC1mNmczdzFkZG9zR2djNTFITlZmdEYxM0hDWlhHeHQ0cELSAd8BQVVfeXFMTkdFdkp5ZDhzTTN2aHZoLVBfNk5DbVNOTE1vREJJbkJWVTdpb0lxR0ZIQVlSUS1LX3RnRHNHejZoX25LTlpTNnFHc3RpQ0F0UDN1clJlMmoxNk9NLXlYbkxFOVpYSjIwVWNMaDMwbWR2QUVQSFBsWmxPck9KNi0yOFd5U09tV1NOTjNabXVhX2RFdkJWZ3lsbHJWT25Pa3Z6S29QQUctcThxN1plaWM5c29wMUtrcEk2ZW9vMlpoT05NYk1kMmVvVDJHcDZ0Zk8xZ1pFa1IyVzZiTVpYSDlGWQ?oc=5"
     },
     {
-      "title": "What Trump, Putin and Xi want from superpower summit",
+      "title": "How India became a rice powerhouse - and why it's becoming a problem",
       "summary": null,
-      "source": "DW.com, The Hill",
+      "source": "Reuters, Moneycontrol.com",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLS1aa2RCdVBHNXQxZ29XN0RvNGVxa3AwNHpBODVJRXc0aThWX283QllXWmFfQzNxVUowS2xrUlR5M1BKMjV2LXowanYwVHZUVzZnaUVjMXVWRmdJSU4wR1ExOElxZktDbTNpZVlOeTlaYmUxSTNiNlJXZHJodUpMQTgwT095bnNHVWtfeVFSSnBlU3FxdEYtdGpNdG5tdExq?oc=5"
+    },
+    {
+      "title": "Rahul Gandhi’s sweeping claims on economy don’t reflect full picture: LJP",
+      "summary": null,
+      "source": "ThePrint, CNBC TV18",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUjh4M0xXc2ZJU1R1SVJSZXh2Z2JUNF9ES3k0b25YOTRjUnlTT04zN1VZUjFPcjlZWmVNTDk3ZXN5YTNGNXpUVGtaOUVoUGFPMXlrWXdSZnFNOENnbXpsTXE0cmstdFhoOWpzWEZSdXRDanJwVDFzVkluamxaMkhQSGY4TENkeWxURXBiZ25DdF9yX19QSnBVbFA4RTZ6X24tWW04SVFyRFPSAa4BQVVfeXFMT2tMQy12VS1mc2lFQkQ0aEEzY1BZZmVFRDFDblVBdXBEdlVGdEhuWUNIdlN0Q0l5dHdicXpGTDZHYnZjS2I2a09peWhqVUE5SWZ5MjR1RGpUcjlTSzRmSVZDcmVFTUdFZjJfRFRRdnFSZ293ZmpDOEF1TGJQYnlhaGlYemo2MEExQ0cxNm1yLVZWVEw3MFFET0tjcjVWblA1VlpleWgzMXJ1RXg3dkxR?oc=5"
+    },
+    {
+      "title": "Xi, Putin meet ahead of historic Trump trilateral summit",
+      "summary": null,
+      "source": "The Hindu, The Times of India",
       "corroboration": 2,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTU9mTXJVMFAwR2o3Vk5rTzdpOVZyb1BsYlRWSWJvVEw4T0RsMkUtOFowRjVUbkZOUTlpZ05OcGJLWWppYV9zdGpTbGNxLXhkLVlwOUZYd3dXWjBaeGJCdTljZkFPZVBDdGE4S25BcGszMzZacmRPV0ZDOUhWWEpCdFBGSThMS0dmRFHSAY8BQVVfeXFMTmx4T3RURGptNXRGLXpNV29yR2tsNVlaMjVQQ0tRdjBjeWpSUVg5NTlfTHhZUWdkMkhyM2djR3V6a1h5d0V0QlAxcjh5aXAzZFpmVmwzVEpqb2c3cjludnloZUJMU2diMEhNNFh6WllqOEFPQUVNNlZ0QTFQMTJvblJEQUxpblRjdGRaNFc4RGM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQWNYNUZCWDRlUFY1RGVnYlFoZ3JkZUozZ3pwc1VOUWhteTl0cVgtYkhpVGNGSG4yYlhNMm9pSzhlTU1hSkVNSEMwRGdHQ0dJYzN3Z2w2X1FQdmRJQXk1cl8wWWZoZlRiLW1BWWtkRGRsVWFvQ3JYUXp4cVd5S3hwNUdxZHM2ZjF1b09HTXlvNWtSRXB3MXJ4aXpleW5aY2RaZUphUElmaHJ2UFJYeDNibzBRVTN3LVRTYmhr0gHCAUFVX3lxTE8wSGh2Tlc2VHZNcm53cjRLZmVlQXBhNmtLNXhxU0xsZ1pSWkpXdEVKTDVmeF8wdGV3T0NBSlBTQV83bi1kaENnaDE0UjlnWl9hNlNTRDJUOF9YUWVFaUwydmVmRFo2SVZwVnJfcmJ4TVR0Tnljc0JBMUc2Q1hRdWRVZlF4eXZSam9Xa3ZtaHhyT1JOYXllQjE3ejhrYXRkTU5LUktWYmJkUkJVWUREUTEyYXZaZ0JNZ0FSbnB6TGlYMEdR?oc=5"
     },
     {
-      "title": "Puneet Anand Joins BMW Group India to Lead Government Relations and Corporate Affairs",
+      "title": "Supply dependencies leave global trade exposed, and other trade news to know this month",
       "summary": null,
-      "source": "Adgully, Autocar Professional",
-      "corroboration": 2,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQWtPUHVKcTlTdGNFcThCX3VVSnNiT0RvZGRjcm81SWxRbllDLS1oeEhUWUM3U0ZBNGo0Zm9WM0tXVG9IajlmRkMyMFNGcnFBZndleTQ4WkE3dzlYT2l6OHhvWEVHVzZKRU8tVG5Ja1BTNE1xNElUc2h0WWVfLV9iT1MxT1lTdXA0dFowQ3RDZFZuM2N6RFl1VkJUWUktNDlqWThyTWRFWjNodXdMUFZpWHZlWURBRmhtUFBEUmpHRUTSAcgBQVVfeXFMTjJySFo1NFpxX2hIMTNnNjk2c2ZVMnV5LU04bnEyVXZXWno2M21YMkJOczJ0dEpkZ1NPUGQ5ZDM3RGtlclpNcU83WnJ4T2gwN1Z6OVNSTUt6bndHa1NKVjhvY1pDdWVkd05SQ3NiR2hyY1dTLTY2cmdta0tqdUFrN0o3cmc1X0MtYml1d0x2RTgwMlNueUdRSTBxM1lIdUQ3YURDaDNOSUUtUFdleW9HdjNkM2EwdFR1V2JmaVRXOXNRdTFLZkJkdHg?oc=5"
+      "source": "World Economic Forum",
+      "corroboration": 1,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU2t4SVJIbktEa3A5WDB2d0NEVU01c2w1NHNYR3dvT2VCMHRwNzdOMTJIdUp5eTVCOWNEWmJHdWhrQUhET2ZWYV9Ea0w5cVhUd2JaMFc2MHhPeXQ2Q3ZlbEduellkRmNVWjdtMHFMNWdEUXJWd2xyZXZPUkhJUWw5Q2dRV3V1elBwTkd6Sk9naUV3ZGNHV3VGRFBHNUFjOVZ5?oc=5"
     },
     {
-      "title": "NVIDIA Introduces Nemotron for Science to Accelerate Discoveries with Agents",
+      "title": "Tesorai raises $5.3M to feed starving AI models with biological data and accelerate drug discovery",
       "summary": null,
-      "source": "HPCwire, NVIDIA Newsroom",
-      "corroboration": 2,
+      "source": "SiliconANGLE",
+      "corroboration": 1,
       "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYm9SdXJlaFU1RlJkWmN3bXFwQ2Q2ZHNTU21jWkttV2hHWmh5WUJBUE1nYVZ3UnBReGEwT3FTM2JJdV9MU3hZUGVGWTNNS251TDc5U0c3amN6ektyVElqbnBpN2pEc2x6S2tYOVRhdjFHYTZiY21UaVl6M0FaZVpvdnpuYml6LWVFSHJzQnkyWHlnbGszVUVtcDlfWVhtY2ZENlVoMkpabUdVYjZFcERhR3FNaXZaeG1za256R3ViT2hXeXVv?oc=5"
-    },
-    {
-      "title": "Five time-management lessons for an always-on world",
-      "summary": null,
-      "source": "TCNJ | The College of New Jersey",
-      "corroboration": 1,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MdHRSNDRvZmZoUThpRU1mTlVOLUFwaGg2VXlnR2lVa2piRHJuMlFyVzd2WjZXOEc5b0lHWnBvSWtuOTVyd2czS1lGb2RUSmFkWFJxSGhvZVJsQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV1cya0dMNDNJU2tJU1lYcGZ1bXhNeW5WZ29QV2xzQk1tZ295MlE5NDhpXzNzT3lqUC1TMmtWbjhPcU9OcVA0bkYwTXh3Q193c3BiMjVSN3hSR0lkSmJvWU9NR1NRRDlfVHlIVV9wcjUtNlJfNUNMZjdVTDNzbGZnQXd4Z1dON1QxM3AxZC1XVjdmc256YWhLWGxGWDRYLW4yTHhMRTZKMklRUjJmcXZhMEJqLThsRDBRMG5NbFBnVnViNHdIT0kzMTFnX0Y0WU0?oc=5"
     }
   ]
 }

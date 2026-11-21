@@ -1,91 +1,91 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "label": "ranked",
-  "generatedAt": "2026-11-20T01:14:50.735Z",
+  "generatedAt": "2026-11-21T00:47:03.740Z",
   "window": {
-    "from": "2026-11-18T18:30:00.000Z",
-    "to": "2026-11-19T18:30:00.000Z"
+    "from": "2026-11-19T18:30:00.000Z",
+    "to": "2026-11-20T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "A cyberattack using artificial intelligence targeted the EU in October, official says",
-      "summary": null,
-      "source": "ABC News - Breaking News, Latest News and Videos, The Seattle Times",
-      "corroboration": 3,
-      "category": "ai",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdVRBb3UzU0pqblV6TGxHY3l6V1FoMnhaUlRKX3J2QTJrTWhYbC1WcTlZRWVITXlZZkhiZzZfVlNYcVdhdm01SWIxcG5UbzhWWDZvNjlpeENpRUsxaFljSzRLR0hVYUR4eUZFY21sZlJqcEJiN05mXzBfOFFrczBOTk04dTNxcGQwTkZybnVoTUIwSTZVdmJWNGMzS0FTYTBvYmVJeVdDVjBPRmxIMzh6bmtVS0JRVGdtLTNnOEpfdzU0TDQ1VlE5MG9PTlNKVTA?oc=5"
-    },
-    {
-      "title": "World’s top court finds Myanmar guilty of genocide against Rohingya",
-      "summary": null,
-      "source": "UN News, NDTV",
-      "corroboration": 3,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85V2oxdU9NUmhzSExKMEJZRDFIRENtci1tS05SQmhvSVlocVBwcmpsM0E0VlpGSkV4RkFOTkdhalh1Nm9ydmlyS25jcHlHSy1LTVJUZ0JQbw?oc=5"
-    },
-    {
-      "title": "Government Partners With Meta to Launch India’s First Anti-Scam Microdrama Series",
-      "summary": null,
-      "source": "MediaNews4U, Storyboard18",
-      "corroboration": 3,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LN1pVbHF6M2NMWEhQVjJSM3NrYmFic1Zibjk0NDc3Vi1TSExyd3o4QmxsNVF3TkQ3QUJQeVAxUXNYYjZRMUFZLXBROGVHaHp4THRRVWkxa0ZDbHdhd1ZRLVVmTXdCcXNNWHVCWGl3Nkw?oc=5"
-    },
-    {
-      "title": "AI startup Humyn Labs raises $47 million in Series A funding round",
-      "summary": null,
-      "source": "Business Standard, TradingView",
-      "corroboration": 3,
-      "category": "tech",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNXZSOGpKLWxTdFIzakN4c0JQS3BJdkM5MVNfRDA0QUZjVUdxMWZOSUdWbHROQ0ZYQmh6VjNSSm1xQmFXZnZGMVlyMHBSeTFtem1OTUhoMEtfZWZfRkZMdXduT2ZSQVNETV9rZGptWmJEckg4cU4yTVNES3hKU2NNY3gwaDR1Q0tESFRlSTZ3bTVUN1B5TTQtcFlhUHRrR2V5X2tlYkxJTTV4d2JvWjRMTnRnbHhMWkVHNWJPSFJTUWo0dlJpWGFEYjQxdTNodVnSAdQBQVVfeXFMUDBNU251cTZyY1huU29YVFhrd3lqUHNPNlBVRXNLR0I5T3d6aWpaazBPX1Q2NGcybjZ2ZTZoZG9lYjl3VnBLOHlRQkdHQzBmNWhyZmY2YTJPd1NiVk9zTjFYVXk4SXBodWotVlpQbTJlbUt6czliUzhDRlVqX1lNa29pZjl6SGx3dVFseFR3UUhXOXg2QllDMjdJM0xVZVM0OGpCVEFOQkFhbldrMmltRWdScXhWY0t6dTdCa3gxTWdFNVc0SmhGZG01cjB4SG9JQl9HRl8?oc=5"
-    },
-    {
-      "title": "Claude solves two open problems in the physics of black holes",
-      "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "ai",
-      "url": "https://www.anthropic.com/research/claude-black-hole-physics"
-    },
-    {
-      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "title": "We promoted developers into architects without informing them",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "tech",
-      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/"
+      "url": "https://manidoraisamy.com/developer-to-architect.html"
     },
     {
-      "title": "Women’s Asian Champions Trophy 2026: India begin title defence with 4-1 win over Malaysia",
+      "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
       "summary": null,
-      "source": "Hockey India, Olympics",
-      "corroboration": 2,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORXhVV2tXb2QwZmpMSzJBMUNVVUNuUXFFaWE3SlVlNkZnY0NFYnFVLWpJR3BRLVZ1UVhidVZVcjNGV1hRZTdCWjIxX205bk9Wcmp4bDRHWmlSaU5SLXJmZVNzQlUxdXZJYTFxZ0dHQlJ0RmNwNDNjUXpmNEtKX2JCN01JTWg5SElvcERkSHdaUUg1YXlaNzJydWZqMGdNdVd1ODM5VTJZM3ZKa1VUTzVWNA?oc=5"
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394"
     },
     {
-      "title": "Trump, Xi, Putin hold historic summit",
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
       "summary": null,
-      "source": "NHKニュース, WSJ",
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/"
+    },
+    {
+      "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/"
+    },
+    {
+      "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
+      "summary": null,
+      "source": "Business Standard, The New York Times",
       "corroboration": 2,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RajdQRFZ3RkNyVGRVN1NtT19ENFYxMDB3VEtCLVFBbExfOHJRa3dSc3FSRVM2TGcydUNBLXNoV0xiMG41SHhndDFiSzBtTnlzX29Pa0xCaVpCcmIxZ3VZQXp4RQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2xjNVlQNGJaN0dDY0FnLXZORHhwdG9nRlRaSU0zRHpSOXkzZ1VQQkNuQ0VaZzJ5ODc0blhmUFZzOVdRXzhLUmYtcUZMd2hOam1yWmxfMVpoZGpfaFJ2MXh6aTBUTF9UNGFJWksydE9SdWMzRWJCeGRqRHJnT0k0Y3I5ak0?oc=5"
     },
     {
-      "title": "India allows older vessels into fleet to cut reliance on foreign carriers",
+      "title": "Trump speaks after trilateral summit with Xi, Putin",
       "summary": null,
-      "source": "Reuters, Marine News Magazine",
+      "source": "NHKニュース, The Hindu",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZnJ2ME54M3BMNnluUmpxZnNnYzBzSVh0Wm1YakZhTEZINzZBRlppdkppZXBVbk1XLWR5Zkg0RENueThaOVBMS1lyUkU1cE8taVVKdEpHTmFTTUdDbkZBUnpEWQ?oc=5"
+    },
+    {
+      "title": "India's forex reserves fall to over three month low of $705 billion",
+      "summary": null,
+      "source": "Reuters, CNBC TV18",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMGVxek9zNW5UVmxuUGJGbHFzNklTX28xQlF3a1BBN09vR3VrNloxaEE4Zk1uYkZPSF9RajhzcVl1dldHa1lZWFhWY2oxTFFFbkZZMzJVVWdZaTJNR0ttQjU3VXhKdGptNlJnSU01eFBmdG5pOFYxUl8tQ3R0UmhEQzFtMXVDMWI1a19IbEdwLTh5MDg2aTRiWXVWVk1VVlRIR254UWtZNkNjVWFKRDgwLTZfVERQQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS081RnFoQThmaGUzazJPYlFhbzVtckF5aUZqVThSS2xrX0JvWnAzbVhKVVFqMXZ2T2I1WFlSXzdua3M5b1B3aUwyWXJqSW9HS2FMQTZOM3lrVGdZRloteExRY01HT21fcXZfNnotZjdlZHVGcEpwbmw1c3pIVGMyWFB1MFdaNXhhbFJuTF9XVnItS1JnbzJVdFNvZEhuX3RleDVGbXJha1BZNVk?oc=5"
     },
     {
-      "title": "MegaRobo Raises Nearly $200 Million For Physical AI Infrastructure",
+      "title": "Meta to launch India's first government-led microdrama series on scam awareness",
       "summary": null,
-      "source": "Pulse 2.0",
+      "source": "Rising Kashmir, Facebook",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYnFmOVA5VHp4U1c3dUlzNzkySUI4TnNwQUVseU5JTEttRDFZdjM5Nm9KSmVTSXBXeFlqU20zdEptY190WE5FOUNXamREWnNlbnVsZFN1YnExMl9mb1k3X0pzUGxhV3BnWUw5NWJCOVpOVS1mX3hxSnhmY2pfMVB5RmdtMkxnN3NvY0FrYXY5QzJUNV83dzF0YzVmS0Vlc0dSZFdGVkFzd0kzOE1kU0FxVk9HckxoaUo4UFU2VVQzdWZ3Zw?oc=5"
+    },
+    {
+      "title": "In India for SCO meet, Pak minister says terrorism issues should be discussed at regional forums",
+      "summary": null,
+      "source": "Telangana Today",
+      "corroboration": 1,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSTl1UzF1c3VQLTZiR2hEeGtta3gya0JQQVFtTGFHeWJfVzZsMXZNak84VUN6YjVzVFBBWFRYaEktZGo1TDV2UGN1VnF0Sy1VODItOG1taDJHZGppWHhSZEYwVklLNTZ1X3JLQUtrRmtTMnoxT29acnlyRTRmU21yX1FyVnJNVE9IY0lRVUpaNmRaYTVILWI3ejFfeldkcG5ELVdwVkVFNWY3XzlFVy14cXdCVnNLQ3hGRTBhd2Y3MA?oc=5"
+    },
+    {
+      "title": "IFF opens Forest Lab to bridge biodiversity conservation and fragrance discovery.",
+      "summary": null,
+      "source": "Personal Care Insights",
       "corroboration": 1,
       "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdzBQS2d2NGVoVHBha3hvUDduU1djNHlCMXVNVGJNalR0R0xXMml0STJ3ZDFDTHFvMnV2T1g2M2Q2SWR6V1pMVTVqYnNubUpQYVZpdklPV00xamVrV1NlU1VLRFRKMkRHd3VIN3lqUUd3OGpZUGpLX2hYM2ZKTzBkMUxGM0NjNnlwdE52YlRn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX1IyaVhFUDBsYWtxVTIxWkFneHFTOVRZTW1fUWN5OUh5d0lpeVVvQWRYazRvUk5SUEpYbm1TSXF4Zjl4Q3FHb3FsSE9PZ3lfeTRLT3QyM2F6UVNJSzQ5bkZGMVlXM0V3bTZiTDlELVh4TGl1Sy1ZQWY4WC00eDhuMTBuM20?oc=5"
     }
   ]
 }

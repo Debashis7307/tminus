@@ -1,91 +1,91 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "label": "ranked",
-  "generatedAt": "2026-11-21T00:47:03.740Z",
+  "generatedAt": "2026-11-21T23:47:15.859Z",
   "window": {
-    "from": "2026-11-19T18:30:00.000Z",
-    "to": "2026-11-20T18:30:00.000Z"
+    "from": "2026-11-20T18:30:00.000Z",
+    "to": "2026-11-21T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "We promoted developers into architects without informing them",
+      "title": "COP31 Climate Summit Risks Failure as Talks Go Deep Into Overtime",
+      "summary": null,
+      "source": "U.S. News & World Report, Al-Monitor",
+      "corroboration": 4,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcXFpdTFSU3J1ZHY1YS1WMnZhVEp0TWgtZHpJaEpPZFFnakJIVE1kV3pVUzFOU1ctZXFHdzBDRndRYXBvQVFMQW54a1pjYVhnczF6SzAwZFJBUGMyS2RoM2cyQ2J3Ykt0Nm1zalJPa0RVTGhfZW02SUpDbFhRdVFnOGowbTFYbkxGT0J3ZkJ5WmttUU9iQm81SkdUZUh2emNtcWlkQnY3V29oN3RKTG1MQ0FiTXhRSml4UnBJ?oc=5"
+    },
+    {
+      "title": "Zelensky says China summit was ‘very unsuccessful’ for Russia",
+      "summary": null,
+      "source": "Al Arabiya English, The Hindu",
+      "corroboration": 4,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT1BoM1lyemJua2xla2QxMDItMjJEVVNLU0MtY1E4aTlQcjE3QThXREZEV3NiT1hYWDJmckV6a1VNYTlZRUZlNUFOb0hhdDhfTW4tbjFzMjNSTGdRNVBPOEVXSVp0bW5EaHNVWXFjN0RWeDNDS0JYMWZpdUtkclp4dFVibmp5dTVqRE14R2llUDZRczdSM0Fzdm1DWUZLSGc?oc=5"
+    },
+    {
+      "title": "Indian space startup SatSure raises ₹60 crore from govt-backed space fund",
+      "summary": null,
+      "source": "Business Standard, Tekedia",
+      "corroboration": 3,
+      "category": "tech",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd2w5SkpEdU5TVFFoTlBQUDdob0plSE0ya2lSZno2VkVDOVhIQVF0LTNVdHl4NFd5V2dhOHZXZGY2cDcybzdLRml1cHkxSTVwXzBHbUE3MVZocGE0ZHRJYU1UdENqeEFlQ1FPb0JWVmpRbWFBNndkVFBUWVk1Wlg1R1NmWFo4djJuWVZtbXJ3dHNoa1FEUllTUFctU20yLTZlWUFNQlB2MzUwcDQwUW1EVEFtaVVpZ3V3bG14dUphQUFucjBIYWVTVDlpdldqb0wzS2xDMERPWkNYNUVfSk5r0gHkAUFVX3lxTFB4dW1mWl9HSGlPRWxYZTZNWnRYNlBlOVdod19xMnlOYzQwMzN2eDJER3RuQ05NRnhnU0owR3M0ZURSdW5Ja1B4WGFJXzlhVWdGLXIwX0o5Tng4UHpUN3M3eUs1d1owMEQzYW5aWEtiSDZZYzhEZ3M5dFB4a3g0TF9rcGljcXQyTmZ2UDZQcW9mSGxBT3IyWWdubWlMWXBSdms1a3FubDhKalNXQktNQnJLeTdGaXdpTEUwazNpb3c1Vm1jYkpFMG1hZ0lxX080Z3JVUXNPeVhWRFJ5dzJBck9wVHFoZA?oc=5"
+    },
+    {
+      "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "tech",
-      "url": "https://manidoraisamy.com/developer-to-architect.html"
+      "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists"
     },
     {
-      "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+      "title": "ClawDOS – An AI coding agent for DOS",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394"
+      "url": "http://ricapar.net/ClawDOS/"
     },
     {
-      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "title": "ASML vs. SK Hynix: Which Artificial Intelligence Stock Is a Better Buy for 2027?",
       "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "tech",
-      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/"
-    },
-    {
-      "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
-      "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
+      "source": "The Motley Fool, The Globe and Mail",
+      "corroboration": 2,
       "category": "ai",
-      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/"
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWnNXU29aa1Q5Q1VOdzhGZ1dmWGp0dl9FbDc4Q3luVl9OLVY4NGl4d19iWFV0ZFdIVVpkVm5XVFUtTGFoTF9WNzViWUEwRG1zVHdtXzk5bkxkVm5yLWdud0YxRHo4VXFHY00wY2sycTB1SGxPdEhvRzVhQWRsUkk0SGhSR0l1RGpSMGpkZFJySGxwSE5Yd3JqM2praE5EWlNlaDRNdzRiT2tEb1M3TktSd083enFDMFJnNXd5Z3d4NWtBMUVNcTl6akhR?oc=5"
     },
     {
-      "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
+      "title": "India’s opposition stages protests against Meta over account removals",
       "summary": null,
-      "source": "Business Standard, The New York Times",
-      "corroboration": 2,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV2xjNVlQNGJaN0dDY0FnLXZORHhwdG9nRlRaSU0zRHpSOXkzZ1VQQkNuQ0VaZzJ5ODc0blhmUFZzOVdRXzhLUmYtcUZMd2hOam1yWmxfMVpoZGpfaFJ2MXh6aTBUTF9UNGFJWksydE9SdWMzRWJCeGRqRHJnT0k0Y3I5ak0?oc=5"
-    },
-    {
-      "title": "Trump speaks after trilateral summit with Xi, Putin",
-      "summary": null,
-      "source": "NHKニュース, The Hindu",
-      "corroboration": 2,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZnJ2ME54M3BMNnluUmpxZnNnYzBzSVh0Wm1YakZhTEZINzZBRlppdkppZXBVbk1XLWR5Zkg0RENueThaOVBMS1lyUkU1cE8taVVKdEpHTmFTTUdDbkZBUnpEWQ?oc=5"
-    },
-    {
-      "title": "India's forex reserves fall to over three month low of $705 billion",
-      "summary": null,
-      "source": "Reuters, CNBC TV18",
+      "source": "Al Jazeera, CNBC",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS081RnFoQThmaGUzazJPYlFhbzVtckF5aUZqVThSS2xrX0JvWnAzbVhKVVFqMXZ2T2I1WFlSXzdua3M5b1B3aUwyWXJqSW9HS2FMQTZOM3lrVGdZRloteExRY01HT21fcXZfNnotZjdlZHVGcEpwbmw1c3pIVGMyWFB1MFdaNXhhbFJuTF9XVnItS1JnbzJVdFNvZEhuX3RleDVGbXJha1BZNVk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTFJdFBxbXVIb2U3Vm83Z3RncVQ1cHhLWG40Y2lyTW42RDNlNzl6alJDLUR5R0R1TG1rQzJEV0x6QUNaUVJnQUotR2phTXFmSFdvRzJ4d1lKSWxPM2ZPTDIzTms2SGpBQjl6MUJRQk9jRmtWUlFxSXpFb2RTQ1ZGNmhCbmQ1ckpXY2dhMThUUjc1X3lGWG1oYU1rc3lqVFBJTW1HSmdRWWd2OS1YNEpj0gG0AUFVX3lxTE8yTWtEMU1EZ2tFMEp1YS1mZDBfMGV0blFENTllZ0p5NkpjRjdtTTlWUFVTQWdZdVVhX045TzJQMnl3VXh3UmU5d00wMEJLN192ZWtPYTNISmNoUlRMZ2dpclk0OGIwVlBmQ1Z5SzIxQ2JCd3dTN0VaRnA4aGFaNHRMOG1zRlNBT3A3UXBGS0hWcVN1a1RFTXk5TDEwdXhQYTNPYzJqOU9oMm1EdEdkbXhuZDV0MA?oc=5"
     },
     {
-      "title": "Meta to launch India's first government-led microdrama series on scam awareness",
+      "title": "India, Finland seek to deepen economic ties through startup cooperation: Envoy",
       "summary": null,
-      "source": "Rising Kashmir, Facebook",
+      "source": "The Hindu, ET Government",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYnFmOVA5VHp4U1c3dUlzNzkySUI4TnNwQUVseU5JTEttRDFZdjM5Nm9KSmVTSXBXeFlqU20zdEptY190WE5FOUNXamREWnNlbnVsZFN1YnExMl9mb1k3X0pzUGxhV3BnWUw5NWJCOVpOVS1mX3hxSnhmY2pfMVB5RmdtMkxnN3NvY0FrYXY5QzJUNV83dzF0YzVmS0Vlc0dSZFdGVkFzd0kzOE1kU0FxVk9HckxoaUo4UFU2VVQzdWZ3Zw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQm5EQ3VJN1YyR3NvZS1CZE5SaFd3bUxNRy15ZmRacTUzN2Jsd1hTMnY3TUk0eGtkdzZSVWFrUG5hUXQwR1Y0XzZuMjc0V2JQbHdLelU0WmVlLS1wUG40cXl6eVFyUkc1WkhUU2hvellmZUJLaXVMazhVaE1UTnVuRXZsandLckRiWElza19jNUxTTWZ5VDR3TlJxZVlyMDVjVEJFVnZRSzlGZnFmYmNCZEtxWGw5V09GWWI5VkEwQmtobXZTRXRpV1Zkc3k0V1ZPRzFQa0NPMWdDN2V1bmhweWNod9IB6AFBVV95cUxOYkVSd2VrUnBrdHpubjYyNnM2YW9IWXBPWC0zc1ZJYjhyeExUVW14UUlHMlJjRW5QX0QtdUtvRFF5Yk05aWdueENjcHh5a1YzMkNSUXc5V3J5SzF4bWkwUE1HTXlmVmNtdnQxMGlPbmttSXM2YUlYZnhFTjU4THZ4WWpQOHVraTk5OW0tVFZIcVd4VlVwZ096NWppQmNURktMRF9Mb0xHUkRVaVV2Z095a2RYNktLMlBLV2NpbHhfZ2lvSjRVaWZTMWE0bzFCTXVwNkZORlotdC1hUDMzLVh3LXZMaHBnV1lM?oc=5"
     },
     {
-      "title": "In India for SCO meet, Pak minister says terrorism issues should be discussed at regional forums",
+      "title": "India, Canada conclude sixth round of talks for proposed trade pact",
       "summary": null,
-      "source": "Telangana Today",
-      "corroboration": 1,
+      "source": "Business Standard, The Financial Express",
+      "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSTl1UzF1c3VQLTZiR2hEeGtta3gya0JQQVFtTGFHeWJfVzZsMXZNak84VUN6YjVzVFBBWFRYaEktZGo1TDV2UGN1VnF0Sy1VODItOG1taDJHZGppWHhSZEYwVklLNTZ1X3JLQUtrRmtTMnoxT29acnlyRTRmU21yX1FyVnJNVE9IY0lRVUpaNmRaYTVILWI3ejFfeldkcG5ELVdwVkVFNWY3XzlFVy14cXdCVnNLQ3hGRTBhd2Y3MA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZFFOd1NSaVdtNV9KWUxfa2hydjg2TlJaQXB5WlBUMnVWb2ZLMWZYYTNueUY4TmVZWDdyX0ZCbkJyS19wUWFObDJWR19yRXg3ZnNRbjNqa1ZqWUtyLXljTnR2MkJLZTZuZ05LWFUtV1RjUmpOZjlNa0tQQ3ltbkg5bVZTeDVWSFU2Tk9yZ3hFZmRfcktQTmJxZlhpQXFsNFY3bUE4UGZNN0JoempySHdya2tlSFkzUHFBZnFhM1d5aU9ucUhiNTA3Si1GUXlWUdIB0wFBVV95cUxPTVQ0QjhteHVtb0lROTJsdVJCdmRNb3F6S2FMcVJlaDJvUkcydnlRRWxkMGZ4ODRYb1ZDMFJyOHJMV3d2clFNc1V1Z290LXhueXRWSW5mQWZmUmdMakdaNUowS1FMUjZqMVpaQ1ljRm9CTm9hZk5UV2lpc2MwTWV3a1dGdmR3azByaUVfaFZPdE5Xc04zQ1NxOTRxZjNkdE14TUR1OVhBcnl2aG1vTUdObFc5ZnhmUG5sYjkxYXpCMWtadGcwUUh2U0YzQVBuVmlJb1Nn?oc=5"
     },
     {
-      "title": "IFF opens Forest Lab to bridge biodiversity conservation and fragrance discovery.",
+      "title": "Sifting through NASA’s sky archive, a California teenager’s homemade AI flagged 1.5 million flickering objects, and astronomers are paying attention",
       "summary": null,
-      "source": "Personal Care Insights",
+      "source": "Futura, le média qui explore le monde",
       "corroboration": 1,
       "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX1IyaVhFUDBsYWtxVTIxWkFneHFTOVRZTW1fUWN5OUh5d0lpeVVvQWRYazRvUk5SUEpYbm1TSXF4Zjl4Q3FHb3FsSE9PZ3lfeTRLT3QyM2F6UVNJSzQ5bkZGMVlXM0V3bTZiTDlELVh4TGl1Sy1ZQWY4WC00eDhuMTBuM20?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQaUpkM3d2SlJ5aU5Jb0Jra0N2MDlqRGxFM0syVi1PMi1ta21ZRE5WVHhPSmUxSmJseGpXdlYzbUhrY3MzMzR3bURQajlfd3pOZ1FpVmttdjFiaVFKdmpYVVpzTW1HMVY4QmRVQ0JLSFZFUDJrZ1hxTjFneDBwb2QyVEZicERtRENWSTVfVXZnSVMtbXVoc1ZnZDMyRkRXcVRtX3dYX1FzaTJ5OF95WUNnb0NlaktYU3JWeTB0a2VQcW1QRll1anotUy1ScGRCeTV2MDJkT3FaRHFFYVVNUkZ1U1Y5RmhKNWhsNUIyeGpTRkpuOVQ2VlNTMGw1VGNHQjZ4UW5sREZKOGdkZnoxbjJwaVRjTG0?oc=5"
     }
   ]
 }

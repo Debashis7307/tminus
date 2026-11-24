@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-23",
+  "label": "ranked",
+  "generatedAt": "2026-11-24T04:16:37.014Z",
+  "window": {
+    "from": "2026-11-22T18:30:00.000Z",
+    "to": "2026-11-23T18:30:00.000Z"
+  },
+  "items": [
+    {
+      "title": "Nvidia reinstates Jensen Huang as CEO",
+      "summary": null,
+      "source": "NHKニュース, The Indian Express",
+      "corroboration": 3,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55TDVGZW0xdzA5NkRvZkxmMDdFemRzQm45UG4tV05CeUtZM0ZaU2JubjB3c3BXYUJhd0JmREJHZGZwLVhyd0dsV0VnTEZFQzNfRWxsUFFya1A4QnpEMHFoVWV4Zw?oc=5"
+    },
+    {
+      "title": "Kagi Mail (public beta)",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta"
+    },
+    {
+      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090"
+    },
+    {
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://z.ai/blog/glm-5.4"
+    },
+    {
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+    },
+    {
+      "title": "India seeks to resolve dispute over Scotch tariffs after UK raises concerns",
+      "summary": null,
+      "source": "Reuters, Devdiscourse",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTGM4TXVhYXh0d3JucXRvNU11U1lVTVhUX3VmeG0xUnpRTXkxVDZTdEZGdkxrUEdkUlY0Ty0xTVR1ckQ0NEhrUWNfRVBtSk8xRWlzN3VnT19EbVpqWFBLZFZzTVVwMDE4ZHZEcXY0X01jbV91OC10a1hLbHZPNHVnZktuR1lHOFk4OWhNYnhrank2ZVJteUx3YnN1Q1hLWXNCcjljcVJZTWR5OXI5MlhIMXBIWHI3QkpOWWtqSW9idHRiY085RlE?oc=5"
+    },
+    {
+      "title": "14 Countries \"Acknowledge\" Ruling on Rohingya Genocide",
+      "summary": null,
+      "source": "NDTV",
+      "corroboration": 1,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUko0MUdqMkJqSlNFRXE0Q25VTENJQXRWQjF3UkNMbENsYWxVdXVwdU1SMUVDem5seTNGRnFnRHlPeWRkbHFHOHlkdkxGYzlqcUhKczcwWXlPSXRHVnJJa0JlOHVrUDhuNGw3cVRRZmllVTI4NkMxaF8tYTlHMVp1X1VJOVBCZno0c2NZZ0IwUUtPUGZkUXdQN9IBoAFBVV95cUxNUThqbVFITTNnSjBzamdWSjVNY3ZPMUJvcmcxNWxyUEdubUpwZVVEUEg0REZudUZza3ZSMm9CTk5lcVE0Q2FLS3YzTXY5am1sMnFQbTRBa0NJWDE1V1lkVWlWS1lHbE03RXJCMnhNSWhlWlVRZWJYMDV2OExQMWxjMzBZZ0pyRFAzbUE5aFBnMjdqZm12cXNZd1JERzdBeU5s?oc=5"
+    },
+    {
+      "title": "Nepal’s Foreign Minister describes PM Balendra Shah’s India visit as a historic milestone",
+      "summary": null,
+      "source": "DD News",
+      "corroboration": 1,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRnFMNzR3UktJYkU3dFpJOUlIWDJRaHotajhKb2FLdzlLd1R6VjNQc0ZUNGRkVzdvX3lZUmdUOExKX2t0WEMwTktqblRhb2lUeldYbVJWUVUwck1zUFN6SlpFeHlxbzR6b1BnVV9INjRDeXJ6Mk1FWk9NbjBxS3NjbnZMWWx2ZFFQc2ZWYnd5djNITW5ZSF9lU1pwdEIwRUV2T2F0Z0NHQWk2eFRIZVJvNE9fYw?oc=5"
+    },
+    {
+      "title": "Hall of Inspiration at India International Trade Fair 2026 showcases innovations by around 600 Indian startups",
+      "summary": null,
+      "source": "News On AIR",
+      "corroboration": 1,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdU9tVGxiZ3pYMWo2WVlhVTF1ellKaW1qRkZFaXEycXVuVHpaaVF3OElGTDVJU0hFdDVyRDF4bjNTQS1EaXozTWNwSjVfa3FSQUpKc2ZmamRSZk42Q0pGSkR3YnRybVAzT1ZOczlLMnJyY2MxNFczWXhnSENxRUlPS1VTRlNpUUdRYVd6bTFkbG9jam1UdFBMRjBqb0Q3d241VjN6VnIxZlcxQ1Zvcy1PYzRTVlI4S2k4S3dVRVlvYmZ3alRfdTl0WTBQSFhCWEFJeHc?oc=5"
+    },
+    {
+      "title": "Robotic laboratory automates metal testing to accelerate materials discovery",
+      "summary": null,
+      "source": "Nanowerk",
+      "corroboration": 1,
+      "category": "science",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EdWFRWDZUWFU1ZFBtbTloNmk5RDNEWEhvN0szYjhWYmFoUDdfWWxDTGpMLUpwUHRuMlhOSGw3V0oyeUNlU2p5Q3NsU2UtdmtySW5ZclZUdkVlaFU3QTVDY1BvcmJGdVk?oc=5"
+    }
+  ]
+}

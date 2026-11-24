@@ -1,91 +1,91 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "label": "ranked",
-  "generatedAt": "2026-11-23T00:17:17.931Z",
+  "generatedAt": "2026-11-24T04:16:37.014Z",
   "window": {
-    "from": "2026-11-21T18:30:00.000Z",
-    "to": "2026-11-22T18:30:00.000Z"
+    "from": "2026-11-22T18:30:00.000Z",
+    "to": "2026-11-23T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "Carnegie Museum Receives $5M Gift and Three Rare Dinosaurs",
+      "title": "Nvidia reinstates Jensen Huang as CEO",
       "summary": null,
-      "source": "Peradaban.id, Limapagi",
-      "corroboration": 4,
+      "source": "NHKニュース, The Indian Express",
+      "corroboration": 3,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55TDVGZW0xdzA5NkRvZkxmMDdFemRzQm45UG4tV05CeUtZM0ZaU2JubjB3c3BXYUJhd0JmREJHZGZwLVhyd0dsV0VnTEZFQzNfRWxsUFFya1A4QnpEMHFoVWV4Zw?oc=5"
+    },
+    {
+      "title": "Kagi Mail (public beta)",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta"
+    },
+    {
+      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090"
+    },
+    {
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://z.ai/blog/glm-5.4"
+    },
+    {
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+    },
+    {
+      "title": "India seeks to resolve dispute over Scotch tariffs after UK raises concerns",
+      "summary": null,
+      "source": "Reuters, Devdiscourse",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTGM4TXVhYXh0d3JucXRvNU11U1lVTVhUX3VmeG0xUnpRTXkxVDZTdEZGdkxrUEdkUlY0Ty0xTVR1ckQ0NEhrUWNfRVBtSk8xRWlzN3VnT19EbVpqWFBLZFZzTVVwMDE4ZHZEcXY0X01jbV91OC10a1hLbHZPNHVnZktuR1lHOFk4OWhNYnhrank2ZVJteUx3YnN1Q1hLWXNCcjljcVJZTWR5OXI5MlhIMXBIWHI3QkpOWWtqSW9idHRiY085RlE?oc=5"
+    },
+    {
+      "title": "14 Countries \"Acknowledge\" Ruling on Rohingya Genocide",
+      "summary": null,
+      "source": "NDTV",
+      "corroboration": 1,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUko0MUdqMkJqSlNFRXE0Q25VTENJQXRWQjF3UkNMbENsYWxVdXVwdU1SMUVDem5seTNGRnFnRHlPeWRkbHFHOHlkdkxGYzlqcUhKczcwWXlPSXRHVnJJa0JlOHVrUDhuNGw3cVRRZmllVTI4NkMxaF8tYTlHMVp1X1VJOVBCZno0c2NZZ0IwUUtPUGZkUXdQN9IBoAFBVV95cUxNUThqbVFITTNnSjBzamdWSjVNY3ZPMUJvcmcxNWxyUEdubUpwZVVEUEg0REZudUZza3ZSMm9CTk5lcVE0Q2FLS3YzTXY5am1sMnFQbTRBa0NJWDE1V1lkVWlWS1lHbE03RXJCMnhNSWhlWlVRZWJYMDV2OExQMWxjMzBZZ0pyRFAzbUE5aFBnMjdqZm12cXNZd1JERzdBeU5s?oc=5"
+    },
+    {
+      "title": "Nepal’s Foreign Minister describes PM Balendra Shah’s India visit as a historic milestone",
+      "summary": null,
+      "source": "DD News",
+      "corroboration": 1,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRnFMNzR3UktJYkU3dFpJOUlIWDJRaHotajhKb2FLdzlLd1R6VjNQc0ZUNGRkVzdvX3lZUmdUOExKX2t0WEMwTktqblRhb2lUeldYbVJWUVUwck1zUFN6SlpFeHlxbzR6b1BnVV9INjRDeXJ6Mk1FWk9NbjBxS3NjbnZMWWx2ZFFQc2ZWYnd5djNITW5ZSF9lU1pwdEIwRUV2T2F0Z0NHQWk2eFRIZVJvNE9fYw?oc=5"
+    },
+    {
+      "title": "Hall of Inspiration at India International Trade Fair 2026 showcases innovations by around 600 Indian startups",
+      "summary": null,
+      "source": "News On AIR",
+      "corroboration": 1,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdU9tVGxiZ3pYMWo2WVlhVTF1ellKaW1qRkZFaXEycXVuVHpaaVF3OElGTDVJU0hFdDVyRDF4bjNTQS1EaXozTWNwSjVfa3FSQUpKc2ZmamRSZk42Q0pGSkR3YnRybVAzT1ZOczlLMnJyY2MxNFczWXhnSENxRUlPS1VTRlNpUUdRYVd6bTFkbG9jam1UdFBMRjBqb0Q3d241VjN6VnIxZlcxQ1Zvcy1PYzRTVlI4S2k4S3dVRVlvYmZ3alRfdTl0WTBQSFhCWEFJeHc?oc=5"
+    },
+    {
+      "title": "Robotic laboratory automates metal testing to accelerate materials discovery",
+      "summary": null,
+      "source": "Nanowerk",
+      "corroboration": 1,
       "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CUi1YeUVHQ2pPbl90TzdjQUowNWI2UjZSVnBMTFhYZUdCN2JIZHJmZjZtZXFpTW5jUno5ZFh4ZVpJS0huUnFweG1MdjhjVlh3b3dJQVBGR1lnYl82MmxPNFVieGJIdmVO?oc=5"
-    },
-    {
-      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
-      "summary": null,
-      "source": "The New York Times, Hacker News",
-      "corroboration": 2,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaktnVmVBTFR4NlBwcmNmLVlkQXlUbDJnM20tam1MaGZmeGF1YTBQSDVjMkM3U21sVWdrRER5a2UzZ3ZrQkF1Sm5kd1U5UXBzNGdMRTlWcVprNVF3M2xjRUV5SmlZMGR6VXU1OVh4M2RXOGFvY25hN1Z3MTJWWXNiWE5ESk13U0o0?oc=5"
-    },
-    {
-      "title": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future",
-      "summary": null,
-      "source": "Yahoo Finance, The Motley Fool",
-      "corroboration": 3,
-      "category": "ai",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmVjR2pPZV81aXlnbXVMblJIYTZka3ZuYS1FVl9aRW9IX3l5YS12eGRtZVVHT2xVeW9MbWU1WkQ1YmhBNnJZaDZxaTVRYVpZSEFyMTFPNXJIYTNpNDhUbkt5alM2ZTNIb0V3ckJHc2M2WHZxUnhIRDJUcnFEM2JqZXZQdlpqVjhIUmtBNDNoU3dxR0IzS1ZPRXI5MkRldXQyN3p5aV9Eaw?oc=5"
-    },
-    {
-      "title": "CII proposes 15 financial sector reforms to support India's USD 26.5 trillion economy target",
-      "summary": null,
-      "source": "DD News, Deccan Chronicle",
-      "corroboration": 3,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNHBVdExKWkVDRXlScWowb3Z4YUtXbng0UFEyMUNnVWNxcVdzckhXNDZScTQwWTcxWmNLNXJGSDNvQkJkY3N6NlRsUlhycmQwTmE0cHpGc3Facy02X0p1NzUtRm5qazc0VXFSRDBiTm1SOWVUZGtQV0JfYVFBb1Q1NEZ3cXJzblhUeE1jS2ttQ09wSHh0NURiUW1JR21mT0kxUmxfMEhVdmlNdDQ2Q0tkUTBJVGg5cU5qSzhFY0Y1c2VIdVVucGVBRkxyUzc5Yl9LU3dQQ0hwcUc?oc=5"
-    },
-    {
-      "title": "Perplexity and Intelligence",
-      "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "tech",
-      "url": "https://openai.com/index/perplexity-and-intelligence/"
-    },
-    {
-      "title": "Open Social Web Alliance",
-      "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "tech",
-      "url": "https://osw-alliance.net/en/"
-    },
-    {
-      "title": "Show HN: I built a game where you are an LLM's subagent",
-      "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "ai",
-      "url": "https://github.com/gulivan/worker755"
-    },
-    {
-      "title": "Tilak’s 100 in vain as Pakistan A beat India A in Rising Stars Asia Cup",
-      "summary": null,
-      "source": "The Indian Express, The Times of India",
-      "corroboration": 2,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeHpfNlNQSTI5bUlMSzBvR2RtZXJ5d1ZTbnEyOVFQRmRFbW5HSDhWei1QSWdwUTctc1d3RXlCR0JMV2FXV3pnVGxsMFl1eG5yYzA2SDVEWlFaUUtJUWw3aFBYaVVtNEZldlJiWS1ScDFBb1l5WE9GUGptZkhYNDZxLS1FWHBSSTFIWWNFMHl0VnRlSGN4Z2JFYTF0cXBKaGhiMC05QzBNSGt2MkFLUzA2VHJ6Mk8xRVMtODIxREVuRdIBxgFBVV95cUxQeklhaGNHdm5ZeDZaaGJ3aUd0SUxOa0FuMUVWaC1McXFpVWczZWNpVmY4cVNLRF9oYXNxM2ZLdDQ4SFRFclBmRGswUENwQkVubDRySjBUa1kwN1B6U3hFNTFjYjU0NC00b1FFMXd1MGhlSlE3b09OLV9Ba0x2ZGpnQjNWblMwZUZkM2ZVS2UteEMtMC14NFpSWVVQRjBJRHd3S21PLWxVLU5LSlZ2QWpyZnByZ3RyWWMyY0REbWw2SU1UTjQyS2c?oc=5"
-    },
-    {
-      "title": "US Intelligence Chief Says Putin Is 'Not America's Friend In Ukraine'",
-      "summary": null,
-      "source": "NDTV, Reuters",
-      "corroboration": 2,
-      "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVmM5OXN6RlZrck9VSDJNRHRwdW9idXFIVGo5WWhKSnBETG9lTnVLQmdXc2V0WkFHQlNNbV9ETU5pMi1SWElPZzQxaXRBVHc2RkktOEFxR0RpcWYxNE5JUVRnY0RnNDBBY0Y1ci1nWExfb0R5enNXSEZEWW1VQWt6djFfY1BmOHZVLWpqZkVHRGNmUTg4cWVxQkt3SlplUld2dWNxN3JJOHBnb1HSAbMBQVVfeXFMUFc0X0sxcG5yTHVfVml6YlhCX1BNNy1BWHkwWGVxS0N1MEwySlhhckZrR0NWakVmeTQ2dzQzT0hfcGlPTmMtdGhlZ0ZIN19zV2tzbzc2WVBkazVQRTJIaWRZQnFNOVJIWmNuRHVoM1FEQ05pX0gxelRtMjRMQkUzV2VpejYyc3JVQ2hoVzBTdEpkWm1UTGtDLW5jU2J1OWNFZnY1Ym9PRWNNNnNYaUJGTzZvX1E?oc=5"
-    },
-    {
-      "title": "'India Cherishes Special Friendship': S Jaishankar Meets Nepal PM Balen Shah",
-      "summary": null,
-      "source": "NDTV, The Times of India",
-      "corroboration": 2,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFdIalN6bmxBX3JLUEtzNGJCNlBwRlVTQmh1Y0t2QXRJU3VNZ3ZfbnBxX2dyc0RTM1BaNFgwZkFHRmo5cThDd29INnRhWUlCekdWOWdyWl9vN0pienVZcXlWVDRrSzNGUVFlRWh4bDlDNE9HTnZEZHIwZWhRNGFmZjNzSzAwVUNzaUloZ3RvMjlFVHlzUUNOYm9hcjh4UmM3ZjNGVGNLQVExdGxnbVU3Mng3UF_SAbwBQVVfeXFMUFRrUEQybWxKMlE3cE5QdnkzLTA3cktjQW9YQjh3cERGT3hSMHdSZWdHYlpiZGNUcENuWUY3clVwVGhNVGUzNXF2V1RocTZ2cXNBb2hVNFVPNTBsU1ZjcjZXLVFvRUstWVdZazE2RGw1eEdTb1Fyc1l6azhzZEV4QkJYUVMyUUhsSTBtTlFCMlFCVWMzVXhSWlVWajExUkc0V015bzRWTlg5NHJXVzdmZGJtWWNQczdjOGZNb3c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EdWFRWDZUWFU1ZFBtbTloNmk5RDNEWEhvN0szYjhWYmFoUDdfWWxDTGpMLUpwUHRuMlhOSGw3V0oyeUNlU2p5Q3NsU2UtdmtySW5ZclZUdkVlaFU3QTVDY1BvcmJGdVk?oc=5"
     }
   ]
 }

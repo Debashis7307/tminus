@@ -1,91 +1,91 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "label": "ranked",
-  "generatedAt": "2026-11-24T04:16:37.014Z",
+  "generatedAt": "2026-11-25T03:01:32.738Z",
   "window": {
-    "from": "2026-11-22T18:30:00.000Z",
-    "to": "2026-11-23T18:30:00.000Z"
+    "from": "2026-11-23T18:30:00.000Z",
+    "to": "2026-11-24T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "Nvidia reinstates Jensen Huang as CEO",
+      "title": "India's space economy to touch $45 billion in a decade: Union Minister Jitendra Singh",
       "summary": null,
-      "source": "NHKニュース, The Indian Express",
+      "source": "News On AIR, DD India",
       "corroboration": 3,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZU8tMElGNDllYjI2S2plbmpJQUdDTDV6emZGRkpCOFlJcndtWDJSQlVsYncxRC1BSUVYbE8yTThudG9Na0Z6VHg1a2dSZkwwbTBicGJhd0laT05TeVI1bE9hMEZyaTFmMVhZdHM4Xzc0VEs2Q2JrSHJUTnhiazFWUU91RjFHV0NSX0w3Y3BDM0hUOTU2Tk1MQ3RsQVN3WFZCTnhPZks4aWFjVnM1Zl90aXZrYXdONUpMZUV0ZUE4SzVoUdIBwgFBVV95cUxQZU8tMElGNDllYjI2S2plbmpJQUdDTDV6emZGRkpCOFlJcndtWDJSQlVsYncxRC1BSUVYbE8yTThudG9Na0Z6VHg1a2dSZkwwbTBicGJhd0laT05TeVI1bE9hMEZyaTFmMVhZdHM4Xzc0VEs2Q2JrSHJUTnhiazFWUU91RjFHV0NSX0w3Y3BDM0hUOTU2Tk1MQ3RsQVN3WFZCTnhPZks4aWFjVnM1Zl90aXZrYXdONUpMZUV0ZUE4SzVoUQ?oc=5"
+    },
+    {
+      "title": "Data security startup Matters.AI raises ₹115 crore in pre-Series A round",
+      "summary": null,
+      "source": "Business Standard, Indian Startup Times",
+      "corroboration": 3,
+      "category": "tech",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYVo2Q2twSE5GM2NKU2hCbXBobmZYTmhkby0wc3J4YkRqdFEzSGs5a0VoZzI3ZGhZcmhHQTJJVDMybk9zaDZCQVVNRWFCdUdqRHcxb1NSRzdwR3YwNk5Zck1lZDZQVDI2X3E1d0REV2dQYUZrQkZ1SnVVT2RlWVdYQ3p5SHQ2MXJlRDhIclpnWVAzTnRGNDhzcThRZnc4SGhaVlZGUHRZakZSNXhGbEdjLTN0UkIxVHBwd1U3LUNvWEV6X3lPNkhVNUJWX0w4ek5Mc003c2h5bDdhY21oTXfSAeMBQVVfeXFMT0o3dV9mQTYzX1ducldaWXFNNTdhQnpXcGtYUkNaTzRLUGh5NXpNbi1pNktoWnctOVIyOGV3QXV5QUxuazN4MzZ6a3BzYjk4VEZYWlJDTXdtVzJaZFByNHhpZ3R5a2xnSnlpUkRxSnB5Uzloelk4U1otbVJzTDQ3OFlXV3oyYWZXdXJTMVRwWjNfVnBLMWV3azdWcmhVWFc0b2cwLTI0TWQ3djJPY1hIaE1uLThVTGRWUnZERXVTZTdra2gyaVBwcV9EMXV6dXNuZ004VVR1aDJ6RVMwR0dlWjFrUUU?oc=5"
+    },
+    {
+      "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/"
+    },
+    {
+      "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/"
+    },
+    {
+      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://news.ycombinator.com/item?id=50630809"
+    },
+    {
+      "title": "Explainer-Libya's Messy Frozen Conflict",
+      "summary": null,
+      "source": "U.S. News & World Report, Al-Monitor",
+      "corroboration": 2,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55TDVGZW0xdzA5NkRvZkxmMDdFemRzQm45UG4tV05CeUtZM0ZaU2JubjB3c3BXYUJhd0JmREJHZGZwLVhyd0dsV0VnTEZFQzNfRWxsUFFya1A4QnpEMHFoVWV4Zw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHgzNFprNmtBTDhVd1NQLVI0LXNWWWVwSTg3LWJoNEVHWUVabjViQV9ObTVsdGZPMnBUbWhzMHVPazZzZUJydS1XTlNMLXVud2dsSUEySEhYQjlHbF8tQldJWVl1N0JLemR2amNqemNDLThLdkxFWHpGeEJkZFZkRE9pUXh2T2gyenlUY0tneEtNNjJsVHFz?oc=5"
     },
     {
-      "title": "Kagi Mail (public beta)",
+      "title": "India seizes Nepal flood crisis to rebuild influence as China gains ground",
       "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "tech",
-      "url": "https://blog.kagi.com/kagi-mail-public-beta"
-    },
-    {
-      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
-      "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "tech",
-      "url": "https://twitter.com/ylecun/status/2124550037912920090"
-    },
-    {
-      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-      "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "ai",
-      "url": "https://z.ai/blog/glm-5.4"
-    },
-    {
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "summary": null,
-      "source": "Hacker News",
-      "corroboration": 1,
-      "category": "ai",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
-    },
-    {
-      "title": "India seeks to resolve dispute over Scotch tariffs after UK raises concerns",
-      "summary": null,
-      "source": "Reuters, Devdiscourse",
+      "source": "The China-Global South Project, Reuters",
       "corroboration": 2,
       "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTGM4TXVhYXh0d3JucXRvNU11U1lVTVhUX3VmeG0xUnpRTXkxVDZTdEZGdkxrUEdkUlY0Ty0xTVR1ckQ0NEhrUWNfRVBtSk8xRWlzN3VnT19EbVpqWFBLZFZzTVVwMDE4ZHZEcXY0X01jbV91OC10a1hLbHZPNHVnZktuR1lHOFk4OWhNYnhrank2ZVJteUx3YnN1Q1hLWXNCcjljcVJZTWR5OXI5MlhIMXBIWHI3QkpOWWtqSW9idHRiY085RlE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTnU2a1FSRUdHcUdRWFJ2anlnZU85a2paRkpEM29oZTdRbTlNWF8zc1R6cjlWYTBUU3BTTzVDRGczVl9IMjFFamdvRUVlVWpMNHBTTnBoc1VRLVcwb0ptTW5ZcUVqSWttZV9hYzBQMEVnN21USHp4MC1IVHZRSk9rV2ZocXZyUjJNZkstbDBxQm1CenRBYk5QTlJTbEF1WFpBZjlGOVF3NEJJckJlaEkzdTFPa2l1Z2c?oc=5"
     },
     {
-      "title": "14 Countries \"Acknowledge\" Ruling on Rohingya Genocide",
+      "title": "List of Outcomes: State visit of the Prime Minister of Nepal to India",
       "summary": null,
-      "source": "NDTV",
+      "source": "Ministry of External Affairs, NarendraModi.in",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcmQxQ1N2VnlRY1EzUzhqY1JDdnVtUzB2RHIxNThEZEFZSnk2Wml6ME94WVBBSDRnNWpUUk1Mbkp1R18zT0JrTHVETUxraGlSNDJYVXVHeEFyYjU3X1RqcF9OVkVVbHVIczVEd0JzTl9hMkszeW5rTjZMdWNxNTBydWFDLWwxR29QMUFJVi01VFhjbHFhWlZqRXpFZWppcXNpMFR0cTQyOFFlaWhFTXUzSnBkRldQdk5taE9XMFdhdm5iNXNGOHFZZ1Bfam9VZEdfVzVV?oc=5"
+    },
+    {
+      "title": "WHO Chief Calls on US to Lift Oil Blockade on Cuba, Citing Health Impact",
+      "summary": null,
+      "source": "U.S. News & World Report",
       "corroboration": 1,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUko0MUdqMkJqSlNFRXE0Q25VTENJQXRWQjF3UkNMbENsYWxVdXVwdU1SMUVDem5seTNGRnFnRHlPeWRkbHFHOHlkdkxGYzlqcUhKczcwWXlPSXRHVnJJa0JlOHVrUDhuNGw3cVRRZmllVTI4NkMxaF8tYTlHMVp1X1VJOVBCZno0c2NZZ0IwUUtPUGZkUXdQN9IBoAFBVV95cUxNUThqbVFITTNnSjBzamdWSjVNY3ZPMUJvcmcxNWxyUEdubUpwZVVEUEg0REZudUZza3ZSMm9CTk5lcVE0Q2FLS3YzTXY5am1sMnFQbTRBa0NJWDE1V1lkVWlWS1lHbE03RXJCMnhNSWhlWlVRZWJYMDV2OExQMWxjMzBZZ0pyRFAzbUE5aFBnMjdqZm12cXNZd1JERzdBeU5s?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNjVfZ0pDbWpJZkhGb1VDWmZkNGdseU1NOHUwLWk5QUNrYlhVb2lHU3hEQ1JpUm5fSzk3a0wybHd5LUpVLWRZamFKR1dWWE5ieFVjaVZrQldkd1hwYkFocEt3Ylh6OGNSTjlBTmg5M0NRWWc1aU1MLVpxVkwzUnhPUUU0a2dEMHl2UjRWTlF5T0paSktHazVjQlhNbG1ncTlNOUJ2S2YwSFIzbGJNa3JkVnBlLU13Q1hDaXp5YTV0NUxCVmc?oc=5"
     },
     {
-      "title": "Nepal’s Foreign Minister describes PM Balendra Shah’s India visit as a historic milestone",
+      "title": "UBC and National Research Council of Canada launch partnership to advance health innovation",
       "summary": null,
-      "source": "DD News",
-      "corroboration": 1,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRnFMNzR3UktJYkU3dFpJOUlIWDJRaHotajhKb2FLdzlLd1R6VjNQc0ZUNGRkVzdvX3lZUmdUOExKX2t0WEMwTktqblRhb2lUeldYbVJWUVUwck1zUFN6SlpFeHlxbzR6b1BnVV9INjRDeXJ6Mk1FWk9NbjBxS3NjbnZMWWx2ZFFQc2ZWYnd5djNITW5ZSF9lU1pwdEIwRUV2T2F0Z0NHQWk2eFRIZVJvNE9fYw?oc=5"
-    },
-    {
-      "title": "Hall of Inspiration at India International Trade Fair 2026 showcases innovations by around 600 Indian startups",
-      "summary": null,
-      "source": "News On AIR",
-      "corroboration": 1,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdU9tVGxiZ3pYMWo2WVlhVTF1ellKaW1qRkZFaXEycXVuVHpaaVF3OElGTDVJU0hFdDVyRDF4bjNTQS1EaXozTWNwSjVfa3FSQUpKc2ZmamRSZk42Q0pGSkR3YnRybVAzT1ZOczlLMnJyY2MxNFczWXhnSENxRUlPS1VTRlNpUUdRYVd6bTFkbG9jam1UdFBMRjBqb0Q3d241VjN6VnIxZlcxQ1Zvcy1PYzRTVlI4S2k4S3dVRVlvYmZ3alRfdTl0WTBQSFhCWEFJeHc?oc=5"
-    },
-    {
-      "title": "Robotic laboratory automates metal testing to accelerate materials discovery",
-      "summary": null,
-      "source": "Nanowerk",
+      "source": "UBC News",
       "corroboration": 1,
       "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EdWFRWDZUWFU1ZFBtbTloNmk5RDNEWEhvN0szYjhWYmFoUDdfWWxDTGpMLUpwUHRuMlhOSGw3V0oyeUNlU2p5Q3NsU2UtdmtySW5ZclZUdkVlaFU3QTVDY1BvcmJGdVk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb2lUY0x6MGc3a3I1bHNBbEd4Y20xbEQzSWkwZUtVZUVjenQ2a2p5bk1TdU05Q3lHMGwtSzZRRjQwWWs5Yzk5dWphTWo4QnVFZjhPWi1RTnNSTTgtbnhjZkFrNlMxd0ZvOTNmNE5UUVo1eU1LNHBGZlpRUFpSNHY5bFdXZHBycVZtTk9KMGJTaEhIOWdNbG5SbFc0WUZRLUdGeW1vbktTVUhhSUVkT2FLM2lvUmoyT3pDQVJNTw?oc=5"
     }
   ]
 }

@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-25",
+  "label": "ranked",
+  "generatedAt": "2026-11-26T02:11:35.199Z",
+  "window": {
+    "from": "2026-11-24T18:30:00.000Z",
+    "to": "2026-11-25T18:30:00.000Z"
+  },
+  "items": [
+    {
+      "title": "US proposes 25% tariff on India, 17% after trade deal",
+      "summary": null,
+      "source": "NDTV, The Indian Express",
+      "corroboration": 3,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa05uTjlDY0I1TDBVMldEYnBNZ2FnSDBwY2ZfdkVteHB4Y3hCUjNobl9wMlo0YkJTalM5eEJRc1FWWVZBdGcwcTY5Yzg3b2tHM01zRlBNdGtPV3RfLVdRT3dkTUsyUXgyLUh3ZVU5MFJzemQ1VDVnelVJMU5SZlJTUC10UG9DLWFDeDRuekR4UWpHSnJuV0RtcWx0TTZ2UWxsczhvdGNvejFlaFM5VzdpRzBhQXZIekcxcElENW1oVGJoajlKMTczN3BWS1IyZ0k1ZEtaX3dB0gHcAUFVX3lxTE5ub0VjN0tqaWszeHhvM1Y1TUZjbXJrQ0xlTFgxMmhnSkRkQnVpc2RBeS1zQ2NpRDRvdUx6aEg1QWxkT0tnOEYwTEc5U24tX2JBOUFMcHpqWExyd3ZUbWtYUXc3T09Ya0QwZ2U2Z0xtT2dkVWlNV3BiRVVjRlBob1hRWmR3OTRVcVhLMjk1QkstNXJwYlZIVFdGZjZrNzhMaGwzeXROQkR0ekRVaDl2NUtIU3JMeFJNekxNcUZqRXBKUmtHUTA0eUhFd0w2eXF5dTJRMVA4MVNWUVNDbzE?oc=5"
+    },
+    {
+      "title": "India-UK investment treaty talks stall, pact unlikely soon, officials say",
+      "summary": null,
+      "source": "Reuters, Business Standard",
+      "corroboration": 3,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGJVOWl3RGRjSEhobTUwN0VDcmxCQWV3LXNjVWN4WEhlQVlwOVlWcHlaZnJYZC1WNTdEUENGT21pNnJ3VVVPaE8yaXAteGx3VlA0M0xSRjFXU0xFcmZBNVkyX3N2c2g5d2NndGRGbHZFT2ZBYzh5RmJ6VGpISXB3X2F3Ujh3dkVsMEJTbGI2UWh4U2RFcFFzcmhuVDdQSzdMWDA2Qk5uS3BuZGFGNHE1RTB5SzJZRTRIajdB?oc=5"
+    },
+    {
+      "title": "1Password Security Incident",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident"
+    },
+    {
+      "title": "Investigating degraded experiences across GitHub products",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx"
+    },
+    {
+      "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F"
+    },
+    {
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/"
+    },
+    {
+      "title": "India’s space economy projected to reach $40-45 billion as private sector drives growth: Jitendra Singh",
+      "summary": null,
+      "source": "DD News, News On AIR",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbFp6c294TnhUakR4Z1lVVW1VS2txVDdLaGN4dUNXWEgwOF9QLU56REI4WmhvekFoTXN5YnNkOWM4TWNZNGE0UFVwdXR3Wk5Mb0l3NDJBMGxrbzM3YlIteno1RFZxZnVBRDl4T3RNd3FyN1VrbnR4dTlOajI5dzMtUEtpdXNHeWFMTU53SUdhai1iLVlQa201N3d1X3A4Zk1oUnhEcGhxTDl4Vi1rNXNDcHAwWlVhZ2JXMENtVnVPZUJ1M19U?oc=5"
+    },
+    {
+      "title": "Week of Nov 16 Evening News Ratings: NBC Nightly News Is Only Newscast with Gains",
+      "summary": null,
+      "source": "ADWEEK",
+      "corroboration": 1,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SclptSEJaZ3NMX0JfMWpkX2Vsa3l3WkNfOWg1endzcFplVGRXYzNsMndzWVFPaFdhT29tUVFMLTh3YmhDZEVLUy1tSy1heURfMmN5TmNhamEwOGNQN0ZjWEpjRkNfVWNYZU5GdFZKN2VtXzMwVDAxMmxNeUJRUQ?oc=5"
+    },
+    {
+      "title": "31 Killed, 15 Injured In Fire In Cairo's Densely Populated Area",
+      "summary": null,
+      "source": "NDTV",
+      "corroboration": 1,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVZJSnJTeXFqMWREUWJGNE13bHZJR1dILUZRRVNybXZ0UzVzQXM0VXJwYWNzbGkzOHlOMjQwemRSTFZvNmZ1LTA0OUxXZU14QTFlblhHTkZjbm45enNDajZSallMRUZpbUpRS1hiZV9zQThVYjhqMmRyS0llVVdTZm9EbF8yN0VtLUNFaHVadzVCZFlMOGfSAZ4BQVVfeXFMTjByX2dWX0tCZE1zdy1zeUlIdkp4YXlGYXBFMXI3UkUyUElJQzdQcTBQR2hvWFZQVjJZWjNiX1dCYTVXaWVJam1QVHMyaVZZQURrZ0RieGk0S2JNOS1jMzVLdWdHNW9jbGtvSkloRFdXTkY3RUhJVUw3ZUI5M1VoU19DN2c2aXRfLVdTcEZ5VF8yUE92X3pRVjRsRTI2M3c?oc=5"
+    },
+    {
+      "title": "Genesis Mission assembles Avengers to accelerate American science",
+      "summary": null,
+      "source": "Fermilab (.gov)",
+      "corroboration": 1,
+      "category": "science",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjlFbDF6ZGszVU5NanZtRHZYWktFSDRlbXpDczVBZEZ2QUcyVEhrcGYyU1hSX1cwN2xIVVhJam5VM1ZycGJsNFNvU2pvZzI3WEdMZG9Ia3ZieF96dUp6Yng2ZFVreGc1OUpKYU8xczZfYnhJV3BCMzZCRGhvUXBYWnMyMUtObk5VUDVMNVQ1SEhXdGFybmZKemlXNA?oc=5"
+    }
+  ]
+}

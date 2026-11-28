@@ -1,91 +1,91 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "label": "ranked",
-  "generatedAt": "2026-11-27T02:09:35.430Z",
+  "generatedAt": "2026-11-28T01:56:40.312Z",
   "window": {
-    "from": "2026-11-25T18:30:00.000Z",
-    "to": "2026-11-26T18:30:00.000Z"
+    "from": "2026-11-26T18:30:00.000Z",
+    "to": "2026-11-27T18:30:00.000Z"
   },
   "items": [
     {
-      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "title": "Adani group seeks government nod to invest in India’s airline sector",
+      "summary": null,
+      "source": "BusinessLine, TradingView",
+      "corroboration": 3,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWUZBcXlOM0lfVmJCNF8yREd0a01DWTJ6YTFIeENydER2OGg4U0twTHFoZnpVZEdUVE55RGxQTTJRRENpM0lHb0puTVZvZnRCWVJyc0xlSWNhOWR3cEI1VXdSR2V6Yy1YN3paSW1oLUZYSklsdVhmdkNNYkRPT3NLS29vRFpwdjRnNmJ5SHJzMkRiYWdWbjF2S1IxYXJaZjRfYU96TndPQmM5Z0IyTjNqTHlNYllyUVl4UTBYZzJzMGlsR1U?oc=5"
+    },
+    {
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "tech",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/"
+      "url": "https://github.com/convex/convex-backend-skill/issues/64"
     },
     {
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "tech",
-      "url": "https://github.com/antonpictures/youtube-punisher"
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer"
     },
     {
-      "title": "Tracking Diseases Cured by AI",
+      "title": "GPT 6.2 Astra solves a historical mystery",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://diseasescuredbyai.com/"
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
     },
     {
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "title": "Claude sabotaging ML research tasks?",
       "summary": null,
       "source": "Hacker News",
       "corroboration": 1,
       "category": "ai",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389"
     },
     {
-      "title": "India, UAE to accelerate joint development and production of next generation defence equipment",
+      "title": "Russian military flotilla bound for Libya turns around after warship sunk: Sources",
       "summary": null,
-      "source": "The Hindu, www.pib.gov.in",
+      "source": "Al Arabiya English, U.S. News & World Report",
       "corroboration": 2,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOT3RLMG9Tdy1qV3lpQ2JZaTl5YzQtalZLaWFDVFVROWNvZzF3R0NWWVpNaVFKZmRKcXhLZ2VpNjN5ekFBZVZrSWEtdC05Y0tCbl9JRHZDWkFrc0ZidV9DSWZRQVhROE4tdDFXMFIwOERNTS1mX2JvVE9zNjFveW1vT3N2VEt5Z1BFRVFoRGJ6bFhLVXJ0bzllOTluSmxNVkxDMDVhWUU3aUwweEJEWVpJWDlBdGRrTmdKMHVUTWMyREFqVGR0T00tYjV5MmJRNnFlNnVMNFo2ci1QQjNmQzZBM0VvcW5EcHPSAe4BQVVfeXFMTks5Wkxwc2VjeUY3a05Fb3ZGSUR5V1c0a1o1U3g5Yk5aLWZQT21yN3VYOHJITF8xX3BWc0UtbmRLelROVmc5eHU0QWRLS0tUZ3hvNElQOUNMb21jclZRQTd1MUhIUmRQNDB3ZUtoMVQzekl2YmZFSzhBU29HbGVsd2FpNmVfM0MtdzhvOXJrUmx1ZGxqSHoxZjdrVFQzeDZFcHl3N2xLR0FwbjBKLTg2dHEtbWl1TFBCZldweGFhTWlsdF9lcHdCak01RDFpTnprcFV4SHFNUl9lVnRXcWZ3aEZBMnpQdHRYMlJzeUp3Zw?oc=5"
-    },
-    {
-      "title": "Saviour or Devil, India Must Engage With AI: Industry, Government, and Global Experts at the Ahmedabad Dialogue Call for Impact Over Pilots",
-      "summary": null,
-      "source": "Press Trust of India, ANI News",
-      "corroboration": 2,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOcWNnQkRYM1loOTE4QndEYlMxUEpDQXVWSk04djlnQ3AtZjc5QlVXbE5naGZSdkk5WEtyZ3owUXg2NS11Q25hbmFpNGxxV251MVZFTW5JQjI2QlF5d1dXbzloOXhZMExaOENIT25qV0JWY0REeXlQemJsMGh5ZGZHS1ZMWkt6VnQxRE9OcnI3bmd3cVJVb3JJT2RYd0NWcGpLWUI2a1F6b0dEcXpFN0Y3VElXYzhuZzlUN05CV2FSaTVxSDUwR1pRb2dlcDVpZ1FXTEtkOWlIMlNVYkV0WkhVcFg2cW1LNGY1MmtIRm4zUkJ6RkNtcXFKRkJEV3MzNVU3T2NVR3FucUFOeVo5cC1B?oc=5"
-    },
-    {
-      "title": "India’s Bio-Economy Set to Reach 300 million Dollars by 2030; Dr. Jitendra Singh Urges Industry to Seize Opportunities in Next Biotechnology Revolution",
-      "summary": null,
-      "source": "www.pib.gov.in, Pharmabiz.com",
-      "corroboration": 2,
-      "category": "india",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10QWlmakxacFNTRmhJLUp3TzdwRjJFRFZuQWFuZ1NIRkpqVWxYRW9wdHBreUF3OHhMMi15ZkdINHJrcnViRnZDNERyZVE5c1VpOERZV3A1bVZRT1JMUmVTcWF1MEFlTnFTRXZaQk9QQXl0aGFadXdObGpNMUc?oc=5"
-    },
-    {
-      "title": "Witnesses contacted as US probe into World Cup sell-off plan intensifies",
-      "summary": null,
-      "source": "Sky News",
-      "corroboration": 1,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU21kMnpUTWhTQnFCU3ItdG4wSTN2Z1RXcGpWZTQzVm1nOGFjOGR2aThJQlRNZllfdWhEeEt1QXpWT0lzMUNiZUxCaU1YQTJnNUJZSC12NUpFdjZCemZjWlV4T0wwSW80ZlFRSzhtOEU2dHpWMDRHZlYwcmtkMWpQNG40bmxCeWNiNXpuUUFQSVdxblU0cXduNGtOWkdVN2lRQ2VaWmt2aHdPQzBx?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSGF1X0hpM0lnekRxbWFFTk1vdGMtZ2FTNXo2OE9qc3VvMUhibFRtX2JVekw4RXJWeWtxUVdUTjVDcGFtSFhHZ2sydkFLa2U3SENVNngzZmFtbEtVQS1nVkxtVGV2OV9VQjFtSGQwdlhycUpJbWlBOEhJRVJMT1FraU9nckxUeXRuNXRvUTJTbndmeWlldWhRakUtSlcwMGxLS3lWVnJLZm5LRnoyb1JMSnF6RnBNMnliR1pxNEx4enhwVkdSQVQ1RXhfNy1UUdIB0wFBVV95cUxPV1FYd1lJZG90bVd2Rk45OUNFTjE3M0o5dEFUZE1JX0FBelcyZXlPRTgxVkZuZ0pNQm1jdGxXSG9OYTFQQjVINjFBXzJZdWk1X0ZzV2R4Q2NDNHhaYjJkUHJfb244Q1kxaHdvWVVHY1pta3ctREFHREUxYTRMWk52NlY2TEdmSHVXSmRLRzdUYm5tMUQzMmZRSl9MNEJfUXpBNFJuMndyRmhScUFfS1RNWk1VM0NhbzRYRGlMdDhUeGcwM0YzWkF5b2RsWjJTUm1uRnZz?oc=5"
     },
     {
-      "title": "What are tariffs, how do they work and why is Trump using them?",
+      "title": "Centre Party Could Give Sweden a Government, but Far-Right Backing Stores up Trouble",
       "summary": null,
-      "source": "BBC",
-      "corroboration": 1,
+      "source": "U.S. News & World Report, Reuters",
+      "corroboration": 2,
       "category": "world",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBweHdveUp5S2F0aGJwSEs2U2lOMkF6NzRNZTd3bEJUdTQwVjhRX0pjZmFzZ25hRzk4MHE0WW9KVkEtUjIxRUNWbXRzX3pmd1A5UWhyaE5Ja1ZWdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZlliZzlsbmJzTlBUQ255c09sdmRhbjlzQ2lmRUVHWGRuU01tUlhvZnFfb3I0QjFMeWE5VWNTcEhBMzJGSldUX3RKTFJZSTJhREJQZ0h2MzJSemR5cTZsOFVqM3BlU3BaOTQyZktsLVpwQ3RzZGwwNXpJRjA2TmR4S0tSelV6SmZIclZ1VzBsV0VkeFEzZ21ENVFFQXlfcHdLU29GMGFpMkprb2IzY1BVM3VjdU1RYUxLNG5qbGRxQkxvd0ZWeW4tQU55b1JWUU9mZ3k4?oc=5"
     },
     {
-      "title": "Ancient Egyptian structure hidden beneath Nile mud detected from space",
+      "title": "Global fashion brands shift orders from Bangladesh to India amid unrest",
       "summary": null,
-      "source": "CNN",
-      "corroboration": 1,
+      "source": "Reuters, Business Standard",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ1V3SjhZLTNjUVRRVzJrRGVEV3A3S1ZUYzRQZ09TWXRqTU9XUVI1MEdONnFrd2cyWERYTlFlZUNWR1JTbktLWlZyQkVKMy1uQkQ3Wm03b244ZnVfcXVIVmc2Y0VKaHJRYjhndWZPdG1JendxTXJDWG9zbUNBNVJRNl92U2k3UGV3WGdjLUs4by1QbjRkUDJpbWpmMnNpRFc2X3RrTW85RGVoeTdpNWFkQVpvUVp2bWJTOGs4LUpSb09BNlZJeGM4cXlxbWpZTllROGfSAdcBQVVfeXFMT1d6T3g4WEVETFpEM0RkcVVjYUNiUXhlTk5RNFI0bVRwU3pKQ09oVFJOQ25lNmhOTFRQc2JWdHRlUTdLcGlPSEtEb3RTbTBWSy0zX3UyampCMjdJUlFXRnFUVXpxcTdFUG1NMk1MejdFT2JyNDRDWnY3ODhjTHpTbG5RaXFXVkNGekVUQy1UeVZRbjIzMjNickNGakdoRVA0ZjlPSl9Iazl3UlBjLWNOOTRqZzI1N3pMQzEzVGRqVnN1bWdocDdfYV9jQ1UwUjRZMk1iRXdSX3c?oc=5"
+    },
+    {
+      "title": "India's debt-to-GDP ratio projected to fall to 75.1% by 2031 amid rising global debt: EY report",
+      "summary": null,
+      "source": "ChiniMandi, ANI News",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbkhLZkxFTjQ0WXo2TUFKbGhVUS1DVWUyVVRUSlBqSGlkMERTUkVlWGEtMmNROFpxZm1RTnFobDZ3XzF2YzdSOTZnS2JkMFNHbEg5Nk5uTUFqSFRtbnpSa1p0WFZ3Q3Y3bEcwR2ZKNXQyUkVMTjdIQnRrbmF5Z2hmRHpTWGdEMmxXSXU1U0lGQS0wQzFCMnRWSXBIb2M0THRVY3ZsR0xmODNYWl96dGFYdVBkZWM5Y2Vud0xYYQ?oc=5"
+    },
+    {
+      "title": "India Moving Towards Becoming Global Hub for Innovative Drug Discovery: Jitendra Singh",
+      "summary": null,
+      "source": "www.pib.gov.in, DD India",
+      "corroboration": 2,
       "category": "science",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOHR2dVlYeEdGUldYeXdwbHBLV3Z2RmxTWWxjYzBLcno0bDR1UU9oN3VWTWtIVTF4QVFGOTJEVmFNM2xqb093Ni10ZE5UREpCRDB0czJLRGJHWXRMREJQRjNVdEE2Vm8wTkxXNUxrYmpqUS1GQ1cyM0RSb0F1SDk1TWo0ME1Nb29TYlUtT3JNUFU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNlpYN1FqblZzQW5YWXhHVEZYZ3pHOWFGNU5VZWJzNWMzRy1SZnBKdXhveEdEdDQwMThjWmFwNVc3VkpxRm9yWF9CUkljc3VEa2FzM0hjanI2X215QWRoLS03bTUwY3pJeEM1QU95UHBrQmUxblFyRkpsQ3diMVhoWXk5OExXbEtlRjBaemtyZk4tTXVKeTBBUWZqNEM5Qlp5MWhXMGd6dUt4SFl0ODFmZUFPb3VBVVU?oc=5"
     }
   ]
 }

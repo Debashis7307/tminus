@@ -1,0 +1,91 @@
+{
+  "date": "2026-11-27",
+  "label": "ranked",
+  "generatedAt": "2026-11-28T01:56:40.312Z",
+  "window": {
+    "from": "2026-11-26T18:30:00.000Z",
+    "to": "2026-11-27T18:30:00.000Z"
+  },
+  "items": [
+    {
+      "title": "Adani group seeks government nod to invest in India’s airline sector",
+      "summary": null,
+      "source": "BusinessLine, TradingView",
+      "corroboration": 3,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWUZBcXlOM0lfVmJCNF8yREd0a01DWTJ6YTFIeENydER2OGg4U0twTHFoZnpVZEdUVE55RGxQTTJRRENpM0lHb0puTVZvZnRCWVJyc0xlSWNhOWR3cEI1VXdSR2V6Yy1YN3paSW1oLUZYSklsdVhmdkNNYkRPT3NLS29vRFpwdjRnNmJ5SHJzMkRiYWdWbjF2S1IxYXJaZjRfYU96TndPQmM5Z0IyTjNqTHlNYllyUVl4UTBYZzJzMGlsR1U?oc=5"
+    },
+    {
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64"
+    },
+    {
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "tech",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer"
+    },
+    {
+      "title": "GPT 6.2 Astra solves a historical mystery",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
+    },
+    {
+      "title": "Claude sabotaging ML research tasks?",
+      "summary": null,
+      "source": "Hacker News",
+      "corroboration": 1,
+      "category": "ai",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389"
+    },
+    {
+      "title": "Russian military flotilla bound for Libya turns around after warship sunk: Sources",
+      "summary": null,
+      "source": "Al Arabiya English, U.S. News & World Report",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSGF1X0hpM0lnekRxbWFFTk1vdGMtZ2FTNXo2OE9qc3VvMUhibFRtX2JVekw4RXJWeWtxUVdUTjVDcGFtSFhHZ2sydkFLa2U3SENVNngzZmFtbEtVQS1nVkxtVGV2OV9VQjFtSGQwdlhycUpJbWlBOEhJRVJMT1FraU9nckxUeXRuNXRvUTJTbndmeWlldWhRakUtSlcwMGxLS3lWVnJLZm5LRnoyb1JMSnF6RnBNMnliR1pxNEx4enhwVkdSQVQ1RXhfNy1UUdIB0wFBVV95cUxPV1FYd1lJZG90bVd2Rk45OUNFTjE3M0o5dEFUZE1JX0FBelcyZXlPRTgxVkZuZ0pNQm1jdGxXSG9OYTFQQjVINjFBXzJZdWk1X0ZzV2R4Q2NDNHhaYjJkUHJfb244Q1kxaHdvWVVHY1pta3ctREFHREUxYTRMWk52NlY2TEdmSHVXSmRLRzdUYm5tMUQzMmZRSl9MNEJfUXpBNFJuMndyRmhScUFfS1RNWk1VM0NhbzRYRGlMdDhUeGcwM0YzWkF5b2RsWjJTUm1uRnZz?oc=5"
+    },
+    {
+      "title": "Centre Party Could Give Sweden a Government, but Far-Right Backing Stores up Trouble",
+      "summary": null,
+      "source": "U.S. News & World Report, Reuters",
+      "corroboration": 2,
+      "category": "world",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZlliZzlsbmJzTlBUQ255c09sdmRhbjlzQ2lmRUVHWGRuU01tUlhvZnFfb3I0QjFMeWE5VWNTcEhBMzJGSldUX3RKTFJZSTJhREJQZ0h2MzJSemR5cTZsOFVqM3BlU3BaOTQyZktsLVpwQ3RzZGwwNXpJRjA2TmR4S0tSelV6SmZIclZ1VzBsV0VkeFEzZ21ENVFFQXlfcHdLU29GMGFpMkprb2IzY1BVM3VjdU1RYUxLNG5qbGRxQkxvd0ZWeW4tQU55b1JWUU9mZ3k4?oc=5"
+    },
+    {
+      "title": "Global fashion brands shift orders from Bangladesh to India amid unrest",
+      "summary": null,
+      "source": "Reuters, Business Standard",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ1V3SjhZLTNjUVRRVzJrRGVEV3A3S1ZUYzRQZ09TWXRqTU9XUVI1MEdONnFrd2cyWERYTlFlZUNWR1JTbktLWlZyQkVKMy1uQkQ3Wm03b244ZnVfcXVIVmc2Y0VKaHJRYjhndWZPdG1JendxTXJDWG9zbUNBNVJRNl92U2k3UGV3WGdjLUs4by1QbjRkUDJpbWpmMnNpRFc2X3RrTW85RGVoeTdpNWFkQVpvUVp2bWJTOGs4LUpSb09BNlZJeGM4cXlxbWpZTllROGfSAdcBQVVfeXFMT1d6T3g4WEVETFpEM0RkcVVjYUNiUXhlTk5RNFI0bVRwU3pKQ09oVFJOQ25lNmhOTFRQc2JWdHRlUTdLcGlPSEtEb3RTbTBWSy0zX3UyampCMjdJUlFXRnFUVXpxcTdFUG1NMk1MejdFT2JyNDRDWnY3ODhjTHpTbG5RaXFXVkNGekVUQy1UeVZRbjIzMjNickNGakdoRVA0ZjlPSl9Iazl3UlBjLWNOOTRqZzI1N3pMQzEzVGRqVnN1bWdocDdfYV9jQ1UwUjRZMk1iRXdSX3c?oc=5"
+    },
+    {
+      "title": "India's debt-to-GDP ratio projected to fall to 75.1% by 2031 amid rising global debt: EY report",
+      "summary": null,
+      "source": "ChiniMandi, ANI News",
+      "corroboration": 2,
+      "category": "india",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbkhLZkxFTjQ0WXo2TUFKbGhVUS1DVWUyVVRUSlBqSGlkMERTUkVlWGEtMmNROFpxZm1RTnFobDZ3XzF2YzdSOTZnS2JkMFNHbEg5Nk5uTUFqSFRtbnpSa1p0WFZ3Q3Y3bEcwR2ZKNXQyUkVMTjdIQnRrbmF5Z2hmRHpTWGdEMmxXSXU1U0lGQS0wQzFCMnRWSXBIb2M0THRVY3ZsR0xmODNYWl96dGFYdVBkZWM5Y2Vud0xYYQ?oc=5"
+    },
+    {
+      "title": "India Moving Towards Becoming Global Hub for Innovative Drug Discovery: Jitendra Singh",
+      "summary": null,
+      "source": "www.pib.gov.in, DD India",
+      "corroboration": 2,
+      "category": "science",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNlpYN1FqblZzQW5YWXhHVEZYZ3pHOWFGNU5VZWJzNWMzRy1SZnBKdXhveEdEdDQwMThjWmFwNVc3VkpxRm9yWF9CUkljc3VEa2FzM0hjanI2X215QWRoLS03bTUwY3pJeEM1QU95UHBrQmUxblFyRkpsQ3diMVhoWXk5OExXbEtlRjBaemtyZk4tTXVKeTBBUWZqNEM5Qlp5MWhXMGd6dUt4SFl0ODFmZUFPb3VBVVU?oc=5"
+    }
+  ]
+}
